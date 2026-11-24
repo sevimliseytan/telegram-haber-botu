@@ -29,16 +29,15 @@ import requests
 # ------------------------------------------------------------------ KAYNAKLAR
 # Kaynak eklemek/cikarmak icin bu listeyi duzenle. Basina # koyulan satir kapali olur.
 SOURCES = [
-    # Son dakika
-    {"ad": "TRT Haber", "url": "https://www.trthaber.com/sondakika_articles.rss"},
-    # Tum kategoriler (gundem, siyaset, ekonomi, spor, dunya...)
-    {"ad": "Anadolu Ajansı", "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel"},
-    {"ad": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/all/news"},
-    {"ad": "Habertürk", "url": "https://www.haberturk.com/rss"},
+    {"ad": "Haber7 Son Dakika", "url": "http://sondakika.haber7.com/sondakika.rss"},
     {"ad": "Ensonhaber", "url": "https://www.ensonhaber.com/rss/ensonhaber.xml"},
-    {"ad": "Sözcü", "url": "https://www.sozcu.com.tr/feeds-son-dakika"},
-    {"ad": "NTV", "url": "https://www.ntv.com.tr/gundem.rss"},
-    {"ad": "Haber7", "url": "https://i12.haber7.net/sondakika/newsstand/latest.xml"},
+    {"ad": "Ensonhaber Gündem", "url": "https://www.ensonhaber.com/rss/gundem.xml"},
+    {"ad": "Ensonhaber Politika", "url": "https://www.ensonhaber.com/rss/politika.xml"},
+    {"ad": "Ensonhaber Ekonomi", "url": "https://www.ensonhaber.com/rss/ekonomi.xml"},
+    {"ad": "Ensonhaber Magazin", "url": "https://www.ensonhaber.com/rss/magazin.xml"},
+    {"ad": "Ensonhaber 3. Sayfa", "url": "https://www.ensonhaber.com/rss/3-sayfa.xml"},
+    {"ad": "Ensonhaber Spor", "url": "https://www.ensonhaber.com/rss/kralspor.xml"},
+    {"ad": "Ensonhaber Medya", "url": "https://www.ensonhaber.com/rss/medya.xml"},
 ]
 
 MAX_PER_SOURCE_PER_RUN = 15   # bot uzun sure kapali kalirsa kanal haberle dolmasin
@@ -194,11 +193,9 @@ def build_caption(item, source_name):
     if summary and norm_title(summary).startswith(norm_title(item["title"])):
         summary = summary[len(item["title"]):].strip()
     summary = html.escape(shorten(summary, SUMMARY_CHARS), quote=False) if summary else ""
-    link = html.escape(item["link"], quote=True)
     parts = [f"<b>{title}</b>"]
     if summary:
         parts.append(summary)
-    parts.append(f'<a href="{link}">Kaynak: {html.escape(source_name, quote=False)}</a>')
     return "\n\n".join(parts)
 
 
@@ -228,7 +225,7 @@ def send(item, source_name):
         except RuntimeError as e:
             print(f"Gorsel gonderilemedi, metin olarak atiliyor: {e}")
     tg("sendMessage", {"chat_id": TG_CHAT, "text": caption, "parse_mode": "HTML",
-                       "disable_web_page_preview": False})
+                       "disable_web_page_preview": True})
 
 
 # ------------------------------------------------------------------ ana akis
