@@ -39,14 +39,8 @@ SOURCES = [
     {"ad": "Ensonhaber Spor", "url": "https://www.ensonhaber.com/rss/kralspor.xml"},
     {"ad": "Ensonhaber Medya", "url": "https://www.ensonhaber.com/rss/medya.xml"},
     {"ad": "Mynet Magazin", "url": "https://www.mynet.com/magazin/rss"},
-    {"ad": "Mynet Sinema", "url": "http://sinema.mynet.com/rss/RSS-enyeniler/rss.xml"},
-    {"ad": "Bigpara", "url": "http://bigpara.hurriyet.com.tr/rss/"},
-    {"ad": "Ekoseyir Piyasalar", "url": "http://www.ekoseyir.com/rss/piyasalar/248.xml"},
-    {"ad": "Mynet Yurt Haber", "url": "http://yurthaber.mynet.com/rss/kategori/ana/rss.xml"},
     {"ad": "Sputnik", "url": "https://tr.sputniknews.com/export/rss2/archive/index.xml"},
     {"ad": "Turkiye Haber Ajansi", "url": "http://www.turkiyehaberajansi.com/rss.xml"},
-    {"ad": "Internethaber", "url": "http://www.internethaber.com/rss"},
-    {"ad": "Finansgundem", "url": "http://www.finansgundem.com/rss"},
 ]
 
 MAX_PER_SOURCE_PER_RUN = 15   # bot uzun sure kapali kalirsa kanal haberle dolmasin
