@@ -28,7 +28,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          DRY_RUN: "1"            # GECICI: bu tur sadece isaretler, gondermez
           ANAHTAR_KELIMELER: ""   # ornek: "son dakika,Balıkesir"  (bos = tum haberler)
         run: python bot.py
 
