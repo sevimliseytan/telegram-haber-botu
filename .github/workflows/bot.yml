@@ -28,6 +28,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DRY_RUN: "1"            # GECICI: bu tur sadece isaretler, gondermez
           ANAHTAR_KELIMELER: ""   # ornek: "son dakika,Balıkesir"  (bos = tum haberler)
         run: python bot.py
 
@@ -37,4 +38,10 @@ jobs:
           git config user.name "telegram-bot"
           git config user.email "telegram-bot@users.noreply.github.com"
           git add state.json || true
-          git diff --cached --quiet || (git commit -m "Son haber durumu guncellendi" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Son haber durumu guncellendi"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
