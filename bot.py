@@ -35,6 +35,10 @@ SOURCES = [
     {"ad": "Anadolu Ajansı", "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel"},
     {"ad": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/all/news"},
     {"ad": "Habertürk", "url": "https://www.haberturk.com/rss"},
+    {"ad": "Ensonhaber", "url": "https://www.ensonhaber.com/rss/ensonhaber.xml"},
+    {"ad": "Sözcü", "url": "https://www.sozcu.com.tr/feeds-son-dakika"},
+    {"ad": "NTV", "url": "https://www.ntv.com.tr/gundem.rss"},
+    {"ad": "Haber7", "url": "https://i12.haber7.net/sondakika/newsstand/latest.xml"},
 ]
 
 MAX_PER_SOURCE_PER_RUN = 15   # bot uzun sure kapali kalirsa kanal haberle dolmasin
