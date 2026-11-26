@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/serap-belovacikli-sozcu-tv-ekranlarinda-ana-haberi-sunacak-h1585437",
-   "https://www.ensonhaber.com/tek-tapu-tarla-nasil-bolunur-1-kisi-hayir-derse-ne-olur-mahkeme-bakin-ne-yapiyor-h1585438",
    "https://www.ensonhaber.com/vanda-yakalanan-afganistanli-duzensiz-gocmenler-ulkelerine-geri-gonderildi-h1585439",
    "https://www.ensonhaber.com/yabanci-yatirimcinin-gozu-yeniden-turkiyeye-cevrildi-h1585440",
    "https://www.ensonhaber.com/yazarlar/serkan-kalemciler/kandil-hakurk-metina-zap-gara-avasin-basyan-sinat-haftanin",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kayip-olarak-aranirken-ormanda-cesedi-bulundu-h1585929",
    "https://www.ensonhaber.com/canakkalede-kazada-olen-uzman-cavus-son-yolculuguna-ugurlandi-h1585930",
    "https://www.ensonhaber.com/goz-enfeksiyonu-sandi-gercek-bambaska-cikti-goz-kapaginda-dort-tane-bulundu-h1585931",
-   "https://www.ensonhaber.com/aydinda-uzerinde-sentetik-ecza-ile-yakalanan-kadin-tutuklandi-h1585932"
+   "https://www.ensonhaber.com/aydinda-uzerinde-sentetik-ecza-ile-yakalanan-kadin-tutuklandi-h1585932",
+   "https://www.ensonhaber.com/ankarada-bir-ailenin-ev-hayali-temelde-kaldi-50-gunde-teslim-sozuyle-700-bin-lira-dolandir-h1585933",
+   "https://www.ensonhaber.com/olmaz-demeyin-kokusuyla-ikna-ediyor-kofte-harcina-tarcin-ilavesi-h1585934"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679630-yasal-zorbaliga-son-verilmelidir-ihtarsiz-ve-suresiz-iicra-ve-unuttugumuz-merhamet",
    "https://www.haber7.com/guncel/haber/3679631-izmirde-bir-evden-187-tarihi-eser-cikti",
    "https://www.haber7.com/dunya/haber/3679632-huangin-skandal-donusu-ve-nvidianin-ikiyuzlugu",
    "https://www.haber7.com/dunya/haber/3679633-israile-kotu-haber-bircok-silah-anlasmasi-yapmislardi-ticareti-kesiyorlar",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680099-yildiz-holding-ve-halka-acik-sirketleri-yatirimci-ve-analistlerle-bir-araya-geldi",
    "https://www.haber7.com/dunya/haber/3680100-libya-anlasmasi-resmilesti-yunan-basinindan-atina-icin-hezimet-itirafi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679971-turkiyenin-savas-gemilerine-son-savunma-kalkani-ortaya-cikti",
-   "https://spor.haber7.com/futbol/haber/3680101-fifa-siber-saldiriya-ugradi-hackerlar-12-gb-veri-caldiklarini-iddia-etti"
+   "https://spor.haber7.com/futbol/haber/3680101-fifa-siber-saldiriya-ugradi-hackerlar-12-gb-veri-caldiklarini-iddia-etti",
+   "https://www.haber7.com/dunya/haber/3680102-turkiye-ve-suudi-arabistandan-savunma-imzasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2148,10 +2148,6 @@
   ]
  },
  "recent_titles": [
-  "arjantin finale çıktı maç sonu falkland adaları pankartı olay oldu",
-  "lionel messi ingiltereyi rekorlarla yıktı",
-  "okan buruktan icardi açıklaması seni çok seviyoruz kral",
-  "arjantin ingiltereyi mağlup ederek finale yükseldi",
   "galatasaraydan mauro icardiye veda böyle bir aşk unutulmaz",
   "galatasaray lesley ugochukwuyu kiralık olarak kadrosuna kattı",
   "leandro trossard imzayı attı beşiktaşa maliyeti de belli oldu",
@@ -3647,6 +3643,10 @@
   "fifa siber saldırıya uğradı hackerlar 12 gb veri çaldıklarını iddia etti",
   "aydında üzerinde sentetik ecza ile yakalanan kadın tutuklandı",
   "ankarada bir ailenin ev hayali temelde kaldı 50 günde teslim sözüyle 700 bin lira dolandırıldılar",
-  "emekli polislere evlerinde vefa ziyareti"
+  "emekli polislere evlerinde vefa ziyareti",
+  "türkiye ve suudi arabistandan savunma imzası",
+  "olmaz demeyin kokusuyla ikna ediyor köfte harcına tarçın ilavesi",
+  "amed sportif faaliyetler mbaye diagne ile yolları ayırdı",
+  "rockets alperen şengünün tripledouble yaptığı maçta sunsı yendi"
  ]
 }
