@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679681-son-dakika-60-ilde-dev-operasyon-280-kisi-yakalandi",
    "https://spor.haber7.com/spor/haber/3679679-nihat-kahveci-unai-emeryin-mac-sonu-sozlerine-ispanyolca-cevap-verdi-adios-hocam",
    "https://spor.haber7.com/galatasaray/haber/3679682-israilin-sikayeti-sonrasi-uefa-konustu-filistin-pankartlari-icin-karar-belli-oldu",
    "https://spor.haber7.com/avrupa-ligleri/haber/3679683-fenerbahce-macina-saatler-kala-arda-turan-icin-ayrilik-iddiasi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680146-besiktas-hapoel-beer-sheva-macinda-ortalik-karisti",
    "https://spor.haber7.com/super-lig/haber/3680147-trabzonspor-ve-erzurumspordan-besiktasa-destek-orantisiz-mudahaleyi-siddetle-kiniyoruz",
    "https://www.haber7.com/guncel/haber/3680148-mhpli-buyukatamandan-turkiyeyi-hedef-alan-yunan-vekile-ayar-cehaletini-ifsa-etti",
-   "https://spor.haber7.com/super-lig/haber/3680147-super-lig-ekiplerinden-besiktasa-destek-paylasimlari-orantisiz-mudahaleyi-kiniyoruz"
+   "https://spor.haber7.com/super-lig/haber/3680147-super-lig-ekiplerinden-besiktasa-destek-paylasimlari-orantisiz-mudahaleyi-kiniyoruz",
+   "https://spor.haber7.com/besiktas/haber/3680149-ak-parti-sozcusu-omer-celikten-besiktas-taraftarlarina-yapilan-mudahaleye-sert-tepki"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2136,7 +2136,8 @@
    "https://anlatilaninotesi.com.tr/20261126/sozcu-sorusturmasinda-sicak-gelisme-patron-basvurdu-1110621234.html",
    "https://anlatilaninotesi.com.tr/20261126/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isime-tutuklama-talebi-1110621600.html",
    "https://anlatilaninotesi.com.tr/20261126/putin-rusyanin-arktik-kalkinma-ve-guvenlik-stratejisini-onayladi-1110621799.html",
-   "https://anlatilaninotesi.com.tr/20261126/besiktas-hapoel-beer-sheva-maci-durdu-1110622152.html"
+   "https://anlatilaninotesi.com.tr/20261126/besiktas-hapoel-beer-sheva-maci-durdu-1110622152.html",
+   "https://anlatilaninotesi.com.tr/20261126/almanyadan-ukraynaya-catismanin-yayilmamasi-uyarisi-1110622793.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2166,9 +2167,6 @@
   ]
  },
  "recent_titles": [
-  "büşra develi nereli celal şengör o fransız türk değil demiş gen testi yaptırdı",
-  "melisa döngel mekanda kavga etti sinirini muhabirlerden çıkardı",
-  "aleyna tilkiden iddialı kombin yorumlar gecikmedi",
   "onur büyüktopçu nasıl zayıfladı yalan söyledim diyerek itiraf etti",
   "eşref rüya neden bitti büşra develiden fatih altaylıya net yanıt",
   "sydney sweeneyden yılbaşı öncesi olay yaratan pozlar",
@@ -3665,6 +3663,9 @@
   "mhpli büyükatamandan türkiyeyi hedef alan yunan vekile ayar cehaletini ifşa etti",
   "beşiktaşlı taraftarlardan işgale isyan filistine özgürlük pankartı",
   "süper lig ekiplerinden beşiktaşa destek paylaşımları orantısız müdahaleyi kınıyoruz",
-  "cska sofya  trabzonspor maçının ilk 11leri"
+  "cska sofya  trabzonspor maçının ilk 11leri",
+  "ak parti sözcüsü ömer çelikten beşiktaş taraftarlarına yapılan müdahaleye sert tepki",
+  "kredi kısıtlamalarının esnetilmesi müteahhitlere umut oldu",
+  "almanyadan ukraynaya çatışmanın yayılmaması uyarısı"
  ]
 }
