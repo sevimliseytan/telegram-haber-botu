@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/uzmanlar-uyardi-ekran-bagimliligi-cildin-yaslanmasini-ve-lekelenmeyi-hizlandirabiliyor-h1585471",
    "https://www.ensonhaber.com/eski-tff-baskani-mehmet-buyukeksi-galatasaray-macinda-goruntulendi-h1585472",
    "https://www.ensonhaber.com/kombideki-es-gecilen-ayar-herkes-ayni-dereceye-getiriyor-h1585473",
    "https://www.ensonhaber.com/ukrayna-savasinda-490-binden-fazla-rus-askeri-hayatini-kaybetti-h1585474",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/turkiye-olimpiyat-ev-sahipligi-vizyonunu-iocye-sundu-h1585964",
    "https://www.ensonhaber.com/mehmet-simsek-fon-sorusturmasinda-alinan-tedbirleri-siraladi-h1585965",
    "https://www.ensonhaber.com/akin-gurlek-fon-sorusturmasindaki-son-durumu-acikladi-h1585966",
-   "https://www.ensonhaber.com/turk-taraftarlar-besiktasa-destek-oldu-h1585967"
+   "https://www.ensonhaber.com/turk-taraftarlar-besiktasa-destek-oldu-h1585967",
+   "https://www.ensonhaber.com/gurcistan-polisinden-besiktas-taraftarina-olay-mudahale-h1585968"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679670-trumptan-yeni-vergi-hamlesi-16-ulke-ve-ab-hedefte",
    "https://www.haber7.com/guncel/haber/3679669-imamoglunun-diplomasi-hakkinda-flas-karar",
    "https://www.haber7.com/dunya/haber/3679671-kazakistanda-okulda-korkuluk-kazasi-11-yasindaki-ogrenci-yasamini-yitirdi",
    "https://www.haber7.com/guncel/haber/3679672-valilik-alinan-karari-duyurdu-taksimde-metro-ve-funikuler-hatti-kapatildi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680134-israilde-tarihi-gelisme-netanyahu-devri-sona-eriyor-muhalefet-partileri-resmen-duyurdu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680135-borsada-yapay-zeka-donemi-basliyor-manipulasyon-aninda-tespit-edilecek",
    "https://spor.haber7.com/diger-branslar/haber/3680136-bursali-sporcular-avrupayi-salladi-9-madalya-ile-donduler",
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680137-sampiyonlar-liginde-haftanin-11i-belli-oldu"
+   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680137-sampiyonlar-liginde-haftanin-11i-belli-oldu",
+   "https://www.haber7.com/guncel/haber/3680138-cumhurbaskani-yardimcisi-yilmazdan-son-dakika-secim-aciklamasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2161,9 +2161,6 @@
   ]
  },
  "recent_titles": [
-  "kobra murat nişanda 1 tomar doları cebinden çıkarıp saçtı",
-  "kim milyoner olmak isterde cumhurbaşkanı sorusu 1 milyon tlden oldu",
-  "asena özçetin trafik kazasında hayatını kaybetti",
   "cemre baysel iddialı elbisesiyle sere serpe uzandı emirhan şanslı",
   "uzak şehirin başrolleri new yorkta sinem ünsal iddialı tarzı olay oldu",
   "derya uluğdan geleneksel kına bindallı giyip eline kına yaktı",
@@ -3660,6 +3657,9 @@
   "şampiyonlar liginde haftanın 11i belli oldu",
   "trump rutteyi putinle yaptığım görüşmesinin sonuçları hakkında bilgilendirdim",
   "türk taraftarlar beşiktaşa destek oldu",
-  "gürcistan polisinden beşiktaş taraftarına olay müdahale"
+  "gürcistan polisinden beşiktaş taraftarına olay müdahale",
+  "cumhurbaşkanı yardımcısı yılmazdan son dakika seçim açıklaması",
+  "gürcistan polisi haddini aştı filistin bayrağı açan taraftara müdahale",
+  "dursun özbek düğmeye bastı gsaray devler liginin flaş takımı ile iş birliği yapacak"
  ]
 }
