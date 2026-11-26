@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/motorine-indirim-yolda-91629-h1585422",
    "https://www.ensonhaber.com/dunya-borsalarinda-satis-baskisi-gozler-abd-verilerinde-h1585423",
    "https://www.ensonhaber.com/demet-akalin-izmite-gitti-bisikleti-kirilan-kucuk-kiza-yeni-bisiklet-aldi-h1585424",
    "https://www.ensonhaber.com/turk-mobilya-devi-devrediyor-butun-hisseleri-satisa-cikarildi-h1585425",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/hikmet-cetinin-cenazesi-ankaraya-ugurlandi-h1585914",
    "https://www.ensonhaber.com/mersinde-hasemali-kadini-havuza-almayan-site-yoneticisi-ve-gorevlisine-hapis-ve-tahliye-h1585915",
    "https://www.ensonhaber.com/betimar-arastirmadan-secim-anketi-ak-parti-fark-atti-24546-h1585916",
-   "https://www.ensonhaber.com/sile-belediyesi-davasinda-ara-karar-cikti-h1585917"
+   "https://www.ensonhaber.com/sile-belediyesi-davasinda-ara-karar-cikti-h1585917",
+   "https://www.ensonhaber.com/boluda-eczanede-heimlich-manevrasi-kamerada-h1585918"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,13 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679595-ingilterede-asiri-sicaklar-5-bin-258-can-aldi",
-   "https://www.haber7.com/guncel/haber/3679596-ucurumdan-yuvarlanan-atv-surucusu-6-saatlik-calismayla-kurtarildi",
-   "https://www.haber7.com/guncel/haber/3679597-kaza-yaptilar-otomobili-yol-ortasinda-birakip-gittiler",
-   "https://www.haber7.com/dunya/haber/3679598-prens-williamin-evinde-hirsizlik-alarmi-gozaltina-alindilar",
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679533-yapay-zeka-sampiyonlar-liginde-tarihe-gececek-macin-sonucunu-acikladi-fbahce-kazanir",
-   "https://www.haber7.com/guncel/haber/3679599-freni-bosalan-kiremit-yuklu-tir-bahce-duvarini-yikarak-durabildi",
-   "https://www.haber7.com/guncel/haber/3679600-polis-aracina-carpip-kacan-surucuye-650-bin-tl-ceza",
    "https://www.haber7.com/dunya/haber/3679601-korfezde-sicak-saatler-devrim-muhafizlari-duyurdu-iki-petrol-tankeri-alev-aldi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679602-altin-fiyatlarinda-dusus-suruyor",
    "https://www.haber7.com/seyahat/haber/3679609-edirnede-1200-donumluk-tarihi-donusum-sarayda-restorasyon-heyecani",
@@ -1391,7 +1384,14 @@
    "https://www.haber7.com/guncel/haber/3680081-yeni-partili-belediyede-heykel-mesaisi-dedikoducu-kadinlar-yeniden-sokaklarda",
    "https://www.haber7.com/dunya/haber/3680082-fas-ve-israil-anlasti-ortak-askeri-eylem-plani-yapacaklar",
    "https://ekonomi.haber7.com/ekonomi/haber/3680083-kpss-adaylarina-mujde-buro-memuru-aliminda-one-cikan-iller-belli-oldu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680087-kuresel-sermayenin-yeni-rotasi-erzurum-palandoken-ekonomi-forumu-basliyor"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680087-kuresel-sermayenin-yeni-rotasi-erzurum-palandoken-ekonomi-forumu-basliyor",
+   "https://www.haber7.com/guncel/haber/3680053-iddia-suresiz-nafaka-duzenlemesinde-hakime-genis-yetki-taninacak",
+   "https://www.haber7.com/guncel/haber/3680080-secimleri-bilen-sirketin-yayimladi-son-anket-sonuclarinda-carpici-taplo",
+   "https://www.haber7.com/dunya/haber/3680076-son-dakika-kuveytte-kritik-tesise-iha-saldirisi-erken-uyari-sistemi-devreye-girdi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680084-12-dunya-helal-zirvesi-ve-helal-expo-uluslararasi-ticaret-fuarinin-ikinci-gunu-sona-erdi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680085-en-cok-borcu-olan-40-futbol-takimi-belli-oldu-ilk-5te-turk-devi-var",
+   "https://www.haber7.com/guncel/haber/3680086-yok-duyurdu-kayit-yaptiramayan-ogrenciler-icin-af-karari",
+   "https://www.haber7.com/ulkede-bugun/haber/3680088-konyada-cesmede-su-dolduran-yasli-kadin-defalarca-bicaklandi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2141,9 +2141,6 @@
   ]
  },
  "recent_titles": [
-  "antalyada ilişkiye girdiği kadını öldüren şüpheliye müebbet hapis",
-  "iğdırda kadınlar saç saça kavga etti",
-  "istanbulda yaşlı adama yönelik silahlı saldırı anı kameraya yansıdı",
   "istanbulda 3 ilçede uyuşturucu operasyonu 4 gözaltı",
   "istanbulda iki kamyonet makas atarak yarıştı 277 bin 662 lira para cezası",
   "elazığda 18 yaşındaki genç asansör boşluğuna düştü",
@@ -3640,6 +3637,9 @@
   "küresel sermayenin yeni rotası erzurum palandöken ekonomi forumu başlıyor",
   "seçimleri bilen şirketin yayımladı son anket sonuçlarında çarpıcı taplo",
   "en çok borcu olan 40 futbol takımı belli oldu ilk 5te türk devi var",
-  "yök duyurdu kayıt yaptıramayan öğrenciler için af kararı"
+  "yök duyurdu kayıt yaptıramayan öğrenciler için af kararı",
+  "konyada çeşmede su dolduran yaşlı kadın defalarca bıçaklandı",
+  "süper lig ekibi transfer yasağını kaldırdı",
+  "boluda eczanede heimlich manevrası kamerada"
  ]
 }
