@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/galatasaray-sahasinda-ingilizlere-gecit-vermiyor-h1585362",
-   "https://www.ensonhaber.com/deniz-gul-sampiyonlar-liginde-ilk-golunu-atti-h1585361",
    "https://www.ensonhaber.com/izmirde-musteri-gibi-girip-30-bin-liralik-gozluk-calan-kadin-yakalandi-h1585359",
    "https://www.ensonhaber.com/galatasaray-aston-villa-macinin-ilk-11leri-h1585329",
    "https://www.ensonhaber.com/galatasaray-aston-villa-macinda-da-filistine-destek-oldu-h1585358",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/orkinos-ihracatinda-japonya-ilk-sirada-h1585844",
    "https://www.ensonhaber.com/mersinde-kurtlarin-agila-girmesinin-ardindan-kaybolan-90-keci-5-gundur-araniyor-h1585845",
    "https://www.ensonhaber.com/chpli-gursel-eroldan-murat-kuruma-cop31-tesekkuru-sorun-cop31in-tuzugu-h1585846",
-   "https://www.ensonhaber.com/kemal-kilicdaroglu-devlet-bahceliyi-ziyaret-edecek-h1585847"
+   "https://www.ensonhaber.com/kemal-kilicdaroglu-devlet-bahceliyi-ziyaret-edecek-h1585847",
+   "https://www.ensonhaber.com/eren-kacikcinin-otopsi-raporu-ortaya-cikti-h1585848",
+   "https://www.ensonhaber.com/ozlem-yildiz-oglu-demir-ile-dugunde-son-hali-gundem-oldu-h1585849"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/galatasaray/haber/3679553-israil-uefaya-sikayet-etmisti-galatasaray-geri-adim-atmadi-filistin-destegi-surdu",
    "https://spor.haber7.com/spor/haber/3679443-bilek-guresinde-tarih-anlar-milli-sporcumuz-israilli-rakibini-1-saniyede-maglup-etti",
    "https://spor.haber7.com/super-lig/haber/3679551-super-ligde-haftanin-var-kayitlari-aciklandi",
    "https://www.haber7.com/siyaset/haber/3679550-hayati-yazici-ak-partideki-tum-gorevlerinden-istifa-etti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-2-kisi-hayatini-kaybetti",
    "https://www.haber7.com/dunya/haber/3680016-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680025-vedat-muriqi-fenerbahcenin-kasasini-doldurdu",
-   "https://spor.haber7.com/spor/haber/3680026-sampiyonlar-liginde-bruno-fernandesin-attigi-gol-viral-oldu"
+   "https://spor.haber7.com/spor/haber/3680026-sampiyonlar-liginde-bruno-fernandesin-attigi-gol-viral-oldu",
+   "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-parti-heyetini-kabul-etti-kilicdaroglu-da-ziyaret-edecek"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2087,7 +2087,8 @@
    "https://anlatilaninotesi.com.tr/20261126/super-ligde-13-hafta-maclarini-yonetecek-hakemler-aciklandi-1110606396.html",
    "https://anlatilaninotesi.com.tr/20261126/avrupalilar-savasi-baltik-ve-akdenize-yaymaya-calisiyor-abd-cozume-gidecek-1110607629.html",
    "https://anlatilaninotesi.com.tr/20261126/aymden-taraftari-ilgilendiren-tribun-yasagi-karari-mac-gunu-imza-zorunlulugu-kalkiyor-1110608327.html",
-   "https://anlatilaninotesi.com.tr/20261126/israil-irana-her-an-hatta-amerikalilardan-bagimsiz-saldirabiliriz-1110609281.html"
+   "https://anlatilaninotesi.com.tr/20261126/israil-irana-her-an-hatta-amerikalilardan-bagimsiz-saldirabiliriz-1110609281.html",
+   "https://anlatilaninotesi.com.tr/20261126/bagcilarda-feci-kaza-kontrolden-cikan-cip-kaldirimdaki-yayalari-ezdi-1110609993.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2115,10 +2116,6 @@
   ]
  },
  "recent_titles": [
-  "kurultay davasında ifade veren cemal canpolat kılıçdaroğlunun ekibinde",
-  "akın gürlek ve mustafa çiftçiden bahçeliye ziyaret",
-  "önder sav yeniden sahnede chpde olanları sindiremiyorum",
-  "israilli eski istihbarat şefi molla rejimini türkiye kurtardı",
   "israil basınında türkiye analizi 20 yılda yapamadığımızı yaptılar",
   "bakan fidandan singapur çıkarması",
   "özgür özelin tbmm mesaisi kurultay için imza toplamaya başlıyor",
@@ -3614,6 +3611,10 @@
   "israil irana her an hatta amerikalılardan bağımsız saldırabiliriz",
   "kemal kılıçdaroğlu devlet bahçeliyi ziyaret edecek",
   "eren kaşıkçının otopsi raporu ortaya çıktı",
-  "eren kaşıkçının otopsi raporu ortaya çıktı ölüm nedeni belli oldu"
+  "eren kaşıkçının otopsi raporu ortaya çıktı ölüm nedeni belli oldu",
+  "devlet bahçeli dem parti heyetini kabul etti kılıçdaroğlu da ziyaret edecek",
+  "italyada kilise skandalı çocuk istismarı resmi raporla belgelendi",
+  "adıyamanda yürekleri ağza getiren hadise 7 yaşındaki öğrenciyi akrep soktu",
+  "bağcılarda feci kaza kontrolden çıkan cip kaldırımdaki yayaları ezdi"
  ]
 }
