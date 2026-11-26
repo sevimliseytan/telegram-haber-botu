@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/galatasarayda-mario-lemina-maca-devam-edemedi-h1585357",
    "https://www.ensonhaber.com/cumhurbaskani-erdogandan-eskisehirde-sehit-olan-5-asker-icin-taziye-mesaji-h1585356",
    "https://www.ensonhaber.com/fon-sorusturmasinda-yeni-duzenleme-taslagi-hazir-yatirimci-odemelerinde-son-asama-27-kasim-h1585355",
    "https://www.ensonhaber.com/besiktas-paris-basketbola-yenildi-h1585354",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ozlem-yildiz-oglu-demir-ile-dugunde-son-hali-gundem-oldu-h1585849",
    "https://www.ensonhaber.com/kutahyada-kayip-olarak-aranan-55-yasindaki-besici-olu-bulundu-h1585850",
    "https://www.ensonhaber.com/abdde-akraba-evliligi-ile-nesiller-boyu-mavi-tenli-oldular-fugate-ailesi-h1585851",
-   "https://www.ensonhaber.com/fon-sorusturmasi-kapsaminda-bulls-yatirim-yonetim-kurulu-baskani-dahil-5-kisi-adliyede-h1585852"
+   "https://www.ensonhaber.com/fon-sorusturmasi-kapsaminda-bulls-yatirim-yonetim-kurulu-baskani-dahil-5-kisi-adliyede-h1585852",
+   "https://www.ensonhaber.com/yazarlar/uhud-tekin/neden-cevap-vermiyoruz"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679545-abden-13-ulkeye-uyari-alarm-verildi-yaptirim-kapida",
-   "https://www.haber7.com/dunya/haber/3679547-erhurman-ve-hristodulidis-2-ortak-proje-uzerinde-anlasti",
    "https://www.haber7.com/dunya/haber/3679540-savasta-sicak-saatler-bolgede-siddetli-catismalar-savas-ucaklari-pes-pese-havalandi",
    "https://spor.haber7.com/spor/haber/3679437-cuceler-dunya-kupasinda-istenmeyen-goruntuler",
    "https://www.haber7.com/guncel/haber/3679544-muglada-46-buyuklugunde-deprem-cevre-illerden-de-hissedildi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/adiyaman/3680028-adiyamanda-yurekleri-agza-getiren-hadise-7-yasindaki-ogrenciyi-akrep-soktu",
    "https://www.haber7.com/dunya/haber/3680029-son-dakikaankara-washington-hattinda-onemli-temas-bakan-guler-abdye-gidiyor",
    "https://www.haber7.com/dunya/haber/3680030-papaya-makam-araciyla-kek-gonderdi-almanya-karisti",
-   "https://spor.haber7.com/ikinci-lig/haber/3680031-1-ligde-haftanin-hakemleri-aciklandi"
+   "https://spor.haber7.com/ikinci-lig/haber/3680031-1-ligde-haftanin-hakemleri-aciklandi",
+   "https://www.haber7.com/3sayfa/haber/3680032-eren-kasikcinin-otopsi-raporu-cikti-olum-nedeni-belli-oldu",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680034-ajetten-yurt-disi-ucuslara-yuzde-20-indirim-kampanya-icin-son-tarih-aciklandi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2090,7 +2090,9 @@
    "https://anlatilaninotesi.com.tr/20261126/israil-irana-her-an-hatta-amerikalilardan-bagimsiz-saldirabiliriz-1110609281.html",
    "https://anlatilaninotesi.com.tr/20261126/bagcilarda-feci-kaza-kontrolden-cikan-cip-kaldirimdaki-yayalari-ezdi-1110609993.html",
    "https://anlatilaninotesi.com.tr/20261126/kilicdaroglu-bahceliyi-ziyaret-edecek-1110610110.html",
-   "https://anlatilaninotesi.com.tr/20261126/kremlin-ab-barisa-degil-savasa-kaynak-ayirmaya-hazirlaniyor-1110610584.html"
+   "https://anlatilaninotesi.com.tr/20261126/kremlin-ab-barisa-degil-savasa-kaynak-ayirmaya-hazirlaniyor-1110610584.html",
+   "https://anlatilaninotesi.com.tr/20261126/otopsi-raporu-cikti-masterchef-eren-kasikcinin-olum-nedeni-belli-oldu-1110609728.html",
+   "https://anlatilaninotesi.com.tr/20261126/milyonlarca-ogrenciyi-ilgilendiriyor-lgs-icin-ornek-sorular-yayimlandi-1110610744.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2118,12 +2120,6 @@
   ]
  },
  "recent_titles": [
-  "özgür özelin amcası vefat etti",
-  "haziran ayında 194 bin 740 adet taşıtın trafiğe kaydı yapıldı",
-  "haziran ayı konut fiyat endeksi reel olarak ise yüzde 58 azaldı",
-  "haziranda 129 bin 979 konut satıldı",
-  "petrolde son üç ayın en hızlı haftalık yükselişi",
-  "dış ticareti yakından ilgilendiren bir karara imza atıldı",
   "ons altın 4 bin doların altına geriledi",
   "spk onay verdi dört firma daha halka arz oluyor",
   "türkiyede en çok göç alan iller sıralandı",
@@ -3617,6 +3613,12 @@
   "fon soruşturmasında bulls yatırım yönetim kurulu başkanı dahil 5 kişi adliyede",
   "1 ligde haftanın hakemleri açıklandı",
   "kremlin ab barışa değil savaşa kaynak ayırmaya hazırlanıyor",
-  "otopsi raporu çıktı masterchef eren kaşıkçının ölüm nedeni belli oldu"
+  "otopsi raporu çıktı masterchef eren kaşıkçının ölüm nedeni belli oldu",
+  "ajetten yurt dışı uçuşlara yüzde 20 indirim kampanya için son tarih açıklandı",
+  "aman dikkat arabasını 2 günde bir çalıştırmayana 18 bin lira masraf çıkacak",
+  "neden cevap vermiyoruz",
+  "milli savunma bakanı yaşar güler abdyi ziyaret edecek",
+  "azerbaycan ve ermenistan sivil toplum temsilcileri barış için bir araya geliyor",
+  "milyonlarca öğrenciyi ilgilendiriyor lgs için örnek sorular yayımlandı"
  ]
 }
