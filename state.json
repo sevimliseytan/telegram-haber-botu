@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679685-adanada-15-yasindaki-tetikci-tarafindan-oldurdu-olum-tehdidi-iddiasi",
    "https://www.haber7.com/dunya/haber/3679684-kuzey-koreden-dusmanca-sinyal-sonrasi-net-talimat",
    "https://www.haber7.com/kultur/haber/3679687-ambargo-uygulansa-da-geri-adim-atmiyor-kazancini-gazzeye-yolluyor",
    "https://www.haber7.com/guncel/haber/3679686-ak-parti-sozcusu-celik-kadina-yonelik-siddet-ortak-degerlerimize-saldiridir",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680149-ak-parti-sozcusu-omer-celikten-besiktas-taraftarlarina-yapilan-mudahaleye-sert-tepki",
    "https://ekonomi.haber7.com/ekonomi/haber/3680150-kredi-kisitlamalarinin-esnetilmesi-muteahhitlere-umut-oldu",
    "https://spor.haber7.com/besiktas/haber/3680152-cumhurbaskani-erdogandan-besiktas-baskani-adaliya-telefon",
-   "https://www.haber7.com/dunya/haber/3680151-besiktas-taraftarlarina-saldiri-turkiyeden-son-dakika-gurcistan-aciklamasi"
+   "https://www.haber7.com/dunya/haber/3680151-besiktas-taraftarlarina-saldiri-turkiyeden-son-dakika-gurcistan-aciklamasi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680153-merkez-bankasindan-tl-icin-iki-yeni-adim"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2169,8 +2169,6 @@
   ]
  },
  "recent_titles": [
-  "necati şaşmaz ve ali koç yan yana sosyal medyada yorum yağdı",
-  "abd istihbarat kurumlarının açık kaynak analiz sistemine siber saldırı",
   "halife hafter ilk kez türkiyeye geldi ankarada resmi törenle karşılandı",
   "valiler kararnamesi resmi gazetede yayınlandı 41 ilin valisi değişti",
   "magyar macaristan abnin ukraynaya sağlayacağı 45 milyar euroluk krediye katılmak istemiyor",
@@ -3668,6 +3666,8 @@
   "dışişleri bakanı fidan gürcistan dışişleri bakanı botchorishvili ile telefon görüşmesi gerçekleştirdi",
   "cumhurbaşkanı erdoğandan beşiktaş başkanı adalıya telefon",
   "beşiktaş taraftarlarına saldırı türkiyeden son dakika gürcistan açıklaması",
-  "tcmbden iki önemli karar repo ihaleleri durduruldu zorunlu karşılık faizi yükseltildi"
+  "tcmbden iki önemli karar repo ihaleleri durduruldu zorunlu karşılık faizi yükseltildi",
+  "merkez bankasından tl için iki yeni adım",
+  "erzurumda park halindeki otomobil alev topuna döndü"
  ]
 }
