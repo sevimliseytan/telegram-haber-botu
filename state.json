@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/avrupa-ligleri/haber/3679683-fenerbahce-macina-saatler-kala-arda-turan-icin-ayrilik-iddiasi",
    "https://www.haber7.com/3sayfa/haber/3679685-adanada-15-yasindaki-tetikci-tarafindan-oldurdu-olum-tehdidi-iddiasi",
    "https://www.haber7.com/dunya/haber/3679684-kuzey-koreden-dusmanca-sinyal-sonrasi-net-talimat",
    "https://www.haber7.com/kultur/haber/3679687-ambargo-uygulansa-da-geri-adim-atmiyor-kazancini-gazzeye-yolluyor",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/super-lig/haber/3680147-super-lig-ekiplerinden-besiktasa-destek-paylasimlari-orantisiz-mudahaleyi-kiniyoruz",
    "https://spor.haber7.com/besiktas/haber/3680149-ak-parti-sozcusu-omer-celikten-besiktas-taraftarlarina-yapilan-mudahaleye-sert-tepki",
    "https://ekonomi.haber7.com/ekonomi/haber/3680150-kredi-kisitlamalarinin-esnetilmesi-muteahhitlere-umut-oldu",
-   "https://spor.haber7.com/besiktas/haber/3680152-cumhurbaskani-erdogandan-besiktas-baskani-adaliya-telefon"
+   "https://spor.haber7.com/besiktas/haber/3680152-cumhurbaskani-erdogandan-besiktas-baskani-adaliya-telefon",
+   "https://www.haber7.com/dunya/haber/3680151-besiktas-taraftarlarina-saldiri-turkiyeden-son-dakika-gurcistan-aciklamasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2138,7 +2138,8 @@
    "https://anlatilaninotesi.com.tr/20261126/putin-rusyanin-arktik-kalkinma-ve-guvenlik-stratejisini-onayladi-1110621799.html",
    "https://anlatilaninotesi.com.tr/20261126/besiktas-hapoel-beer-sheva-maci-durdu-1110622152.html",
    "https://anlatilaninotesi.com.tr/20261126/almanyadan-ukraynaya-catismanin-yayilmamasi-uyarisi-1110622793.html",
-   "https://anlatilaninotesi.com.tr/20261126/disisleri-bakani-fidan-gurcistan-disisleri-bakani-botchorishvili-ile-telefon-gorusmesi-1110623087.html"
+   "https://anlatilaninotesi.com.tr/20261126/disisleri-bakani-fidan-gurcistan-disisleri-bakani-botchorishvili-ile-telefon-gorusmesi-1110623087.html",
+   "https://anlatilaninotesi.com.tr/20261126/tcmbden-iki-onemli-karar-repo-ihaleleri-durduruldu-zorunlu-karsilik-faizi-yukseltildi-1110623294.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2168,7 +2169,6 @@
   ]
  },
  "recent_titles": [
-  "başkalarının hayatı 8 bölümde neslihan erim ve semayı yatakta bastı",
   "necati şaşmaz ve ali koç yan yana sosyal medyada yorum yağdı",
   "abd istihbarat kurumlarının açık kaynak analiz sistemine siber saldırı",
   "halife hafter ilk kez türkiyeye geldi ankarada resmi törenle karşılandı",
@@ -3667,6 +3667,7 @@
   "beşiktaştan olaylar sonrası ilk açıklama cumhurbaşkanımıza şükranlarımızı sunarız",
   "dışişleri bakanı fidan gürcistan dışişleri bakanı botchorishvili ile telefon görüşmesi gerçekleştirdi",
   "cumhurbaşkanı erdoğandan beşiktaş başkanı adalıya telefon",
-  "beşiktaş taraftarlarına saldırı türkiyeden son dakika gürcistan açıklaması"
+  "beşiktaş taraftarlarına saldırı türkiyeden son dakika gürcistan açıklaması",
+  "tcmbden iki önemli karar repo ihaleleri durduruldu zorunlu karşılık faizi yükseltildi"
  ]
 }
