@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679686-ak-parti-sozcusu-celik-kadina-yonelik-siddet-ortak-degerlerimize-saldiridir",
    "https://www.haber7.com/otomobil/haber/3679688-byd-vites-yukseltti-fabrikayi-satin-alip-dengeleri-degistirecek",
    "https://www.haber7.com/adana/3679685-adanada-15-yasindaki-tetikci-tarafindan-oldurdu-olum-tehdidi-iddiasi",
    "https://www.haber7.com/seyahat/haber/3679689-turistler-kapadokyanin-sakli-guzelliklerini-foto-safariyle-kesfediyor",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680151-besiktas-taraftarlarina-saldiri-turkiyeden-son-dakika-gurcistan-aciklamasi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680153-merkez-bankasindan-tl-icin-iki-yeni-adim",
    "https://www.haber7.com/guncel/haber/3680154-erzurumda-park-halindeki-otomobil-alev-topuna-dondu",
-   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-ilk-11ler-belli-oldu"
+   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-ilk-11ler-belli-oldu",
+   "https://www.haber7.com/guncel/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2140,7 +2140,8 @@
    "https://anlatilaninotesi.com.tr/20261126/almanyadan-ukraynaya-catismanin-yayilmamasi-uyarisi-1110622793.html",
    "https://anlatilaninotesi.com.tr/20261126/disisleri-bakani-fidan-gurcistan-disisleri-bakani-botchorishvili-ile-telefon-gorusmesi-1110623087.html",
    "https://anlatilaninotesi.com.tr/20261126/tcmbden-iki-onemli-karar-repo-ihaleleri-durduruldu-zorunlu-karsilik-faizi-yukseltildi-1110623294.html",
-   "https://anlatilaninotesi.com.tr/20261126/ukraynada-17-60-yas-arasindaki-erkeklerin-askerlik-kayitlari-kontrol-edilecek-1110623462.html"
+   "https://anlatilaninotesi.com.tr/20261126/ukraynada-17-60-yas-arasindaki-erkeklerin-askerlik-kayitlari-kontrol-edilecek-1110623462.html",
+   "https://anlatilaninotesi.com.tr/20261126/tffden-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-yonelik-aciklama-sessiz-kalinmasi-soz-1110623565.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2170,7 +2171,6 @@
   ]
  },
  "recent_titles": [
-  "dombrovskis ab kamu maliyesinde kritik eşiğe ulaşıldı",
   "galatasaray aston villayı tek golle devirdi",
   "fon tasfiyesinde 1 milyon liraya kadar ara ödemelerin 27 kasım cuma tamamlanması hedefleniyor",
   "rusyadan gazzede ateşkese uyulması çağrısı",
@@ -3669,6 +3669,7 @@
   "cska sofyatrabzonspor ilk 11ler belli oldu",
   "çbk mersin baxi ferrola fark attı",
   "ukraynada 1760 yaş arasındaki erkeklerin askerlik kayıtları kontrol edilecek",
-  "tffden beşiktaşhapoel beer sheva maçındaki polis şiddetine yönelik açıklama sessiz kalınması söz konusu olamaz"
+  "tffden beşiktaşhapoel beer sheva maçındaki polis şiddetine yönelik açıklama sessiz kalınması söz konusu olamaz",
+  "gaziantep büyükşehir belediyesinden eczacılara ve memurlara konut müjdesi"
  ]
 }
