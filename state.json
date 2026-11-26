@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/avrupa-birligi-hibrit-otomobillere-kota-getirdi-turkiye-de-listede-h1585442",
-   "https://www.ensonhaber.com/galatasaray-aston-villayi-yenerek-kasasini-doldurdu-h1585443",
    "https://www.ensonhaber.com/aysegul-aldinc-kivancla-oynamayi-iki-kez-reddetti-h1585444",
    "https://www.ensonhaber.com/tidalden-yapay-zeka-muzigine-kisitlama-h1585445",
    "https://www.ensonhaber.com/real-madridde-arda-guler-sov-mbappe-dayanamadi-golden-sonra-parmagiyla-gosterdi-h1585446",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/amed-sportif-faaliyetler-mbaye-diagne-ile-yollari-ayirdi-h1585935",
    "https://www.ensonhaber.com/rockets-alperen-sengunun-triple-double-yaptigi-macta-sunsi-yendi-h1585936",
    "https://www.ensonhaber.com/ceyhun-kazanci-a-milli-takim-yeniden-ayaga-kalkabilecek-gucte-h1585937",
-   "https://www.ensonhaber.com/igdirda-akrabalar-arasinda-bicakli-kavga-1-olu-h1585938"
+   "https://www.ensonhaber.com/igdirda-akrabalar-arasinda-bicakli-kavga-1-olu-h1585938",
+   "https://www.ensonhaber.com/besiktas-taraftarindan-filistine-ozgurluk-pankarti-h1585939",
+   "https://www.ensonhaber.com/byd-tai-9-tanitildi-direksiyonu-katlanip-konsola-saklanan-ilk-seri-uretim-otomobil-h1585940"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2119,7 +2119,8 @@
    "https://anlatilaninotesi.com.tr/20261126/lavrov-abd-yaptirimlara-ragmen-rusya-ile-diyaloga-acik-1110615406.html",
    "https://anlatilaninotesi.com.tr/20261126/abdde-ulusal-borc-sistemi-cokertiyor-mu-1110615883.html",
    "https://anlatilaninotesi.com.tr/20261126/son-dakika-haberleri-gerard-depardieu-cinsel-saldiri-suclamasiyla-hakim-karsisina-cikacak-1110616128.html",
-   "https://anlatilaninotesi.com.tr/20261126/antrenmanlara-cikmamisti-amedspordan-mbaye-diagne-karari-1110616442.html"
+   "https://anlatilaninotesi.com.tr/20261126/antrenmanlara-cikmamisti-amedspordan-mbaye-diagne-karari-1110616442.html",
+   "https://anlatilaninotesi.com.tr/20261126/ticaret-bakanligindan-sahte-indirim-reklamina-yaptirim-1110616548.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2149,9 +2150,6 @@
   ]
  },
  "recent_titles": [
-  "pierreemerick aubameyang çorum fkyı reddetti ispanyaya gidiyor",
-  "mason greenwood transferinin perde arkası marsilyadan itiraf var",
-  "mauro icardinin menajerinden galatasaray açıklaması geldi",
   "fenerbahçeden mason greenwooda büyük tören",
   "beşiktaşta leandro trossard için imza töreni hazırlığı özel organizasyon",
   "antonio conteden trabzonsporlu christ inao oulaiye övgü",
@@ -3648,6 +3646,9 @@
   "antrenmanlara çıkmamıştı amedspordan mbaye diagne kararı",
   "amedde diagne defteri kapandı ayrılık resmen açıklandı",
   "iğdırda akrabalar arasında bıçaklı kavga 1 ölü",
-  "beşiktaş taraftarından filistine özgürlük pankartı"
+  "beşiktaş taraftarından filistine özgürlük pankartı",
+  "byd tai 9 tanıtıldı direksiyonu katlanıp konsola saklanan ilk seri üretim otomobil",
+  "türkiye ve suudi arabistan arasında savunma sanayisi alanında iş birliği mutabakatı",
+  "ticaret bakanlığından sahte indirim reklamına yaptırım"
  ]
 }
