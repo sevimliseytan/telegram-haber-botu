@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/israilin-galatasaray-hakkindaki-sikayeti-uluslararasi-medyada-h1585429",
    "https://www.ensonhaber.com/mezarliktan-gecerken-fark-etti-topragin-altinda-milyonlarcasi-yasiyormus-h1585430",
    "https://www.ensonhaber.com/eskisehirde-helikopter-kazasinda-sehit-olan-askerlerin-evlerine-turk-bayraklari-asildi-h1585431",
    "https://www.ensonhaber.com/libya-ulusal-ordusu-genelkurmay-baskani-turkiyede-h1585432",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/sanliurfada-otobus-soforunden-kalbi-duran-yolcuya-kalp-masajiyla-mudahale-h1585921",
    "https://www.ensonhaber.com/istanbulda-feci-olum-yasli-kadin-beton-mikserin-altinda-kaldi-h1585922",
    "https://www.ensonhaber.com/eski-formula-1-sampiyonu-mika-hakkinen-istanbulda-hayranlariyla-bulustu-h1585923",
-   "https://www.ensonhaber.com/supurgelikleri-surekli-silmekten-kurtaran-yontem-bir-kez-surun-farki-gorun-h1585924"
+   "https://www.ensonhaber.com/supurgelikleri-surekli-silmekten-kurtaran-yontem-bir-kez-surun-farki-gorun-h1585924",
+   "https://www.ensonhaber.com/vucudun-gizli-ihtiyaci-elektrolitli-su-nasil-yapilir-3-malzemeyle-elektrolit-destegi-h1585925"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/galatasaray/haber/3679611-galatasaray-ve-okan-burukun-gurur-gecesi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679614-suruculerin-cebini-yakan-o-kesinti-bitiyor-bakan-tarih-verip-noktayi-koydu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679615-dolar-ve-euro-kac-tl-oldu-iste-gunun-ilk-fiyatlari",
    "https://ekonomi.haber7.com/ekonomi/haber/3679617-yatirimci-arkasina-bile-bakmadan-kaciyor-bitcoin-60-bin-dolarin-altina-cakildi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/ulkede-bugun/haber/3680088-konyada-cesmede-su-dolduran-yasli-kadin-defalarca-bicaklandi",
    "https://spor.haber7.com/super-lig/haber/3680089-super-lig-ekibi-transfer-yasagini-kaldirdi",
    "https://www.haber7.com/dunya/haber/3680090-akdenizde-rus-gemisi-vuruldu-meloniden-cok-net-savas-mesaji",
-   "https://www.haber7.com/guncel/haber/3680091-37-yilla-yargilaniyordu-haluk-leventin-kardesi-icin-tahliye-karari"
+   "https://www.haber7.com/guncel/haber/3680091-37-yilla-yargilaniyordu-haluk-leventin-kardesi-icin-tahliye-karari",
+   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-gsaray-ve-fbahceden-sampiyonlar-liginde-buyuk-sicrama-haftayi-ilk-18de-kapattilar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2143,13 +2143,6 @@
   ]
  },
  "recent_titles": [
-  "manisada tartıştığı eşinin burnunu ısırıp kopardı",
-  "samsun merkezli 87 milyon tllik dolandırıcılık operasyonunda 6 kişi adliyeye sevk edildi",
-  "aşkın olayım son buldu mauro icardinin ayrılığı böyle gerçekleşti",
-  "dünya kupasının gizli finali israil destekçisi arjantinle filistinin yanında olan ispanya",
-  "messinin henüz bebekken lamine yamal ile olan fotoğrafını unicef doğruladı",
-  "beşiktaştan leandro trossard klibinde transfer mesaji",
-  "juventus zeki çeliki transfer etti",
   "okan buruk duyurdu victor osimhen de yeni seçeceğimiz kaptanlar arasında",
   "trabzonsporun yeni transferi cenk özkacar şehre geldi",
   "beşiktaş yeni transferi leandro trossard için imza töreni düzenledi",
@@ -3642,6 +3635,13 @@
   "eski formula 1 şampiyonu mika hakkinen istanbulda hayranlarıyla buluştu",
   "37 yılla yargılanıyordu haluk leventin kardeşi için tahliye kararı",
   "süpürgelikleri sürekli silmekten kurtaran yöntem bir kez sürün farkı görün",
-  "zaharovadan abye sert suçlama müzakere söylemleri rusyaya yönelik saldırganlığı gizleme amacı taşıyor"
+  "zaharovadan abye sert suçlama müzakere söylemleri rusyaya yönelik saldırganlığı gizleme amacı taşıyor",
+  "gsaray ve fbahçeden şampiyonlar liginde büyük sıçrama haftayı ilk 18de kapattılar",
+  "kağıt gibi savrulan köprüden geçmek isteyen turistin inadı pes dedirtti",
+  "pendikte alkollü ve ehliyetsiz sürücü polis aracına çarptı olay anı kamerada",
+  "aydında operasyon üzerinde 1100 sentetik hap ile yakalandı",
+  "vücudun gizli ihtiyacı elektrolitli su nasıl yapılır 3 malzemeyle elektrolit desteği",
+  "emlak vergisinde son gün 30 kasım pazartesi",
+  "samsunda 3 çocuk annesinin şüpheli ölümü kayıp telefonu aranıyor"
  ]
 }
