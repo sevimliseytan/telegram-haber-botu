@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/borsa-istanbul-gune-dususle-basladi-29002-h1585453",
-   "https://www.ensonhaber.com/ekrem-imamoglunun-diplomasi-iptal-edildi-h1585454",
    "https://www.ensonhaber.com/istanbul-havalimaninda-2-iranli-kiyafetlere-emdirilmis-sekilde-20-kilo-uyusturucuyla-yakal-h1585455",
    "https://www.ensonhaber.com/emine-erdogan-kadina-yonelik-siddet-butun-insanligi-yaraliyor-h1585456",
    "https://www.ensonhaber.com/konyada-karsi-seride-gecen-arac-ortaligi-savas-alanina-cevirdi-h1585457",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/ziraat-bankkart-yacine-louatiyi-transfer-etti-h1585946",
    "https://www.ensonhaber.com/qazim-laci-kasimpasa-macindan-umutlu-h1585947",
    "https://www.ensonhaber.com/tff-yeni-klasman-temsilci-aday-kursu-duzenlenecegini-duyurdu-h1585948",
-   "https://www.ensonhaber.com/ingiltere-londrada-metro-makinistleri-greve-gitti-h1585949"
+   "https://www.ensonhaber.com/ingiltere-londrada-metro-makinistleri-greve-gitti-h1585949",
+   "https://www.ensonhaber.com/ousmane-diabate-premier-ligdeki-rekabete-hazir-h1585950",
+   "https://www.ensonhaber.com/hidayet-turkoglu-ulkemizi-en-iyi-sekilde-temsil-ettigimizi-dusunuyorum-h1585951"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3679639-besiktas-gurcistanda-hapoel-beer-shevayi-konuk-edecek",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679641-bankada-parasi-olanlar-dikkat-devlet-garantisinde-o-detayi-bilmeyen-kaybeder",
    "https://www.haber7.com/guncel/haber/3679640-erdoganin-kaptanliginda-firtinali-yillar-turkiye-nasil-ayakta-kaldi",
    "https://spor.haber7.com/galatasaray/haber/3679643-okan-buruk-mat-etti-emery-kariyerinde-ilki-yasadi-galatasaraya-zaferi-getiren-detay",
    "https://www.haber7.com/dunya/haber/3679642-pakistan-uzaya-ilk-kez-astronot-gonderdi",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680106-bakan-bayraktar-duyurdu-turkiye-afrikada-enerji-ortakligi-kurdu",
    "https://www.haber7.com/kultur/haber/3680108-antalya-expo-icin-yeni-donem-dev-kongre-ve-fuar-merkezine-donusuyor",
    "https://www.haber7.com/guncel/haber/3680107-otobuste-kalbi-duran-yolcuya-soforden-hayat-kurtaran-mudahale-o-anlar-kamerada",
-   "https://spor.haber7.com/spor/haber/3680110-besiktas-taraftari-batumu-inletti-isgale-isyan-filistine-ozgurluk"
+   "https://spor.haber7.com/spor/haber/3680110-besiktas-taraftari-batumu-inletti-isgale-isyan-filistine-ozgurluk",
+   "https://www.haber7.com/guncel/haber/3680109-cumhurbaskani-erdoganin-hocasi-kemal-hut-efendi-hakka-yurudu",
+   "https://www.haber7.com/siyaset/haber/3680111-mugla-buyuksehir-belediye-baskani-ahmet-aras-ak-partiye-mi-gececek-aciklama-yapti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2154,10 +2154,6 @@
   ]
  },
  "recent_titles": [
-  "meghan markle masterchefe geliyor yayın tarihi açıklandı",
-  "altı üstü istanbulda emiri sarsan itiraf hasanın duyguları ortaya çıktı işte o anlar",
-  "daha 17de denize mendil veren çocuk bakın kim çıktı babası da aynı dizideymiş",
-  "bad bunny türkiyeye mi gelecek ne zaman konser müjdesi geldi",
   "kızılcık şerbetinin eski abdullahı geri dönüyor işte yeni dizisi",
   "uzak şehir meryemin yeni dizisi belli oldu işte rolü",
   "daha 17 dizisi 8 bölüm 1 fragmanı şebnem arastan kurtulmanın peşinde",
@@ -3653,6 +3649,10 @@
   "cumhurbaşkanı erdoğanın hocası kemal hut efendi hakka yürüdü",
   "ingiltere londrada metro makinistleri greve gitti",
   "ousmane diabate premier ligdeki rekabete hazır",
-  "irak başbakanı zeydiden ikby açıklaması ordu sınırlarda konuşlanacak"
+  "irak başbakanı zeydiden ikby açıklaması ordu sınırlarda konuşlanacak",
+  "muğla büyükşehir belediye başkanı ahmet aras ak partiye mi geçecek açıklama yaptı",
+  "galatasaraydan ugochukwu için kritik hamle 225 milyon euroluk şart değişiyor",
+  "hidayet türkoğlu ülkemizi en iyi şekilde temsil ettiğimizi düşünüyorum",
+  "kuzeyboruda hedef vakıfbank galibiyeti"
  ]
 }
