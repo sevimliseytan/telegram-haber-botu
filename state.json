@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/yasam/haber/3673400-suruculer-dikkat-e-devletten-hemen-bakin-yoksa-iptal-ediliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679676-bnp-paribastan-fon-skandali-degerlendirmesi",
    "https://spor.haber7.com/galatasaray/haber/3679677-deniz-gulun-kanli-golu-jacksonin-tartisilan-tekmesi-hakem-avrupada-yanki-uyandirdi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679678-demir-yolu-aginda-hedef-aciklandi-2030da-32-sehir-yht-ile-birbirine-baglanacak",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-canli",
    "https://spor.haber7.com/besiktas/haber/3680141-besiktasin-yildizlari-geregini-yapti-israilli-futbolcularin-elini-sikmadi",
    "https://www.haber7.com/guncel/haber/3680142-kizilelma-basarisi-turk-dunyasinda-gururla-karsilandi",
-   "https://www.haber7.com/egitim/haber/3680143-cocugunuzun-akran-zorbaligina-ugradigini-nasil-anlarsiniz-anne-babalara-ipuclari"
+   "https://www.haber7.com/egitim/haber/3680143-cocugunuzun-akran-zorbaligina-ugradigini-nasil-anlarsiniz-anne-babalara-ipuclari",
+   "https://www.haber7.com/guncel/haber/3680144-fon-sorusturmasinda-liste-aciklamasi-isimler-ne-zaman-ortaya-cikacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2135,7 +2135,8 @@
    "https://anlatilaninotesi.com.tr/20261126/rusya-disisleri-azerbaycani-nahcivana-baglayacak-trump-rotasinin-ayrintilari-belirsiz-1110621069.html",
    "https://anlatilaninotesi.com.tr/20261126/sozcu-sorusturmasinda-sicak-gelisme-patron-basvurdu-1110621234.html",
    "https://anlatilaninotesi.com.tr/20261126/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isime-tutuklama-talebi-1110621600.html",
-   "https://anlatilaninotesi.com.tr/20261126/putin-rusyanin-arktik-kalkinma-ve-guvenlik-stratejisini-onayladi-1110621799.html"
+   "https://anlatilaninotesi.com.tr/20261126/putin-rusyanin-arktik-kalkinma-ve-guvenlik-stratejisini-onayladi-1110621799.html",
+   "https://anlatilaninotesi.com.tr/20261126/besiktas-hapoel-beer-sheva-maci-durdu-1110622152.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2165,8 +2166,6 @@
   ]
  },
  "recent_titles": [
-  "avatar atakanın evinin yakınlarında aslan paniği aramızda 150200 metre var",
-  "afra saraçoğlu sevgilisiyle gecelerde böyle görüntülendi",
   "çiğdem baturun sultanahmet camii ziyareti gündemdeydi yaşar ipek sert çıktı orası bir ibadethane",
   "emrah altıntoprakın yeni adresi belli oldu iddialı diziye girdi",
   "demet ozdemirin roma pozları olay oldu beğeni butonu çöktü",
@@ -3664,6 +3663,8 @@
   "putin rusyanın arktik kalkınma ve güvenlik stratejisini onayladı",
   "beşiktaş  hapoel beersheva maçında ortalık karıştı",
   "çocuğunuzun akran zorbalığına uğradığını nasıl anlarsınız annebabalara ipuçları",
-  "beşiktaş  hapoel beer sheva maçı durdu hakem soyunma odasına gitti"
+  "beşiktaş  hapoel beer sheva maçı durdu hakem soyunma odasına gitti",
+  "fon soruşturmasında liste açıklaması isimler ne zaman ortaya çıkacak",
+  "beşiktaşhapoel beer sheva maçı durdu"
  ]
 }
