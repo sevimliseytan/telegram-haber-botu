@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-freni-bosalan-tir-gecekondunun-bahcesine-girdi-h1585398",
    "https://www.ensonhaber.com/son-dakika-fon-sorusturmasinda-1-kisi-daha-tutuklandi-h1585399",
    "https://www.ensonhaber.com/serenay-sarikaya-hayvanseverlere-seslendi-satin-alma-sahiplen-h1585400",
    "https://www.ensonhaber.com/altinda-yukselis-sevinci-kisa-surebilir-kritik-seviyeler-aciklandi-h1585401",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/erbilde-irak-hukumetinin-kararlari-protesto-edildi-h1585890",
    "https://www.ensonhaber.com/baba-vanganin-2027-kehanetleri-putin-altin-ve-gizemli-hastalik-h1585891",
    "https://www.ensonhaber.com/mustafa-keserin-aci-gunu-48-yillik-esi-hayatini-kaybetti-h1585892",
-   "https://www.ensonhaber.com/sevda-turkusev-celal-sengorun-turk-kadini-kompleksi-var-h1585893"
+   "https://www.ensonhaber.com/sevda-turkusev-celal-sengorun-turk-kadini-kompleksi-var-h1585893",
+   "https://www.ensonhaber.com/ankarada-kendilerini-polis-olarak-tanitip-yasli-adamin-810-bin-lirasini-almaya-calistilar-h1585894"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679516-erciyeste-kar-yagisi-etkili-oldu-beyaza-burundu",
-   "https://www.haber7.com/guncel/haber/3679515-diyarbakirda-bir-magarada-bircok-kafatasi-ve-kemik-bulundu-ekipler-harekete-gecti",
    "https://spor.haber7.com/ikinci-lig/haber/3679514-sivassporda-rey-manaj-soku-sehri-terk-etti",
    "https://www.haber7.com/yasam/haber/3660005-yeni-vites-sistemi-geliyor-otomotiv-sektorunu-hareketlendirecek-karar",
    "https://ekonomi.haber7.com/ekonomi/haber/3679513-gazprom-cine-yeni-dogal-gaz-sevkiyati-icin-hazirliklarini-tamamliyor",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/seyahat/haber/3680059-94-yildir-trenlerin-uzerinde-yasiyorlar-balikesirdeki-koy-demir-yolu-ile-dikkat-cekiyor",
    "https://spor.haber7.com/spor/haber/3680060-taha-akgul-ve-riza-kayaalp-sosyal-sorumluluk-projesi-kapsaminda-yesil-sahaya-cikti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680061-zeytin-ureticilerine-590-milyon-tl-mujdesi-odeme-tarihi-belli-oldu",
-   "https://www.haber7.com/guncel/haber/3680063-girnedeki-filo-jet-faciasinda-aranan-eski-gemici-yakalandi"
+   "https://www.haber7.com/guncel/haber/3680063-girnedeki-filo-jet-faciasinda-aranan-eski-gemici-yakalandi",
+   "https://www.haber7.com/guncel/haber/3680062-yuzbinlerce-saglik-calisanina-mujdeli-haber-yillardir-uygulaniyordu-iptal-edildi",
+   "https://www.haber7.com/3sayfa/haber/3680064-karamanda-kayip-olarak-araniyordu-cesedi-bulundu-arkadasi-tutuklandi-2-gozalti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1853,7 +1853,8 @@
    "https://www.mynet.com/magazin/acun-ilicali-kararini-verdi-survivor-yarismacilarini-halk-sececek-130100607738",
    "https://www.mynet.com/magazin/survivor-2027-ne-zaman-baslayacak-buyuk-odul-belli-oldu-130100607744",
    "https://www.mynet.com/magazin/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-130100607747",
-   "https://www.mynet.com/magazin/dogukan-gungor-un-o-itirafi-akla-sude-zulal-guler-i-getirdi-130100607699"
+   "https://www.mynet.com/magazin/dogukan-gungor-un-o-itirafi-akla-sude-zulal-guler-i-getirdi-130100607699",
+   "https://www.mynet.com/magazin/guller-ve-gunahlar-43-bolum-2-fragman-seyirci-sitem-etti-130100607750"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2133,10 +2134,6 @@
   ]
  },
  "recent_titles": [
-  "zeynep mansur geçirdiği trafik kazasını anlattı bir yıl yataktan kalkamadım",
-  "yeşilçamın sarışın güzeli hale soygazinin son hali gündem oldu",
-  "kızılcık şerbetinde kriz bitmiyor senaryo değişti",
-  "kim inanır 53 yaşında olduğuna seray severden mayolu poz geldi",
   "manifest grubunu eleştirmişti dilan çıtak geri adım attı",
   "kerem aktürkoğlu baba oldu",
   "çocuklar duymasının fıs fıs ismaili süleyman yağcıdan haluk levente sert sözler",
@@ -3632,6 +3629,10 @@
   "sevda türküsev celal şengörün türk kadını kompleksi var",
   "girnedeki filo jet faciasında aranan eski gemici yakalandı",
   "yüzbinlerce sağlık çalışanına müjdeli haber yıllardır uygulanıyordu iptal edildi",
-  "vali şimşek  önceliğimiz can ve mal güvenliği ile güvenli ulaşım"
+  "vali şimşek  önceliğimiz can ve mal güvenliği ile güvenli ulaşım",
+  "karamanda kayıp olarak aranıyordu cesedi bulundu arkadaşı tutuklandı 2 gözaltı",
+  "ankarada kendilerini polis olarak tanıtıp yaşlı adamın 810 bin lirasını almaya çalıştılar",
+  "bilgisayar toplarken asla ucuza kaçmamanız gereken 5 parça",
+  "güller ve günahlar 43 bölüm 2 fragman seyirci sitem etti"
  ]
 }
