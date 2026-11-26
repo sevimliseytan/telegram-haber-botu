@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/natodan-turkiyeye-taziye-mesaji-56754-h1585389",
-   "https://www.ensonhaber.com/gazzede-176-milyon-filistinliye-soguk-hava-tehdidi-h1585390",
-   "https://www.ensonhaber.com/kastamonuda-kar-yagisi-etkili-oldu-19834-h1585391",
    "https://www.ensonhaber.com/kolombiyadaki-rehine-krizi-10-kisi-serbest-birakildi-h1585392",
    "https://www.ensonhaber.com/abden-dogu-sinirinda-guvenlik-hamlesi-vize-ve-dron-onlemleri-geliyor-h1585393",
    "https://www.ensonhaber.com/yazarlar/adem-metan/sariyerin-aslani",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/igdirdaki-mustehcenlik-operasyonunda-3-kisi-tutuklandi-h1585880",
    "https://www.ensonhaber.com/is-yeri-satislarinda-dikkat-ceken-ayrisma-ilk-el-artti-ikinci-el-geriledi-h1585881",
    "https://www.ensonhaber.com/turkiye-sehitlerine-veda-ediyor-h1585882",
-   "https://www.ensonhaber.com/kara-kartal-israil-ekibine-karsi-batumda-sahne-aliyor-tribunler-tek-yurek-h1585883"
+   "https://www.ensonhaber.com/kara-kartal-israil-ekibine-karsi-batumda-sahne-aliyor-tribunler-tek-yurek-h1585883",
+   "https://www.ensonhaber.com/tuncer-bakirhan-onumuzdeki-gunlerde-gazeteciler-imraliya-gidebilir-h1585884",
+   "https://www.ensonhaber.com/saglikta-dijital-donusum-995-bin-vatandas-hastaneye-gitmeden-rapor-aldi-h1585885",
+   "https://www.ensonhaber.com/tpao-chevron-ile-gine-bissauda-iki-deniz-sahasinda-ortaklik-kurdu-h1585886"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,11 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/kultur/haber/3679523-lidyanin-tarihi-edusa-operasiyla-akm-sahnesinde-yeniden-canlaniyor",
-   "https://www.haber7.com/3sayfa/haber/3679462-mardin-merkezli-4-ilde-change-operasyonu-18-gozalti",
-   "https://www.haber7.com/dunya/haber/3679522-bmden-myanmar-aciklamasi-donus-guvenli-degil",
-   "https://www.haber7.com/otomobil/haber/3676842-park-halindeki-araclar-yanmaya-basladi-729-bin-arac-acil-olarak-geri-cagriliyor",
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679521-arda-turan-fenerbahce-macinin-onemini-acikladi",
    "https://www.haber7.com/siyaset/haber/3679520-mhpden-ozgur-ozele-tepki",
    "https://www.haber7.com/karaman/3679519-karamanda-esrarengiz-olay-yardim-cagirmaya-giden-adam-3-gundur-kayip",
    "https://www.haber7.com/guncel/haber/3679518-pasinyandan-tarihi-turkiye-adimi-ermenistanin-kaderi-tayin-edilecek",
@@ -1391,7 +1386,12 @@
    "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-koye-yerlesene-1-milyon-lira-verilecek",
    "https://www.haber7.com/guncel/haber/3680052-istanbulda-kimsenin-bilmedigi-cadde-ayasofyanin-altindan-cikti-tarihi-yeniden-yazacak",
    "https://ekonomi.haber7.com/ekonomi/haber/3680051-rusya-turkiye-ile-ortakligi-gelistirmeye-haziriz",
-   "https://www.haber7.com/guncel/haber/3680053-suresiz-nafaka-duzenlemesinde-yeni-formul-hakime-genis-yetki-taninacak"
+   "https://www.haber7.com/guncel/haber/3680053-suresiz-nafaka-duzenlemesinde-yeni-formul-hakime-genis-yetki-taninacak",
+   "https://www.haber7.com/3sayfa/haber/3680054-tekirdagda-trafik-kavgasinin-faturasi-agir-oldu-640-bin-lira-ceza-kesildi",
+   "https://spor.haber7.com/spor/haber/3680057-sampiyonlar-liginde-fenerbahce-galatasaray-derbisi-ihtimali-tarihte-bir-ilk-yasanabilir",
+   "https://spor.haber7.com/super-lig/haber/3680056-super-lig-ekibinde-deprem-4-futbolcu-kadro-disi-birakildi",
+   "https://www.haber7.com/dunya/haber/3680055-ingiltereden-100-bin-eski-askere-savas-mektubu-hazirlikli-olun",
+   "https://www.haber7.com/dunya/haber/3680058-ben-gvirin-soykirim-dolu-ifadeleri-tepki-cekti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2132,7 +2132,6 @@
   ]
  },
  "recent_titles": [
-  "çağla şıkel karayiplerde dalgalara yenildi",
   "hülya avşarın kızı zehra çilingiroğlu trabzon tarzı özüme döndüm",
   "acil ameliyata alınmıştı danla bilicin arkadaşından açıklama geldi",
   "çelik ve sevgilisinden yeni poz fotoğraf çektirmekten nefret ediyorum",
@@ -3631,6 +3630,7 @@
   "kara kartal israil ekibine karşı batumda sahne alıyor tribünler tek yürek",
   "tuncer bakırhan önümüzdeki günlerde gazeteciler imralıya gidebilir",
   "sağlıkta dijital dönüşüm 995 bin vatandaş hastaneye gitmeden rapor aldı",
-  "milli güvenlik kurulu toplandı"
+  "milli güvenlik kurulu toplandı",
+  "tpao chevron ile gine bissauda iki deniz sahasında ortaklık kurdu"
  ]
 }
