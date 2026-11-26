@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/konyada-karsi-seride-gecen-arac-ortaligi-savas-alanina-cevirdi-h1585457",
    "https://www.ensonhaber.com/hatayda-lokantada-ugradigi-mustali-saldirida-kor-olan-adamin-araci-ve-is-yeri-kursunlandi-h1585458",
    "https://www.ensonhaber.com/okul-otobusuydu-yeni-yuvalari-oldu-evden-daha-konforlu-h1585459",
    "https://www.ensonhaber.com/unai-emery-istanbula-baklavayla-veda-etti-h1585460",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ousmane-diabate-premier-ligdeki-rekabete-hazir-h1585950",
    "https://www.ensonhaber.com/hidayet-turkoglu-ulkemizi-en-iyi-sekilde-temsil-ettigimizi-dusunuyorum-h1585951",
    "https://www.ensonhaber.com/kuzeyboruda-hedef-vakifbank-galibiyeti-h1585952",
-   "https://www.ensonhaber.com/begum-yucel-milli-takimlara-verdikleri-katkidan-dolayi-gururlu-h1585953"
+   "https://www.ensonhaber.com/begum-yucel-milli-takimlara-verdikleri-katkidan-dolayi-gururlu-h1585953",
+   "https://www.ensonhaber.com/taha-akgul-ve-riza-kayaalp-futbol-oynadi-h1585954"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679642-pakistan-uzaya-ilk-kez-astronot-gonderdi",
    "https://www.haber7.com/guncel/haber/3679645-istanbullular-dikkat-bazi-yollar-trafige-kapatilacak",
    "https://ekonomi.haber7.com/ekonomi/haber/3679644-borsa-gune-dususle-basladi",
    "https://www.haber7.com/guncel/haber/3679646-yogun-kar-yagisi-iki-kara-yolu-bazi-araclara-kapatildi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680109-cumhurbaskani-erdoganin-hocasi-kemal-hut-efendi-hakka-yurudu",
    "https://www.haber7.com/siyaset/haber/3680111-mugla-buyuksehir-belediye-baskani-ahmet-aras-ak-partiye-mi-gececek-aciklama-yapti",
    "https://spor.haber7.com/galatasaray/haber/3680112-galatasaraydan-ugochukwu-icin-kritik-hamle-225-milyon-euroluk-sart-degisiyor",
-   "https://www.haber7.com/guncel/haber/3680113-ysk-baskani-muttadan-secim-uyarisi-tarihi-bir-zorunluluk"
+   "https://www.haber7.com/guncel/haber/3680113-ysk-baskani-muttadan-secim-uyarisi-tarihi-bir-zorunluluk",
+   "https://www.haber7.com/guncel/haber/3680114-gida-sahtekarliginda-basi-ceken-6-urun-belli-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2155,10 +2155,6 @@
   ]
  },
  "recent_titles": [
-  "altı üstü istanbulun pamuku bakın gerçekte kimin annesiymiş oğlu kızılcık şerbetinden",
-  "abi dizisinde ayrılık rüzgarı bir isim daha ekibe veda ediyor",
-  "sevdam karadeniz ne zaman başlayacak işte konusu ve oyuncu kadrosu",
-  "nato zirvesi sosyal medyanın şaka kaynağı oldu",
   "trumpın kızıyım diyen necla özmen ne yaşıyor ünlü psikiyatrist teşhisi koydu",
   "var mısın yok musunda kritik an teklifi kabul etti kutu açılınca şoka girdi",
   "trtnin asırlık gece dizisi geliyor işte ilk tanıtım",
@@ -3654,6 +3650,10 @@
   "kuzeyboruda hedef vakıfbank galibiyeti",
   "ysk başkanı muttadan seçim uyarısı tarihi bir zorunluluk",
   "begüm yücel milli takımlara verdikleri katkıdan dolayı gururlu",
-  "sakaryada hayvan toplama istasyonunda 20 köpek öldü barınak tahliye ediliyor"
+  "sakaryada hayvan toplama istasyonunda 20 köpek öldü barınak tahliye ediliyor",
+  "gıda sahtekarlığında başı çeken 6 ürün belli oldu",
+  "taha akgül ve rıza kayaalp futbol oynadı",
+  "iran duyurdu katar ve pakistanın arabuluculuk faaliyetleri sürüyor",
+  "siaka bakayoko kasımpaşa maçı öncesi değerlendirmede bulundu"
  ]
 }
