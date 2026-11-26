@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/lucas-torreira-galibiyeti-gece-kulubunde-kutladi-h1585409",
-   "https://www.ensonhaber.com/bursada-isci-servisi-ile-hafif-ticari-aracin-karistigi-kazada-8-kisi-yaralandi-h1585411",
-   "https://www.ensonhaber.com/turkiyede-motosikletlerin-katettigi-mesafe-10-yilda-28-kat-artti-h1585412",
    "https://www.ensonhaber.com/abdulkadir-uraloglu-hgsde-usule-uygun-yapilmamis-butun-odemeleri-iade-ettirecegiz-h1585410",
    "https://www.ensonhaber.com/var-misin-yok-musun-hilal-ne-kadar-kazandi-kutusundan-servet-cikti-h1585414",
    "https://www.ensonhaber.com/artvin-yollarinda-geri-donusum-mesaisi-en-sadik-yol-arkadasi-kedisi-h1585413",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/2027nin-sansli-burcu-belli-uzerine-para-yagacak-h1585901",
    "https://www.ensonhaber.com/topladigi-coplerden-ev-yapti-simdi-turistleri-agirliyor-h1585902",
    "https://www.ensonhaber.com/mhk-baskani-anthony-taylor-hakem-kararlarini-degerlendirdi-galatasaray-ve-besiktas-h1585903",
-   "https://www.ensonhaber.com/derya-ulugun-gelinligi-gundem-oldu-680-bin-tl-h1585904"
+   "https://www.ensonhaber.com/derya-ulugun-gelinligi-gundem-oldu-680-bin-tl-h1585904",
+   "https://www.ensonhaber.com/giorgia-meloni-savasin-akdenize-sicramayacagina-inaniyorum-h1585905",
+   "https://www.ensonhaber.com/merkez-bankasi-rezervleri-1429-milyar-dolar-h1585906",
+   "https://www.ensonhaber.com/turkiyenin-en-karli-noktalari-belli-oldu-zirvede-142-santimle-rize-palovit-yaylasi-var-h1585907"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679509-corumda-bag-evinde-patlayici-cikti-muhtar-tutuklandi",
    "https://spor.haber7.com/galatasaray/haber/3679508-aston-villa-macina-saatler-kala-leroy-sane-icin-flas-iddia",
    "https://spor.haber7.com/spor/haber/3679507-turk-futbolunda-bu-da-oldu-mac-sonu-rakibine-kafa-atmisti-cezaevine-gonderildi",
    "https://spor.haber7.com/basketbol/haber/3679588-fenerbahce-deplasmanda-barcelonayi-devirdi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680062-yuz-binlerce-saglik-calisanina-mujdeli-haber-yillardir-uygulaniyordu-iptal-edildi",
    "https://www.haber7.com/dunya/haber/3680068-ocaktaki-duduklu-tencere-bomba-gibi-patladi",
    "https://www.haber7.com/guncel/haber/3680070-evde-dogum-yapip-bebegini-cope-atan-anneye-muebbet-hapis",
-   "https://www.haber7.com/dunya/haber/3680073-pasinyan-ruslara-resmen-cekilin-dedi-ermenistan-34-yillik-karari-bozuyor"
+   "https://www.haber7.com/dunya/haber/3680073-pasinyan-ruslara-resmen-cekilin-dedi-ermenistan-34-yillik-karari-bozuyor",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680075-bakan-bolat-rakamlari-paylasti-hizmet-ihracatinda-128-milyar-dolar-hedefi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2136,11 +2136,6 @@
   ]
  },
  "recent_titles": [
-  "şırnakta kayalıklarda mahsur kalan 2 mühendis kurtarıldı",
-  "akın gürlek paylaştı 19 şüpheliye yasa dışı bahis operasyonu",
-  "eskişehirde yolcu otobüsü devrildi",
-  "kontrolden çıkan kömür yüklü tır akaryakıt istasyonuna girdi 1 ölü",
-  "erzincanda sıcak hava hayvanları da zorluyor",
   "ankarada organize suç örgütüne operasyon",
   "eskişehirde komşu aileler arasında kavga 1i polis 11 yaralı",
   "bursada bıçaklı kavga 3 yaralı",
@@ -3635,6 +3630,11 @@
   "mhk başkanı anthony taylor hakem kararlarını değerlendirdi galatasaray ve beşiktaş",
   "derya uluğun gelinliği gündem oldu 680 bin tl",
   "giorgia meloni savaşın akdenize sıçramayacağına inanıyorum",
-  "merkez bankası rezervleri 1429 milyar dolar"
+  "merkez bankası rezervleri 1429 milyar dolar",
+  "bakan bolat rakamları paylaştı hizmet ihracatında 128 milyar dolar hedefi",
+  "son dakikakuveyt iranın düzenlediği saldırıda kritik tesis hedef alındı",
+  "bu devlet benim devletim diyen chpli vekilden cop31 övgüsü",
+  "anthony taylor açıkladı galatasarayın golünde ofsayt var mı",
+  "türkiyenin en karlı noktaları belli oldu zirvede 142 santimle rize palovit yaylası var"
  ]
 }
