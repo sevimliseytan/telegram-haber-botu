@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/trump-ulkenin-ilk-musluman-senatoru-sayed-ile-saglik-hizmeti-planini-gorusecek-h1585508",
-   "https://www.ensonhaber.com/abdde-tatil-sezonu-satislarina-trilyon-dolarlik-tahmin-h1585509",
    "https://www.ensonhaber.com/turkiyede-daha-cevreci-soda-kulu-uretimine-8-yil-vadeli-finansman-h1585510",
    "https://www.ensonhaber.com/turk-f-16larindan-ara-inissiz-11-bin-kilometrelik-ucus-h1585511",
    "https://www.ensonhaber.com/ilker-aksum-indirime-karsi-ben-ucretimi-dusurmem-h1585512",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/temsilcilerimiz-avrupada-bu-hafta-4te-4-yapti-h1586001",
    "https://www.ensonhaber.com/samsunda-bogazina-yiyecek-kacan-ogrenciyi-kantin-gorevlisi-kurtardi-h1586002",
    "https://www.ensonhaber.com/ergin-ataman-basketbol-kalitesinden-memnun-degilim-h1586003",
-   "https://www.ensonhaber.com/yazarlar/adem-metan/ahlakimiza-ne-oldu"
+   "https://www.ensonhaber.com/yazarlar/adem-metan/ahlakimiza-ne-oldu",
+   "https://www.ensonhaber.com/ibrahim-haciosmanoglu-bebek-katili-bir-ulkenin-takimi-bu-topraklarda-oynayamaz-h1586004",
+   "https://www.ensonhaber.com/istanbul-buyukcekmecede-ehliyetsiz-surucunun-carptigi-kadin-oldu-h1586005"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2178,7 +2178,6 @@
   ]
  },
  "recent_titles": [
-  "trumpın sus payı davasında yeni gelişme mahkumiyet kararının kaldırılması gündeme gelebilir",
   "fatura ve ödeme sisteminde yeni dönem resmi gazetede yayımlandı",
   "bakan kurumdan ab heyetine mesaj biz kabile devleti değiliz",
   "kartal belediyesine operasyon 10 şüpheli gözaltına alındı",
@@ -3677,6 +3676,7 @@
   "ergin ataman basketbol kalitesinden memnun değilim",
   "dmitriyev biden yönetimi sosyal medyayı silah olarak kullandı",
   "ahlakimiza ne oldu",
-  "ibrahim hacıosmanoğlu bebek katili bir ülkenin takımı bu topraklarda oynayamaz"
+  "ibrahim hacıosmanoğlu bebek katili bir ülkenin takımı bu topraklarda oynayamaz",
+  "istanbul büyükçekmecede ehliyetsiz sürücünün çarptığı kadın öldü"
  ]
 }
