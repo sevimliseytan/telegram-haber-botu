@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-yabanci-basina-silahli-roportaj-veren-ceteye-operasyon-9-gozalti-h1585498",
    "https://www.ensonhaber.com/arda-gulerle-ispanyol-muhabirin-gulumseten-anlari-roportaji-abi-diyerek-bitirdi-h1585499",
    "https://www.ensonhaber.com/yargitay-uyeligine-5-isim-secildi-h1585500",
    "https://www.ensonhaber.com/yeni-partide-myk-belli-oldu-h1585501",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/orkun-kokcunun-sevinc-gozyaslari-h1585991",
    "https://www.ensonhaber.com/a-milli-erkek-basketbol-takimi-italyaya-yenildi-29334-h1585992",
    "https://www.ensonhaber.com/besiktas-baskani-adali-gurcistan-polisinin-orantisiz-guc-uygulamasi-hos-degildi-h1585993",
-   "https://www.ensonhaber.com/salih-ozcan-bu-aksam-oynanan-mac-milli-bir-mesele-oldu-h1585994"
+   "https://www.ensonhaber.com/salih-ozcan-bu-aksam-oynanan-mac-milli-bir-mesele-oldu-h1585994",
+   "https://www.ensonhaber.com/besiktasli-oyunculardan-galibiyet-pozu-h1585995"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679712-binadakiler-deprem-oluyor-sandi-yalovada-panik-anlari-tahliye-edildiler",
    "https://spor.haber7.com/spor/haber/3679711-kazak-gazetecilerin-cikolata-ikrami-sonrasi-yasananlar-viral-oldu",
    "https://spor.haber7.com/trabzonspor/haber/3679713-trabzonspor-cska-sofya-macinin-kamp-kadrosunu-acikladi",
    "https://www.haber7.com/guncel/haber/3679714-cop31de-milletvekili-sena-nur-celik-kanattan-uc-programda-iklim-diplomasisi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680167-kubra-yigitbasi-medya-kadin-ve-toplumsal-sorumluluk-panelinde-konustu",
    "https://www.haber7.com/guncel/haber/3680169-icisleri-bakani-ciftci-ogrencilik-yillarindaki-sozlu-sinav-anilarini-paylasti",
    "https://www.haber7.com/guncel/haber/3680168-iletisim-baskani-durandan-apnin-turkiye-libya-mutabakatina-iliskin-kararina-tepki",
-   "https://spor.haber7.com/besiktas/haber/3680170-serdal-adalidan-olayli-gurcistan-gecesi-sonrasi-taraftar-aciklamasi-2-yarali-var"
+   "https://spor.haber7.com/besiktas/haber/3680170-serdal-adalidan-olayli-gurcistan-gecesi-sonrasi-taraftar-aciklamasi-2-yarali-var",
+   "https://spor.haber7.com/besiktas/haber/3680149-omer-celik-numan-kurtulmus-bakan-bak-besiktasa-buyuk-destek-tum-turkiye-yaninda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2174,10 +2174,6 @@
   ]
  },
  "recent_titles": [
-  "bakan uraloğlu hedef 32 şehir dedi açıkladı ankaraistanbul yolculuğu 80 dakikaya inecek",
-  "orhan şen 3 gün sürecek diyerek tarih verdi istanbula kar yağacak mı",
-  "kim milyoner olmak isterde 1 milyon lirayı kaybettiren cumhurbaşkanı sorusu sosyal medyayı karıştırdı",
-  "kremlin rusya abd ve ukrayna arasındaki üçlü müzakerelerin yeni tur tarihi henüz belirlenmedi",
   "abdde demokrat kongre üyesi gomez hakkında karar meclis çalışanına cinsel tacizde bulunduğu sonucuna varıldı",
   "fatma betül sayan kaya ev hapsi şartıyla tahliye edildi",
   "kredi kartlarında yeni dönem kredi kartı nakit avans ve kmh faizlerinde 3 yıl sonra ilk indirim",
@@ -3673,6 +3669,10 @@
   "a milli erkek basketbol takımı italyaya yenildi",
   "beşiktaş başkanı adalı gürcistan polisi orantısız güç kullandı",
   "serdal adalıdan olaylı gürcistan gecesi sonrası taraftar açıklaması 2 yaralı var",
-  "salih özcan bu akşam oynanan maç milli bir mesele oldu"
+  "salih özcan bu akşam oynanan maç milli bir mesele oldu",
+  "ömer çelik numan kurtulmuş bakan bak beşiktaşa büyük destek tüm türkiye yanında",
+  "beşiktaşın yıldızları zaferin ardından konuştu milli mesele oldu",
+  "beşiktaştan beer sheva maçına özel galibiyet pozu filistin unutulmadı",
+  "beşiktaşlı oyunculardan galibiyet pozu"
  ]
 }
