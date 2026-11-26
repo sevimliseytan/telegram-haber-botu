@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kayseride-polisten-kacan-surucu-yakalandi-650-bin-tl-ceza-yazildi-h1585386",
    "https://www.ensonhaber.com/sinopta-silahli-saldirida-1-kisi-yaralandi-h1585387",
    "https://www.ensonhaber.com/boluda-evde-cikan-yangin-sonduruldu-h1585388",
    "https://www.ensonhaber.com/natodan-turkiyeye-taziye-mesaji-56754-h1585389",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ingilterede-yillik-goc-son-30-yilin-en-dusuk-seviyesine-indi-h1585878",
    "https://www.ensonhaber.com/ikinci-ev-alacaklara-kredi-firsati-konut-kredisinde-sinirlama-kaldirildi-h1585877",
    "https://www.ensonhaber.com/sanliurfada-akrabalarin-tasli-sopali-kavgasi-6-yarali-h1585879",
-   "https://www.ensonhaber.com/igdirdaki-mustehcenlik-operasyonunda-3-kisi-tutuklandi-h1585880"
+   "https://www.ensonhaber.com/igdirdaki-mustehcenlik-operasyonunda-3-kisi-tutuklandi-h1585880",
+   "https://www.ensonhaber.com/is-yeri-satislarinda-dikkat-ceken-ayrisma-ilk-el-artti-ikinci-el-geriledi-h1585881"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -1852,7 +1852,8 @@
    "https://www.mynet.com/magazin/eren-kasikci-nin-otopsi-raporu-ortaya-cikti-130100607735",
    "https://www.mynet.com/magazin/acun-ilicali-kararini-verdi-survivor-yarismacilarini-halk-sececek-130100607738",
    "https://www.mynet.com/magazin/survivor-2027-ne-zaman-baslayacak-buyuk-odul-belli-oldu-130100607744",
-   "https://www.mynet.com/magazin/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-130100607747"
+   "https://www.mynet.com/magazin/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-130100607747",
+   "https://www.mynet.com/magazin/dogukan-gungor-un-o-itirafi-akla-sude-zulal-guler-i-getirdi-130100607699"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2130,8 +2131,6 @@
   ]
  },
  "recent_titles": [
-  "82 yaşındaki nebahat çehre tatilde mayolu fotoğraf geldi",
-  "ebru şahin ve cedi osman portekizde lizbondan tatil kareleri paylaşıldı",
   "7 ameliyat olmuştu aslı bekiroğlu yorumlara ateş püskürdü",
   "aşktan yüzü gülmüyor simge sağın dj sevgilisi ilkay şencandan ayrıldı",
   "bertuğ yıldırımın oğluna verdiği isim gündem oldu",
@@ -3629,6 +3628,8 @@
   "iğdırdaki müstehcenlik operasyonunda 3 kişi tutuklandı",
   "mustafa keserin acı günü 48 yıllık eşi nilüfer keser hayatını kaybetti",
   "mustafa keserin acı günü 48 yıllık hayat arkadaşını kaybetti",
-  "merkez bankası rezervleri geriledi"
+  "merkez bankası rezervleri geriledi",
+  "iş yeri satışlarında dikkat çeken ayrışma ilk el arttı ikinci el geriledi",
+  "doğukan güngörün o itirafı akla sude zülal güleri getirdi"
  ]
 }
