@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/100-milyon-yillik-fosil-su-uzerinde-yuruyebilen-cekirge-turunu-ortaya-cikardi-h1585503",
    "https://www.ensonhaber.com/fenerbahce-sampiyonlar-liginde-son-3-maca-3-farkli-hocayla-cikacak-h1585504",
    "https://www.ensonhaber.com/hande-ercel-33-yasinda-dogum-gunu-karelerine-begeni-yagdi-h1585505",
    "https://www.ensonhaber.com/bursada-tir-dorsesinden-ucan-karton-motosikletlinin-kaskina-yapisti-h1585506",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/istanbul-zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-h1585996",
    "https://www.ensonhaber.com/vincenzo-italiano-yasananlardan-dolayi-uzgunum-h1585997",
    "https://www.ensonhaber.com/orkun-kokcu-filistin-icin-kazandik-h1585998",
-   "https://www.ensonhaber.com/kassoum-ouattaradan-paylasim-tum-ezilen-insanlar-icin-h1585999"
+   "https://www.ensonhaber.com/kassoum-ouattaradan-paylasim-tum-ezilen-insanlar-icin-h1585999",
+   "https://www.ensonhaber.com/istanbul-gaziosmanpasada-185-bin-uyusturucu-hap-ele-gecirildi-2-gozalti-h1586000"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679718-siddet-magduru-kadinlara-724-kesintisiz-destek-sonim",
    "https://www.haber7.com/guncel/haber/3679720-torpile-karsi-ezber-bozan-uygulama-baskan-gulpinar-sozunu-tuttu-bizzat-baskanlik-etti",
    "https://www.haber7.com/dunya/haber/3679719-yunan-basinindan-turkiye-itirafi-sida-hayali-ankara-duvarina-carpti",
    "https://www.haber7.com/teknoloji/haber/3679722-areda-survey-arastirdi-turk-halkinin-yuzde-743u-slot-oyunlarina-karsi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680173-gurcu-polisinden-buyuk-ikiyuzluluk-israil-bayragini-gormezden-geldiler",
    "https://spor.haber7.com/besiktas/haber/3680174-italianodan-zafer-sonrasi-ilk-sozler-hep-boyle-olmaliyiz",
    "https://spor.haber7.com/spor/haber/3680175-besiktasin-kaptanindan-filistin-aciklamasi-bizim-tarafimiz-belli",
-   "https://spor.haber7.com/besiktas/haber/3680149-siyasilerden-besiktasa-buyuk-destek-tum-turkiye-yaninda"
+   "https://spor.haber7.com/besiktas/haber/3680149-siyasilerden-besiktasa-buyuk-destek-tum-turkiye-yaninda",
+   "https://www.haber7.com/dunya/haber/3680176-fransiz-haber-ajansi-afp-siber-saldiriya-ugradi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2174,10 +2174,6 @@
   ]
  },
  "recent_titles": [
-  "telefonu açıp sadece alo demeniz bile yeterli dolandırıcıların yeni yöntemine dikkat",
-  "aslan ihbarı üzerine jandarmanın bekleyişi sürüyor",
-  "fon soruşturmasında yeni gelişme bulls yatırım yönetim kurulu başkanı kemal akkaya gözaltına alındı",
-  "uzmanı açıkladı zayıflama iğneleri körlüğe yol açıyor mu",
   "bahçeli ister bakan olsun ister belediye başkanı yolsuzluğa hiçbir şekilde müsamaha gösterme niyetinde değiliz",
   "istanbulda kış yüzünü gösteriyor sıcaklıklar 0 dereceye kadar düşecek",
   "finlandiya körfezinde saldırıya uğrayan kuru yük gemisi st petersburg limanına çekildi",
@@ -3673,6 +3669,10 @@
   "vincenzo italiano yaşananlardan dolayı üzgünüm",
   "orkun kökçü filistin için kazandık",
   "siyasilerden beşiktaşa büyük destek tüm türkiye yanında",
-  "kassoum ouattaradan paylaşım tüm ezilen insanlar için"
+  "kassoum ouattaradan paylaşım tüm ezilen insanlar için",
+  "fransız haber ajansı afp siber saldırıya uğradı",
+  "beşiktaş yendi hacıosmanoğlu resti çekti bebek katili bu topraklarda oynayamaz",
+  "sultangazide beton mikseri dehşeti yaya geçidinde çarptığı kadın hayatını kaybetti",
+  "istanbul gaziosmanpaşada 185 bin uyuşturucu hap ele geçirildi 2 gözaltı"
  ]
 }
