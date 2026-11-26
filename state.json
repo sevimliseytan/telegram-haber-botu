@@ -253,12 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ak-partideki-gorevlerinden-istifa-eden-hayati-yazici-yazili-aciklama-yayinladi-h1585340",
-   "https://www.ensonhaber.com/burhanettin-duran-ozgur-ozelin-cumhurbaskani-erdogani-hedef-alan-sozlerini-kinadi-h1585339",
-   "https://www.ensonhaber.com/cumhurbaskani-erdogan-ogretmenlere-saygi-gecesi-programinda-konusuyor-h1585331",
-   "https://www.ensonhaber.com/diyarbakirda-magarada-cok-sayida-kafatasi-ve-kemik-bulundu-h1585283",
-   "https://www.ensonhaber.com/son-dakika-hayati-yazici-ak-partideki-tum-gorevlerinden-istifa-etti-h1585337",
-   "https://www.ensonhaber.com/bu-da-oldu-tekirdagda-bir-aracin-hava-yastigindan-buyu-cikti-h1585336",
    "https://www.ensonhaber.com/super-ligde-12-haftanin-var-kayitlari-yayinlandi-98203-h1585335",
    "https://www.ensonhaber.com/rams-parkin-zemini-aston-villa-macina-hazir-h1585334",
    "https://www.ensonhaber.com/devler-liginde-5-hafta-basladi-iste-sonuclar-h1585381",
@@ -752,7 +746,13 @@
    "https://www.ensonhaber.com/aydinda-almanya-vatandasi-petra-islami-secti-adi-melek-oldu-h1585864",
    "https://www.ensonhaber.com/derya-ulug-ve-asil-gokun-yas-farki-sasirtti-h1585865",
    "https://www.ensonhaber.com/galatasaraya-besiktas-derbisi-oncesi-victor-osimhen-gelismesi-h1585866",
-   "https://www.ensonhaber.com/izlanda-aciklarinda-balikci-gemisi-batti-17-denizciden-3u-oldu-h1585867"
+   "https://www.ensonhaber.com/izlanda-aciklarinda-balikci-gemisi-batti-17-denizciden-3u-oldu-h1585867",
+   "https://www.ensonhaber.com/eskisehirde-sehit-olan-hava-pilot-albay-mehmet-col-son-yolculuguna-ugurlandi-h1585868",
+   "https://www.ensonhaber.com/yeni-suzuki-ignis-tanitildi-artik-tamamen-elektrikli-h1585869",
+   "https://www.ensonhaber.com/abnin-en-kritik-zirvesi-basladi-butce-ve-ukrayna-konusu-masada-h1585870",
+   "https://www.ensonhaber.com/mgk-cumhurbaskani-erdogan-baskanliginda-toplandi-57695-h1585871",
+   "https://www.ensonhaber.com/rusyada-abye-uyari-ukraynaya-maddi-destegini-surmesi-baris-sureci-icin-iyi-olmayacak-h1585872",
+   "https://www.ensonhaber.com/bayburtta-sicaklik-sifirin-altinda-162-derece-olculdu-h1585873"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/avrupa-ligleri/haber/3679535-hakan-calhanoglundan-kotu-haber-inter-duyurdu",
    "https://spor.haber7.com/futbol/haber/3679534-montelladan-hakan-calhanoglu-sozleri-ona-agir-geliyor",
    "https://www.haber7.com/guncel/haber/3679532-marmara-dahil-bircok-bolgeye-kar-geliyor-istanbula-yagacak-mi",
    "https://www.haber7.com/dunya/haber/3679531-irak-savunma-bakanindan-talimat-ulke-genelinde-tum-askeri-birlikler-cekiliyor",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/ulkede-bugun/haber/3680039-turkiyenin-en-karli-noktalari-belli-oldu-ilk-sirada-bu-il-var",
    "https://ekonomi.haber7.com/ekonomi/haber/3680041-visadan-a-ticaret-donemine-isik-tutan-rapor-tuketicilerin-yuzde-84u-destek-almaya-hazir",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680042-fenerbahce-ve-galatasaray-yuzumuzu-guldurduler-iste-uefa-ulke-puaninda-son-durum",
-   "https://www.haber7.com/guncel/haber/3680043-fon-sorusturmasinda-hareketli-dakikalar"
+   "https://www.haber7.com/guncel/haber/3680043-fon-sorusturmasinda-hareketli-dakikalar",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680045-adi-aciklanmayan-ulkeden-dev-siparis-izmirli-savunma-sanayii-firmasi-kapa-bildirim-yapti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2098,7 +2098,8 @@
    "https://anlatilaninotesi.com.tr/20261126/gazzede-salgin-alarmi-menenjit-vakalari-hizla-artiyor-1110611240.html",
    "https://anlatilaninotesi.com.tr/20261126/dunyanin-ilk-super-modellerinden-veruschka-87-yasinda-hayatini-kaybetti-1110611445.html",
    "https://anlatilaninotesi.com.tr/20261126/avrupanin-dogal-gaz-rezervleri-hizla-azaliyor-depolarda-tarihi-dusuk-seviye-1110607814.html",
-   "https://anlatilaninotesi.com.tr/20261126/endonezyadaki-maden-faciasinda-bilanco-agirlasiyor-can-kaybi-13e-yukseldi-1110608161.html"
+   "https://anlatilaninotesi.com.tr/20261126/endonezyadaki-maden-faciasinda-bilanco-agirlasiyor-can-kaybi-13e-yukseldi-1110608161.html",
+   "https://anlatilaninotesi.com.tr/20261126/rusya-savunma-bakanligi-son-24-saatte-872-iha-dusuruldu-1110612179.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2126,11 +2127,6 @@
   ]
  },
  "recent_titles": [
-  "opecin petrol üretimi haziranda 305 milyon varil arttı",
-  "erzurum ve erzincanda trüf mantarından 30 milyon liralık kazanç",
-  "ömer bolat fatih karahan ile bir araya geldi",
-  "masaktan fetöpdynin finansal yapısına sıkı takip",
-  "transatlantic diyarbakırda günlük 250 bin varil petrol üretilebilecek",
   "dondurma ustası aranan meslekler arasına girdi",
   "ofislerin konuta dönüştürülmesi süreci kolaylaştırıldı",
   "intercityden 143 milyar tl yatırım",
@@ -3625,6 +3621,11 @@
   "eskişehirde şehit olan hava pilot albay mehmet çöl son yolculuğuna uğurlandı",
   "yeni suzuki ignis tanıtıldı artık tamamen elektrikli",
   "abnin en kritik zirvesi başladı bütçe ve ukrayna konusu masada",
-  "rusyada abye uyarı ukraynaya maddi desteğini sürmesi barış süreci için iyi olmayacak"
+  "rusyada abye uyarı ukraynaya maddi desteğini sürmesi barış süreci için iyi olmayacak",
+  "adı açıklanmayan ülkeden dev sipariş izmirli savunma sanayii firması kapa bildirim yaptı",
+  "cumhurbaşkanı erdoğan başkanlığındaki kritik mgk başladı",
+  "bayburtta sıcaklık sıfırın altında 162 derece ölçüldü",
+  "meriç araldan serkan keskine doğum günü kutlaması beni her zaman şaşırtıyorsun",
+  "bankaların kredi hacmi 99 milyar lira azaldı"
  ]
 }
