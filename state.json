@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/real-madridde-arda-guler-sov-mbappe-dayanamadi-golden-sonra-parmagiyla-gosterdi-h1585446",
-   "https://www.ensonhaber.com/israilli-sporcuyu-1-saniyede-yenen-milli-sporcu-gazze-icin-zulme-direnc-gosterdim-h1585447",
-   "https://www.ensonhaber.com/81-ile-resmen-cokecek-carsamba-geliyor-pazar-gidiyor-h1585448",
    "https://www.ensonhaber.com/istanbulda-4-lastik-degismeli-diyerek-tuketiciyi-yaniltan-otomotiv-servisi-denetlendi-h1585449",
    "https://www.ensonhaber.com/korfezde-enerji-dengesi-degisti-iranin-gelirleri-yuzde-75-eridi-h1585450",
    "https://www.ensonhaber.com/abdde-dev-dalgalar-adami-ve-kopegini-denize-surukledi-ikisi-de-son-anda-kurtuldu-h1585451",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/besiktas-taraftarindan-filistine-ozgurluk-pankarti-h1585939",
    "https://www.ensonhaber.com/byd-tai-9-tanitildi-direksiyonu-katlanip-konsola-saklanan-ilk-seri-uretim-otomobil-h1585940",
    "https://www.ensonhaber.com/turkiye-ve-suudi-arabistan-arasinda-savunma-sanayisi-alaninda-is-birligi-mutabakati-h1585941",
-   "https://www.ensonhaber.com/oguzhan-cakir-ilk-kez-besiktas-galatasaray-derbisinde-duduk-calacak-h1585942"
+   "https://www.ensonhaber.com/oguzhan-cakir-ilk-kez-besiktas-galatasaray-derbisinde-duduk-calacak-h1585942",
+   "https://www.ensonhaber.com/mersinde-otomobille-carpisan-motosikletin-surucusu-yasamini-yitirdi-h1585943",
+   "https://www.ensonhaber.com/genclerbirliginin-transfer-yasagi-kalkti-73520-h1585944",
+   "https://www.ensonhaber.com/anadolu-efes-fatts-russell-ile-yollarini-ayirdi-h1585945"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679635-gullu-dosyasinda-gizemli-sesin-sirri-cozuluyor-dikkat-ceken-ayrinti-ortaya-cikti",
    "https://spor.haber7.com/spor/haber/3679637-tekrar-olsa-yine-yaparim-milli-sporcu-ilk-kez-konustu",
    "https://www.haber7.com/guncel/haber/3679636-gaflet-uykusu",
    "https://www.haber7.com/guncel/haber/3679638-istanbullular-dikkat-bugun-bazi-yollar-trafige-kapali-olacak",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680076-kuveytte-kritik-tesise-iha-saldirisi-romadan-aciklama-2-italyan-hayatini-kaybetti",
    "https://www.haber7.com/guncel/haber/3680103-sanliurfada-silahli-kavga-7-yarali",
    "https://spor.haber7.com/super-lig/haber/3680104-derbi-biletleri-satisa-cikiyor-fiyatlar-aciklandi",
-   "https://spor.haber7.com/super-lig/haber/3680105-amedde-diagne-defteri-kapandi-ayrilik-resmen-aciklandi"
+   "https://spor.haber7.com/super-lig/haber/3680105-amedde-diagne-defteri-kapandi-ayrilik-resmen-aciklandi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680106-bakan-bayraktar-duyurdu-turkiye-afrikada-enerji-ortakligi-kurdu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2151,9 +2151,6 @@
   ]
  },
  "recent_titles": [
-  "lucas torreira kız arkadaşıyla görüntülendi",
-  "üç büyüklerden 15 temmuz mesajı",
-  "beşiktaşta vaclav cernye teklif geldi",
   "alman basınından can uzun iddiası galatasaraya söz vermedi",
   "samsunspor cheick tidiane diabateye imzayı attırdı",
   "var mısın yok musunda nefes kesen dakikalar doğru karar servet getirdi",
@@ -3650,6 +3647,9 @@
   "oğuzhan çakır ilk kez beşiktaş  galatasaray derbisinde düdük çalacak",
   "mersinde otomobille çarpışan motosikletin sürücüsü yaşamını yitirdi",
   "gençlerbirliğinin transfer yasağı kalktı",
-  "rus ordusu ukraynada askeri sanayi işletmelerine elektrik sağlayan trafo merkezlerini vurdu"
+  "rus ordusu ukraynada askeri sanayi işletmelerine elektrik sağlayan trafo merkezlerini vurdu",
+  "bakan bayraktar duyurdu türkiye afrikada enerji ortaklığı kurdu",
+  "anadolu efes fatts russell ile yollarını ayırdı",
+  "ziraat bankkart yacine louatiyi transfer etti"
  ]
 }
