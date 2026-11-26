@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kurtulmus-terorsuz-turkiye-surecinde-izleme-komisyonu-19-uyeden-olusacak-h1585396",
-   "https://www.ensonhaber.com/ufuk-beydemir-baba-oldu-iste-bebegin-adi-h1585397",
    "https://www.ensonhaber.com/istanbulda-freni-bosalan-tir-gecekondunun-bahcesine-girdi-h1585398",
    "https://www.ensonhaber.com/son-dakika-fon-sorusturmasinda-1-kisi-daha-tutuklandi-h1585399",
    "https://www.ensonhaber.com/serenay-sarikaya-hayvanseverlere-seslendi-satin-alma-sahiplen-h1585400",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/almanya-federal-meclisinde-eski-mossad-baskanina-protesto-h1585888",
    "https://www.ensonhaber.com/yabanci-yatirimcilarin-tahvil-ve-hisse-portfoyu-azaldi-h1585889",
    "https://www.ensonhaber.com/erbilde-irak-hukumetinin-kararlari-protesto-edildi-h1585890",
-   "https://www.ensonhaber.com/baba-vanganin-2027-kehanetleri-putin-altin-ve-gizemli-hastalik-h1585891"
+   "https://www.ensonhaber.com/baba-vanganin-2027-kehanetleri-putin-altin-ve-gizemli-hastalik-h1585891",
+   "https://www.ensonhaber.com/mustafa-keserin-aci-gunu-48-yillik-esi-hayatini-kaybetti-h1585892",
+   "https://www.ensonhaber.com/sevda-turkusev-celal-sengorun-turk-kadini-kompleksi-var-h1585893"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679517-havzada-iki-otomobil-carpisti-2-yarali",
    "https://www.haber7.com/guncel/haber/3679516-erciyeste-kar-yagisi-etkili-oldu-beyaza-burundu",
    "https://www.haber7.com/guncel/haber/3679515-diyarbakirda-bir-magarada-bircok-kafatasi-ve-kemik-bulundu-ekipler-harekete-gecti",
    "https://spor.haber7.com/ikinci-lig/haber/3679514-sivassporda-rey-manaj-soku-sehri-terk-etti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680058-ben-gvirin-soykirim-dolu-ifadeleri-tepki-cekti",
    "https://www.haber7.com/seyahat/haber/3680059-94-yildir-trenlerin-uzerinde-yasiyorlar-balikesirdeki-koy-demir-yolu-ile-dikkat-cekiyor",
    "https://spor.haber7.com/spor/haber/3680060-taha-akgul-ve-riza-kayaalp-sosyal-sorumluluk-projesi-kapsaminda-yesil-sahaya-cikti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680061-zeytin-ureticilerine-590-milyon-tl-mujdesi-odeme-tarihi-belli-oldu"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680061-zeytin-ureticilerine-590-milyon-tl-mujdesi-odeme-tarihi-belli-oldu",
+   "https://www.haber7.com/guncel/haber/3680063-girnedeki-filo-jet-faciasinda-aranan-eski-gemici-yakalandi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2128,13 +2128,11 @@
    "https://www.turkiyehaberajansi.com/narkotik-uzmani-zafer-ercan-in-narkotik-oykuler-kitabi-cikti/131924/",
    "https://www.turkiyehaberajansi.com/polise-ihbar-yapti-geregi-yapilmayinca-gerekcesini-sordu/131923/",
    "https://www.turkiyehaberajansi.com/okullarda-ogrencilere-trafik-guvenligi-bilinci-kazandiriliyor/131943/",
-   "https://www.turkiyehaberajansi.com/sayin-valim-edirne-sizi-unutmayacak/131944/"
+   "https://www.turkiyehaberajansi.com/sayin-valim-edirne-sizi-unutmayacak/131944/",
+   "https://www.turkiyehaberajansi.com/vali-simsek-onceligimiz-can-ve-mal-guvenligi-ile-guvenli-ulasim/131945/"
   ]
  },
  "recent_titles": [
-  "neslihan atagülden ayna pozu hayranları çok beğendi",
-  "yüz nakli olan didem ceran isyan etti beni kıskanıyorsunuz",
-  "dilan polatın kızı nilda polatın son haline yorum yağdı aynı annesi",
   "zeynep mansur geçirdiği trafik kazasını anlattı bir yıl yataktan kalkamadım",
   "yeşilçamın sarışın güzeli hale soygazinin son hali gündem oldu",
   "kızılcık şerbetinde kriz bitmiyor senaryo değişti",
@@ -3631,6 +3629,9 @@
   "taha akgül ve rıza kayaalp sosyal sorumluluk projesi kapsamında yeşil sahaya çıktı",
   "zeytin üreticilerine 590 milyon tl müjdesi ödeme tarihi belli oldu",
   "baba vanganın 2027 kehanetleri putin altın ve gizemli hastalık",
-  "sevda türküsev celal şengörün türk kadını kompleksi var"
+  "sevda türküsev celal şengörün türk kadını kompleksi var",
+  "girnedeki filo jet faciasında aranan eski gemici yakalandı",
+  "yüzbinlerce sağlık çalışanına müjdeli haber yıllardır uygulanıyordu iptal edildi",
+  "vali şimşek  önceliğimiz can ve mal güvenliği ile güvenli ulaşım"
  ]
 }
