@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sile-belediyesi-davasinda-tanikligi-dinlenen-haluk-levent-yeliz-kaya-yerine-benim-tutuklan-h1585466",
    "https://www.ensonhaber.com/tammy-abrahamdan-besiktas-sozleri-ozluyorum-h1585467",
    "https://www.ensonhaber.com/melis-sezen-amerikada-pozlari-begeni-yagmuruna-tutuldu-h1585468",
    "https://www.ensonhaber.com/yeni-konutlarda-dikkat-ceken-artis-iskan-alan-daire-sayisi-yuzde-21-yukseldi-h1585469",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/disisleri-bakanligindan-apnin-libya-mutabakat-muhtirasi-hakkindaki-kararina-tepki-h1585959",
    "https://www.ensonhaber.com/cevdet-yilmaz-duyurdu-fonda-olagan-tasfiyeler-tamamlandi-h1585960",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinin-ilk-11leri-h1585961",
-   "https://www.ensonhaber.com/cevdet-yilmaz-fon-odemelerinde-hazineden-tek-kurus-harcanmadi-h1585962"
+   "https://www.ensonhaber.com/cevdet-yilmaz-fon-odemelerinde-hazineden-tek-kurus-harcanmadi-h1585962",
+   "https://www.ensonhaber.com/akin-gurlekten-fon-sorusturmasi-aciklamasi-sureci-cerrahi-bir-titizlikle-ele-aliyoruz-h1585963"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/yasam/haber/3679657-baliga-rakip-cikti-omega-3-sampiyonu-oldu-kapis-kapis-gidiyor",
    "https://www.haber7.com/dunya/haber/3679658-abd-istihbarat-teskilatinda-yeni-sizinti",
    "https://ekonomi.haber7.com/ekonomi/haber/3679659-kefil-magdurlarina-yargitaydan-emsal-karar-bu-sartlar-yoksa-borctan-sorumlu-degilsiniz",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3679660-besiktas-israil-ekibine-karsi-uefa-avrupa-liginde-5-haftanin-programi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680123-baskan-altay-vefa-umresi-ile-kutsal-topraklara-giden-gaziyi-evinde-ziyaret-etti",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-ilk-11ler-belli-oldu",
    "https://spor.haber7.com/spor/haber/3680124-turkiyenin-istanbulda-olimpiyat-oyunlarina-ev-sahipligi-yapma-vizyonu-iocye-sunuldu",
-   "https://www.haber7.com/guncel/haber/3680125-bakanliktan-7-kisilik-aile-icin-aciklama-gecici-olarak-otele-yerlestirildiler"
+   "https://www.haber7.com/guncel/haber/3680125-bakanliktan-7-kisilik-aile-icin-aciklama-gecici-olarak-otele-yerlestirildiler",
+   "https://www.haber7.com/dunya/haber/3680126-rum-yonetimi-ilan-etti-gkryden-kktc-karari-yogunlastiracagiz-deyip-duyurdular"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2159,9 +2159,6 @@
   ]
  },
  "recent_titles": [
-  "sezon finalinde ayrılmıştı uzak şehir demirin yeni adresi belli oldu",
-  "daha 17nin hakanı bakın kim çıktı meğer serenay sarıkayayla",
-  "daha 17nin teomanı ata yaşatın küçüklüğüne bakın minik atayı tanıdınız mı",
   "altı üstü istanbul 4 bölüm fragmanı emir ve uzay öldü mü",
   "sosyal medya onu konuşuyor daha 17deki oyuncu megan foxa benzetildi",
   "altı üstü istanbuldaki ziyankar mahallesi bakın neresi çıktı o detay ele verdi",
@@ -3658,6 +3655,9 @@
   "türkiyenin istanbulda olimpiyat oyunlarına ev sahipliği yapma vizyonu iocye sunuldu",
   "beşiktaş  hapoel beersheva maçının ilk 11leri",
   "cevdet yılmaz fon ödemelerinde hazineden tek kuruş harcanmadı",
-  "bakanlıktan 7 kişilik aile için açıklama geçici olarak otele yerleştirildiler"
+  "bakanlıktan 7 kişilik aile için açıklama geçici olarak otele yerleştirildiler",
+  "rum yönetimi ilan etti gkryden kktc kararı yoğunlaştıracağız deyip duyurdular",
+  "türkiyenin otomotiv sektöründeki stratejik rolü avrupa basınına tanıtıldı",
+  "akın gürlekten fon soruşturması açıklaması süreci cerrahi bir titizlikle ele alıyoruz"
  ]
 }
