@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/abdde-dev-dalgalar-adami-ve-kopegini-denize-surukledi-ikisi-de-son-anda-kurtuldu-h1585451",
    "https://www.ensonhaber.com/bursada-850-polisle-uyusturucu-operasyonu-122-gozalti-h1585452",
    "https://www.ensonhaber.com/borsa-istanbul-gune-dususle-basladi-29002-h1585453",
    "https://www.ensonhaber.com/ekrem-imamoglunun-diplomasi-iptal-edildi-h1585454",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/genclerbirliginin-transfer-yasagi-kalkti-73520-h1585944",
    "https://www.ensonhaber.com/anadolu-efes-fatts-russell-ile-yollarini-ayirdi-h1585945",
    "https://www.ensonhaber.com/ziraat-bankkart-yacine-louatiyi-transfer-etti-h1585946",
-   "https://www.ensonhaber.com/qazim-laci-kasimpasa-macindan-umutlu-h1585947"
+   "https://www.ensonhaber.com/qazim-laci-kasimpasa-macindan-umutlu-h1585947",
+   "https://www.ensonhaber.com/tff-yeni-klasman-temsilci-aday-kursu-duzenlenecegini-duyurdu-h1585948"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679636-gaflet-uykusu",
    "https://www.haber7.com/guncel/haber/3679638-istanbullular-dikkat-bugun-bazi-yollar-trafige-kapali-olacak",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3679639-besiktas-gurcistanda-hapoel-beer-shevayi-konuk-edecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3679641-bankada-parasi-olanlar-dikkat-devlet-garantisinde-o-detayi-bilmeyen-kaybeder",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/super-lig/haber/3680104-derbi-biletleri-satisa-cikiyor-fiyatlar-aciklandi",
    "https://spor.haber7.com/super-lig/haber/3680105-amedde-diagne-defteri-kapandi-ayrilik-resmen-aciklandi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680106-bakan-bayraktar-duyurdu-turkiye-afrikada-enerji-ortakligi-kurdu",
-   "https://www.haber7.com/kultur/haber/3680108-antalya-expo-icin-yeni-donem-dev-kongre-ve-fuar-merkezine-donusuyor"
+   "https://www.haber7.com/kultur/haber/3680108-antalya-expo-icin-yeni-donem-dev-kongre-ve-fuar-merkezine-donusuyor",
+   "https://www.haber7.com/guncel/haber/3680107-otobuste-kalbi-duran-yolcuya-soforden-hayat-kurtaran-mudahale-o-anlar-kamerada"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2122,7 +2122,8 @@
    "https://anlatilaninotesi.com.tr/20261126/son-dakika-haberleri-gerard-depardieu-cinsel-saldiri-suclamasiyla-hakim-karsisina-cikacak-1110616128.html",
    "https://anlatilaninotesi.com.tr/20261126/antrenmanlara-cikmamisti-amedspordan-mbaye-diagne-karari-1110616442.html",
    "https://anlatilaninotesi.com.tr/20261126/ticaret-bakanligindan-sahte-indirim-reklamina-yaptirim-1110616548.html",
-   "https://anlatilaninotesi.com.tr/20261126/rus-ordusu-ukraynada-askeri-sanayi-isletmelerine-elektrik-saglayan-trafo-merkezlerini-vurdu-1110616652.html"
+   "https://anlatilaninotesi.com.tr/20261126/rus-ordusu-ukraynada-askeri-sanayi-isletmelerine-elektrik-saglayan-trafo-merkezlerini-vurdu-1110616652.html",
+   "https://anlatilaninotesi.com.tr/20261126/onumuzdeki-iki-yilda-yapay-zekyi-fiziksel-hayatin-bir-parcasi-olarak-gorecegiz-1110616804.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2152,7 +2153,6 @@
   ]
  },
  "recent_titles": [
-  "kaza haberini somer şef verdi masterchef yarışmacısı devam edemeyecek",
   "tolgshow ekranlara geri dönüyor işte yayın tarihi ve konukları",
   "var mısın yok musunda rekor kutusuna giden yarışmacı 3 milyon tl kazandı",
   "yeraltı dizisine sürpriz oyuncu bozonun kızı geliyor ama ceylandan değil",
@@ -3651,6 +3651,7 @@
   "otobüste kalbi duran yolcuya şoförden hayat kurtaran müdahale o anlar kamerada",
   "qazim laçi kasımpaşa maçından umutlu",
   "tff yeni klasman temsilci aday kursu düzenleneceğini duyurdu",
-  "almanyada tedavi görüyordu killa hakandan yeni haber"
+  "almanyada tedavi görüyordu killa hakandan yeni haber",
+  "önümüzdeki iki yılda yapay zekâyı fiziksel hayatın bir parçası olarak göreceğiz"
  ]
 }
