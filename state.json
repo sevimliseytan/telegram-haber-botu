@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/samed-agirbas-bm-iklim-degisikligi-icra-sekreteri-simon-stiell-ile-gorustu-h1585344",
-   "https://www.ensonhaber.com/donald-trump-duyurdu-abd-2031-fifa-kadinlar-dunya-kupasina-ev-sahipligi-yapacak-h1585343",
-   "https://www.ensonhaber.com/eczacibasi-tent-obrenovac-karsisinda-zorlanmadi-h1585342",
-   "https://www.ensonhaber.com/fenerbahce-vasas-obudaya-set-vermedi-h1585341",
    "https://www.ensonhaber.com/ak-partideki-gorevlerinden-istifa-eden-hayati-yazici-yazili-aciklama-yayinladi-h1585340",
    "https://www.ensonhaber.com/burhanettin-duran-ozgur-ozelin-cumhurbaskani-erdogani-hedef-alan-sozlerini-kinadi-h1585339",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-ogretmenlere-saygi-gecesi-programinda-konusuyor-h1585331",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/vanda-havalarin-sogumasiyla-terzilerde-yogunluk-basladi-h1585860",
    "https://www.ensonhaber.com/sampiyonlar-liginde-gecenin-olayi-actigi-cukura-carpan-top-gol-oldu-h1585861",
    "https://www.ensonhaber.com/murat-kurumdan-cop31-cikisi-cati-karar-muzakerelerinde-son-dakikaya-kadar-gayret-ettik-h1585862",
-   "https://www.ensonhaber.com/26-yil-boyunca-gobek-deliginden-cikanlari-biriktirdi-uc-kavanozu-doldurdu-h1585863"
+   "https://www.ensonhaber.com/26-yil-boyunca-gobek-deliginden-cikanlari-biriktirdi-uc-kavanozu-doldurdu-h1585863",
+   "https://www.ensonhaber.com/aydinda-almanya-vatandasi-petra-islami-secti-adi-melek-oldu-h1585864",
+   "https://www.ensonhaber.com/derya-ulug-ve-asil-gokun-yas-farki-sasirtti-h1585865",
+   "https://www.ensonhaber.com/galatasaraya-besiktas-derbisi-oncesi-victor-osimhen-gelismesi-h1585866",
+   "https://www.ensonhaber.com/izlanda-aciklarinda-balikci-gemisi-batti-17-denizciden-3u-oldu-h1585867"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/fenerbahce/haber/3679539-fenerbahcede-5-yildiz-topun-agzinda-ocakta-veda-edilebilir",
-   "https://www.haber7.com/guncel/haber/3679538-sislideki-otomotiv-servisine-ceza-tuketiciyi-yaniltan-uygulamalar-tek-tek-ortaya-cikti",
-   "https://www.haber7.com/egitim/haber/3679537-yokten-uluslararasi-ogrencilerine-kayit-kolayligi-saglayacak-duzenleme",
-   "https://www.haber7.com/siyaset/haber/3679536-yaymandan-yeni-partiye-tepki-siyasi-rekabet-ayri-siyasi-dusmanlik-ayridir",
    "https://spor.haber7.com/avrupa-ligleri/haber/3679535-hakan-calhanoglundan-kotu-haber-inter-duyurdu",
    "https://spor.haber7.com/futbol/haber/3679534-montelladan-hakan-calhanoglu-sozleri-ona-agir-geliyor",
    "https://www.haber7.com/guncel/haber/3679532-marmara-dahil-bircok-bolgeye-kar-geliyor-istanbula-yagacak-mi",
@@ -1391,7 +1387,11 @@
    "https://www.haber7.com/guncel/haber/3680038-995-bin-kisinin-saglik-raporu-hastaneye-gitmeden-yenilendi",
    "https://www.haber7.com/ulkede-bugun/haber/3680039-turkiyenin-en-karli-noktalari-belli-oldu",
    "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-bu-koye-tasinana-1-milyon-lira-verilecek",
-   "https://www.haber7.com/guncel/haber/3679976-turkiye-sehitlerine-veda-ediyor-4-sehirde-son-yolculuklarina-ugurlaniyorlar"
+   "https://www.haber7.com/guncel/haber/3679976-turkiye-sehitlerine-veda-ediyor-4-sehirde-son-yolculuklarina-ugurlaniyorlar",
+   "https://www.haber7.com/ulkede-bugun/haber/3680039-turkiyenin-en-karli-noktalari-belli-oldu-ilk-sirada-bu-il-var",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680041-visadan-a-ticaret-donemine-isik-tutan-rapor-tuketicilerin-yuzde-84u-destek-almaya-hazir",
+   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680042-fenerbahce-ve-galatasaray-yuzumuzu-guldurduler-iste-uefa-ulke-puaninda-son-durum",
+   "https://www.haber7.com/guncel/haber/3680043-fon-sorusturmasinda-hareketli-dakikalar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2126,12 +2126,6 @@
   ]
  },
  "recent_titles": [
-  "benzine zam geliyor pompa fiyatlarına yansıyacak",
-  "körfez yeniden ısınıyor brent petrol 80 doları aştı",
-  "cumhurbaşkanı erdoğan duyurdu imalat sanayi için 250 milyar liralık bir finansman",
-  "mehmet şimşek cari açığın sürdürülebilirliği ekonomiye direnç kazandırıyor",
-  "altının kilogram fiyatı 6 milyon 141 bin liraya düştü",
-  "abden sudanın altın ticaretine yaptırım",
   "opecin petrol üretimi haziranda 305 milyon varil arttı",
   "erzurum ve erzincanda trüf mantarından 30 milyon liralık kazanç",
   "ömer bolat fatih karahan ile bir araya geldi",
@@ -3625,6 +3619,12 @@
   "aydında almanya vatandaşı petra islamı seçti adı melek oldu",
   "derya uluğ ve asil gökün yaş farkı şaşırttı",
   "galatasaraya beşiktaş derbisi öncesi victor osimhen gelişmesi",
-  "survivor 2027 ne zaman başlayacak büyük ödül belli oldu"
+  "survivor 2027 ne zaman başlayacak büyük ödül belli oldu",
+  "fon soruşturmasında hareketli dakikalar",
+  "izlanda açıklarında balıkçı gemisi battı 17 denizciden 3ü öldü",
+  "eskişehirde şehit olan hava pilot albay mehmet çöl son yolculuğuna uğurlandı",
+  "yeni suzuki ignis tanıtıldı artık tamamen elektrikli",
+  "abnin en kritik zirvesi başladı bütçe ve ukrayna konusu masada",
+  "rusyada abye uyarı ukraynaya maddi desteğini sürmesi barış süreci için iyi olmayacak"
  ]
 }
