@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/bursada-tir-dorsesinden-ucan-karton-motosikletlinin-kaskina-yapisti-h1585506",
    "https://www.ensonhaber.com/ankara-toptanci-halinde-esnafi-tehdit-eden-27-supheli-yakalandi-h1585507",
    "https://www.ensonhaber.com/trump-ulkenin-ilk-musluman-senatoru-sayed-ile-saglik-hizmeti-planini-gorusecek-h1585508",
    "https://www.ensonhaber.com/abdde-tatil-sezonu-satislarina-trilyon-dolarlik-tahmin-h1585509",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/kassoum-ouattaradan-paylasim-tum-ezilen-insanlar-icin-h1585999",
    "https://www.ensonhaber.com/istanbul-gaziosmanpasada-185-bin-uyusturucu-hap-ele-gecirildi-2-gozalti-h1586000",
    "https://www.ensonhaber.com/temsilcilerimiz-avrupada-bu-hafta-4te-4-yapti-h1586001",
-   "https://www.ensonhaber.com/samsunda-bogazina-yiyecek-kacan-ogrenciyi-kantin-gorevlisi-kurtardi-h1586002"
+   "https://www.ensonhaber.com/samsunda-bogazina-yiyecek-kacan-ogrenciyi-kantin-gorevlisi-kurtardi-h1586002",
+   "https://www.ensonhaber.com/ergin-ataman-basketbol-kalitesinden-memnun-degilim-h1586003"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2147,7 +2147,8 @@
    "https://anlatilaninotesi.com.tr/20261127/bagdat-erbil-krizi-ikby-kontrolundeki-iki-sinir-kapisi-kapatildi-1110624329.html",
    "https://anlatilaninotesi.com.tr/20261127/bakanlik-istanbuldaki-7-kisilik-aile-icin-harekete-gecti-1110624694.html",
    "https://anlatilaninotesi.com.tr/20261127/trabzonspor-cska-sofyaya-karsi-2-1-kazandi-1110624988.html",
-   "https://anlatilaninotesi.com.tr/20261127/serdal-adali-gurcistan-polisinin-cok-dengesiz-ve-suursuzca-orantisizca-bir-mudahalesi-vardi-1110625087.html"
+   "https://anlatilaninotesi.com.tr/20261127/serdal-adali-gurcistan-polisinin-cok-dengesiz-ve-suursuzca-orantisizca-bir-mudahalesi-vardi-1110625087.html",
+   "https://anlatilaninotesi.com.tr/20261127/dmitriyev-biden-yonetimi-sosyal-medyayi-silah-olarak-kullandi-1110625440.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2177,8 +2178,6 @@
   ]
  },
  "recent_titles": [
-  "batı basını pentagon ukraynaya patriot füzesi sevkiyatını geciktiriyor",
-  "putinden kushnere tarihi arşiv sürprizi dedesinin nazilere karşı mücadelesine dair dosyayı gösterdi",
   "iran meclis başkanı kalibaf 7 şart yerine getirilmeden abd ile müzakere yapılmayacak",
   "cevdet yılmaz emekli zammına ilişkin çalışma henüz bitmedi diyerek duyurdu farklı yöntemler alternatifler var",
   "trumpın sus payı davasında yeni gelişme mahkumiyet kararının kaldırılması gündeme gelebilir",
@@ -3676,6 +3675,8 @@
   "trabzonspor cska sofyaya karşı 21 kazandı",
   "temsilcilerimiz avrupada bu hafta 4te 4 yaptı",
   "serdal adalı gürcistan polisinin çok dengesiz ve şuursuzca orantısızca bir müdahalesi vardı",
-  "samsunda boğazına yiyecek kaçan öğrenciyi kantin görevlisi kurtardı"
+  "samsunda boğazına yiyecek kaçan öğrenciyi kantin görevlisi kurtardı",
+  "ergin ataman basketbol kalitesinden memnun değilim",
+  "dmitriyev biden yönetimi sosyal medyayı silah olarak kullandı"
  ]
 }
