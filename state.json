@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/mersinde-nitelikli-dolandiricilik-operasyonu-8-tutuklama-h1585370",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-ile-cocukken-fotograf-cektiren-yusuf-alperen-ayar-kilis-valisi-oldu-h1585379",
    "https://www.ensonhaber.com/israilde-azinlik-hukumeti-formulu-eisenkot-gelecek-hafta-dugmeye-basiyor-h1585380",
    "https://www.ensonhaber.com/fenerbahce-shakhtar-donetsk-maci-hazirliklarini-tamamladi-h1585352",
@@ -751,7 +750,9 @@
    "https://www.ensonhaber.com/banka-ve-araci-kurumlarin-kasim-ayi-enflasyon-beklentisi-h1585823",
    "https://www.ensonhaber.com/elon-musktan-abddeki-her-cocuga-ikiser-spacex-hissesi-sozu-h1585824",
    "https://www.ensonhaber.com/renault-yeniden-yapilanmaya-gidiyor-1000-kisi-isten-cikarilacak-h1585825",
-   "https://www.ensonhaber.com/merkez-bankasi-altin-alimlarini-durdurdu-h1585826"
+   "https://www.ensonhaber.com/merkez-bankasi-altin-alimlarini-durdurdu-h1585826",
+   "https://www.ensonhaber.com/aymden-imamoglunun-tutukluluk-basvurusuna-ret-h1585821",
+   "https://www.ensonhaber.com/istanbulda-goruntusuyle-dikkat-ceken-temizlik-personeli-gulum-aciklama-yapti-h1585827"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -891,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/medya/haber/3679567-bik-ve-turkpatentten-basin-sektoru-icin-kritik-is-birligi-egitimler-basliyor",
    "https://spor.haber7.com/fenerbahce/haber/3679566-emre-belozoglundan-arda-turana-yanit-macin-ardindan",
    "https://www.haber7.com/guncel/haber/3679565-istanbulun-tescilli-lezzeti-eminonu-balik-ekmek-tanitildi",
    "https://www.haber7.com/dunya/haber/3679561-polonya-hava-sahasi-ihlali-nedeniyle-rusyaya-nota-verdi",
@@ -1390,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680008-trabzonda-nefes-kesen-kurtarma-mahsur-kalan-kopege-akut-eli-uzandi",
    "https://spor.haber7.com/super-lig/haber/3680009-besiktas-galatasaray-derbisinin-hakemi-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-kaldirimdaki-yayalara-carpti",
-   "https://www.haber7.com/guncel/haber/3680011-aymden-imamoglu-karari-tutukluluguna-itiraz-edilmisti"
+   "https://www.haber7.com/guncel/haber/3680011-aymden-imamoglu-karari-tutukluluguna-itiraz-edilmisti",
+   "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -3596,6 +3597,10 @@
   "aymden ekrem imamoğlunun başvurusuna ret",
   "aymden imamoğlu kararı tutukluluğuna itiraz edilmişti",
   "merkez bankası altın alımlarını durdurdu",
-  "aymden imamoğlunun tutukluluğu için hak ihlali yok kararı"
+  "aymden imamoğlunun tutukluluğu için hak ihlali yok kararı",
+  "altın karınca ödüllerinde ümraniyenin çifte başarısı",
+  "istanbulda görüntüsüyle dikkat çeken temizlik personeli gülüm açıklama yaptı",
+  "evli olmadığı ortaya çıkan kişi hakkında verilen boşanma kararını yargıtay bozdu",
+  "sarımsakların kökünü yakın bakın ne işe yarıyor"
  ]
 }
