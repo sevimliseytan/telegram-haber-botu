@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kadina-siddete-hayir-mesajlari-2026-kadina-siddetle-mucadele-gunu-sozleri-h1585496",
-   "https://www.ensonhaber.com/akin-gurlek-imrali-heyeti-uyeleriyle-gorustu-h1585497",
    "https://www.ensonhaber.com/istanbulda-yabanci-basina-silahli-roportaj-veren-ceteye-operasyon-9-gozalti-h1585498",
    "https://www.ensonhaber.com/arda-gulerle-ispanyol-muhabirin-gulumseten-anlari-roportaji-abi-diyerek-bitirdi-h1585499",
    "https://www.ensonhaber.com/yargitay-uyeligine-5-isim-secildi-h1585500",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/batmanda-silahli-kavga-2-yarali-h1585989",
    "https://www.ensonhaber.com/antalyada-5-kattan-dusen-kadin-can-verdi-2-tutuklama-h1585990",
    "https://www.ensonhaber.com/orkun-kokcunun-sevinc-gozyaslari-h1585991",
-   "https://www.ensonhaber.com/a-milli-erkek-basketbol-takimi-italyaya-yenildi-29334-h1585992"
+   "https://www.ensonhaber.com/a-milli-erkek-basketbol-takimi-italyaya-yenildi-29334-h1585992",
+   "https://www.ensonhaber.com/besiktas-baskani-adali-gurcistan-polisinin-orantisiz-guc-uygulamasi-hos-degildi-h1585993",
+   "https://www.ensonhaber.com/salih-ozcan-bu-aksam-oynanan-mac-milli-bir-mesele-oldu-h1585994"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/galatasaray/haber/3679708-gol-vurusunda-burnuna-darbe-almisti-galatasaraydan-deniz-gul-aciklamasi",
-   "https://www.haber7.com/kitap/haber/3679709-baskalarina-gosterdigimiz-sefkati-neden-kendimizden-esirgiyoruz",
-   "https://www.haber7.com/yasam/haber/3679710-1-kasik-yiyin-sekere-ve-tansiyona-iyi-geliyor-satis-rekoru-kirdi",
    "https://www.haber7.com/guncel/haber/3679712-binadakiler-deprem-oluyor-sandi-yalovada-panik-anlari-tahliye-edildiler",
    "https://spor.haber7.com/spor/haber/3679711-kazak-gazetecilerin-cikolata-ikrami-sonrasi-yasananlar-viral-oldu",
    "https://spor.haber7.com/trabzonspor/haber/3679713-trabzonspor-cska-sofya-macinin-kamp-kadrosunu-acikladi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/resmi-ilanlar/haber/3679770-boyabat-sulh-hukuk-mahkemesi-satis-memurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679768-kas-3-asliye-hukuk-mahkemesi-hakimligi",
    "https://spor.haber7.com/besiktas/haber/3680166-besiktasin-yildizindan-uefaya-filistin-cevabi-yaptigi-hareket-gundem-oldu",
-   "https://www.haber7.com/guncel/haber/3680167-kubra-yigitbasi-medya-kadin-ve-toplumsal-sorumluluk-panelinde-konustu"
+   "https://www.haber7.com/guncel/haber/3680167-kubra-yigitbasi-medya-kadin-ve-toplumsal-sorumluluk-panelinde-konustu",
+   "https://www.haber7.com/guncel/haber/3680169-icisleri-bakani-ciftci-ogrencilik-yillarindaki-sozlu-sinav-anilarini-paylasti",
+   "https://www.haber7.com/guncel/haber/3680168-iletisim-baskani-durandan-apnin-turkiye-libya-mutabakatina-iliskin-kararina-tepki",
+   "https://spor.haber7.com/besiktas/haber/3680170-serdal-adalidan-olayli-gurcistan-gecesi-sonrasi-taraftar-aciklamasi-2-yarali-var"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2174,8 +2174,6 @@
   ]
  },
  "recent_titles": [
-  "jensen huangın dönüşüyle ilgili yeni detaylar amerikan ekonomisi onsuz neden çöküyordu",
-  "aksarayda yolcu otobüsü devrildi onlarca yaralı var",
   "bakan uraloğlu hedef 32 şehir dedi açıkladı ankaraistanbul yolculuğu 80 dakikaya inecek",
   "orhan şen 3 gün sürecek diyerek tarih verdi istanbula kar yağacak mı",
   "kim milyoner olmak isterde 1 milyon lirayı kaybettiren cumhurbaşkanı sorusu sosyal medyayı karıştırdı",
@@ -3673,6 +3671,8 @@
   "içişleri bakanı çiftçi öğrencilik yıllarındaki sözlü sınav anılarını paylaştı",
   "iletişim başkanı durandan apnin türkiyelibya mutabakatına ilişkin kararına tepki",
   "a milli erkek basketbol takımı italyaya yenildi",
-  "beşiktaş başkanı adalı gürcistan polisi orantısız güç kullandı"
+  "beşiktaş başkanı adalı gürcistan polisi orantısız güç kullandı",
+  "serdal adalıdan olaylı gürcistan gecesi sonrası taraftar açıklaması 2 yaralı var",
+  "salih özcan bu akşam oynanan maç milli bir mesele oldu"
  ]
 }
