@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/dusan-alimpijevic-paris-basketbol-maci-degerlendirmesi-h1585360",
-   "https://www.ensonhaber.com/ankaraspor-teknik-direktor-mustafa-kaplan-ile-anlasti-h1585371",
    "https://www.ensonhaber.com/zerenspor-ok-herceg-noviyi-rahat-gecti-h1585369",
    "https://www.ensonhaber.com/abd-istihbaratinda-siber-ihlal-iddiasi-cia-ve-dnidan-bazi-bilgiler-sizdirildi-h1585368",
    "https://www.ensonhaber.com/trabzonda-saganak-yagis-gunluk-yasami-felc-etti-h1585349",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/tuvaludan-moldovaya-turistlerin-az-ziyaret-ettigi-ulkeler-h1585837",
    "https://www.ensonhaber.com/yunanli-vekil-mesnetsiz-ifadelerle-turkiyeyi-hedef-aldi-h1585838",
    "https://www.ensonhaber.com/mardinde-erkek-isi-algisini-yikan-muhendis-kadinlara-ilham-oluyor-h1585839",
-   "https://www.ensonhaber.com/survivor-nagihan-karadere-umreden-dondu-h1585840"
+   "https://www.ensonhaber.com/survivor-nagihan-karadere-umreden-dondu-h1585840",
+   "https://www.ensonhaber.com/kongoda-ebola-vakalari-12-bini-asti-h1585841",
+   "https://www.ensonhaber.com/borsa-gunun-ilk-yarisinda-pozitif-seyretti-h1585842"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/siyaset/haber/3679555-iletisim-baskani-durandan-yeni-parti-genel-baskani-ozele-tepki",
    "https://www.haber7.com/dunya/haber/3679554-nasa-marsta-parmak-izine-benzeyen-kaya-dizilimleri-kesfetti",
    "https://www.haber7.com/guncel/haber/3679511-magandalar-ambulans-soforune-saldirdi",
    "https://www.haber7.com/guncel/haber/3679552-eskisehirde-askeri-helikopter-dustu-5-asker-sehit-oldu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680022-ingilteredeki-fetoculer-birbirine-girdi38-milyon-sterlinlik-dava-prens-andrewa-uzandi",
    "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-parti-heyetini-kabul-etti",
    "https://www.haber7.com/dunya/haber/3680022-ingilteredeki-fetoculer-birbirine-girdi-servet-savasi-prens-andrewa-uzandi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680024-17-milyar-liralik-dev-hamle-turkiyede-bir-ilk-olan-tesis-kocaelide-uretime-gecti"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680024-17-milyar-liralik-dev-hamle-turkiyede-bir-ilk-olan-tesis-kocaelide-uretime-gecti",
+   "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-2-kisi-hayatini-kaybetti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2113,13 +2113,6 @@
   ]
  },
  "recent_titles": [
-  "süleyman soylu özgür özele açtığı manevi tazminat davasını kazandı",
-  "mhpde 3 ilde daha teşkilat değişimi",
-  "özgür özel ve kılıçdaroğlu taraftarı chpli kadınların sözlü kavgası",
-  "kılıçdaroğlu fetönün itleri yıldıramaz bizleri sloganlarını susturdu",
-  "chp grup toplantısı öncesi özgür özel destekçileri geceyi mecliste geçirdi",
-  "ali ihsan yavuz erken seçim provası söylemi çöktü",
-  "tanju özcan suç işlemediğimi düşünüyorum",
   "chp myk kılıçdaroğlu önderliğinde ikinci kez toplandı",
   "cemil çiçek kaliteli kanun üretemiyoruz",
   "chpde yüksek disiplin kurulu seçildi",
@@ -3612,6 +3605,13 @@
   "survivor nagihan karadere umreden döndü",
   "kongoda ebola vakaları 12 bini aştı",
   "alina boz rus annesi olga ile kamera karşısına geçti tıpkı annesi",
-  "aymden taraftarı ilgilendiren tribün yasağı kararı maç günü imza zorunluluğu kalkıyor"
+  "aymden taraftarı ilgilendiren tribün yasağı kararı maç günü imza zorunluluğu kalkıyor",
+  "istanbulda korkunç kaza 2 kişi hayatını kaybetti",
+  "vedat muriqi fenerbahçenin kasasını doldurdu",
+  "şampiyonlar liginde bruno fernandesin attığı gol viral oldu",
+  "borsa günün ilk yarısında pozitif seyretti",
+  "tüm tesla modellerine starlink uydu interneti geliyor elon musk tarih verdi",
+  "orkinos ihracatında japonya ilk sırada",
+  "mersinde kurtların ağıla girmesinin ardından kaybolan 90 keçi 5 gündür aranıyor"
  ]
 }
