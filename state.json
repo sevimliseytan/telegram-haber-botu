@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/tammy-abrahamdan-besiktas-sozleri-ozluyorum-h1585467",
    "https://www.ensonhaber.com/melis-sezen-amerikada-pozlari-begeni-yagmuruna-tutuldu-h1585468",
    "https://www.ensonhaber.com/yeni-konutlarda-dikkat-ceken-artis-iskan-alan-daire-sayisi-yuzde-21-yukseldi-h1585469",
    "https://www.ensonhaber.com/abdulkadir-uraloglu-turkiyenin-demir-yolu-agi-son-25-yilda-yuzde-30-buyudu-h1585470",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/cevdet-yilmaz-duyurdu-fonda-olagan-tasfiyeler-tamamlandi-h1585960",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinin-ilk-11leri-h1585961",
    "https://www.ensonhaber.com/cevdet-yilmaz-fon-odemelerinde-hazineden-tek-kurus-harcanmadi-h1585962",
-   "https://www.ensonhaber.com/akin-gurlekten-fon-sorusturmasi-aciklamasi-sureci-cerrahi-bir-titizlikle-ele-aliyoruz-h1585963"
+   "https://www.ensonhaber.com/akin-gurlekten-fon-sorusturmasi-aciklamasi-sureci-cerrahi-bir-titizlikle-ele-aliyoruz-h1585963",
+   "https://www.ensonhaber.com/turkiye-olimpiyat-ev-sahipligi-vizyonunu-iocye-sundu-h1585964"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3679660-besiktas-israil-ekibine-karsi-uefa-avrupa-liginde-5-haftanin-programi",
-   "https://www.haber7.com/guncel/haber/3679662-3-ay-once-cocugu-dogmustu-sehidin-son-paylasimi-yurekleri-yakti",
-   "https://www.haber7.com/guncel/haber/3679661-hafterden-ankaraya-ilk-resmi-ziyaret",
-   "https://www.haber7.com/3sayfa/haber/3679663-1-ay-once-evlenen-kardelenin-supheli-olumu-kocasi-tutuklandi",
    "https://www.haber7.com/guncel/haber/3679664-trabzonda-siddetli-yagis-sonrasi-istinat-duvari-araclarin-uzerine-coktu",
    "https://www.haber7.com/guncel/haber/3679665-ardahanda-kar-ve-buzlanma-iki-kara-yolu-agir-tonajli-araclara-kapatildi",
    "https://www.haber7.com/guncel/haber/3679665-denizlide-kavga-ihbari-uzerine-gidilen-evde-bir-kisi-olu-bulundu",
@@ -1391,7 +1387,11 @@
    "https://www.haber7.com/guncel/haber/3680125-bakanliktan-7-kisilik-aile-icin-aciklama-gecici-olarak-otele-yerlestirildiler",
    "https://www.haber7.com/dunya/haber/3680126-rum-yonetimi-ilan-etti-gkryden-kktc-karari-yogunlastiracagiz-deyip-duyurdular",
    "https://ekonomi.haber7.com/ekonomi/haber/3680127-turkiyenin-otomotiv-sektorundeki-stratejik-rolu-avrupa-basinina-tanitildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680128-ab-liderleri-yeni-butceyi-belirlemek-toplandi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680128-ab-liderleri-yeni-butceyi-belirlemek-toplandi",
+   "https://www.haber7.com/guncel/haber/3680129-bakanlik-tek-tek-tespit-ediyor-en-cok-bu-gidalarda-hile-yapiliyor",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680131-turkiyenin-gunes-enerjisi-kurulu-gucunun-yuzde-10u-konyada",
+   "https://www.haber7.com/guncel/haber/3680130-yilmazdan-fon-sorusturmasi-cikisi-hastalikli-yapilar-karantinaya-alindi",
+   "https://spor.haber7.com/besiktas/haber/3680132-italiano-rotasyon-karari-hakkinda-konustu-oynamayi-hak-etti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2160,9 +2160,6 @@
   ]
  },
  "recent_titles": [
-  "ünlülere uyuşturucu operasyonu özcan deniz burcu özberk murat başoğlu ve deniz çakır dahil 35 gözaltı",
-  "kızılcık şerbetinde yeni kriz o sahne sosyal medyayı salladı",
-  "görüntüler infial yaratmıştı demet akalın kayıtsız kalmadı",
   "şile belediyesi yolsuzluk davasında sıla tanıklık yaptı 625 bin lira ücretle ilgili bir bilgim yok hatırlamıyorum",
   "sibil çetinkayadan inanç açıklaması dua etmek benim en büyük motivasyon kaynağım",
   "avengers doomsdayden yeni fragman ve afiş geldi 18 aralıkta vizyonda",
@@ -3659,6 +3656,9 @@
   "ab liderleri yeni bütçeyi belirlemek toplandı",
   "bakanlık tek tek tespit ediyor en çok bu gıdalarda hile yapılıyor",
   "yılmazdan fon soruşturması çıkışı hastalıklı yapılar karantinaya alındı",
-  "altın yine düşüşte fedin faiz artırımı beklentisiyle 3 bin 572 dolara indi"
+  "altın yine düşüşte fedin faiz artırımı beklentisiyle 3 bin 572 dolara indi",
+  "italiano rotasyon kararı hakkında konuştu oynamayı hak etti",
+  "bakan gürlek açıkladı fon soruşturmasında 4536 milyar tl tahsil edildi",
+  "türkiye olimpiyat ev sahipliği vizyonunu iocye sundu"
  ]
 }
