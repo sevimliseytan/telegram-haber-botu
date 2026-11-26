@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/turk-telekom-gelecegi-genclerle-birlikte-insa-ediyor-h1585502",
    "https://www.ensonhaber.com/100-milyon-yillik-fosil-su-uzerinde-yuruyebilen-cekirge-turunu-ortaya-cikardi-h1585503",
    "https://www.ensonhaber.com/fenerbahce-sampiyonlar-liginde-son-3-maca-3-farkli-hocayla-cikacak-h1585504",
    "https://www.ensonhaber.com/hande-ercel-33-yasinda-dogum-gunu-karelerine-begeni-yagdi-h1585505",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/besiktasli-oyunculardan-galibiyet-pozu-h1585995",
    "https://www.ensonhaber.com/istanbul-zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-h1585996",
    "https://www.ensonhaber.com/vincenzo-italiano-yasananlardan-dolayi-uzgunum-h1585997",
-   "https://www.ensonhaber.com/orkun-kokcu-filistin-icin-kazandik-h1585998"
+   "https://www.ensonhaber.com/orkun-kokcu-filistin-icin-kazandik-h1585998",
+   "https://www.ensonhaber.com/kassoum-ouattaradan-paylasim-tum-ezilen-insanlar-icin-h1585999"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/otomobil/haber/3679717-fiattan-turkiye-yollarina-cifte-hamle-grizzly-ve-fastback-satista",
    "https://www.haber7.com/guncel/haber/3679718-siddet-magduru-kadinlara-724-kesintisiz-destek-sonim",
    "https://www.haber7.com/guncel/haber/3679720-torpile-karsi-ezber-bozan-uygulama-baskan-gulpinar-sozunu-tuttu-bizzat-baskanlik-etti",
    "https://www.haber7.com/dunya/haber/3679719-yunan-basinindan-turkiye-itirafi-sida-hayali-ankara-duvarina-carpti",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680172-besiktastan-beer-sheva-macina-ozel-galibiyet-pozu-filistin-unutulmadi",
    "https://spor.haber7.com/spor/haber/3680173-gurcu-polisinden-buyuk-ikiyuzluluk-israil-bayragini-gormezden-geldiler",
    "https://spor.haber7.com/besiktas/haber/3680174-italianodan-zafer-sonrasi-ilk-sozler-hep-boyle-olmaliyiz",
-   "https://spor.haber7.com/spor/haber/3680175-besiktasin-kaptanindan-filistin-aciklamasi-bizim-tarafimiz-belli"
+   "https://spor.haber7.com/spor/haber/3680175-besiktasin-kaptanindan-filistin-aciklamasi-bizim-tarafimiz-belli",
+   "https://spor.haber7.com/besiktas/haber/3680149-siyasilerden-besiktasa-buyuk-destek-tum-turkiye-yaninda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2174,8 +2174,6 @@
   ]
  },
  "recent_titles": [
-  "nato genel sekreteri rutteden ittifak ülkelerine savaşa hazırlık çağrısı",
-  "binanın duvarına yıldırım isabet etti tahliye edildi",
   "telefonu açıp sadece alo demeniz bile yeterli dolandırıcıların yeni yöntemine dikkat",
   "aslan ihbarı üzerine jandarmanın bekleyişi sürüyor",
   "fon soruşturmasında yeni gelişme bulls yatırım yönetim kurulu başkanı kemal akkaya gözaltına alındı",
@@ -3673,6 +3671,8 @@
   "italianodan zafer sonrası ilk sözler hep böyle olmalıyız",
   "beşiktaşın kaptanından filistin açıklaması bizim tarafımız belli",
   "vincenzo italiano yaşananlardan dolayı üzgünüm",
-  "orkun kökçü filistin için kazandık"
+  "orkun kökçü filistin için kazandık",
+  "siyasilerden beşiktaşa büyük destek tüm türkiye yanında",
+  "kassoum ouattaradan paylaşım tüm ezilen insanlar için"
  ]
 }
