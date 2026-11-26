@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ingilterede-asiri-sicaklar-5-binden-fazla-can-aldi-h1585417",
-   "https://www.ensonhaber.com/eskisehirde-5-askerimizin-sehit-oldugu-bolge-goruntulendi-h1585418",
    "https://www.ensonhaber.com/abdden-huaweiye-10-suclamadan-mahkumiyet-h1585419",
    "https://www.ensonhaber.com/deniz-gul-ameliyat-oldu-h1585420",
    "https://www.ensonhaber.com/kutahyada-motosiklet-ile-kamyonet-carpisti-2-yarali-h1585421",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/avrupada-en-cok-satan-elektrikli-otomobil-degisti-iste-zirvedeki-modeller-h1585909",
    "https://www.ensonhaber.com/arda-guler-107-milyonluk-yeni-arabasiyla-poz-verdi-h1585910",
    "https://www.ensonhaber.com/kayserili-sehit-gozyaslari-icerisinde-son-yolculuguna-ugurlandi-h1585911",
-   "https://www.ensonhaber.com/altinin-kilogram-fiyati-6-milyon-liraya-dustu-h1585912"
+   "https://www.ensonhaber.com/altinin-kilogram-fiyati-6-milyon-liraya-dustu-h1585912",
+   "https://www.ensonhaber.com/zonguldakta-cinsel-istismar-davasinda-saniga-17-yil-5-ay-hapis-cezasi-h1585913",
+   "https://www.ensonhaber.com/hikmet-cetinin-cenazesi-ankaraya-ugurlandi-h1585914"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679590-iraka-suriye-modeli-kriz-senaryolari-cope-atildi-25-kasim-2026-gazete-mansetleri",
-   "https://www.haber7.com/guncel/haber/3679591-esini-oldurdu-9-saat-teslim-olmayan-sahis-evde-kendisini-vurdu",
-   "https://www.haber7.com/guncel/haber/3679592-trabzonda-sel-ve-heyelan-dere-tasti-evleri-su-basti-yollar-kapandi",
    "https://www.haber7.com/guncel/haber/3679593-kis-geldi-meteorolojiden-20-ile-pes-pese-uyari",
    "https://www.haber7.com/guncel/haber/3679592-trabzonda-sel-ve-heyelan-zarha-deresi-tasti",
    "https://www.haber7.com/siyaset/haber/3679594-terorsuz-turkiye-surecinde-kritik-adim-19-uyeden-olusacak",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/dunya/haber/3680076-son-dakikakuveyt-iranin-duzenledigi-saldirida-kritik-tesis-hedef-alindi",
    "https://www.haber7.com/guncel/haber/3680077-bu-devlet-benim-devletim-diyen-chpli-vekilden-cop31-ovgusu",
    "https://spor.haber7.com/super-lig/haber/3680078-anthony-taylor-acikladi-galatasarayin-golunde-ofsayt-var-mi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680075-bakan-bolat-mujdeyi-verdi-ihracatta-2027-icin-65-milyar-liralik-destek-hedefi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680075-bakan-bolat-mujdeyi-verdi-ihracatta-2027-icin-65-milyar-liralik-destek-hedefi",
+   "https://spor.haber7.com/spor/haber/3680079-rakibine-kafa-attigi-icin-tutuklanmisti-tutuklu-futbolcu-icin-karar-cikti",
+   "https://www.haber7.com/guncel/haber/3680080-son-secimleri-bilen-sirketin-yayimladigi-yeni-anket-sonuclari-dikkat-cekti",
+   "https://www.haber7.com/guncel/haber/3680081-yeni-partili-belediyede-heykel-mesaisi-dedikoducu-kadinlar-yeniden-sokaklarda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2107,7 +2107,8 @@
    "https://anlatilaninotesi.com.tr/20261126/merkez-bankasi-rezervleri-geriledi-1110613172.html",
    "https://anlatilaninotesi.com.tr/20261126/milli-guvenlik-kurulu-toplandi-1110613479.html",
    "https://anlatilaninotesi.com.tr/20261126/rusya-basbakan-yardimcisi-novak-turkiyede-petrokimya-fabrikasinin-acilisina-katildi-1110613343.html",
-   "https://anlatilaninotesi.com.tr/20261126/avrupada-hazir-ol-donemi-acil-durum-cantasi-artik-herkesin-gundeminde-1110613972.html"
+   "https://anlatilaninotesi.com.tr/20261126/avrupada-hazir-ol-donemi-acil-durum-cantasi-artik-herkesin-gundeminde-1110613972.html",
+   "https://anlatilaninotesi.com.tr/20261126/yok-duyurdu-ogrenci-affi-icin-yeni-karar--1110614550.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2136,10 +2137,6 @@
   ]
  },
  "recent_titles": [
-  "şırnakta iranlı iki kişi 151 parça halinde yuttukları metamfetaminle yakalandı",
-  "heybeliadada geceyi aydınlatan kurtarma operasyonu",
-  "tekirdağda anız yangını ormana sıçradı havadan ve karadan müdahaleyle kontrol altına alındı",
-  "sivas merkezli 4 ildeki tarihi eser kaçakçılığı operasyonunda 18 şüpheli yakalandı",
   "istanbulda mahalleli ile esnaf arasında park yeri kavgası",
   "samsunda akrabasını araçla iki kez ezerek öldüren sanığa 18 yıl hapis",
   "eskişehirde seyir halindeki tankerin lastiği bomba gibi patladı",
@@ -3635,6 +3632,10 @@
   "rakibine kafa attığı için tutuklanmıştı tutuklu futbolcu için karar çıktı",
   "son seçimleri bilen şirketin yayımladığı yeni anket sonuçları dikkat çekti",
   "altının kilogram fiyatı 6 milyon liraya düştü",
-  "zonguldakta cinsel istismar davasında sanığa 17 yıl 5 ay hapis cezası"
+  "zonguldakta cinsel istismar davasında sanığa 17 yıl 5 ay hapis cezası",
+  "yeni partili belediyede heykel mesaisi dedikoducu kadınlar yeniden sokaklarda",
+  "fas ve israil anlaştı ortak askeri eylem planı yapacaklar",
+  "hikmet çetinin cenazesi ankaraya uğurlandı",
+  "yök duyurdu öğrenci affı için yeni karar"
  ]
 }
