@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sariyerdeki-olmayan-aslanin-hatirlattiklari-unlulerin-evcil-olmayan-hayvanlari-h1585514",
-   "https://www.ensonhaber.com/uyusturucu-sorusturmasinda-unluler-adliyede-h1585515",
    "https://www.ensonhaber.com/balkona-koyup-prize-takiyorlar-elektrik-masrafini-azaltiyor-h1585516",
    "https://www.ensonhaber.com/kruvaziyer-turizminde-indirim-donemi-basladi-h1585517",
    "https://www.ensonhaber.com/istanbuldaki-yanginda-dumandan-etkilenen-6-yasindaki-kiz-5-gunluk-yasam-mucadelesini-kaybe-h1585518",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/thomas-reis-mutlu-ve-gururluyum-h1586006",
    "https://www.ensonhaber.com/chibuike-nwaiwu-konferans-liginde-hedefimiz-kazanmak-h1586007",
    "https://www.ensonhaber.com/andre-onana-cok-onemli-bir-galibiyet-h1586008",
-   "https://www.ensonhaber.com/sidny-lopes-cabral-reaksiyon-gostermekte-gec-kaldim-h1586009"
+   "https://www.ensonhaber.com/sidny-lopes-cabral-reaksiyon-gostermekte-gec-kaldim-h1586009",
+   "https://www.ensonhaber.com/trump-putinin-askeri-saldirganligini-geri-cekmesini-istedim-h1586010",
+   "https://www.ensonhaber.com/noah-saviolo-takimimla-gurur-duyuyorum-h1586011"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679721-deniz-gul-atti-galatasaray-milyonlari-kazandi-sampiyonlar-ligi-geliri-guncellendi",
    "https://www.haber7.com/kitap/haber/3679725-yazar-abdullah-kibritci-siyah-develi-turku-anlatti",
    "https://www.haber7.com/medya/haber/3679724-kalbim-sana-emanette-aysenin-kacis-yolu-kendisini-kopruden-suya-atiyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679723-vodafone-business-ve-itu-siber-guvenlik-akademesini-hayata-gecirdi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680176-fransiz-haber-ajansi-afp-siber-saldiriya-ugradi",
    "https://spor.haber7.com/besiktas/haber/3680177-besiktas-yendi-haciosmanoglu-israili-hedef-aldi-bebek-katili-bu-topraklarda-oynayamaz",
    "https://www.haber7.com/3sayfa/haber/3680178-sultangazide-beton-mikseri-dehseti-yaya-gecidinde-carptigi-kadin-hayatini-kaybetti",
-   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-bulgaristanda-firtina-esti-trabzonspor-903te-geri-dondu"
+   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-bulgaristanda-firtina-esti-trabzonspor-903te-geri-dondu",
+   "https://spor.haber7.com/basketbol/haber/3680179-a-milli-takim-italyaya-kaybetti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2148,7 +2148,8 @@
    "https://anlatilaninotesi.com.tr/20261127/bakanlik-istanbuldaki-7-kisilik-aile-icin-harekete-gecti-1110624694.html",
    "https://anlatilaninotesi.com.tr/20261127/trabzonspor-cska-sofyaya-karsi-2-1-kazandi-1110624988.html",
    "https://anlatilaninotesi.com.tr/20261127/serdal-adali-gurcistan-polisinin-cok-dengesiz-ve-suursuzca-orantisizca-bir-mudahalesi-vardi-1110625087.html",
-   "https://anlatilaninotesi.com.tr/20261127/dmitriyev-biden-yonetimi-sosyal-medyayi-silah-olarak-kullandi-1110625440.html"
+   "https://anlatilaninotesi.com.tr/20261127/dmitriyev-biden-yonetimi-sosyal-medyayi-silah-olarak-kullandi-1110625440.html",
+   "https://anlatilaninotesi.com.tr/20261127/bddk-baskanligina-yusuf-kenan-bagir-atandi-1110625622.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2178,9 +2179,6 @@
   ]
  },
  "recent_titles": [
-  "rusya gece ukraynadaki askeri hedefleri vurdu",
-  "rusyada doğal gaz patlaması nedeniyle çöken binada 1 kişi öldü",
-  "2027 zamları belli oluyor pasaport ehliyet ve trafik cezaları",
   "altında tehlike geçmedi fransız bankadan kritik ocak uyarısı",
   "jandarmadan sanal devriye 407 siteye erişim engeli geldi",
   "meteoroloji 19 ili uyardı kar sağanak ve fırtına geliyor",
@@ -3677,6 +3675,9 @@
   "chibuike nwaiwu konferans liginde hedefimiz kazanmak",
   "andre onana çok önemli bir galibiyet",
   "sidny lopes cabral reaksiyon göstermekte geç kaldım",
-  "trump putinin askeri saldırganlığını geri çekmesini istedim"
+  "trump putinin askeri saldırganlığını geri çekmesini istedim",
+  "a milli takım italyaya kaybetti",
+  "bddk başkanlığına yusuf kenan bağır atandı",
+  "noah saviolo takımımla gurur duyuyorum"
  ]
 }
