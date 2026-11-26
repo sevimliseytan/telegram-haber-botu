@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679697-isik-ihlali-nedeniyle-otomobiller-carpisti-1-olu",
    "https://www.haber7.com/guncel/haber/3679698-istanbulu-dinliyoruz-bulusmalarinin-yedinci-duragi-umraniye",
    "https://ekonomi.haber7.com/ekonomi/haber/3679700-tbmm-baskani-kurtulmus-foncular-en-agir-sekilde-cezalandirilsin",
    "https://spor.haber7.com/besiktas/haber/3679699-hapoel-beer-sheva-maci-oncesi-sok-gelisme-besiktasin-yildizi-kadroda-yok-derbide",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680160-venezuelanin-en-buyuk-petrol-rafinerisinde-yangin-isciler-tahliye-edildi",
    "https://www.haber7.com/siyaset/haber/3680161-imamoglu-ekibine-mykda-da-nester-vuruldu-ozgur-ozel-agirligini-koydu",
    "https://spor.haber7.com/spor/haber/3680162-mesut-ozilden-besiktasa-destek-paylasimi",
-   "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-besiktas-taraftarina-saldirdi-gozaltilar-var"
+   "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-besiktas-taraftarina-saldirdi-gozaltilar-var",
+   "https://spor.haber7.com/spor/haber/3680163-gurcistanda-skandal-mudahale-besiktas-taraftarina-yumruklu-saldiri"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2172,8 +2172,6 @@
   ]
  },
  "recent_titles": [
-  "putin rus şirketleri küresel enerji piyasasında öncü rol oynuyor",
-  "eski ak partili üstün fatma betül sayan kaya vip yargılamayla tahliye edildi",
   "muğla milasta 46 büyüklüğünde deprem",
   "dmitriyev zelenskiyde minettarlık yok yalnızca tehdit ve gerilimi tırmandırma var",
   "cas kararını verdi 2025 afrika uluslar kupası şampiyonu belli oldu",
@@ -3671,6 +3669,8 @@
   "beşiktaştan paylaşım türkiye olarak hep birlikte kazandık",
   "kassoum ouattaradan uefaya tepki filistin bayrağını koydu",
   "mesut özilden beşiktaşa destek paylaşımı",
-  "batmanda silahlı kavga 2 yaralı"
+  "batmanda silahlı kavga 2 yaralı",
+  "gürcistanda skandal müdahale beşiktaş taraftarına yumruklu saldırı",
+  "ebola salgınında bilanço ağırlaşıyor 12 bin vaka 5 bin 904 ölüm"
  ]
 }
