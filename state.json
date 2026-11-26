@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-35-gozalti-h1585367",
    "https://www.ensonhaber.com/son-dakika-valiler-kararnamesi-yayimlandi-14-ilin-valisi-merkeze-cekildi-h1585377",
    "https://www.ensonhaber.com/davinson-sanchez-besiktas-macina-odaklanacagiz-h1585363",
    "https://www.ensonhaber.com/okan-buruk-oyuncularimla-gurur-duyuyorum-h1585364",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/istanbulda-goruntusuyle-dikkat-ceken-temizlik-personeli-gulum-aciklama-yapti-h1585827",
    "https://www.ensonhaber.com/evli-olmadigi-ortaya-cikan-kisi-hakkinda-verilen-bosanma-kararini-yargitay-bozdu-h1585828",
    "https://www.ensonhaber.com/sarimsaklarin-kokunu-yakin-bakin-ne-ise-yariyor-h1585829",
-   "https://www.ensonhaber.com/fatih-belediyesine-altin-karincadan-iki-odul-h1585830"
+   "https://www.ensonhaber.com/fatih-belediyesine-altin-karincadan-iki-odul-h1585830",
+   "https://www.ensonhaber.com/bagcilarda-otomobil-kaldirima-cikti-2-yaya-agir-yaralandi-h1585831"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/fenerbahce/haber/3679566-emre-belozoglundan-arda-turana-yanit-macin-ardindan",
    "https://www.haber7.com/guncel/haber/3679565-istanbulun-tescilli-lezzeti-eminonu-balik-ekmek-tanitildi",
    "https://www.haber7.com/dunya/haber/3679561-polonya-hava-sahasi-ihlali-nedeniyle-rusyaya-nota-verdi",
    "https://www.haber7.com/guncel/haber/3679564-eskisehirde-5-sehit-cumhurbaskani-erdogan-ve-siyaset-dunyasindan-taziye-mesajlari",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/super-lig/haber/3680009-besiktas-galatasaray-derbisinin-hakemi-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-kaldirimdaki-yayalara-carpti",
    "https://www.haber7.com/guncel/haber/3680011-aymden-imamoglu-karari-tutukluluguna-itiraz-edilmisti",
-   "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi"
+   "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi",
+   "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2080,7 +2080,8 @@
    "https://anlatilaninotesi.com.tr/20261126/istanbula-sibirya-soguklari-geliyor-akom-tarih-verdi-sicaklik-2-dereceye-dusecek-1110605833.html",
    "https://anlatilaninotesi.com.tr/20261126/kongo-demokratik-cumhuriyetinde-ebola-salgini-buyuyor-can-kaybi-6-bine-yaklasti-1110605498.html",
    "https://anlatilaninotesi.com.tr/20261126/aymden-ekrem-imamoglunun-basvurusuna-ret-1110606310.html",
-   "https://anlatilaninotesi.com.tr/20261126/trumptan-jensen-huanga-af-sinyali-abdnin-nvidiaya-ortak-olmasi-gundemde-1110606513.html"
+   "https://anlatilaninotesi.com.tr/20261126/trumptan-jensen-huanga-af-sinyali-abdnin-nvidiaya-ortak-olmasi-gundemde-1110606513.html",
+   "https://anlatilaninotesi.com.tr/20261126/super-ligde-13-hafta-maclarini-yonetecek-hakemler-aciklandi-1110606396.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2108,8 +2109,6 @@
   ]
  },
  "recent_titles": [
-  "doğu perinçek beethovenın 9 senfonisi türktür",
-  "cumhurbaşkanı erdoğan taziye ziyareti için katarda",
   "israilli uzmanın analizi erdoğanın yeni osmanlı vizyonu afrikada yükseliyor",
   "kale belediye başkanı hayladan zafer partisi iddialarına yanıt",
   "trumpın kalacağı otelin karşısına filistin bayrağı asıldı",
@@ -3606,6 +3605,9 @@
   "fatih belediyesine altın karıncadan iki ödül",
   "bağcılarda otomobil kaldırıma çıktı 2 yaya ağır yaralandı",
   "trumptan jensen huanga af sinyali abdnin nvidiaya ortak olması gündemde",
-  "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı"
+  "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı",
+  "beşiktaşlıları üzecek gelişme dusan vlahovice aklını çelecek talip çıktı",
+  "son dakika ateşkes katliama engel olmadı son 48 saatte 18 şehit",
+  "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı derbide kim düdük çalacak"
  ]
 }
