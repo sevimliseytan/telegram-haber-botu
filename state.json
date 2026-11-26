@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/arda-turan-mi-emre-belozoglu-mu-iste-shakhtar-donetsk-fenerbahce-maci-canli-yayin-bilgiler-h1585464",
    "https://www.ensonhaber.com/zeytinyaginin-kalitesini-dusuren-5-hata-saklarken-bu-hatalari-yapmayin-h1585465",
    "https://www.ensonhaber.com/sile-belediyesi-davasinda-tanikligi-dinlenen-haluk-levent-yeliz-kaya-yerine-benim-tutuklan-h1585466",
    "https://www.ensonhaber.com/tammy-abrahamdan-besiktas-sozleri-ozluyorum-h1585467",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/dursun-ozbekten-sampiyonlar-ligi-sozleri-h1585957",
    "https://www.ensonhaber.com/besiktas-taraftarlari-sarp-sinir-kapisina-akin-etti-h1585958",
    "https://www.ensonhaber.com/disisleri-bakanligindan-apnin-libya-mutabakat-muhtirasi-hakkindaki-kararina-tepki-h1585959",
-   "https://www.ensonhaber.com/cevdet-yilmaz-duyurdu-fonda-olagan-tasfiyeler-tamamlandi-h1585960"
+   "https://www.ensonhaber.com/cevdet-yilmaz-duyurdu-fonda-olagan-tasfiyeler-tamamlandi-h1585960",
+   "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinin-ilk-11leri-h1585961"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679655-yozgatta-iscileri-tasiyan-kamyonet-tarlaya-uctu-5-yarali",
-   "https://www.haber7.com/guncel/haber/3679654-kirikkale-valisi-sahneye-cikti-konseri-bitirelim",
    "https://www.haber7.com/dunya/haber/3679653-hurmuzde-mayina-carptiiran-izinsiz-gecen-petrol-tankeri-alev-aldi",
    "https://spor.haber7.com/besiktas/haber/3679656-galatasarayin-aston-villa-zaferini-oven-tumer-metinden-besiktasa-uyari",
    "https://www.haber7.com/yasam/haber/3679626-koreliler-bosuna-tuketmiyor-kalkan-gibi-koruyor-simdilerde-yok-satiyor",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680119-fon-sorusturmasinda-yeni-donem-cevdet-yilmaz-son-dakika-duyurdu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680120-borsa-gunu-yukselisle-tamamladi-iste-en-cok-kazandiran",
    "https://www.haber7.com/guncel/haber/3680121-dijital-vatandaslik-projesiyle-bagcilar-belediyesine-altin-karinca-odulu",
-   "https://www.haber7.com/guncel/haber/3680122-5-uluslararasi-stk-fuari-istanbul-fuar-merkezinde-kapilarini-acti"
+   "https://www.haber7.com/guncel/haber/3680122-5-uluslararasi-stk-fuari-istanbul-fuar-merkezinde-kapilarini-acti",
+   "https://www.haber7.com/guncel/haber/3680119-fon-sorusturmasinda-yeni-donem-cevdet-yilmaz-son-dakika-duyurdu-yarin-odenecek",
+   "https://www.haber7.com/guncel/haber/3680123-baskan-altay-vefa-umresi-ile-kutsal-topraklara-giden-gaziyi-evinde-ziyaret-etti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2159,11 +2159,6 @@
   ]
  },
  "recent_titles": [
-  "ismail küçükkayanın yeni adresi belli oldu",
-  "nebahat çehre ekrana dönüyor o dizide feryal hanımı oynayacak",
-  "uzayın görüntüleri emirin elinde altı üstü istanbul 4 bölüm 2 fragmanı izle",
-  "daha 17de sırlar gün yüzüne çıkıyor işte daha 17 6 bölüm 2 fragman",
-  "var mısın yok musunda 850 bin tllik teklifi reddetti kutusunu açınca şoke oldu",
   "taşacak bu denizin yeni rakibi dizinin zeyşanı belli oldu",
   "sezon finalinde ayrılmıştı uzak şehir demirin yeni adresi belli oldu",
   "daha 17nin hakanı bakın kim çıktı meğer serenay sarıkayayla",
@@ -3658,6 +3653,11 @@
   "fon soruşturmasında yeni dönem cevdet yılmaz son dakika duyurdu",
   "borsa günü yükselişle tamamladı işte en çok kazandıran",
   "dijital vatandaşlık projesiyle bağcılar belediyesine altın karınca ödülü",
-  "5 uluslararası stk fuarı istanbul fuar merkezinde kapılarını açtı"
+  "5 uluslararası stk fuarı istanbul fuar merkezinde kapılarını açtı",
+  "başkan altay vefa umresi ile kutsal topraklara giden gaziyi evinde ziyaret etti",
+  "beşiktaş  hapoel beer sheva ilk 11ler belli oldu",
+  "türkiyenin istanbulda olimpiyat oyunlarına ev sahipliği yapma vizyonu iocye sunuldu",
+  "beşiktaş  hapoel beersheva maçının ilk 11leri",
+  "cevdet yılmaz fon ödemelerinde hazineden tek kuruş harcanmadı"
  ]
 }
