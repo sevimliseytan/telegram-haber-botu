@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/dereler-kipkirmizi-akti-goren-salgam-sandi-iste-sebebi-h1585486",
    "https://www.ensonhaber.com/istanbulda-uyusturucu-operasyonu-24893-h1585487",
    "https://www.ensonhaber.com/vanda-sicakliklar-mevsim-normalinin-uzerinde-seyredince-flamingolar-van-golunde-kaldi-h1585489",
    "https://www.ensonhaber.com/turkiyenin-siddetli-yagis-haritasi-dijital-ortama-tasindi-ekstrem-yagislar-onceden-hesapla-h1585488",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/hapoel-beer-shevaya-karsi-besiktasli-taraftarlar-ya-allah-bismillah-allahu-ekber-h1585979",
    "https://www.ensonhaber.com/disisleri-bakani-hakan-fidan-gurcistan-disisleri-bakani-ile-gorustu-h1585980",
    "https://www.ensonhaber.com/besiktastan-olaylar-sonrasi-ilk-aciklama-cumhurbaskanimiza-sukranlarimizi-sunariz-h1585981",
-   "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982"
+   "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982",
+   "https://www.ensonhaber.com/besiktasa-kotu-haber-emirhan-topcu-sakatlandi-h1585983"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/otomobil/haber/3679688-byd-vites-yukseltti-fabrikayi-satin-alip-dengeleri-degistirecek",
    "https://www.haber7.com/adana/3679685-adanada-15-yasindaki-tetikci-tarafindan-oldurdu-olum-tehdidi-iddiasi",
    "https://www.haber7.com/seyahat/haber/3679689-turistler-kapadokyanin-sakli-guzelliklerini-foto-safariyle-kesfediyor",
    "https://www.haber7.com/guncel/haber/3679690-kahramanmarastaki-okul-saldirisinda-yeni-gelisme-saldirganin-otopsisi-yenilenecek",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680153-merkez-bankasindan-tl-icin-iki-yeni-adim",
    "https://www.haber7.com/guncel/haber/3680154-erzurumda-park-halindeki-otomobil-alev-topuna-dondu",
    "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-ilk-11ler-belli-oldu",
-   "https://www.haber7.com/guncel/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi"
+   "https://www.haber7.com/guncel/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi",
+   "https://www.haber7.com/yerel-secim/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2171,7 +2171,6 @@
   ]
  },
  "recent_titles": [
-  "galatasaray aston villayı tek golle devirdi",
   "fon tasfiyesinde 1 milyon liraya kadar ara ödemelerin 27 kasım cuma tamamlanması hedefleniyor",
   "rusyadan gazzede ateşkese uyulması çağrısı",
   "ulaştırma ve altyapı bakanı uraloğlu usulüne uygun yapılmamış olan bütün ödemeleri geri iade ettireceğiz",
@@ -3670,6 +3669,7 @@
   "çbk mersin baxi ferrola fark attı",
   "ukraynada 1760 yaş arasındaki erkeklerin askerlik kayıtları kontrol edilecek",
   "tffden beşiktaşhapoel beer sheva maçındaki polis şiddetine yönelik açıklama sessiz kalınması söz konusu olamaz",
-  "gaziantep büyükşehir belediyesinden eczacılara ve memurlara konut müjdesi"
+  "gaziantep büyükşehir belediyesinden eczacılara ve memurlara konut müjdesi",
+  "beşiktaşa kötü haber emirhan topçu sakatlandı"
  ]
 }
