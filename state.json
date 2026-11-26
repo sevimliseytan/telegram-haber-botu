@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/izmirde-tarihi-eser-operasyonu-bir-evden-187-parca-cikti-h1585435",
-   "https://www.ensonhaber.com/meteorolojiden-kuvvetli-yagis-uyarisi-sicakliklar-dusuyor-h1585436",
    "https://www.ensonhaber.com/serap-belovacikli-sozcu-tv-ekranlarinda-ana-haberi-sunacak-h1585437",
    "https://www.ensonhaber.com/tek-tapu-tarla-nasil-bolunur-1-kisi-hayir-derse-ne-olur-mahkeme-bakin-ne-yapiyor-h1585438",
    "https://www.ensonhaber.com/vanda-yakalanan-afganistanli-duzensiz-gocmenler-ulkelerine-geri-gonderildi-h1585439",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/samsunda-3-cocuk-annesinin-supheli-olumu-kayip-telefonu-araniyor-h1585927",
    "https://www.ensonhaber.com/mgk-toplantisi-sonrasi-9-maddelik-aciklama-63143-h1585928",
    "https://www.ensonhaber.com/kayip-olarak-aranirken-ormanda-cesedi-bulundu-h1585929",
-   "https://www.ensonhaber.com/canakkalede-kazada-olen-uzman-cavus-son-yolculuguna-ugurlandi-h1585930"
+   "https://www.ensonhaber.com/canakkalede-kazada-olen-uzman-cavus-son-yolculuguna-ugurlandi-h1585930",
+   "https://www.ensonhaber.com/goz-enfeksiyonu-sandi-gercek-bambaska-cikti-goz-kapaginda-dort-tane-bulundu-h1585931",
+   "https://www.ensonhaber.com/aydinda-uzerinde-sentetik-ecza-ile-yakalanan-kadin-tutuklandi-h1585932"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679628-yargitaydan-iban-sahiplerini-ilgilendiren-karar-atm-ve-ip-kayitlari-incelenecek",
    "https://www.haber7.com/guncel/haber/3679630-yasal-zorbaliga-son-verilmelidir-ihtarsiz-ve-suresiz-iicra-ve-unuttugumuz-merhamet",
    "https://www.haber7.com/guncel/haber/3679631-izmirde-bir-evden-187-tarihi-eser-cikti",
    "https://www.haber7.com/dunya/haber/3679632-huangin-skandal-donusu-ve-nvidianin-ikiyuzlugu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680083-kpss-adaylarina-mujde-buro-memuru-aliminda-one-cikan-iller-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680099-yildiz-holding-ve-halka-acik-sirketleri-yatirimci-ve-analistlerle-bir-araya-geldi",
    "https://www.haber7.com/dunya/haber/3680100-libya-anlasmasi-resmilesti-yunan-basinindan-atina-icin-hezimet-itirafi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679971-turkiyenin-savas-gemilerine-son-savunma-kalkani-ortaya-cikti"
+   "https://ekonomi.haber7.com/ekonomi/haber/3679971-turkiyenin-savas-gemilerine-son-savunma-kalkani-ortaya-cikti",
+   "https://spor.haber7.com/futbol/haber/3680101-fifa-siber-saldiriya-ugradi-hackerlar-12-gb-veri-caldiklarini-iddia-etti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2117,7 +2117,8 @@
    "https://anlatilaninotesi.com.tr/20261126/sile-belediyesindeki-yolsuzluk-davasinda-5-saniga-tahliye-karari-1110615015.html",
    "https://anlatilaninotesi.com.tr/20261126/zaharovadan-abye-sert-suclama-muzakere-soylemleri-rusyaya-yonelik-saldirganligi-gizleme-amaci-1110615160.html",
    "https://anlatilaninotesi.com.tr/20261126/lavrov-abd-yaptirimlara-ragmen-rusya-ile-diyaloga-acik-1110615406.html",
-   "https://anlatilaninotesi.com.tr/20261126/abdde-ulusal-borc-sistemi-cokertiyor-mu-1110615883.html"
+   "https://anlatilaninotesi.com.tr/20261126/abdde-ulusal-borc-sistemi-cokertiyor-mu-1110615883.html",
+   "https://anlatilaninotesi.com.tr/20261126/son-dakika-haberleri-gerard-depardieu-cinsel-saldiri-suclamasiyla-hakim-karsisina-cikacak-1110616128.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2142,14 +2143,11 @@
    "https://www.turkiyehaberajansi.com/polise-ihbar-yapti-geregi-yapilmayinca-gerekcesini-sordu/131923/",
    "https://www.turkiyehaberajansi.com/okullarda-ogrencilere-trafik-guvenligi-bilinci-kazandiriliyor/131943/",
    "https://www.turkiyehaberajansi.com/sayin-valim-edirne-sizi-unutmayacak/131944/",
-   "https://www.turkiyehaberajansi.com/vali-simsek-onceligimiz-can-ve-mal-guvenligi-ile-guvenli-ulasim/131945/"
+   "https://www.turkiyehaberajansi.com/vali-simsek-onceligimiz-can-ve-mal-guvenligi-ile-guvenli-ulasim/131945/",
+   "https://www.turkiyehaberajansi.com/emekli-polislere-evlerinde-vefa-ziyareti/131946/"
   ]
  },
  "recent_titles": [
-  "merih demiraldan devlet bahçeliye ziyaret",
-  "bir zamanlar yerli messi deniyordu muhammed demirci elazığspora transfer oldu",
-  "lionel messi lamine yamalı 19 yıl önce küvette yıkamıştı dünya kupası finalinde rakip oldular",
-  "trabzonsporun scout şefi eren mert görevinden istifa etti",
   "arjantin finale çıktı maç sonu falkland adaları pankartı olay oldu",
   "lionel messi ingiltereyi rekorlarla yıktı",
   "okan buruktan icardi açıklaması seni çok seviyoruz kral",
@@ -3645,6 +3643,10 @@
   "çanakkalede kazada ölen uzman çavuş son yolculuğuna uğurlandı",
   "göz enfeksiyonu sandı gerçek bambaşka çıktı göz kapağında dört tane bulundu",
   "abdde ulusal borç sistemi çökertiyor mu",
-  "gerard depardieu cinsel saldırı suçlamasıyla hakim karşısına çıkacak"
+  "gerard depardieu cinsel saldırı suçlamasıyla hakim karşısına çıkacak",
+  "fifa siber saldırıya uğradı hackerlar 12 gb veri çaldıklarını iddia etti",
+  "aydında üzerinde sentetik ecza ile yakalanan kadın tutuklandı",
+  "ankarada bir ailenin ev hayali temelde kaldı 50 günde teslim sözüyle 700 bin lira dolandırıldılar",
+  "emekli polislere evlerinde vefa ziyareti"
  ]
 }
