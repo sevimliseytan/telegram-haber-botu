@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679650-bakan-isikhandan-emekli-maasi-aciklamasi-iyilestirme-icin-calisma-yapiyoruz",
    "https://www.haber7.com/dunya/haber/3679651-husilerden-son-dakika-aciklamasi-petrol-tesisi-ve-ekonomi-sehrini-hedef-aldik",
    "https://www.haber7.com/guncel/haber/3679652-yeni-partili-vekilin-esi-kayyum-atanan-sozcunun-spikeri-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679650-bakan-isikhandan-emekli-maasi-aciklamasi-ilave-iyilestirmeler-icin-calisma-yapiyoruz",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680117-saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama",
    "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-degisim-blogu-harekete-gecti-hepsi-kaldiriliyor",
    "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-sicak-saatler-yeni-meclis-hepsini-kaldiriyor",
-   "https://www.haber7.com/guncel/haber/3680119-cevdet-yilmaz-ile-bakanlar-simsek-ve-gurlekten-fon-aciklamasi"
+   "https://www.haber7.com/guncel/haber/3680119-cevdet-yilmaz-ile-bakanlar-simsek-ve-gurlekten-fon-aciklamasi",
+   "https://www.haber7.com/guncel/haber/3680119-fon-sorusturmasinda-yeni-donem-cevdet-yilmaz-son-dakika-duyurdu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2159,9 +2159,6 @@
   ]
  },
  "recent_titles": [
-  "donald trump kendini izleyen kendini izledi o anlar kamerada",
-  "altı üstü istanbul dizisine nazın annesi geliyor fahriye ne yapacak",
-  "nihan urel anlattı merkür retroda bizleri neler bekliyor",
   "kızılcık şerbetinin mustafası geri dönüyor işte yeni rolü",
   "ismail küçükkayanın yeni adresi belli oldu",
   "nebahat çehre ekrana dönüyor o dizide feryal hanımı oynayacak",
@@ -3658,6 +3655,9 @@
   "cevdet yılmaz ile bakanlar şimşek ve gürlekten fon açıklaması",
   "cevdet yılmaz duyurdu fonda olağan tasfiyeler tamamlandı",
   "ortak fon açıklaması başladı cumhurbaşkanı yardımcısı yılmaz konuşuyor",
-  "iktisatçı bilge emekliye zam için kamu kaynaklarının kullanılması enflasyonu körükleyebilir"
+  "iktisatçı bilge emekliye zam için kamu kaynaklarının kullanılması enflasyonu körükleyebilir",
+  "fon soruşturmasında yeni dönem cevdet yılmaz son dakika duyurdu",
+  "borsa günü yükselişle tamamladı işte en çok kazandıran",
+  "dijital vatandaşlık projesiyle bağcılar belediyesine altın karınca ödülü"
  ]
 }
