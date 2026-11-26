@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kayseride-kaza-yaptiklari-otomobili-yol-ortasinda-birakip-gittiler-h1585403",
    "https://www.ensonhaber.com/polonyadan-rusyaya-hava-sahasi-ihlali-notasi-h1585404",
    "https://www.ensonhaber.com/altini-dususe-surukleyebilecek-7-neden-h1585405",
    "https://www.ensonhaber.com/israilin-gazzede-ateskesi-6-bin-405-kez-ihlal-ettigi-aciklandi-h1585406",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/bilgisayar-toplarken-asla-ucuza-kacmamaniz-gereken-5-parca-h1585895",
    "https://www.ensonhaber.com/samsunda-bebegini-cope-atan-anneye-muebbet-hapis-h1585896",
    "https://www.ensonhaber.com/ak-partiye-gecen-izmir-belediyesinde-yollar-birer-birer-yenileniyor-h1585897",
-   "https://www.ensonhaber.com/tcmbnin-net-rezervleri-2419-milyar-dolara-geriledi-h1585898"
+   "https://www.ensonhaber.com/tcmbnin-net-rezervleri-2419-milyar-dolara-geriledi-h1585898",
+   "https://www.ensonhaber.com/melis-sandalin-ailesinin-yasadigi-ev-kursunlandi-h1585899"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3678246-turk-futbolcularinin-memleketleri-belli-oldu",
    "https://www.haber7.com/guncel/haber/3679510-zonguldakta-heyelan-bir-bina-tahliye-edildi",
    "https://www.haber7.com/3sayfa/haber/3679509-corumda-bag-evinde-patlayici-cikti-muhtar-tutuklandi",
    "https://spor.haber7.com/galatasaray/haber/3679508-aston-villa-macina-saatler-kala-leroy-sane-icin-flas-iddia",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/karaman/3680064-karamanda-kayip-olarak-araniyordu-cesedi-bulundu-arkadasi-tutuklandi-2-gozalti",
    "https://www.haber7.com/teknoloji/haber/3680065-bakan-kacir-duyurdu-81-ilde-100-teknoloji-atolyesi-kurulacak",
    "https://www.haber7.com/guncel/haber/3680062-yuz-binlerce-saglik-calisanina-mujdeli-haber-yillardir-uygulaniyordu-iptal-edildi",
-   "https://www.haber7.com/dunya/haber/3680068-ocaktaki-duduklu-tencere-bomba-gibi-patladi"
+   "https://www.haber7.com/dunya/haber/3680068-ocaktaki-duduklu-tencere-bomba-gibi-patladi",
+   "https://www.haber7.com/guncel/haber/3680070-evde-dogum-yapip-bebegini-cope-atan-anneye-muebbet-hapis"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2136,11 +2136,6 @@
   ]
  },
  "recent_titles": [
-  "doğa rutkayın ikizleri 8 yaşında çok şükür",
-  "tuğçe tayfur çıldırdı yaşamaktan soğuttunuz beni",
-  "müjde uzmandan kızılcık şerbeti tepkisi soruyu duyunca röportajı bitirdi",
-  "mert yazıcıoğlu ve sevgilisi zeynep artukmaç ispanyaya gitti tatil pozları beğeni topladı",
-  "ingiltere kraliyet ailesi tam kadro tenis maçında",
   "54 yaşındaki sofia vergaradan bikinili poz görenler gözlerine inanamadı",
   "oyuncu damla sönmez evlendi işte sır gibi saklanan damat",
   "kahramanmaraşta aile içi kavga kanlı bitti",
@@ -3635,6 +3630,11 @@
   "tcmbnin net rezervleri 2419 milyar dolara geriledi",
   "rusya başbakan yardımcısı novak türkiyede petrokimya fabrikasının açılışına katıldı",
   "ocaktaki düdüklü tencere bomba gibi patladı",
-  "avrupada hazır ol dönemi acil durum çantası artık herkesin gündeminde"
+  "avrupada hazır ol dönemi acil durum çantası artık herkesin gündeminde",
+  "evde doğum yapıp bebeğini çöpe atan anneye müebbet hapis",
+  "paşinyan ruslara resmen çekilin dedi ermenistan 34 yıllık kararı bozuyor",
+  "melis sandalın ailesinin yaşadığı ev kurşunlandı 2 kişi gözaltında",
+  "aymden sağlık çalışanlarının nöbet ücretinde 6 saat şartına iptal",
+  "2027nin şanslı burcu belli üzerine para yağacak"
  ]
 }
