@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679674-iran-savasinda-kongre-kiskaci-trump-ocak-sonunu-isaret-etti",
    "https://www.haber7.com/yasam/haber/3673400-suruculer-dikkat-e-devletten-hemen-bakin-yoksa-iptal-ediliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679676-bnp-paribastan-fon-skandali-degerlendirmesi",
    "https://spor.haber7.com/galatasaray/haber/3679677-deniz-gulun-kanli-golu-jacksonin-tartisilan-tekmesi-hakem-avrupada-yanki-uyandirdi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/galatasaray/haber/3680140-dursun-ozbek-dugmeye-basti-gsaray-devler-liginin-flas-takimi-ile-is-birligi-yapacak",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-canli",
    "https://spor.haber7.com/besiktas/haber/3680141-besiktasin-yildizlari-geregini-yapti-israilli-futbolcularin-elini-sikmadi",
-   "https://www.haber7.com/guncel/haber/3680142-kizilelma-basarisi-turk-dunyasinda-gururla-karsilandi"
+   "https://www.haber7.com/guncel/haber/3680142-kizilelma-basarisi-turk-dunyasinda-gururla-karsilandi",
+   "https://www.haber7.com/egitim/haber/3680143-cocugunuzun-akran-zorbaligina-ugradigini-nasil-anlarsiniz-anne-babalara-ipuclari"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2165,8 +2165,6 @@
   ]
  },
  "recent_titles": [
-  "emre kınay ve emine ünün kızı duru güzelliğiyle büyüledi annesinin kızı",
-  "derya uluğ 10 yıllık aşkıyla evleniyor kınayı yaktı",
   "avatar atakanın evinin yakınlarında aslan paniği aramızda 150200 metre var",
   "afra saraçoğlu sevgilisiyle gecelerde böyle görüntülendi",
   "çiğdem baturun sultanahmet camii ziyareti gündemdeydi yaşar ipek sert çıktı orası bir ibadethane",
@@ -3664,6 +3662,8 @@
   "sözcü soruşturmasında sıcak gelişme patron başvurdu",
   "ünlülere yönelik uyuşturucu soruşturmasında 3 isime tutuklama talebi",
   "putin rusyanın arktik kalkınma ve güvenlik stratejisini onayladı",
-  "beşiktaş  hapoel beersheva maçında ortalık karıştı"
+  "beşiktaş  hapoel beersheva maçında ortalık karıştı",
+  "çocuğunuzun akran zorbalığına uğradığını nasıl anlarsınız annebabalara ipuçları",
+  "beşiktaş  hapoel beer sheva maçı durdu hakem soyunma odasına gitti"
  ]
 }
