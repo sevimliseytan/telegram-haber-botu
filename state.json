@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/eskisehirde-askeri-helikopter-kazasi-5-sehidin-isimleri-aciklandi-h1585382",
-   "https://www.ensonhaber.com/abd-baskani-trump-sukran-gununde-iki-hindiyi-affetti-h1585383",
-   "https://www.ensonhaber.com/fenerbahce-deplasmanda-barcelonayi-maglup-etti-h1585384",
-   "https://www.ensonhaber.com/yalovada-ucurumdan-yuvarlanan-atv-surucusu-6-saatte-kurtarildi-h1585385",
    "https://www.ensonhaber.com/kayseride-polisten-kacan-surucu-yakalandi-650-bin-tl-ceza-yazildi-h1585386",
    "https://www.ensonhaber.com/sinopta-silahli-saldirida-1-kisi-yaralandi-h1585387",
    "https://www.ensonhaber.com/boluda-evde-cikan-yangin-sonduruldu-h1585388",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/bayburtta-sicaklik-sifirin-altinda-162-derece-olculdu-h1585873",
    "https://www.ensonhaber.com/meric-araldan-serkan-keskine-dogum-gunu-kutlamasi-beni-her-zaman-sasirtiyorsun-h1585874",
    "https://www.ensonhaber.com/bankalarin-kredi-hacmi-99-milyar-lira-azaldi-h1585875",
-   "https://www.ensonhaber.com/lgsye-hazirlanan-ogrenciler-icin-ilk-ornek-sorular-erisime-acildi-h1585876"
+   "https://www.ensonhaber.com/lgsye-hazirlanan-ogrenciler-icin-ilk-ornek-sorular-erisime-acildi-h1585876",
+   "https://www.ensonhaber.com/ingilterede-yillik-goc-son-30-yilin-en-dusuk-seviyesine-indi-h1585878",
+   "https://www.ensonhaber.com/ikinci-ev-alacaklara-kredi-firsati-konut-kredisinde-sinirlama-kaldirildi-h1585877",
+   "https://www.ensonhaber.com/sanliurfada-akrabalarin-tasli-sopali-kavgasi-6-yarali-h1585879",
+   "https://www.ensonhaber.com/igdirdaki-mustehcenlik-operasyonunda-3-kisi-tutuklandi-h1585880"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679531-irak-savunma-bakanindan-talimat-ulke-genelinde-tum-askeri-birlikler-cekiliyor",
-   "https://spor.haber7.com/milli-takim/haber/3679530-caf-sampiyon-fas-demisti-cas-karari-degistirdi-iste-2025-afrika-kupasinin-sampiyonu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679529-samed-agirbas-bm-iklim-degisikligi-icra-sekreteri-simon-stiell-ile-gorustu",
    "https://www.haber7.com/siyaset/haber/3679526-hikmet-cetin-hayatini-kaybetti",
    "https://www.haber7.com/dunya/haber/3679528-prens-williamin-evine-hirsiz-girdi",
    "https://www.haber7.com/dunya/haber/3679527-kktcde-insaatlariyla-biliniyordu-israilli-is-insaninin-tahliyesi-gkryyi-karistirdi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/guncel/haber/3680043-fon-sorusturmasinda-hareketli-dakikalar",
    "https://ekonomi.haber7.com/ekonomi/haber/3680045-adi-aciklanmayan-ulkeden-dev-siparis-izmirli-savunma-sanayii-firmasi-kapa-bildirim-yapti",
    "https://www.haber7.com/guncel/haber/3680044-cumhurbaskani-erdogan-baskanligindaki-kritik-mgk-basladi",
-   "https://www.haber7.com/dunya/haber/3680047-yunan-vekil-turkiyeye-dil-uzatti-tarihi-yok-sabika-kaydi-var"
+   "https://www.haber7.com/dunya/haber/3680047-yunan-vekil-turkiyeye-dil-uzatti-tarihi-yok-sabika-kaydi-var",
+   "https://www.haber7.com/dunya/haber/3680046-kim-jong-undan-nukleer-talimati-acil-deyip-duyurdu",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680048-174-milyar-dolarlik-ithalat-faturasina-yerli-fren-gebzede-dev-tesis-devreye-girdi",
+   "https://www.haber7.com/ulkede-bugun/haber/3680050-sakaryada-kopek-kumese-dadandi-13-tavuk-telef-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1851,7 +1851,8 @@
    "https://www.mynet.com/magazin/alina-boz-rus-annesi-olga-ile-kamera-karsisina-gecti-tipki-annesi-130100607732",
    "https://www.mynet.com/magazin/eren-kasikci-nin-otopsi-raporu-ortaya-cikti-130100607735",
    "https://www.mynet.com/magazin/acun-ilicali-kararini-verdi-survivor-yarismacilarini-halk-sececek-130100607738",
-   "https://www.mynet.com/magazin/survivor-2027-ne-zaman-baslayacak-buyuk-odul-belli-oldu-130100607744"
+   "https://www.mynet.com/magazin/survivor-2027-ne-zaman-baslayacak-buyuk-odul-belli-oldu-130100607744",
+   "https://www.mynet.com/magazin/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-130100607747"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2099,7 +2100,8 @@
    "https://anlatilaninotesi.com.tr/20261126/dunyanin-ilk-super-modellerinden-veruschka-87-yasinda-hayatini-kaybetti-1110611445.html",
    "https://anlatilaninotesi.com.tr/20261126/avrupanin-dogal-gaz-rezervleri-hizla-azaliyor-depolarda-tarihi-dusuk-seviye-1110607814.html",
    "https://anlatilaninotesi.com.tr/20261126/endonezyadaki-maden-faciasinda-bilanco-agirlasiyor-can-kaybi-13e-yukseldi-1110608161.html",
-   "https://anlatilaninotesi.com.tr/20261126/rusya-savunma-bakanligi-son-24-saatte-872-iha-dusuruldu-1110612179.html"
+   "https://anlatilaninotesi.com.tr/20261126/rusya-savunma-bakanligi-son-24-saatte-872-iha-dusuruldu-1110612179.html",
+   "https://anlatilaninotesi.com.tr/20261126/mustafa-keserin-aci-gunu-48-yillik-hayat-arkadasini-kaybetti-1110612965.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2127,11 +2129,6 @@
   ]
  },
  "recent_titles": [
-  "ithalat rejimine ilişkin ara değişiklikler yayımlandı",
-  "borsa istanbul haftaya düşüşle başladı",
-  "13 yaş küçük sevgilisi var somer sivrioğlu aşka düştü",
-  "cem özkök namaza başlama yolculuğunu anlattı",
-  "yeni gelin damla sönmezden aşk dolu kareler takipçileri beğeni yağdırdı",
   "şarkıcı tan taşçı açıklamasıyla gündem oldu yumurta çok tehlikeli",
   "82 yaşındaki nebahat çehre tatilde mayolu fotoğraf geldi",
   "ebru şahin ve cedi osman portekizde lizbondan tatil kareleri paylaşıldı",
@@ -3626,6 +3623,11 @@
   "lgsye hazırlanan öğrenciler için ilk örnek sorular erişime açıldı",
   "ingilterede yıllık göç son 30 yılın en düşük seviyesine indi",
   "ikinci ev alacaklara kredi fırsatı konut kredisinde sınırlama kaldırıldı",
-  "şanlıurfada akrabaların taşlısopalı kavgası 6 yaralı"
+  "şanlıurfada akrabaların taşlısopalı kavgası 6 yaralı",
+  "sakaryada köpek kümese dadandı 13 tavuk telef oldu",
+  "en çok kötü şoförün olduğu iller açıklandı ikinci sıradaki ili 2ye katladı",
+  "iğdırdaki müstehcenlik operasyonunda 3 kişi tutuklandı",
+  "mustafa keserin acı günü 48 yıllık eşi nilüfer keser hayatını kaybetti",
+  "mustafa keserin acı günü 48 yıllık hayat arkadaşını kaybetti"
  ]
 }
