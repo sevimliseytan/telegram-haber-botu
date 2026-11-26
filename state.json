@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-5inci-kattan-duserek-olen-genc-kadinin-1-ay-once-evlendigi-esi-tutuklandi-h1585463",
    "https://www.ensonhaber.com/arda-turan-mi-emre-belozoglu-mu-iste-shakhtar-donetsk-fenerbahce-maci-canli-yayin-bilgiler-h1585464",
    "https://www.ensonhaber.com/zeytinyaginin-kalitesini-dusuren-5-hata-saklarken-bu-hatalari-yapmayin-h1585465",
    "https://www.ensonhaber.com/sile-belediyesi-davasinda-tanikligi-dinlenen-haluk-levent-yeliz-kaya-yerine-benim-tutuklan-h1585466",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/siaka-bakayoko-kasimpasa-maci-oncesi-degerlendirmede-bulundu-h1585956",
    "https://www.ensonhaber.com/dursun-ozbekten-sampiyonlar-ligi-sozleri-h1585957",
    "https://www.ensonhaber.com/besiktas-taraftarlari-sarp-sinir-kapisina-akin-etti-h1585958",
-   "https://www.ensonhaber.com/disisleri-bakanligindan-apnin-libya-mutabakat-muhtirasi-hakkindaki-kararina-tepki-h1585959"
+   "https://www.ensonhaber.com/disisleri-bakanligindan-apnin-libya-mutabakat-muhtirasi-hakkindaki-kararina-tepki-h1585959",
+   "https://www.ensonhaber.com/cevdet-yilmaz-duyurdu-fonda-olagan-tasfiyeler-tamamlandi-h1585960"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/seyahat/haber/3679648-1500-rakimda-gorsel-solen-huzurlu-yaylasi-sonbahar-renklerine-burundu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679650-bakan-isikhandan-emekli-maasi-aciklamasi-iyilestirme-icin-calisma-yapiyoruz",
    "https://www.haber7.com/dunya/haber/3679651-husilerden-son-dakika-aciklamasi-petrol-tesisi-ve-ekonomi-sehrini-hedef-aldik",
    "https://www.haber7.com/guncel/haber/3679652-yeni-partili-vekilin-esi-kayyum-atanan-sozcunun-spikeri-oldu",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva",
    "https://www.haber7.com/guncel/haber/3680117-saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama",
    "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-degisim-blogu-harekete-gecti-hepsi-kaldiriliyor",
-   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-sicak-saatler-yeni-meclis-hepsini-kaldiriyor"
+   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-sicak-saatler-yeni-meclis-hepsini-kaldiriyor",
+   "https://www.haber7.com/guncel/haber/3680119-cevdet-yilmaz-ile-bakanlar-simsek-ve-gurlekten-fon-aciklamasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2127,7 +2127,8 @@
    "https://anlatilaninotesi.com.tr/20261126/irak-basbakani-zeydiden-ikby-aciklamasi-ordu-sinirlarda-konuslanacak-1110617055.html",
    "https://anlatilaninotesi.com.tr/20261126/sakaryada-hayvan-toplama-istasyonunda-20-kopek-oldu-barinak-tahliye-ediliyor-1110617409.html",
    "https://anlatilaninotesi.com.tr/20261126/baba-arif-guran-anlatti-narini-kim-oldurdu-1110617618.html",
-   "https://anlatilaninotesi.com.tr/20261126/disisleri-bakanligi-ab-deniz-yetki-alanlarinin-sinirlandirilmasi-konusunda-herhangi-bir-yetkiye-1110617863.html"
+   "https://anlatilaninotesi.com.tr/20261126/disisleri-bakanligi-ab-deniz-yetki-alanlarinin-sinirlandirilmasi-konusunda-herhangi-bir-yetkiye-1110617863.html",
+   "https://anlatilaninotesi.com.tr/20261126/ortak-fon-aciklamasi-basladi-cumhurbaskani-yardimcisi-yilmaz-konusuyor-1110618013.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2157,9 +2158,6 @@
   ]
  },
  "recent_titles": [
-  "yeni karadeniz dizisi geliyor çekim tarihi duyuruldu",
-  "manifest sürprizi fragmana sığmadı yeni şarkısıyla daha 17 dizisinin yeni bölümünde",
-  "yeraltı dizisindeki çok konuşulan şarkının sırrı çözüldü eypio ilk kez açıkladı",
   "donald trump kendini izleyen kendini izledi o anlar kamerada",
   "altı üstü istanbul dizisine nazın annesi geliyor fahriye ne yapacak",
   "nihan urel anlattı merkür retroda bizleri neler bekliyor",
@@ -3656,6 +3654,9 @@
   "dışişleri bakanlığı ab deniz yetki alanlarının sınırlandırılması konusunda herhangi bir yetkiye sahip değildir",
   "netanyahuya büyük darbe israilde değişim bloğu harekete geçti hepsi kaldırılıyor",
   "netanyahuya büyük darbe israilde sıcak saatler yeni meclis hepsini kaldırıyor",
-  "cevdet yılmaz ile bakanlar şimşek ve gürlekten fon açıklaması"
+  "cevdet yılmaz ile bakanlar şimşek ve gürlekten fon açıklaması",
+  "cevdet yılmaz duyurdu fonda olağan tasfiyeler tamamlandı",
+  "ortak fon açıklaması başladı cumhurbaşkanı yardımcısı yılmaz konuşuyor",
+  "iktisatçı bilge emekliye zam için kamu kaynaklarının kullanılması enflasyonu körükleyebilir"
  ]
 }
