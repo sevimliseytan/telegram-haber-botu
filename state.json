@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/abden-dogu-sinirinda-guvenlik-hamlesi-vize-ve-dron-onlemleri-geliyor-h1585393",
-   "https://www.ensonhaber.com/yazarlar/adem-metan/sariyerin-aslani",
    "https://www.ensonhaber.com/antalyada-traktor-sarampole-devrildi-1-olu-h1585394",
    "https://www.ensonhaber.com/eylul-ozturk-estetik-sonrasi-amerikaya-dondu-ucaktan-yaptigi-paylasim-sasirtti-h1585395",
    "https://www.ensonhaber.com/kurtulmus-terorsuz-turkiye-surecinde-izleme-komisyonu-19-uyeden-olusacak-h1585396",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/tuncer-bakirhan-onumuzdeki-gunlerde-gazeteciler-imraliya-gidebilir-h1585884",
    "https://www.ensonhaber.com/saglikta-dijital-donusum-995-bin-vatandas-hastaneye-gitmeden-rapor-aldi-h1585885",
    "https://www.ensonhaber.com/tpao-chevron-ile-gine-bissauda-iki-deniz-sahasinda-ortaklik-kurdu-h1585886",
-   "https://www.ensonhaber.com/yeni-partili-eskisehir-belediyesinden-heykel-onarim-hizmeti-h1585887"
+   "https://www.ensonhaber.com/yeni-partili-eskisehir-belediyesinden-heykel-onarim-hizmeti-h1585887",
+   "https://www.ensonhaber.com/almanya-federal-meclisinde-eski-mossad-baskanina-protesto-h1585888",
+   "https://www.ensonhaber.com/yabanci-yatirimcilarin-tahvil-ve-hisse-portfoyu-azaldi-h1585889"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/siyaset/haber/3679520-mhpden-ozgur-ozele-tepki",
    "https://www.haber7.com/karaman/3679519-karamanda-esrarengiz-olay-yardim-cagirmaya-giden-adam-3-gundur-kayip",
    "https://www.haber7.com/guncel/haber/3679518-pasinyandan-tarihi-turkiye-adimi-ermenistanin-kaderi-tayin-edilecek",
    "https://www.haber7.com/guncel/haber/3679517-havzada-iki-otomobil-carpisti-2-yarali",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680057-sampiyonlar-liginde-fenerbahce-galatasaray-derbisi-ihtimali-tarihte-bir-ilk-yasanabilir",
    "https://spor.haber7.com/super-lig/haber/3680056-super-lig-ekibinde-deprem-4-futbolcu-kadro-disi-birakildi",
    "https://www.haber7.com/dunya/haber/3680055-ingiltereden-100-bin-eski-askere-savas-mektubu-hazirlikli-olun",
-   "https://www.haber7.com/dunya/haber/3680058-ben-gvirin-soykirim-dolu-ifadeleri-tepki-cekti"
+   "https://www.haber7.com/dunya/haber/3680058-ben-gvirin-soykirim-dolu-ifadeleri-tepki-cekti",
+   "https://www.haber7.com/seyahat/haber/3680059-94-yildir-trenlerin-uzerinde-yasiyorlar-balikesirdeki-koy-demir-yolu-ile-dikkat-cekiyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2132,9 +2132,6 @@
   ]
  },
  "recent_titles": [
-  "çelik ve sevgilisinden yeni poz fotoğraf çektirmekten nefret ediyorum",
-  "şarkıcı nilüferin mutlu günü kızı ayşe nazlı evlendi",
-  "yüsra geyik yeni pozlarıyla dikkat çekti hayranları beğeni yağdırdı",
   "seda sayan evlileri uyardı bekarları eve sokmayın",
   "7 yıl önce güldürmüştü cem yılmazın haluk levent şakası dikkat çekti",
   "yeraltının sultanı sümeyye aydoğan tatilde son pozları olay oldu",
@@ -3631,6 +3628,9 @@
   "milli güvenlik kurulu toplandı",
   "tpao chevron ile gine bissauda iki deniz sahasında ortaklık kurdu",
   "yeni partili eskişehir belediyesinden heykel onarım hizmeti",
-  "almanya federal meclisinde eski mossad başkanına protesto"
+  "almanya federal meclisinde eski mossad başkanına protesto",
+  "94 yıldır trenlerin üzerinde yaşıyorlar balıkesirdeki köy demir yolu ile dikkat çekiyor",
+  "yabancı yatırımcıların tahvil ve hisse portföyü azaldı",
+  "erbilde irak hükümetinin kararları protesto edildi"
  ]
 }
