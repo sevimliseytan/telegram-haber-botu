@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/var-misin-yok-musun-hilal-ne-kadar-kazandi-kutusundan-servet-cikti-h1585414",
-   "https://www.ensonhaber.com/artvin-yollarinda-geri-donusum-mesaisi-en-sadik-yol-arkadasi-kedisi-h1585413",
-   "https://www.ensonhaber.com/hatayda-elektrik-diregi-otomobile-ok-gibi-saplandi-surucu-yaralandi-h1585415",
-   "https://www.ensonhaber.com/kuresel-ham-celik-uretimi-ekimde-azalirken-turkiyede-artti-h1585416",
    "https://www.ensonhaber.com/ingilterede-asiri-sicaklar-5-binden-fazla-can-aldi-h1585417",
    "https://www.ensonhaber.com/eskisehirde-5-askerimizin-sehit-oldugu-bolge-goruntulendi-h1585418",
    "https://www.ensonhaber.com/abdden-huaweiye-10-suclamadan-mahkumiyet-h1585419",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/giorgia-meloni-savasin-akdenize-sicramayacagina-inaniyorum-h1585905",
    "https://www.ensonhaber.com/merkez-bankasi-rezervleri-1429-milyar-dolar-h1585906",
    "https://www.ensonhaber.com/turkiyenin-en-karli-noktalari-belli-oldu-zirvede-142-santimle-rize-palovit-yaylasi-var-h1585907",
-   "https://www.ensonhaber.com/burdurdaki-kazada-hayatini-kaybeden-genc-son-yolculuguna-ugurlandi-h1585908"
+   "https://www.ensonhaber.com/burdurdaki-kazada-hayatini-kaybeden-genc-son-yolculuguna-ugurlandi-h1585908",
+   "https://www.ensonhaber.com/avrupada-en-cok-satan-elektrikli-otomobil-degisti-iste-zirvedeki-modeller-h1585909",
+   "https://www.ensonhaber.com/arda-guler-107-milyonluk-yeni-arabasiyla-poz-verdi-h1585910",
+   "https://www.ensonhaber.com/kayserili-sehit-gozyaslari-icerisinde-son-yolculuguna-ugurlandi-h1585911",
+   "https://www.ensonhaber.com/altinin-kilogram-fiyati-6-milyon-liraya-dustu-h1585912"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679589-natodan-turkiyeye-taziye-mesaji-muttefikimiz-turkiyenin-yaninda-duruyoruz",
    "https://www.haber7.com/guncel/haber/3679590-iraka-suriye-modeli-kriz-senaryolari-cope-atildi-25-kasim-2026-gazete-mansetleri",
    "https://www.haber7.com/guncel/haber/3679591-esini-oldurdu-9-saat-teslim-olmayan-sahis-evde-kendisini-vurdu",
    "https://www.haber7.com/guncel/haber/3679592-trabzonda-sel-ve-heyelan-dere-tasti-evleri-su-basti-yollar-kapandi",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680075-bakan-bolat-rakamlari-paylasti-hizmet-ihracatinda-128-milyar-dolar-hedefi",
    "https://www.haber7.com/dunya/haber/3680076-son-dakikakuveyt-iranin-duzenledigi-saldirida-kritik-tesis-hedef-alindi",
    "https://www.haber7.com/guncel/haber/3680077-bu-devlet-benim-devletim-diyen-chpli-vekilden-cop31-ovgusu",
-   "https://spor.haber7.com/super-lig/haber/3680078-anthony-taylor-acikladi-galatasarayin-golunde-ofsayt-var-mi"
+   "https://spor.haber7.com/super-lig/haber/3680078-anthony-taylor-acikladi-galatasarayin-golunde-ofsayt-var-mi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680075-bakan-bolat-mujdeyi-verdi-ihracatta-2027-icin-65-milyar-liralik-destek-hedefi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2136,11 +2136,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda site sakinleri ve yönetim arasında kavga tencere ve tavalarla protesto ettiler",
-  "ispartada drift faciası yayaya çarpan sürücü ehliyetsiz çıktı",
-  "istanbulde eski eş dehşeti kayınpederine saldırdı",
-  "balıkesirde devrilen otomobil alev aldı 4 yaralı",
-  "şırnakta yuttukları 151 kapsülde yaklaşık 1 kilogram metamfetamin ele geçirildi",
   "şırnakta iranlı iki kişi 151 parça halinde yuttukları metamfetaminle yakalandı",
   "heybeliadada geceyi aydınlatan kurtarma operasyonu",
   "tekirdağda anız yangını ormana sıçradı havadan ve karadan müdahaleyle kontrol altına alındı",
@@ -3635,6 +3630,11 @@
   "burdurdaki kazada hayatını kaybeden genç son yolculuğuna uğurlandı",
   "avrupada en çok satan elektrikli otomobil değişti işte zirvedeki modeller",
   "arda güler 107 milyonluk yeni arabasıyla poz verdi",
-  "kayserili şehit gözyaşları içerisinde son yolculuğuna uğurlandı"
+  "kayserili şehit gözyaşları içerisinde son yolculuğuna uğurlandı",
+  "bakan bolat müjdeyi verdi ihracatta 2027 için 65 milyar liralık destek hedefi",
+  "rakibine kafa attığı için tutuklanmıştı tutuklu futbolcu için karar çıktı",
+  "son seçimleri bilen şirketin yayımladığı yeni anket sonuçları dikkat çekti",
+  "altının kilogram fiyatı 6 milyon liraya düştü",
+  "zonguldakta cinsel istismar davasında sanığa 17 yıl 5 ay hapis cezası"
  ]
 }
