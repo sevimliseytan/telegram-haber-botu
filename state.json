@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/libya-ulusal-ordusu-genelkurmay-baskani-turkiyede-h1585432",
    "https://www.ensonhaber.com/nvidia-ceosu-huang-trumpin-mudahalesiyle-goreve-donmedim-h1585433",
    "https://www.ensonhaber.com/galatasarayin-aston-villa-zaferi-ingiliz-basininda-mansetlere-tasindi-h1585434",
    "https://www.ensonhaber.com/izmirde-tarihi-eser-operasyonu-bir-evden-187-parca-cikti-h1585435",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/supurgelikleri-surekli-silmekten-kurtaran-yontem-bir-kez-surun-farki-gorun-h1585924",
    "https://www.ensonhaber.com/vucudun-gizli-ihtiyaci-elektrolitli-su-nasil-yapilir-3-malzemeyle-elektrolit-destegi-h1585925",
    "https://www.ensonhaber.com/emlak-vergisinde-son-gun-30-kasim-pazartesi-h1585926",
-   "https://www.ensonhaber.com/samsunda-3-cocuk-annesinin-supheli-olumu-kayip-telefonu-araniyor-h1585927"
+   "https://www.ensonhaber.com/samsunda-3-cocuk-annesinin-supheli-olumu-kayip-telefonu-araniyor-h1585927",
+   "https://www.ensonhaber.com/mgk-toplantisi-sonrasi-9-maddelik-aciklama-63143-h1585928"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,14 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679615-dolar-ve-euro-kac-tl-oldu-iste-gunun-ilk-fiyatlari",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679617-yatirimci-arkasina-bile-bakmadan-kaciyor-bitcoin-60-bin-dolarin-altina-cakildi",
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679618-sampiyonlar-liginde-tarihi-mac-shakhtar-donetsk-fenerbahce-muhtemel-11ler",
-   "https://www.haber7.com/ulkede-bugun/haber/3679619-adanada-kayip-kuran-kursundan-cikan-cocuktan-5-gundur-haber-yok",
-   "https://www.haber7.com/adana/3679619-adanada-kayip-kuran-kursundan-cikan-cocuktan-5-gundur-haber-yok",
-   "https://www.haber7.com/dunya/haber/3679620-gazzede-soguk-hava-ve-enkaz-kabusu-176-milyon-filistinli-icin-kirmizi-alarm",
-   "https://www.haber7.com/guncel/haber/3679622-ulasildikca-uzaklasan-tarihi-bir-ulku-kizilelma",
-   "https://www.haber7.com/guncel/haber/3679621-5-askerimiz-sehit-olmustu-askeri-helikopterin-kaza-kirima-ugradigi-bolge-goruntulendi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679623-motorine-bir-buyuk-indirim-daha-tarih-belli-oldu",
    "https://www.haber7.com/yasam/haber/3679624-araba-alacakti-airbagin-icinden-buyu-cikti-satin-almaktan-vazgecti",
    "https://ekonomi.haber7.com/ekonomi/haber/3679625-emekliye-de-mi-muhalifsiniz",
@@ -1391,7 +1383,15 @@
    "https://www.haber7.com/dunya/haber/3680090-akdenizde-rus-gemisi-vuruldu-meloniden-cok-net-savas-mesaji",
    "https://www.haber7.com/guncel/haber/3680091-37-yilla-yargilaniyordu-haluk-leventin-kardesi-icin-tahliye-karari",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-gsaray-ve-fbahceden-sampiyonlar-liginde-buyuk-sicrama-haftayi-ilk-18de-kapattilar",
-   "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-gozler-yazili-aciklamada"
+   "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-gozler-yazili-aciklamada",
+   "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-9-maddelik-yazili-aciklama",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680092-altinin-kilogram-fiyati-6-milyon-liraya-dustu",
+   "https://www.haber7.com/dunya/haber/3680093-kagit-gibi-savrulan-kopruden-gecmek-isteyen-turistin-inadi-pes-dedirtti",
+   "https://www.haber7.com/guncel/haber/3680094-pendikte-alkollu-ve-ehliyetsiz-surucu-polis-aracina-carpti-olay-ani-kamerada",
+   "https://www.haber7.com/aydin/3680095-aydinda-operasyon-uzerinde-1100-sentetik-hap-ile-yakalandi",
+   "https://spor.haber7.com/avrupa-ligleri/haber/3680096-arda-gulerin-yeni-arabasinin-degeri-akillara-durgunluk-verdi",
+   "https://www.haber7.com/medya/haber/3680097-genel-mudur-caydan-bir-yillik-faaliyet-degerlendirmesi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680098-hizmet-ihracatcilarina-20-kategoride-60-odul-verildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2114,7 +2114,8 @@
    "https://anlatilaninotesi.com.tr/20261126/israilden-gazzeye-yeni-saldiri-tehdidi-bir-milyon-filistinli-yerinden-edilebilir-1110613592.html",
    "https://anlatilaninotesi.com.tr/20261126/yalnizligin-saglik-uzerindeki-agir-etkileri-erken-olum-riskini-yuzde-30-artirabiliyor-1110614322.html",
    "https://anlatilaninotesi.com.tr/20261126/sile-belediyesindeki-yolsuzluk-davasinda-5-saniga-tahliye-karari-1110615015.html",
-   "https://anlatilaninotesi.com.tr/20261126/zaharovadan-abye-sert-suclama-muzakere-soylemleri-rusyaya-yonelik-saldirganligi-gizleme-amaci-1110615160.html"
+   "https://anlatilaninotesi.com.tr/20261126/zaharovadan-abye-sert-suclama-muzakere-soylemleri-rusyaya-yonelik-saldirganligi-gizleme-amaci-1110615160.html",
+   "https://anlatilaninotesi.com.tr/20261126/lavrov-abd-yaptirimlara-ragmen-rusya-ile-diyaloga-acik-1110615406.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2143,10 +2144,6 @@
   ]
  },
  "recent_titles": [
-  "beşiktaş taraftarından ya allah bismillah mohamed salah tezahüratı",
-  "trabzonsporda paul onuachu geri döndü",
-  "beşiktaşta leandro trossard imzayı bekliyor",
-  "beşiktaşta sıra alexander sörlothta",
   "mauro icardinin ayrılığı uğur karakullukçuyu canlı yayında ağlattı",
   "fenerbahçegornik zabrze maçının hakemi belli oldu",
   "gençlerbirliği henry onyekuru ile yollarını ayırdı",
@@ -3642,6 +3639,10 @@
   "samsunda 3 çocuk annesinin şüpheli ölümü kayıp telefonu aranıyor",
   "yılın son mgk toplantısı sona erdi gözler yazılı açıklamada",
   "arda gülerin yeni arabasının değeri akıllara durgunluk verdi",
-  "genel müdür çaydan bir yıllık faaliyet değerlendirmesi"
+  "genel müdür çaydan bir yıllık faaliyet değerlendirmesi",
+  "hizmet ihracatçılarına 20 kategoride 60 ödül verildi",
+  "yıldız holding ve halka açık şirketleri yatırımcı ve analistlerle bir araya geldi",
+  "mgk toplantısı sonrası 9 maddelik açıklama",
+  "lavrov abd yaptırımlara rağmen rusya ile diyaloğa açık"
  ]
 }
