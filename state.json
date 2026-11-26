@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-uyusturucu-operasyonu-24893-h1585487",
    "https://www.ensonhaber.com/vanda-sicakliklar-mevsim-normalinin-uzerinde-seyredince-flamingolar-van-golunde-kaldi-h1585489",
    "https://www.ensonhaber.com/turkiyenin-siddetli-yagis-haritasi-dijital-ortama-tasindi-ekstrem-yagislar-onceden-hesapla-h1585488",
    "https://www.ensonhaber.com/mersinde-7-gunun-sonunda-bulunan-kadin-nasil-hayatta-kaldigini-anlatti-h1585490",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/disisleri-bakani-hakan-fidan-gurcistan-disisleri-bakani-ile-gorustu-h1585980",
    "https://www.ensonhaber.com/besiktastan-olaylar-sonrasi-ilk-aciklama-cumhurbaskanimiza-sukranlarimizi-sunariz-h1585981",
    "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982",
-   "https://www.ensonhaber.com/besiktasa-kotu-haber-emirhan-topcu-sakatlandi-h1585983"
+   "https://www.ensonhaber.com/besiktasa-kotu-haber-emirhan-topcu-sakatlandi-h1585983",
+   "https://www.ensonhaber.com/istanbul-pendikte-alkollu-surucu-polis-aracina-carpti-2-yarali-h1585984"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679693-77-yillik-tarim-devinde-kayyim-donemi-yonetimin-yetkileri-tedbiren-sinirlandirildi",
    "https://www.haber7.com/guncel/haber/3679694-gundemdeki-lastikci-karsi-tarafi-sucladi-20-yillik-emegimiz-yok-oldu-kazancimiz-helaldir",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679695-galatasarayda-25-yil-sonra-bir-ilk",
    "https://www.haber7.com/saglik/haber/3679696-iki-yil-suren-yorgunluk-ve-halsizlik-kabusu-nedeni-paratiroid-adenomu-cikti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/yerel-secim/haber/3680157-esenler-belediyesinin-yapay-zeka-projesine-altin-karinca",
    "https://spor.haber7.com/spor/haber/3680158-bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu",
    "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi"
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi",
+   "https://www.haber7.com/dunya/haber/3680160-venezuelanin-en-buyuk-petrol-rafinerisinde-yangin-isciler-tahliye-edildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2141,7 +2141,8 @@
    "https://anlatilaninotesi.com.tr/20261126/disisleri-bakani-fidan-gurcistan-disisleri-bakani-botchorishvili-ile-telefon-gorusmesi-1110623087.html",
    "https://anlatilaninotesi.com.tr/20261126/tcmbden-iki-onemli-karar-repo-ihaleleri-durduruldu-zorunlu-karsilik-faizi-yukseltildi-1110623294.html",
    "https://anlatilaninotesi.com.tr/20261126/ukraynada-17-60-yas-arasindaki-erkeklerin-askerlik-kayitlari-kontrol-edilecek-1110623462.html",
-   "https://anlatilaninotesi.com.tr/20261126/tffden-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-yonelik-aciklama-sessiz-kalinmasi-soz-1110623565.html"
+   "https://anlatilaninotesi.com.tr/20261126/tffden-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-yonelik-aciklama-sessiz-kalinmasi-soz-1110623565.html",
+   "https://anlatilaninotesi.com.tr/20261126/zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-1110624003.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2171,10 +2172,6 @@
   ]
  },
  "recent_titles": [
-  "milasta meydana gelen 46 büyüklüğündeki depreme ilişkin prof dr sözbilirden açıklama",
-  "7 avrupa ülkesinden abye rus ve belaruslu sporculara vize verilmemesi çağrısı",
-  "italya başbakan yardımcısı salviniden ukraynanın bingazi saldırısına tepki",
-  "msb eskişehirde askeri helikopter kaza kırıma uğradı",
   "ak parti genel başkan yardımcısı yazıcı myk ve mkyk üyeliğinden istifa etti",
   "batı medyası abd çin ve onlarca diğer ülke için gümrük vergilerini artırmaya hazırlanıyor",
   "cumhurbaşkanı erdoğandan öğretmen ataması açıklaması",
@@ -3670,6 +3667,10 @@
   "cska sofyatrabzonspor canli",
   "bakan çiftçi batumda taraftarlara yönelik müdahaleyi gürcü mevkidaşıyla görüştü",
   "türk sanat müziği bestecisi hüsnü üstün hayatını kaybetti",
-  "hapoele gürcistanda beşiktaş tokadı kartal uefayı da yendi"
+  "hapoele gürcistanda beşiktaş tokadı kartal uefayı da yendi",
+  "venezuelanın en büyük petrol rafinerisinde yangın işçiler tahliye edildi",
+  "istanbul pendikte alkollü sürücü polis aracına çarptı 2 yaralı",
+  "içişleri bakanı mustafa çiftçi gürcistan içişleri bakanı ile görüştü",
+  "zeytinburnunda toprak kayması 4 katlı bina boşaltıldı"
  ]
 }
