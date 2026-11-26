@@ -848,8 +848,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679193-konya-sulh-hukuk-mahkemeleri-satis-memurlugu",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679190-akhisar-milli-emlak-mudurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679189-adana-1-is-mahkemesi-hakimligi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679187-kozan-3-asliye-hukuk-mahkemesi-hakimligi",
    "https://spor.haber7.com/galatasaray/haber/3679580-galatasaraya-kotu-haber-macin-kahramani-bu-gece-ameliyat-olacak",
@@ -1347,7 +1345,9 @@
    "https://www.haber7.com/gaziantep/3679987-gaziantepte-kan-donduran-olay-arkadasini-oldurup-parasiyla-borclarini-odedi-iddiasi",
    "https://www.haber7.com/dunya/haber/3679990-abd-olmadan-da-irani-vururuz-dedi-katil-sozcuden-canli-kalkan-savunmasi",
    "https://www.haber7.com/guncel/haber/3679989-elazigda-isletme-gibi-calisan-okul-yillik-cirosu-dudak-ucuklatti",
-   "https://www.haber7.com/dunya/haber/3679991-endonezyada-yasa-disi-altin-madeninde-facia-13-olu-13-mahsur"
+   "https://www.haber7.com/dunya/haber/3679991-endonezyada-yasa-disi-altin-madeninde-facia-13-olu-13-mahsur",
+   "https://www.haber7.com/dunya/haber/3679992-israil-ordusundan-abd-cikisi-onlarsiz-da-irana-saldiriya-haziriz",
+   "https://ekonomi.haber7.com/ekonomi/haber/3679993-2021den-sonra-yapilan-binalara-kritik-uyari-2027de-denetimler-baslayacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1799,7 +1799,8 @@
    "https://www.mynet.com/magazin/ozcan-deniz-in-ifadesi-ortaya-cikti-7-8-tane-gayrimenkul-ve-130100607708",
    "https://www.mynet.com/magazin/burcu-ozberk-in-ifadesi-ortaya-cikti-aylik-gelirini-acikladi-130100607711",
    "https://www.mynet.com/magazin/deniz-cakir-in-ifadesi-ortaya-cikti-aylik-gelirini-acikladi-130100607714",
-   "https://www.mynet.com/magazin/nihat-dogan-ile-umit-ozat-birbirine-girdi-tiktok-ta-3-kurus-icin-130100607717"
+   "https://www.mynet.com/magazin/nihat-dogan-ile-umit-ozat-birbirine-girdi-tiktok-ta-3-kurus-icin-130100607717",
+   "https://www.mynet.com/magazin/arzum-onan-ulkeyi-terk-etmek-istemedi-orkan-ozkan-ile-ayrildi-130100607720"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -3475,6 +3476,10 @@
   "güney korede borsadaki düşüşü yorumlayan sunucu gözyaşlarını tutamadı",
   "endonezyada yasa dışı altın madeninde facia 13 ölü 13 mahsur",
   "israil ordusundan abd çıkışı onlarsız da irana saldırıya hazırız",
-  "nihat doğan ile ümit özat birbirine girdi tiktokta 3 kuruş için"
+  "nihat doğan ile ümit özat birbirine girdi tiktokta 3 kuruş için",
+  "2021den sonra yapılan binalara kritik uyarı 2027de denetimler başlayacak",
+  "altın ve dolarda dengeleri değiştirecek gelişme kritik tahmin",
+  "tbmm başkanı kurtulmuş sidney uidyi ziyaret etti atatürk anıtına çelenk bıraktı",
+  "arzum onan ülkeyi terk etmek istemedi orkan özkan ile ayrıldı"
  ]
 }
