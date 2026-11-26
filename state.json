@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/nvidia-ceosu-huang-trumpin-mudahalesiyle-goreve-donmedim-h1585433",
    "https://www.ensonhaber.com/galatasarayin-aston-villa-zaferi-ingiliz-basininda-mansetlere-tasindi-h1585434",
    "https://www.ensonhaber.com/izmirde-tarihi-eser-operasyonu-bir-evden-187-parca-cikti-h1585435",
    "https://www.ensonhaber.com/meteorolojiden-kuvvetli-yagis-uyarisi-sicakliklar-dusuyor-h1585436",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/vucudun-gizli-ihtiyaci-elektrolitli-su-nasil-yapilir-3-malzemeyle-elektrolit-destegi-h1585925",
    "https://www.ensonhaber.com/emlak-vergisinde-son-gun-30-kasim-pazartesi-h1585926",
    "https://www.ensonhaber.com/samsunda-3-cocuk-annesinin-supheli-olumu-kayip-telefonu-araniyor-h1585927",
-   "https://www.ensonhaber.com/mgk-toplantisi-sonrasi-9-maddelik-aciklama-63143-h1585928"
+   "https://www.ensonhaber.com/mgk-toplantisi-sonrasi-9-maddelik-aciklama-63143-h1585928",
+   "https://www.ensonhaber.com/kayip-olarak-aranirken-ormanda-cesedi-bulundu-h1585929"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679629-evliya-celebi-kalemiyle-biz-objektifimizle-naksettik",
    "https://www.haber7.com/guncel/haber/3679628-yargitaydan-iban-sahiplerini-ilgilendiren-karar-atm-ve-ip-kayitlari-incelenecek",
    "https://www.haber7.com/guncel/haber/3679630-yasal-zorbaliga-son-verilmelidir-ihtarsiz-ve-suresiz-iicra-ve-unuttugumuz-merhamet",
    "https://www.haber7.com/guncel/haber/3679631-izmirde-bir-evden-187-tarihi-eser-cikti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680053-suresiz-nafaka-duzenlemesinde-hakime-genis-yetki-iddiasi",
    "https://www.haber7.com/guncel/haber/3680083-kpss-adaylarina-mujde-buro-memuru-aliminda-one-cikan-iller-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680099-yildiz-holding-ve-halka-acik-sirketleri-yatirimci-ve-analistlerle-bir-araya-geldi",
-   "https://www.haber7.com/dunya/haber/3680100-libya-anlasmasi-resmilesti-yunan-basinindan-atina-icin-hezimet-itirafi"
+   "https://www.haber7.com/dunya/haber/3680100-libya-anlasmasi-resmilesti-yunan-basinindan-atina-icin-hezimet-itirafi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3679971-turkiyenin-savas-gemilerine-son-savunma-kalkani-ortaya-cikti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1854,7 +1854,8 @@
    "https://www.mynet.com/magazin/survivor-2027-ne-zaman-baslayacak-buyuk-odul-belli-oldu-130100607744",
    "https://www.mynet.com/magazin/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-130100607747",
    "https://www.mynet.com/magazin/dogukan-gungor-un-o-itirafi-akla-sude-zulal-guler-i-getirdi-130100607699",
-   "https://www.mynet.com/magazin/guller-ve-gunahlar-43-bolum-2-fragman-seyirci-sitem-etti-130100607750"
+   "https://www.mynet.com/magazin/guller-ve-gunahlar-43-bolum-2-fragman-seyirci-sitem-etti-130100607750",
+   "https://www.mynet.com/magazin/7-unlu-isim-5-yil-boyunca-adli-tip-kurumuna-gidecek-130100607753"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2144,9 +2145,6 @@
   ]
  },
  "recent_titles": [
-  "fenerbahçe marcus bingham jrı kadrosuna kattı",
-  "fenerbahçe mason greenwooda kavuştu",
-  "mohamed salah beşiktaşa transfer olmak istiyor tek engel maaş talebi",
   "kameralar yakaladı bellinghamın arjantinli futbolcuya neden tokat attığı ortaya çıktı",
   "ingilterenin messi için aldığı önlemler tutmadı arjantinli oyuncular pickfordın gizli su şişesi buldu",
   "ingilterearjantin karşılaşmasının hakemi ismail elfath maç sonu secdeye gitti",
@@ -3643,6 +3641,9 @@
   "lavrov abd yaptırımlara rağmen rusya ile diyaloğa açık",
   "erdoğan başkanlığında yılın son mgk toplantısı 9 maddelik yazılı açıklama",
   "süresiz nafaka düzenlemesinde hakime geniş yetki iddiası",
-  "libya anlaşması resmileşti yunan basınından atina için hezimet itirafı"
+  "libya anlaşması resmileşti yunan basınından atina için hezimet itirafı",
+  "türkiyenin savaş gemilerine son savunma kalkanı ortaya çıktı",
+  "kayıp olarak aranırken ormanda cesedi bulundu",
+  "7 ünlü isim 5 yıl boyunca adli tıp kurumuna gidecek"
  ]
 }
