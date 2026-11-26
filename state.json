@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/adana/3679685-adanada-15-yasindaki-tetikci-tarafindan-olduruldu-olum-tehdidi-iddiasi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679693-77-yillik-tarim-devinde-kayyim-donemi-yonetimin-yetkileri-tedbiren-sinirlandirildi",
    "https://www.haber7.com/guncel/haber/3679694-gundemdeki-lastikci-karsi-tarafi-sucladi-20-yillik-emegimiz-yok-oldu-kazancimiz-helaldir",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679695-galatasarayda-25-yil-sonra-bir-ilk",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-canli",
    "https://www.haber7.com/yerel-secim/haber/3680157-esenler-belediyesinin-yapay-zeka-projesine-altin-karinca",
    "https://spor.haber7.com/spor/haber/3680158-bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu",
-   "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti"
+   "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2171,7 +2171,6 @@
   ]
  },
  "recent_titles": [
-  "diyarbakırda bir mağarada çok sayıda insan kafatası ve kemiği bulundu soruşturma başlatıldı",
   "milasta meydana gelen 46 büyüklüğündeki depreme ilişkin prof dr sözbilirden açıklama",
   "7 avrupa ülkesinden abye rus ve belaruslu sporculara vize verilmemesi çağrısı",
   "italya başbakan yardımcısı salviniden ukraynanın bingazi saldırısına tepki",
@@ -3670,6 +3669,7 @@
   "esenler belediyesinin yapay zekâ projesine altın karınca",
   "cska sofyatrabzonspor canli",
   "bakan çiftçi batumda taraftarlara yönelik müdahaleyi gürcü mevkidaşıyla görüştü",
-  "türk sanat müziği bestecisi hüsnü üstün hayatını kaybetti"
+  "türk sanat müziği bestecisi hüsnü üstün hayatını kaybetti",
+  "hapoele gürcistanda beşiktaş tokadı kartal uefayı da yendi"
  ]
 }
