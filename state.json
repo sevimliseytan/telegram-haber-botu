@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679720-torpile-karsi-ezber-bozan-uygulama-baskan-gulpinar-sozunu-tuttu-bizzat-baskanlik-etti",
-   "https://www.haber7.com/dunya/haber/3679719-yunan-basinindan-turkiye-itirafi-sida-hayali-ankara-duvarina-carpti",
-   "https://www.haber7.com/teknoloji/haber/3679722-areda-survey-arastirdi-turk-halkinin-yuzde-743u-slot-oyunlarina-karsi",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679721-deniz-gul-atti-galatasaray-milyonlari-kazandi-sampiyonlar-ligi-geliri-guncellendi",
    "https://www.haber7.com/kitap/haber/3679725-yazar-abdullah-kibritci-siyah-develi-turku-anlatti",
    "https://www.haber7.com/medya/haber/3679724-kalbim-sana-emanette-aysenin-kacis-yolu-kendisini-kopruden-suya-atiyor",
@@ -1391,7 +1388,10 @@
    "https://spor.haber7.com/besiktas/haber/3680174-italianodan-zafer-sonrasi-ilk-sozler-hep-boyle-olmaliyiz",
    "https://spor.haber7.com/spor/haber/3680175-besiktasin-kaptanindan-filistin-aciklamasi-bizim-tarafimiz-belli",
    "https://spor.haber7.com/besiktas/haber/3680149-siyasilerden-besiktasa-buyuk-destek-tum-turkiye-yaninda",
-   "https://www.haber7.com/dunya/haber/3680176-fransiz-haber-ajansi-afp-siber-saldiriya-ugradi"
+   "https://www.haber7.com/dunya/haber/3680176-fransiz-haber-ajansi-afp-siber-saldiriya-ugradi",
+   "https://spor.haber7.com/besiktas/haber/3680177-besiktas-yendi-haciosmanoglu-israili-hedef-aldi-bebek-katili-bu-topraklarda-oynayamaz",
+   "https://www.haber7.com/3sayfa/haber/3680178-sultangazide-beton-mikseri-dehseti-yaya-gecidinde-carptigi-kadin-hayatini-kaybetti",
+   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-bulgaristanda-firtina-esti-trabzonspor-903te-geri-dondu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2144,7 +2144,8 @@
    "https://anlatilaninotesi.com.tr/20261126/tffden-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-yonelik-aciklama-sessiz-kalinmasi-soz-1110623565.html",
    "https://anlatilaninotesi.com.tr/20261126/zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-1110624003.html",
    "https://anlatilaninotesi.com.tr/20261127/macron-ab-zirvesinde-butce-uzlasmasi-zor-gorunuyor-1110624203.html",
-   "https://anlatilaninotesi.com.tr/20261127/bagdat-erbil-krizi-ikby-kontrolundeki-iki-sinir-kapisi-kapatildi-1110624329.html"
+   "https://anlatilaninotesi.com.tr/20261127/bagdat-erbil-krizi-ikby-kontrolundeki-iki-sinir-kapisi-kapatildi-1110624329.html",
+   "https://anlatilaninotesi.com.tr/20261127/bakanlik-istanbuldaki-7-kisilik-aile-icin-harekete-gecti-1110624694.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2174,8 +2175,6 @@
   ]
  },
  "recent_titles": [
-  "bahçeli ister bakan olsun ister belediye başkanı yolsuzluğa hiçbir şekilde müsamaha gösterme niyetinde değiliz",
-  "istanbulda kış yüzünü gösteriyor sıcaklıklar 0 dereceye kadar düşecek",
   "finlandiya körfezinde saldırıya uğrayan kuru yük gemisi st petersburg limanına çekildi",
   "tmsf duyurdu türkiyenin ünlü mobilya markası satışa çıkıyor",
   "cenk erenin hesap isyanı bu fiyat normal mi",
@@ -3673,6 +3672,8 @@
   "fransız haber ajansı afp siber saldırıya uğradı",
   "beşiktaş yendi hacıosmanoğlu resti çekti bebek katili bu topraklarda oynayamaz",
   "sultangazide beton mikseri dehşeti yaya geçidinde çarptığı kadın hayatını kaybetti",
-  "istanbul gaziosmanpaşada 185 bin uyuşturucu hap ele geçirildi 2 gözaltı"
+  "istanbul gaziosmanpaşada 185 bin uyuşturucu hap ele geçirildi 2 gözaltı",
+  "bulgaristanda fırtına esti trabzonspor 903te geri döndü",
+  "bakanlık istanbuldaki 7 kişilik aile için harekete geçti"
  ]
 }
