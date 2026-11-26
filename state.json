@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/ulkede-bugun/haber/3679649-kar-bastirdi-turkiyenin-dort-bir-yani-beyaza-burundu",
    "https://www.haber7.com/seyahat/haber/3679648-1500-rakimda-gorsel-solen-huzurlu-yaylasi-sonbahar-renklerine-burundu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679650-bakan-isikhandan-emekli-maasi-aciklamasi-iyilestirme-icin-calisma-yapiyoruz",
    "https://www.haber7.com/dunya/haber/3679651-husilerden-son-dakika-aciklamasi-petrol-tesisi-ve-ekonomi-sehrini-hedef-aldik",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680115-disislerinden-apye-libya-mutabakati-yaniti-boyle-bir-yetkiniz-yok",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva",
    "https://www.haber7.com/guncel/haber/3680117-saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama",
-   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-degisim-blogu-harekete-gecti-hepsi-kaldiriliyor"
+   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-degisim-blogu-harekete-gecti-hepsi-kaldiriliyor",
+   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-sicak-saatler-yeni-meclis-hepsini-kaldiriyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2157,8 +2157,6 @@
   ]
  },
  "recent_titles": [
-  "pluribus 2 sezon yayınlandı mı ne zaman 2026 yayın tarihi",
-  "kızılcık şerbetinden altı üstü istanbul dizisine transfer tarık hocanın kızı olacak",
   "yeni karadeniz dizisi geliyor çekim tarihi duyuruldu",
   "manifest sürprizi fragmana sığmadı yeni şarkısıyla daha 17 dizisinin yeni bölümünde",
   "yeraltı dizisindeki çok konuşulan şarkının sırrı çözüldü eypio ilk kez açıkladı",
@@ -3656,6 +3654,8 @@
   "beşiktaş taraftarları sarp sınır kapısına akın etti",
   "dışişleri bakanlığından apnin libya mutabakat muhtırası hakkındaki kararına tepki",
   "dışişleri bakanlığı ab deniz yetki alanlarının sınırlandırılması konusunda herhangi bir yetkiye sahip değildir",
-  "netanyahuya büyük darbe israilde değişim bloğu harekete geçti hepsi kaldırılıyor"
+  "netanyahuya büyük darbe israilde değişim bloğu harekete geçti hepsi kaldırılıyor",
+  "netanyahuya büyük darbe israilde sıcak saatler yeni meclis hepsini kaldırıyor",
+  "cevdet yılmaz ile bakanlar şimşek ve gürlekten fon açıklaması"
  ]
 }
