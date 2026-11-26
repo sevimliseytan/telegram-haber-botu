@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/yargitay-uyeligine-5-isim-secildi-h1585500",
    "https://www.ensonhaber.com/yeni-partide-myk-belli-oldu-h1585501",
    "https://www.ensonhaber.com/turk-telekom-gelecegi-genclerle-birlikte-insa-ediyor-h1585502",
    "https://www.ensonhaber.com/100-milyon-yillik-fosil-su-uzerinde-yuruyebilen-cekirge-turunu-ortaya-cikardi-h1585503",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/besiktas-baskani-adali-gurcistan-polisinin-orantisiz-guc-uygulamasi-hos-degildi-h1585993",
    "https://www.ensonhaber.com/salih-ozcan-bu-aksam-oynanan-mac-milli-bir-mesele-oldu-h1585994",
    "https://www.ensonhaber.com/besiktasli-oyunculardan-galibiyet-pozu-h1585995",
-   "https://www.ensonhaber.com/istanbul-zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-h1585996"
+   "https://www.ensonhaber.com/istanbul-zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-h1585996",
+   "https://www.ensonhaber.com/vincenzo-italiano-yasananlardan-dolayi-uzgunum-h1585997"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679716-kalkinma-yolunda-ezber-bozan-formul-demir-yolu-insaati-petrol-karsiligi-yapilacak",
    "https://ekonomi.haber7.com/ekonomi/haber/3679715-bakan-yumaklidan-mujde-cumhuriyet-tarihinin-rekoru-geliyor",
    "https://www.haber7.com/otomobil/haber/3679717-fiattan-turkiye-yollarina-cifte-hamle-grizzly-ve-fastback-satista",
    "https://www.haber7.com/guncel/haber/3679718-siddet-magduru-kadinlara-724-kesintisiz-destek-sonim",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680149-omer-celik-numan-kurtulmus-bakan-bak-besiktasa-buyuk-destek-tum-turkiye-yaninda",
    "https://spor.haber7.com/besiktas/haber/3680171-besiktasin-yildizlari-zaferin-ardindan-konustu-milli-mesele-oldu",
    "https://spor.haber7.com/spor/haber/3680172-besiktastan-beer-sheva-macina-ozel-galibiyet-pozu-filistin-unutulmadi",
-   "https://spor.haber7.com/spor/haber/3680173-gurcu-polisinden-buyuk-ikiyuzluluk-israil-bayragini-gormezden-geldiler"
+   "https://spor.haber7.com/spor/haber/3680173-gurcu-polisinden-buyuk-ikiyuzluluk-israil-bayragini-gormezden-geldiler",
+   "https://spor.haber7.com/besiktas/haber/3680174-italianodan-zafer-sonrasi-ilk-sozler-hep-boyle-olmaliyiz"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2174,10 +2174,6 @@
   ]
  },
  "recent_titles": [
-  "fatma betül sayan kaya ev hapsi şartıyla tahliye edildi",
-  "kredi kartlarında yeni dönem kredi kartı nakit avans ve kmh faizlerinde 3 yıl sonra ilk indirim",
-  "rusya savunma bakanlığı zaporojyede bir yerleşim birimi daha rus güçlerin kontrolüne geçti",
-  "ingilterede skandal ukraynaya tonlarca sahte c4 patlayıcı gönderilmiş",
   "nato genel sekreteri rutteden ittifak ülkelerine savaşa hazırlık çağrısı",
   "binanın duvarına yıldırım isabet etti tahliye edildi",
   "telefonu açıp sadece alo demeniz bile yeterli dolandırıcıların yeni yöntemine dikkat",
@@ -3673,6 +3669,10 @@
   "beşiktaşın yıldızları zaferin ardından konuştu milli mesele oldu",
   "beşiktaştan beer sheva maçına özel galibiyet pozu filistin unutulmadı",
   "beşiktaşlı oyunculardan galibiyet pozu",
-  "gürcü polisinden büyük ikiyüzlülük israil bayrağını görmezden geldiler"
+  "gürcü polisinden büyük ikiyüzlülük israil bayrağını görmezden geldiler",
+  "italianodan zafer sonrası ilk sözler hep böyle olmalıyız",
+  "beşiktaşın kaptanından filistin açıklaması bizim tarafımız belli",
+  "vincenzo italiano yaşananlardan dolayı üzgünüm",
+  "orkun kökçü filistin için kazandık"
  ]
 }
