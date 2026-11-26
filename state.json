@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/karadenizde-palamut-bereketi-balikcilar-80-yilin-rekor-sezonunu-yasiyor-h1585478",
    "https://www.ensonhaber.com/turkiyenin-bitki-genetik-mirasi-eksi-196-derecede-gelecege-tasinacak-h1585479",
    "https://www.ensonhaber.com/erzincan-ergan-daginda-kar-ve-tipi-etkili-oldu-h1585480",
    "https://www.ensonhaber.com/trt-1den-ramazan-dizisi-geliyor-basrolu-sukru-ozyildiz-aldi-h1585481",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/cumhurbaskani-erdogandan-kurra-hafiz-ali-kemal-hut-icin-taziye-mesaji-h1585971",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinda-ortalik-karisti-h1585972",
    "https://www.ensonhaber.com/israilde-muhalefet-partileri-yashar-ve-demokratlar-koalisyon-konusunda-uzlasti-h1585973",
-   "https://www.ensonhaber.com/trabzonspordan-besiktas-macinda-yasanan-olaylar-sonrasi-uefaya-israil-tepkisi-h1585974"
+   "https://www.ensonhaber.com/trabzonspordan-besiktas-macinda-yasanan-olaylar-sonrasi-uefaya-israil-tepkisi-h1585974",
+   "https://www.ensonhaber.com/gurcu-polisinin-yaraladigi-besiktasli-taraftar-sedyeyle-goturuldu-h1585975"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679678-demir-yolu-aginda-hedef-aciklandi-2030da-32-sehir-yht-ile-birbirine-baglanacak",
-   "https://spor.haber7.com/spor/haber/3679679-nihat-kahveci-unai-emeryin-mac-sonu-sozlerine-cok-sinirlendi",
    "https://www.haber7.com/yasam/haber/3679657-baliga-rakip-cikti-omega-3u-zirveye-tasiyor-kapis-kapis-gidiyor",
    "https://www.haber7.com/ekonomi/haber/3679680-halka-arzdan-sonra-ilk-veriler-geldi-yaklasik-200-milyar-dolarlik-deger-kaybi-yasadi",
    "https://www.haber7.com/guncel/haber/3679681-son-dakika-60-ilde-dev-operasyon-280-kisi-yakalandi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/egitim/haber/3680143-cocugunuzun-akran-zorbaligina-ugradigini-nasil-anlarsiniz-anne-babalara-ipuclari",
    "https://www.haber7.com/guncel/haber/3680144-fon-sorusturmasinda-liste-aciklamasi-isimler-ne-zaman-ortaya-cikacak",
    "https://www.haber7.com/guncel/haber/3680080-secimleri-bilen-sirket-yayimladi-son-anket-sonuclarinda-carpici-tablo",
-   "https://www.haber7.com/guncel/haber/3680145-bakan-gurlekten-fatma-betul-sayan-kaya-sorusuna-cevap"
+   "https://www.haber7.com/guncel/haber/3680145-bakan-gurlekten-fatma-betul-sayan-kaya-sorusuna-cevap",
+   "https://spor.haber7.com/besiktas/haber/3680146-besiktas-hapoel-beer-sheva-macinda-ortalik-karisti",
+   "https://spor.haber7.com/super-lig/haber/3680147-trabzonspor-ve-erzurumspordan-besiktasa-destek-orantisiz-mudahaleyi-siddetle-kiniyoruz"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2166,8 +2166,6 @@
   ]
  },
  "recent_titles": [
-  "haysiyet 11 bölüm 2 fragman izle final doğru karar",
-  "işın karaca 75 kilo verdi görenler tanıyamıyor",
   "tem otoyolunda korkutan anlar ünlü spiker merve dinçkol 4 aylık kızıyla trafik kazası geçirdi",
   "şeyma subaşının menemenine yorum yağdı görenler aynı şeyi söyledi",
   "nurgül yeşilçaydan şaşırtan 3 kilo itirafı diyet yapmadan zayıfladı",
@@ -3665,6 +3663,8 @@
   "beşiktaşhapoel beer sheva maçı durdu",
   "israilde muhalefet partileri yashar ve demokratlar koalisyon konusunda uzlaştı",
   "bakan gürlekten fatma betül sayan kaya sorusuna cevap",
-  "trabzonspordan beşiktaş maçında yaşanan olaylar sonrası uefaya israil tepkisi"
+  "trabzonspordan beşiktaş maçında yaşanan olaylar sonrası uefaya israil tepkisi",
+  "trabzonspor ve erzurumspordan beşiktaşa destek orantısız müdahaleyi şiddetle kınıyoruz",
+  "gürcü polisinin yaraladığı beşiktaşlı taraftar sedyeyle götürüldü"
  ]
 }
