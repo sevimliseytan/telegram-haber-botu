@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ozgur-ozel-parti-meclisi-ve-ydk-uyeleriyle-anitkabiri-ziyaret-etti-h1585495",
    "https://www.ensonhaber.com/kadina-siddete-hayir-mesajlari-2026-kadina-siddetle-mucadele-gunu-sozleri-h1585496",
    "https://www.ensonhaber.com/akin-gurlek-imrali-heyeti-uyeleriyle-gorustu-h1585497",
    "https://www.ensonhaber.com/istanbulda-yabanci-basina-silahli-roportaj-veren-ceteye-operasyon-9-gozalti-h1585498",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/kassoum-ouattaradan-uefaya-tepki-filistin-bayragini-koydu-h1585988",
    "https://www.ensonhaber.com/batmanda-silahli-kavga-2-yarali-h1585989",
    "https://www.ensonhaber.com/antalyada-5-kattan-dusen-kadin-can-verdi-2-tutuklama-h1585990",
-   "https://www.ensonhaber.com/orkun-kokcunun-sevinc-gozyaslari-h1585991"
+   "https://www.ensonhaber.com/orkun-kokcunun-sevinc-gozyaslari-h1585991",
+   "https://www.ensonhaber.com/a-milli-erkek-basketbol-takimi-italyaya-yenildi-29334-h1585992"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679707-11-bin-kilometre-otede-turk-imzasi-ankarayi-onemli-bir-guc-olarak-tanima-zamani-geldi",
    "https://spor.haber7.com/galatasaray/haber/3679708-gol-vurusunda-burnuna-darbe-almisti-galatasaraydan-deniz-gul-aciklamasi",
    "https://www.haber7.com/kitap/haber/3679709-baskalarina-gosterdigimiz-sefkati-neden-kendimizden-esirgiyoruz",
    "https://www.haber7.com/yasam/haber/3679710-1-kasik-yiyin-sekere-ve-tansiyona-iyi-geliyor-satis-rekoru-kirdi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/resmi-ilanlar/haber/3679771-samsun-3-asliye-hukuk-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679770-boyabat-sulh-hukuk-mahkemesi-satis-memurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679768-kas-3-asliye-hukuk-mahkemesi-hakimligi",
-   "https://spor.haber7.com/besiktas/haber/3680166-besiktasin-yildizindan-uefaya-filistin-cevabi-yaptigi-hareket-gundem-oldu"
+   "https://spor.haber7.com/besiktas/haber/3680166-besiktasin-yildizindan-uefaya-filistin-cevabi-yaptigi-hareket-gundem-oldu",
+   "https://www.haber7.com/guncel/haber/3680167-kubra-yigitbasi-medya-kadin-ve-toplumsal-sorumluluk-panelinde-konustu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2143,7 +2143,8 @@
    "https://anlatilaninotesi.com.tr/20261126/ukraynada-17-60-yas-arasindaki-erkeklerin-askerlik-kayitlari-kontrol-edilecek-1110623462.html",
    "https://anlatilaninotesi.com.tr/20261126/tffden-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-yonelik-aciklama-sessiz-kalinmasi-soz-1110623565.html",
    "https://anlatilaninotesi.com.tr/20261126/zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-1110624003.html",
-   "https://anlatilaninotesi.com.tr/20261127/macron-ab-zirvesinde-butce-uzlasmasi-zor-gorunuyor-1110624203.html"
+   "https://anlatilaninotesi.com.tr/20261127/macron-ab-zirvesinde-butce-uzlasmasi-zor-gorunuyor-1110624203.html",
+   "https://anlatilaninotesi.com.tr/20261127/bagdat-erbil-krizi-ikby-kontrolundeki-iki-sinir-kapisi-kapatildi-1110624329.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2173,11 +2174,6 @@
   ]
  },
  "recent_titles": [
-  "korna çaldığı için ambulans şoförünü darp etti kaçan saldırgan aranıyor",
-  "kolombiyada bombalı araç saldırısı 21 yaralı",
-  "büyük patlamadan 630 milyon yıl sonra dev kara deliğin bulunduğu galaksi keşfedildi",
-  "asgari ücret için yeni zam formülü önerisi",
-  "yeni araştırma ileri yaşlarda depresyon alzheimer belirtisi olabilir",
   "jensen huangın dönüşüyle ilgili yeni detaylar amerikan ekonomisi onsuz neden çöküyordu",
   "aksarayda yolcu otobüsü devrildi onlarca yaralı var",
   "bakan uraloğlu hedef 32 şehir dedi açıkladı ankaraistanbul yolculuğu 80 dakikaya inecek",
@@ -3672,6 +3668,11 @@
   "beşiktaşın yıldızından uefaya filistin cevabı yaptığı hareket gündem oldu",
   "orkun kökçünün sevinç gözyaşları",
   "macron ab zirvesinde bütçe uzlaşması zor görünüyor",
-  "bağdaterbil krizi ikby kontrolündeki iki sınır kapısı kapatıldı"
+  "bağdaterbil krizi ikby kontrolündeki iki sınır kapısı kapatıldı",
+  "kubra yigitbası medya kadın ve toplumsal sorumluluk panelinde konuştu",
+  "içişleri bakanı çiftçi öğrencilik yıllarındaki sözlü sınav anılarını paylaştı",
+  "iletişim başkanı durandan apnin türkiyelibya mutabakatına ilişkin kararına tepki",
+  "a milli erkek basketbol takımı italyaya yenildi",
+  "beşiktaş başkanı adalı gürcistan polisi orantısız güç kullandı"
  ]
 }
