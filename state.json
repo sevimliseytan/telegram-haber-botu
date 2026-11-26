@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/eylul-ozturk-estetik-sonrasi-amerikaya-dondu-ucaktan-yaptigi-paylasim-sasirtti-h1585395",
    "https://www.ensonhaber.com/kurtulmus-terorsuz-turkiye-surecinde-izleme-komisyonu-19-uyeden-olusacak-h1585396",
    "https://www.ensonhaber.com/ufuk-beydemir-baba-oldu-iste-bebegin-adi-h1585397",
    "https://www.ensonhaber.com/istanbulda-freni-bosalan-tir-gecekondunun-bahcesine-girdi-h1585398",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/yeni-partili-eskisehir-belediyesinden-heykel-onarim-hizmeti-h1585887",
    "https://www.ensonhaber.com/almanya-federal-meclisinde-eski-mossad-baskanina-protesto-h1585888",
    "https://www.ensonhaber.com/yabanci-yatirimcilarin-tahvil-ve-hisse-portfoyu-azaldi-h1585889",
-   "https://www.ensonhaber.com/erbilde-irak-hukumetinin-kararlari-protesto-edildi-h1585890"
+   "https://www.ensonhaber.com/erbilde-irak-hukumetinin-kararlari-protesto-edildi-h1585890",
+   "https://www.ensonhaber.com/baba-vanganin-2027-kehanetleri-putin-altin-ve-gizemli-hastalik-h1585891"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679518-pasinyandan-tarihi-turkiye-adimi-ermenistanin-kaderi-tayin-edilecek",
    "https://www.haber7.com/guncel/haber/3679517-havzada-iki-otomobil-carpisti-2-yarali",
    "https://www.haber7.com/guncel/haber/3679516-erciyeste-kar-yagisi-etkili-oldu-beyaza-burundu",
    "https://www.haber7.com/guncel/haber/3679515-diyarbakirda-bir-magarada-bircok-kafatasi-ve-kemik-bulundu-ekipler-harekete-gecti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680055-ingiltereden-100-bin-eski-askere-savas-mektubu-hazirlikli-olun",
    "https://www.haber7.com/dunya/haber/3680058-ben-gvirin-soykirim-dolu-ifadeleri-tepki-cekti",
    "https://www.haber7.com/seyahat/haber/3680059-94-yildir-trenlerin-uzerinde-yasiyorlar-balikesirdeki-koy-demir-yolu-ile-dikkat-cekiyor",
-   "https://spor.haber7.com/spor/haber/3680060-taha-akgul-ve-riza-kayaalp-sosyal-sorumluluk-projesi-kapsaminda-yesil-sahaya-cikti"
+   "https://spor.haber7.com/spor/haber/3680060-taha-akgul-ve-riza-kayaalp-sosyal-sorumluluk-projesi-kapsaminda-yesil-sahaya-cikti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680061-zeytin-ureticilerine-590-milyon-tl-mujdesi-odeme-tarihi-belli-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2132,8 +2132,6 @@
   ]
  },
  "recent_titles": [
-  "yeraltının sultanı sümeyye aydoğan tatilde son pozları olay oldu",
-  "danla bilicten kötü haber hastaneye kaldırıldı iddiası",
   "neslihan atagülden ayna pozu hayranları çok beğendi",
   "yüz nakli olan didem ceran isyan etti beni kıskanıyorsunuz",
   "dilan polatın kızı nilda polatın son haline yorum yağdı aynı annesi",
@@ -3631,6 +3629,8 @@
   "yabancı yatırımcıların tahvil ve hisse portföyü azaldı",
   "erbilde irak hükümetinin kararları protesto edildi",
   "taha akgül ve rıza kayaalp sosyal sorumluluk projesi kapsamında yeşil sahaya çıktı",
-  "zeytin üreticilerine 590 milyon tl müjdesi ödeme tarihi belli oldu"
+  "zeytin üreticilerine 590 milyon tl müjdesi ödeme tarihi belli oldu",
+  "baba vanganın 2027 kehanetleri putin altın ve gizemli hastalık",
+  "sevda türküsev celal şengörün türk kadını kompleksi var"
  ]
 }
