@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/unai-emery-hakem-bize-karsi-adil-degildi-h1585378",
-   "https://www.ensonhaber.com/super-ligden-9-kulup-pfdkya-sevk-edildi-56281-h1585376",
-   "https://www.ensonhaber.com/yunus-akgun-iyi-giden-bir-galatasaray-var-h1585375",
    "https://www.ensonhaber.com/deniz-gul-burnundan-operasyon-gecirecek-h1585374",
    "https://www.ensonhaber.com/valiler-kararnamesi-resmi-gazetede-yayimlandi-h1585373",
    "https://www.ensonhaber.com/mhp-lideri-bahceliden-sehit-askerler-icin-bassagligi-mesaji-h1585372",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/bagcilarda-otomobil-kaldirima-cikti-2-yaya-agir-yaralandi-h1585831",
    "https://www.ensonhaber.com/sanliurfada-3uncu-kattan-dusen-kadin-oldu-h1585832",
    "https://www.ensonhaber.com/turkiyeden-misira-bassagligi-mesaji-h1585833",
-   "https://www.ensonhaber.com/unlulere-yonelik-sorusturmada-3-ismin-gelirli-belli-oldu-h1585834"
+   "https://www.ensonhaber.com/unlulere-yonelik-sorusturmada-3-ismin-gelirli-belli-oldu-h1585834",
+   "https://www.ensonhaber.com/mersinde-yengesi-ve-onun-annesini-olduren-saniga-2-kez-agirlastirilmis-muebbet-talebi-h1585835",
+   "https://www.ensonhaber.com/istanbulda-kurye-yaya-gecidinde-carptigi-vatandasi-yumruklayip-kacti-h1585836",
+   "https://www.ensonhaber.com/tuvaludan-moldovaya-turistlerin-az-ziyaret-ettigi-ulkeler-h1585837"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679563-havalimanlarindan-devlete-milyarlarca-avro-gelir",
-   "https://www.haber7.com/dunya/haber/3679502-restorandaki-feci-patlamada-6-kisi-oldu",
-   "https://www.haber7.com/siyaset/haber/3679562-bakan-ciftciden-mogolistan-mesaji-orhun-yazitlari-uzerinden-tarihi-vurgu",
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679560-fenerbahce-maci-oncesi-arda-turandan-abi-ve-kardes-aciklamasi",
    "https://spor.haber7.com/diger-branslar/haber/3679559-milli-boksorumuz-avrupa-sampiyonu",
    "https://www.haber7.com/guncel/haber/3679558-turkiye-ile-suriye-hattinda-tarihi-miras-icin-kritik-hamle",
    "https://www.haber7.com/dunya/haber/3679557-bolgeyi-karistiracak-suikast-iddiasi-buyuk-operasyon-an-meselesi-trump-karar-asamasinda",
@@ -1391,7 +1387,11 @@
    "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti",
    "https://www.haber7.com/dunya/haber/3680016-son-dakika-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
    "https://ekonomi.haber7.com/ekonomi/haber/3680017-kuresel-firtinaya-ragmen-turk-lirasina-yabanci-ilgisi-suruyor",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680018-komsuya-turkiyeden-kesintisiz-elektrik-hamlesi-500-megavatlik-kapasiteye-cikilacak"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680018-komsuya-turkiyeden-kesintisiz-elektrik-hamlesi-500-megavatlik-kapasiteye-cikilacak",
+   "https://www.haber7.com/medya/haber/3680019-kalbim-sana-emanet-65-bolum-raja-kurtulamiyor",
+   "https://www.haber7.com/medya/haber/3680020-bilmezler-ki-kalbimdesin-132-bolum-malininin-intikam-planlari",
+   "https://www.haber7.com/guncel/haber/3680021-samsunda-3-aracin-karistigi-trafik-kazasinda-5-kisi-yaralandi",
+   "https://www.haber7.com/medya/haber/3680023-gelin-522-bolum-konakta-zor-gunler"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2111,10 +2111,6 @@
   ]
  },
  "recent_titles": [
-  "cemil tugayı köşeye sıkıştıracak eski röportajı",
-  "kemal kılıçdaroğlundan özgür özele sert mesaj",
-  "hakan fidan moskovada şoygu ile görüştü",
-  "mit başkanı kalın abdiran anlaşmasına ilişkin temkinli bir iyimserlik içerisindeyiz",
   "sikorskiden abdiran anlaşmasına inşallah yorumu",
   "irandan türkiyeye teşekkür mesajı",
   "gaziantepte mhpye 300 kişilik katılım",
@@ -3610,6 +3606,10 @@
   "ünlülere yönelik soruşturmada 3 ismin geliri belli oldu",
   "mersinde yengesi ve onun annesini öldüren sanığa 2 kez ağırlaştırılmış müebbet talebi",
   "istanbulda kurye yaya geçidinde çarptığı vatandaşı yumruklayıp kaçtı",
-  "avrupalılar savaşı baltık ve akdenize yaymaya çalışıyor abd çözüme gidecek"
+  "avrupalılar savaşı baltık ve akdenize yaymaya çalışıyor abd çözüme gidecek",
+  "gelin 522 bölüm konakta zor günler",
+  "ingilteredeki fetöcüler birbirine girdi38 milyon sterlinlik dava prens andrewa uzandı",
+  "tuvaludan moldovaya turistlerin az ziyaret ettiği ülkeler",
+  "yunanlı vekil mesnetsiz ifadelerle türkiyeyi hedef aldı"
  ]
 }
