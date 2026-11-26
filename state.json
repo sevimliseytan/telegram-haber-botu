@@ -848,10 +848,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679196-kozan-3-asliye-hukuk-mahkemesi-hakimligi",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679233-bergama-icra-mudurlugu",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679232-ankara-26-sulh-hukuk-mahkemesi-hakimligi",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679194-alanya-2-sulh-hukuk-mah-satis-memurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679193-konya-sulh-hukuk-mahkemeleri-satis-memurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679190-akhisar-milli-emlak-mudurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679189-adana-1-is-mahkemesi-hakimligi",
@@ -1347,7 +1343,11 @@
    "https://www.haber7.com/guncel/haber/3679986-bakan-tekinden-son-dakika-ogretmen-atamasi-aciklamasi",
    "https://www.haber7.com/guncel/haber/3679985-oto-ekspertizden-ornek-davranis-ucret-almadan-hayat-kurtaran-tespiti-yapti",
    "https://www.haber7.com/3sayfa/haber/3679987-gaziantepte-kan-donduran-olay-arkadasini-oldurup-parasiyla-borclarini-odedi-iddiasi",
-   "https://spor.haber7.com/spor/haber/3679988-vedat-muriqiden-esine-jest-askim-bu-senin-icin-dedi-odulu-eve-goturdu"
+   "https://spor.haber7.com/spor/haber/3679988-vedat-muriqiden-esine-jest-askim-bu-senin-icin-dedi-odulu-eve-goturdu",
+   "https://www.haber7.com/gaziantep/3679987-gaziantepte-kan-donduran-olay-arkadasini-oldurup-parasiyla-borclarini-odedi-iddiasi",
+   "https://www.haber7.com/dunya/haber/3679990-abd-olmadan-da-irani-vururuz-dedi-katil-sozcuden-canli-kalkan-savunmasi",
+   "https://www.haber7.com/guncel/haber/3679989-elazigda-isletme-gibi-calisan-okul-yillik-cirosu-dudak-ucuklatti",
+   "https://www.haber7.com/dunya/haber/3679991-endonezyada-yasa-disi-altin-madeninde-facia-13-olu-13-mahsur"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1798,7 +1798,8 @@
    "https://www.mynet.com/magazin/uyusturucu-operasyonunda-ceylan-kaya-tutuklandi-iste-serbest-kalan-isimler-130100607705",
    "https://www.mynet.com/magazin/ozcan-deniz-in-ifadesi-ortaya-cikti-7-8-tane-gayrimenkul-ve-130100607708",
    "https://www.mynet.com/magazin/burcu-ozberk-in-ifadesi-ortaya-cikti-aylik-gelirini-acikladi-130100607711",
-   "https://www.mynet.com/magazin/deniz-cakir-in-ifadesi-ortaya-cikti-aylik-gelirini-acikladi-130100607714"
+   "https://www.mynet.com/magazin/deniz-cakir-in-ifadesi-ortaya-cikti-aylik-gelirini-acikladi-130100607714",
+   "https://www.mynet.com/magazin/nihat-dogan-ile-umit-ozat-birbirine-girdi-tiktok-ta-3-kurus-icin-130100607717"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -3471,6 +3472,9 @@
   "vedat muriqiden eşine jest aşkım bu senin için dedi ödülü eve götürdü",
   "abd olmadan da iranı vururuz dedi katil sözcüden canlı kalkan savunması",
   "elazığda işletme gibi çalışan okul yıllık cirosu dudak uçuklattı",
-  "güney korede borsadaki düşüşü yorumlayan sunucu gözyaşlarını tutamadı"
+  "güney korede borsadaki düşüşü yorumlayan sunucu gözyaşlarını tutamadı",
+  "endonezyada yasa dışı altın madeninde facia 13 ölü 13 mahsur",
+  "israil ordusundan abd çıkışı onlarsız da irana saldırıya hazırız",
+  "nihat doğan ile ümit özat birbirine girdi tiktokta 3 kuruş için"
  ]
 }
