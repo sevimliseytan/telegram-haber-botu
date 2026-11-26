@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/shakhtar-donetsk-fenerbahce-muhtemel-11ler-h1585407",
-   "https://www.ensonhaber.com/denizlide-carptigi-agac-ikiye-bolundu-genc-surucu-hayatini-kaybetti-h1585408",
    "https://www.ensonhaber.com/lucas-torreira-galibiyeti-gece-kulubunde-kutladi-h1585409",
    "https://www.ensonhaber.com/bursada-isci-servisi-ile-hafif-ticari-aracin-karistigi-kazada-8-kisi-yaralandi-h1585411",
    "https://www.ensonhaber.com/turkiyede-motosikletlerin-katettigi-mesafe-10-yilda-28-kat-artti-h1585412",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/melis-sandalin-ailesinin-yasadigi-ev-kursunlandi-h1585899",
    "https://www.ensonhaber.com/aymden-saglik-calisanlarinin-nobet-ucretinde-6-saat-sartina-iptal-h1585900",
    "https://www.ensonhaber.com/2027nin-sansli-burcu-belli-uzerine-para-yagacak-h1585901",
-   "https://www.ensonhaber.com/topladigi-coplerden-ev-yapti-simdi-turistleri-agirliyor-h1585902"
+   "https://www.ensonhaber.com/topladigi-coplerden-ev-yapti-simdi-turistleri-agirliyor-h1585902",
+   "https://www.ensonhaber.com/mhk-baskani-anthony-taylor-hakem-kararlarini-degerlendirdi-galatasaray-ve-besiktas-h1585903",
+   "https://www.ensonhaber.com/derya-ulugun-gelinligi-gundem-oldu-680-bin-tl-h1585904"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2136,9 +2136,6 @@
   ]
  },
  "recent_titles": [
-  "kahramanmaraşta aile içi kavga kanlı bitti",
-  "denizlide otomobil şarampole devrildi 23 yaşındaki sürücü yaşamını yitirdi",
-  "antalyada itfaiyeye yol vermeyen sürücüye ceza uygulandı otomobili trafikten menedildi",
   "şırnakta kayalıklarda mahsur kalan 2 mühendis kurtarıldı",
   "akın gürlek paylaştı 19 şüpheliye yasa dışı bahis operasyonu",
   "eskişehirde yolcu otobüsü devrildi",
@@ -3635,6 +3632,9 @@
   "aymden sağlık çalışanlarının nöbet ücretinde 6 saat şartına iptal",
   "2027nin şanslı burcu belli üzerine para yağacak",
   "topladığı çöplerden ev yaptı şimdi turistleri ağırlıyor",
-  "mhk başkanı anthony taylor hakem kararlarını değerlendirdi galatasaray ve beşiktaş"
+  "mhk başkanı anthony taylor hakem kararlarını değerlendirdi galatasaray ve beşiktaş",
+  "derya uluğun gelinliği gündem oldu 680 bin tl",
+  "giorgia meloni savaşın akdenize sıçramayacağına inanıyorum",
+  "merkez bankası rezervleri 1429 milyar dolar"
  ]
 }
