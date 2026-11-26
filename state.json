@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbul-havalimaninda-2-iranli-kiyafetlere-emdirilmis-sekilde-20-kilo-uyusturucuyla-yakal-h1585455",
-   "https://www.ensonhaber.com/emine-erdogan-kadina-yonelik-siddet-butun-insanligi-yaraliyor-h1585456",
    "https://www.ensonhaber.com/konyada-karsi-seride-gecen-arac-ortaligi-savas-alanina-cevirdi-h1585457",
    "https://www.ensonhaber.com/hatayda-lokantada-ugradigi-mustali-saldirida-kor-olan-adamin-araci-ve-is-yeri-kursunlandi-h1585458",
    "https://www.ensonhaber.com/okul-otobusuydu-yeni-yuvalari-oldu-evden-daha-konforlu-h1585459",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/tff-yeni-klasman-temsilci-aday-kursu-duzenlenecegini-duyurdu-h1585948",
    "https://www.ensonhaber.com/ingiltere-londrada-metro-makinistleri-greve-gitti-h1585949",
    "https://www.ensonhaber.com/ousmane-diabate-premier-ligdeki-rekabete-hazir-h1585950",
-   "https://www.ensonhaber.com/hidayet-turkoglu-ulkemizi-en-iyi-sekilde-temsil-ettigimizi-dusunuyorum-h1585951"
+   "https://www.ensonhaber.com/hidayet-turkoglu-ulkemizi-en-iyi-sekilde-temsil-ettigimizi-dusunuyorum-h1585951",
+   "https://www.ensonhaber.com/kuzeyboruda-hedef-vakifbank-galibiyeti-h1585952",
+   "https://www.ensonhaber.com/begum-yucel-milli-takimlara-verdikleri-katkidan-dolayi-gururlu-h1585953"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679640-erdoganin-kaptanliginda-firtinali-yillar-turkiye-nasil-ayakta-kaldi",
-   "https://spor.haber7.com/galatasaray/haber/3679643-okan-buruk-mat-etti-emery-kariyerinde-ilki-yasadi-galatasaraya-zaferi-getiren-detay",
    "https://www.haber7.com/dunya/haber/3679642-pakistan-uzaya-ilk-kez-astronot-gonderdi",
    "https://www.haber7.com/guncel/haber/3679645-istanbullular-dikkat-bazi-yollar-trafige-kapatilacak",
    "https://ekonomi.haber7.com/ekonomi/haber/3679644-borsa-gune-dususle-basladi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680107-otobuste-kalbi-duran-yolcuya-soforden-hayat-kurtaran-mudahale-o-anlar-kamerada",
    "https://spor.haber7.com/spor/haber/3680110-besiktas-taraftari-batumu-inletti-isgale-isyan-filistine-ozgurluk",
    "https://www.haber7.com/guncel/haber/3680109-cumhurbaskani-erdoganin-hocasi-kemal-hut-efendi-hakka-yurudu",
-   "https://www.haber7.com/siyaset/haber/3680111-mugla-buyuksehir-belediye-baskani-ahmet-aras-ak-partiye-mi-gececek-aciklama-yapti"
+   "https://www.haber7.com/siyaset/haber/3680111-mugla-buyuksehir-belediye-baskani-ahmet-aras-ak-partiye-mi-gececek-aciklama-yapti",
+   "https://spor.haber7.com/galatasaray/haber/3680112-galatasaraydan-ugochukwu-icin-kritik-hamle-225-milyon-euroluk-sart-degisiyor",
+   "https://www.haber7.com/guncel/haber/3680113-ysk-baskani-muttadan-secim-uyarisi-tarihi-bir-zorunluluk"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2124,7 +2124,8 @@
    "https://anlatilaninotesi.com.tr/20261126/ticaret-bakanligindan-sahte-indirim-reklamina-yaptirim-1110616548.html",
    "https://anlatilaninotesi.com.tr/20261126/rus-ordusu-ukraynada-askeri-sanayi-isletmelerine-elektrik-saglayan-trafo-merkezlerini-vurdu-1110616652.html",
    "https://anlatilaninotesi.com.tr/20261126/onumuzdeki-iki-yilda-yapay-zekyi-fiziksel-hayatin-bir-parcasi-olarak-gorecegiz-1110616804.html",
-   "https://anlatilaninotesi.com.tr/20261126/irak-basbakani-zeydiden-ikby-aciklamasi-ordu-sinirlarda-konuslanacak-1110617055.html"
+   "https://anlatilaninotesi.com.tr/20261126/irak-basbakani-zeydiden-ikby-aciklamasi-ordu-sinirlarda-konuslanacak-1110617055.html",
+   "https://anlatilaninotesi.com.tr/20261126/sakaryada-hayvan-toplama-istasyonunda-20-kopek-oldu-barinak-tahliye-ediliyor-1110617409.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2154,9 +2155,6 @@
   ]
  },
  "recent_titles": [
-  "kızılcık şerbetinin eski abdullahı geri dönüyor işte yeni dizisi",
-  "uzak şehir meryemin yeni dizisi belli oldu işte rolü",
-  "daha 17 dizisi 8 bölüm 1 fragmanı şebnem arastan kurtulmanın peşinde",
   "altı üstü istanbulun pamuku bakın gerçekte kimin annesiymiş oğlu kızılcık şerbetinden",
   "abi dizisinde ayrılık rüzgarı bir isim daha ekibe veda ediyor",
   "sevdam karadeniz ne zaman başlayacak işte konusu ve oyuncu kadrosu",
@@ -3653,6 +3651,9 @@
   "muğla büyükşehir belediye başkanı ahmet aras ak partiye mi geçecek açıklama yaptı",
   "galatasaraydan ugochukwu için kritik hamle 225 milyon euroluk şart değişiyor",
   "hidayet türkoğlu ülkemizi en iyi şekilde temsil ettiğimizi düşünüyorum",
-  "kuzeyboruda hedef vakıfbank galibiyeti"
+  "kuzeyboruda hedef vakıfbank galibiyeti",
+  "ysk başkanı muttadan seçim uyarısı tarihi bir zorunluluk",
+  "begüm yücel milli takımlara verdikleri katkıdan dolayı gururlu",
+  "sakaryada hayvan toplama istasyonunda 20 köpek öldü barınak tahliye ediliyor"
  ]
 }
