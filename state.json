@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/vanda-sicakliklar-mevsim-normalinin-uzerinde-seyredince-flamingolar-van-golunde-kaldi-h1585489",
-   "https://www.ensonhaber.com/turkiyenin-siddetli-yagis-haritasi-dijital-ortama-tasindi-ekstrem-yagislar-onceden-hesapla-h1585488",
    "https://www.ensonhaber.com/mersinde-7-gunun-sonunda-bulunan-kadin-nasil-hayatta-kaldigini-anlatti-h1585490",
    "https://www.ensonhaber.com/jensen-huang-nvidiaya-geri-dondu-hisseler-bir-gunde-yuzde-32-artti-h1585491",
    "https://www.ensonhaber.com/izmirde-optik-magazasindan-gozluk-calan-kadin-yakalandi-h1585492",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/besiktastan-olaylar-sonrasi-ilk-aciklama-cumhurbaskanimiza-sukranlarimizi-sunariz-h1585981",
    "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982",
    "https://www.ensonhaber.com/besiktasa-kotu-haber-emirhan-topcu-sakatlandi-h1585983",
-   "https://www.ensonhaber.com/istanbul-pendikte-alkollu-surucu-polis-aracina-carpti-2-yarali-h1585984"
+   "https://www.ensonhaber.com/istanbul-pendikte-alkollu-surucu-polis-aracina-carpti-2-yarali-h1585984",
+   "https://www.ensonhaber.com/icisleri-bakani-mustafa-ciftci-gurcistan-icisleri-bakani-ile-gorustu-h1585985",
+   "https://www.ensonhaber.com/karamanda-vincten-dusen-kulubenin-uzerindeki-kisi-agir-yaralandi-h1585986"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679694-gundemdeki-lastikci-karsi-tarafi-sucladi-20-yillik-emegimiz-yok-oldu-kazancimiz-helaldir",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679695-galatasarayda-25-yil-sonra-bir-ilk",
    "https://www.haber7.com/saglik/haber/3679696-iki-yil-suren-yorgunluk-ve-halsizlik-kabusu-nedeni-paratiroid-adenomu-cikti",
    "https://www.haber7.com/3sayfa/haber/3679697-isik-ihlali-nedeniyle-otomobiller-carpisti-1-olu",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680158-bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu",
    "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi",
-   "https://www.haber7.com/dunya/haber/3680160-venezuelanin-en-buyuk-petrol-rafinerisinde-yangin-isciler-tahliye-edildi"
+   "https://www.haber7.com/dunya/haber/3680160-venezuelanin-en-buyuk-petrol-rafinerisinde-yangin-isciler-tahliye-edildi",
+   "https://www.haber7.com/siyaset/haber/3680161-imamoglu-ekibine-mykda-da-nester-vuruldu-ozgur-ozel-agirligini-koydu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2172,8 +2172,6 @@
   ]
  },
  "recent_titles": [
-  "ak parti genel başkan yardımcısı yazıcı myk ve mkyk üyeliğinden istifa etti",
-  "batı medyası abd çin ve onlarca diğer ülke için gümrük vergilerini artırmaya hazırlanıyor",
   "cumhurbaşkanı erdoğandan öğretmen ataması açıklaması",
   "kalp krizinin sessiz habercileri belirtiler 30 yıl öncesinden ortaya çıkabiliyor",
   "rizeden sonra trabzonda da görüldü dereler kırmızıya büründü",
@@ -3671,6 +3669,8 @@
   "venezuelanın en büyük petrol rafinerisinde yangın işçiler tahliye edildi",
   "istanbul pendikte alkollü sürücü polis aracına çarptı 2 yaralı",
   "içişleri bakanı mustafa çiftçi gürcistan içişleri bakanı ile görüştü",
-  "zeytinburnunda toprak kayması 4 katlı bina boşaltıldı"
+  "zeytinburnunda toprak kayması 4 katlı bina boşaltıldı",
+  "imamoğlu ekibine mykda da neşter vuruldu özgür özel ağırlığını koydu",
+  "karamanda vinçten düşen kulübenin üzerindeki kişi ağır yaralandı"
  ]
 }
