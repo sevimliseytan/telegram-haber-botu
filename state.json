@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/son-dakika-valiler-kararnamesi-yayimlandi-14-ilin-valisi-merkeze-cekildi-h1585377",
    "https://www.ensonhaber.com/davinson-sanchez-besiktas-macina-odaklanacagiz-h1585363",
    "https://www.ensonhaber.com/okan-buruk-oyuncularimla-gurur-duyuyorum-h1585364",
    "https://www.ensonhaber.com/unai-emery-hakem-bize-karsi-adil-degildi-h1585378",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/evli-olmadigi-ortaya-cikan-kisi-hakkinda-verilen-bosanma-kararini-yargitay-bozdu-h1585828",
    "https://www.ensonhaber.com/sarimsaklarin-kokunu-yakin-bakin-ne-ise-yariyor-h1585829",
    "https://www.ensonhaber.com/fatih-belediyesine-altin-karincadan-iki-odul-h1585830",
-   "https://www.ensonhaber.com/bagcilarda-otomobil-kaldirima-cikti-2-yaya-agir-yaralandi-h1585831"
+   "https://www.ensonhaber.com/bagcilarda-otomobil-kaldirima-cikti-2-yaya-agir-yaralandi-h1585831",
+   "https://www.ensonhaber.com/sanliurfada-3uncu-kattan-dusen-kadin-oldu-h1585832"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679565-istanbulun-tescilli-lezzeti-eminonu-balik-ekmek-tanitildi",
    "https://www.haber7.com/dunya/haber/3679561-polonya-hava-sahasi-ihlali-nedeniyle-rusyaya-nota-verdi",
    "https://www.haber7.com/guncel/haber/3679564-eskisehirde-5-sehit-cumhurbaskani-erdogan-ve-siyaset-dunyasindan-taziye-mesajlari",
    "https://ekonomi.haber7.com/ekonomi/haber/3679563-havalimanlarindan-devlete-milyarlarca-avro-gelir",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-kaldirimdaki-yayalara-carpti",
    "https://www.haber7.com/guncel/haber/3680011-aymden-imamoglu-karari-tutukluluguna-itiraz-edilmisti",
    "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi",
-   "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti"
+   "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti",
+   "https://www.haber7.com/dunya/haber/3680016-son-dakika-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1846,7 +1846,8 @@
    "https://www.mynet.com/magazin/nihat-dogan-ile-umit-ozat-birbirine-girdi-tiktok-ta-3-kurus-icin-130100607717",
    "https://www.mynet.com/magazin/arzum-onan-ulkeyi-terk-etmek-istemedi-orkan-ozkan-ile-ayrildi-130100607720",
    "https://www.mynet.com/magazin/sukru-ozyildiz-trt-ile-anlasti-partneri-belli-oldu-130100607723",
-   "https://www.mynet.com/magazin/khloe-kardashian-dan-itiraf-kore-de-ilk-gun-yuzumuzun-icine-ettik-130100607726"
+   "https://www.mynet.com/magazin/khloe-kardashian-dan-itiraf-kore-de-ilk-gun-yuzumuzun-icine-ettik-130100607726",
+   "https://www.mynet.com/magazin/hazar-erguclu-19-yildir-psikolojik-destek-aliyorum-130100607729"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2109,8 +2110,6 @@
   ]
  },
  "recent_titles": [
-  "israilli uzmanın analizi erdoğanın yeni osmanlı vizyonu afrikada yükseliyor",
-  "kale belediye başkanı hayladan zafer partisi iddialarına yanıt",
   "trumpın kalacağı otelin karşısına filistin bayrağı asıldı",
   "özgür özel tutuklu deniz göktaşı cezaevinde ziyaret etti",
   "diyarbakır surlarına devlet bahçeli posteri asıldı",
@@ -3608,6 +3607,8 @@
   "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı",
   "beşiktaşlıları üzecek gelişme dusan vlahovice aklını çelecek talip çıktı",
   "son dakika ateşkes katliama engel olmadı son 48 saatte 18 şehit",
-  "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı derbide kim düdük çalacak"
+  "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı derbide kim düdük çalacak",
+  "şanlıurfada 3üncü kattan düşen kadın öldü",
+  "hazar ergüçlü 19 yıldır psikolojik destek alıyorum"
  ]
 }
