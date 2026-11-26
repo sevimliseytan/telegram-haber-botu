@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/galatasarayin-aston-villa-zaferi-ingiliz-basininda-mansetlere-tasindi-h1585434",
    "https://www.ensonhaber.com/izmirde-tarihi-eser-operasyonu-bir-evden-187-parca-cikti-h1585435",
    "https://www.ensonhaber.com/meteorolojiden-kuvvetli-yagis-uyarisi-sicakliklar-dusuyor-h1585436",
    "https://www.ensonhaber.com/serap-belovacikli-sozcu-tv-ekranlarinda-ana-haberi-sunacak-h1585437",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/emlak-vergisinde-son-gun-30-kasim-pazartesi-h1585926",
    "https://www.ensonhaber.com/samsunda-3-cocuk-annesinin-supheli-olumu-kayip-telefonu-araniyor-h1585927",
    "https://www.ensonhaber.com/mgk-toplantisi-sonrasi-9-maddelik-aciklama-63143-h1585928",
-   "https://www.ensonhaber.com/kayip-olarak-aranirken-ormanda-cesedi-bulundu-h1585929"
+   "https://www.ensonhaber.com/kayip-olarak-aranirken-ormanda-cesedi-bulundu-h1585929",
+   "https://www.ensonhaber.com/canakkalede-kazada-olen-uzman-cavus-son-yolculuguna-ugurlandi-h1585930"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2116,7 +2116,8 @@
    "https://anlatilaninotesi.com.tr/20261126/yalnizligin-saglik-uzerindeki-agir-etkileri-erken-olum-riskini-yuzde-30-artirabiliyor-1110614322.html",
    "https://anlatilaninotesi.com.tr/20261126/sile-belediyesindeki-yolsuzluk-davasinda-5-saniga-tahliye-karari-1110615015.html",
    "https://anlatilaninotesi.com.tr/20261126/zaharovadan-abye-sert-suclama-muzakere-soylemleri-rusyaya-yonelik-saldirganligi-gizleme-amaci-1110615160.html",
-   "https://anlatilaninotesi.com.tr/20261126/lavrov-abd-yaptirimlara-ragmen-rusya-ile-diyaloga-acik-1110615406.html"
+   "https://anlatilaninotesi.com.tr/20261126/lavrov-abd-yaptirimlara-ragmen-rusya-ile-diyaloga-acik-1110615406.html",
+   "https://anlatilaninotesi.com.tr/20261126/abdde-ulusal-borc-sistemi-cokertiyor-mu-1110615883.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2145,10 +2146,6 @@
   ]
  },
  "recent_titles": [
-  "kameralar yakaladı bellinghamın arjantinli futbolcuya neden tokat attığı ortaya çıktı",
-  "ingilterenin messi için aldığı önlemler tutmadı arjantinli oyuncular pickfordın gizli su şişesi buldu",
-  "ingilterearjantin karşılaşmasının hakemi ismail elfath maç sonu secdeye gitti",
-  "mauro icardinin sarıkırmızılı hikayesi 4 yıllık yolculuk sona erdi",
   "merih demiraldan devlet bahçeliye ziyaret",
   "bir zamanlar yerli messi deniyordu muhammed demirci elazığspora transfer oldu",
   "lionel messi lamine yamalı 19 yıl önce küvette yıkamıştı dünya kupası finalinde rakip oldular",
@@ -3644,6 +3641,10 @@
   "libya anlaşması resmileşti yunan basınından atina için hezimet itirafı",
   "türkiyenin savaş gemilerine son savunma kalkanı ortaya çıktı",
   "kayıp olarak aranırken ormanda cesedi bulundu",
-  "7 ünlü isim 5 yıl boyunca adli tıp kurumuna gidecek"
+  "7 ünlü isim 5 yıl boyunca adli tıp kurumuna gidecek",
+  "çanakkalede kazada ölen uzman çavuş son yolculuğuna uğurlandı",
+  "göz enfeksiyonu sandı gerçek bambaşka çıktı göz kapağında dört tane bulundu",
+  "abdde ulusal borç sistemi çökertiyor mu",
+  "gerard depardieu cinsel saldırı suçlamasıyla hakim karşısına çıkacak"
  ]
 }
