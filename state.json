@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/izmirde-musteri-gibi-girip-30-bin-liralik-gozluk-calan-kadin-yakalandi-h1585359",
    "https://www.ensonhaber.com/galatasaray-aston-villa-macinin-ilk-11leri-h1585329",
    "https://www.ensonhaber.com/galatasaray-aston-villa-macinda-da-filistine-destek-oldu-h1585358",
    "https://www.ensonhaber.com/galatasarayda-mario-lemina-maca-devam-edemedi-h1585357",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/chpli-gursel-eroldan-murat-kuruma-cop31-tesekkuru-sorun-cop31in-tuzugu-h1585846",
    "https://www.ensonhaber.com/kemal-kilicdaroglu-devlet-bahceliyi-ziyaret-edecek-h1585847",
    "https://www.ensonhaber.com/eren-kacikcinin-otopsi-raporu-ortaya-cikti-h1585848",
-   "https://www.ensonhaber.com/ozlem-yildiz-oglu-demir-ile-dugunde-son-hali-gundem-oldu-h1585849"
+   "https://www.ensonhaber.com/ozlem-yildiz-oglu-demir-ile-dugunde-son-hali-gundem-oldu-h1585849",
+   "https://www.ensonhaber.com/kutahyada-kayip-olarak-aranan-55-yasindaki-besici-olu-bulundu-h1585850"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3679443-bilek-guresinde-tarih-anlar-milli-sporcumuz-israilli-rakibini-1-saniyede-maglup-etti",
-   "https://spor.haber7.com/super-lig/haber/3679551-super-ligde-haftanin-var-kayitlari-aciklandi",
-   "https://www.haber7.com/siyaset/haber/3679550-hayati-yazici-ak-partideki-tum-gorevlerinden-istifa-etti",
    "https://www.haber7.com/saglik/haber/3679549-bakan-memisoglundan-saglik-calisanlarina-mujde-bu-kresler-24-saat-hizmet-verecek",
    "https://www.haber7.com/siyaset/haber/3679548-cumhurbaskani-erdogandan-ogretmenlere-atama-mujdesi",
    "https://www.haber7.com/dunya/haber/3679545-abden-13-ulkeye-uyari-alarm-verildi-yaptirim-kapida",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/dunya/haber/3680016-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680025-vedat-muriqi-fenerbahcenin-kasasini-doldurdu",
    "https://spor.haber7.com/spor/haber/3680026-sampiyonlar-liginde-bruno-fernandesin-attigi-gol-viral-oldu",
-   "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-parti-heyetini-kabul-etti-kilicdaroglu-da-ziyaret-edecek"
+   "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-parti-heyetini-kabul-etti-kilicdaroglu-da-ziyaret-edecek",
+   "https://www.haber7.com/dunya/haber/3680027-italyada-kilise-skandali-cocuk-istismari-resmi-raporla-belgelendi",
+   "https://www.haber7.com/adiyaman/3680028-adiyamanda-yurekleri-agza-getiren-hadise-7-yasindaki-ogrenciyi-akrep-soktu",
+   "https://www.haber7.com/dunya/haber/3680029-son-dakikaankara-washington-hattinda-onemli-temas-bakan-guler-abdye-gidiyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2088,7 +2088,8 @@
    "https://anlatilaninotesi.com.tr/20261126/avrupalilar-savasi-baltik-ve-akdenize-yaymaya-calisiyor-abd-cozume-gidecek-1110607629.html",
    "https://anlatilaninotesi.com.tr/20261126/aymden-taraftari-ilgilendiren-tribun-yasagi-karari-mac-gunu-imza-zorunlulugu-kalkiyor-1110608327.html",
    "https://anlatilaninotesi.com.tr/20261126/israil-irana-her-an-hatta-amerikalilardan-bagimsiz-saldirabiliriz-1110609281.html",
-   "https://anlatilaninotesi.com.tr/20261126/bagcilarda-feci-kaza-kontrolden-cikan-cip-kaldirimdaki-yayalari-ezdi-1110609993.html"
+   "https://anlatilaninotesi.com.tr/20261126/bagcilarda-feci-kaza-kontrolden-cikan-cip-kaldirimdaki-yayalari-ezdi-1110609993.html",
+   "https://anlatilaninotesi.com.tr/20261126/kilicdaroglu-bahceliyi-ziyaret-edecek-1110610110.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2116,10 +2117,6 @@
   ]
  },
  "recent_titles": [
-  "israil basınında türkiye analizi 20 yılda yapamadığımızı yaptılar",
-  "bakan fidandan singapur çıkarması",
-  "özgür özelin tbmm mesaisi kurultay için imza toplamaya başlıyor",
-  "kılıçdaroğlu rüşvetçilerden ve hırsızlardan hesap soracağım",
   "dışişlerinden karadeniz uyarısı bölgesel riskler tüm taraflara iletiliyor",
   "bahçeliden istanbulun fethi mesajı",
   "iletişim başkanı durandan azerbaycanın bağımsızlık günü mesajı",
@@ -3615,6 +3612,10 @@
   "devlet bahçeli dem parti heyetini kabul etti kılıçdaroğlu da ziyaret edecek",
   "italyada kilise skandalı çocuk istismarı resmi raporla belgelendi",
   "adıyamanda yürekleri ağza getiren hadise 7 yaşındaki öğrenciyi akrep soktu",
-  "bağcılarda feci kaza kontrolden çıkan cip kaldırımdaki yayaları ezdi"
+  "bağcılarda feci kaza kontrolden çıkan cip kaldırımdaki yayaları ezdi",
+  "son dakikaankarawashington hattında önemli temas bakan güler abdye gidiyor",
+  "papaya makam aracıyla kek gönderdi almanya karıştı",
+  "kütahyada kayıp olarak aranan 55 yaşındaki besici ölü bulundu",
+  "abdde akraba evliliği ile nesiller boyu mavi tenli oldular fugate ailesi"
  ]
 }
