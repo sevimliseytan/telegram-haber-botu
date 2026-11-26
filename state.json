@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/izmirde-optik-magazasindan-gozluk-calan-kadin-yakalandi-h1585492",
    "https://www.ensonhaber.com/60-ilde-yeni-nesil-suc-orgutlerine-operasyon-280-supheli-yakalandi-h1585493",
    "https://www.ensonhaber.com/ankarada-metro-istasyonunda-h1585494",
    "https://www.ensonhaber.com/ozgur-ozel-parti-meclisi-ve-ydk-uyeleriyle-anitkabiri-ziyaret-etti-h1585495",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/icisleri-bakani-mustafa-ciftci-gurcistan-icisleri-bakani-ile-gorustu-h1585985",
    "https://www.ensonhaber.com/karamanda-vincten-dusen-kulubenin-uzerindeki-kisi-agir-yaralandi-h1585986",
    "https://www.ensonhaber.com/besiktastan-paylasim-turkiye-olarak-hep-birlikte-kazandik-h1585987",
-   "https://www.ensonhaber.com/kassoum-ouattaradan-uefaya-tepki-filistin-bayragini-koydu-h1585988"
+   "https://www.ensonhaber.com/kassoum-ouattaradan-uefaya-tepki-filistin-bayragini-koydu-h1585988",
+   "https://www.ensonhaber.com/batmanda-silahli-kavga-2-yarali-h1585989"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679695-galatasarayda-25-yil-sonra-bir-ilk",
    "https://www.haber7.com/saglik/haber/3679696-iki-yil-suren-yorgunluk-ve-halsizlik-kabusu-nedeni-paratiroid-adenomu-cikti",
    "https://www.haber7.com/3sayfa/haber/3679697-isik-ihlali-nedeniyle-otomobiller-carpisti-1-olu",
    "https://www.haber7.com/guncel/haber/3679698-istanbulu-dinliyoruz-bulusmalarinin-yedinci-duragi-umraniye",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi",
    "https://www.haber7.com/dunya/haber/3680160-venezuelanin-en-buyuk-petrol-rafinerisinde-yangin-isciler-tahliye-edildi",
-   "https://www.haber7.com/siyaset/haber/3680161-imamoglu-ekibine-mykda-da-nester-vuruldu-ozgur-ozel-agirligini-koydu"
+   "https://www.haber7.com/siyaset/haber/3680161-imamoglu-ekibine-mykda-da-nester-vuruldu-ozgur-ozel-agirligini-koydu",
+   "https://spor.haber7.com/spor/haber/3680162-mesut-ozilden-besiktasa-destek-paylasimi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2172,8 +2172,6 @@
   ]
  },
  "recent_titles": [
-  "rizeden sonra trabzonda da görüldü dereler kırmızıya büründü",
-  "husiler riyadı hedef aldı finans merkezine düzenlenen saldırıda 11 yaralı",
   "putin rus şirketleri küresel enerji piyasasında öncü rol oynuyor",
   "eski ak partili üstün fatma betül sayan kaya vip yargılamayla tahliye edildi",
   "muğla milasta 46 büyüklüğünde deprem",
@@ -3671,6 +3669,8 @@
   "imamoğlu ekibine mykda da neşter vuruldu özgür özel ağırlığını koydu",
   "karamanda vinçten düşen kulübenin üzerindeki kişi ağır yaralandı",
   "beşiktaştan paylaşım türkiye olarak hep birlikte kazandık",
-  "kassoum ouattaradan uefaya tepki filistin bayrağını koydu"
+  "kassoum ouattaradan uefaya tepki filistin bayrağını koydu",
+  "mesut özilden beşiktaşa destek paylaşımı",
+  "batmanda silahlı kavga 2 yaralı"
  ]
 }
