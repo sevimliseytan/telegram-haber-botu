@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/zerenspor-ok-herceg-noviyi-rahat-gecti-h1585369",
-   "https://www.ensonhaber.com/abd-istihbaratinda-siber-ihlal-iddiasi-cia-ve-dnidan-bazi-bilgiler-sizdirildi-h1585368",
-   "https://www.ensonhaber.com/trabzonda-saganak-yagis-gunluk-yasami-felc-etti-h1585349",
-   "https://www.ensonhaber.com/galatasaraya-galibiyeti-getiren-deniz-gulun-mucadelesi-takdir-topladi-h1585366",
    "https://www.ensonhaber.com/iran-abdnin-deniz-ablukasini-kirmaya-kararliyiz-h1585365",
    "https://www.ensonhaber.com/galatasaray-sahasinda-ingilizlere-gecit-vermiyor-h1585362",
    "https://www.ensonhaber.com/deniz-gul-sampiyonlar-liginde-ilk-golunu-atti-h1585361",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/mardinde-erkek-isi-algisini-yikan-muhendis-kadinlara-ilham-oluyor-h1585839",
    "https://www.ensonhaber.com/survivor-nagihan-karadere-umreden-dondu-h1585840",
    "https://www.ensonhaber.com/kongoda-ebola-vakalari-12-bini-asti-h1585841",
-   "https://www.ensonhaber.com/borsa-gunun-ilk-yarisinda-pozitif-seyretti-h1585842"
+   "https://www.ensonhaber.com/borsa-gunun-ilk-yarisinda-pozitif-seyretti-h1585842",
+   "https://www.ensonhaber.com/tum-tesla-modellerine-starlink-uydu-interneti-geliyor-elon-musk-tarih-verdi-h1585843",
+   "https://www.ensonhaber.com/orkinos-ihracatinda-japonya-ilk-sirada-h1585844",
+   "https://www.ensonhaber.com/mersinde-kurtlarin-agila-girmesinin-ardindan-kaybolan-90-keci-5-gundur-araniyor-h1585845",
+   "https://www.ensonhaber.com/chpli-gursel-eroldan-murat-kuruma-cop31-tesekkuru-sorun-cop31in-tuzugu-h1585846"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679554-nasa-marsta-parmak-izine-benzeyen-kaya-dizilimleri-kesfetti",
-   "https://www.haber7.com/guncel/haber/3679511-magandalar-ambulans-soforune-saldirdi",
-   "https://www.haber7.com/guncel/haber/3679552-eskisehirde-askeri-helikopter-dustu-5-asker-sehit-oldu",
    "https://spor.haber7.com/galatasaray/haber/3679553-israil-uefaya-sikayet-etmisti-galatasaray-geri-adim-atmadi-filistin-destegi-surdu",
    "https://spor.haber7.com/spor/haber/3679443-bilek-guresinde-tarih-anlar-milli-sporcumuz-israilli-rakibini-1-saniyede-maglup-etti",
    "https://spor.haber7.com/super-lig/haber/3679551-super-ligde-haftanin-var-kayitlari-aciklandi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-parti-heyetini-kabul-etti",
    "https://www.haber7.com/dunya/haber/3680022-ingilteredeki-fetoculer-birbirine-girdi-servet-savasi-prens-andrewa-uzandi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680024-17-milyar-liralik-dev-hamle-turkiyede-bir-ilk-olan-tesis-kocaelide-uretime-gecti",
-   "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-2-kisi-hayatini-kaybetti"
+   "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-2-kisi-hayatini-kaybetti",
+   "https://www.haber7.com/dunya/haber/3680016-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
+   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680025-vedat-muriqi-fenerbahcenin-kasasini-doldurdu",
+   "https://spor.haber7.com/spor/haber/3680026-sampiyonlar-liginde-bruno-fernandesin-attigi-gol-viral-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2085,7 +2085,8 @@
    "https://anlatilaninotesi.com.tr/20261126/trumptan-jensen-huanga-af-sinyali-abdnin-nvidiaya-ortak-olmasi-gundemde-1110606513.html",
    "https://anlatilaninotesi.com.tr/20261126/super-ligde-13-hafta-maclarini-yonetecek-hakemler-aciklandi-1110606396.html",
    "https://anlatilaninotesi.com.tr/20261126/avrupalilar-savasi-baltik-ve-akdenize-yaymaya-calisiyor-abd-cozume-gidecek-1110607629.html",
-   "https://anlatilaninotesi.com.tr/20261126/aymden-taraftari-ilgilendiren-tribun-yasagi-karari-mac-gunu-imza-zorunlulugu-kalkiyor-1110608327.html"
+   "https://anlatilaninotesi.com.tr/20261126/aymden-taraftari-ilgilendiren-tribun-yasagi-karari-mac-gunu-imza-zorunlulugu-kalkiyor-1110608327.html",
+   "https://anlatilaninotesi.com.tr/20261126/israil-irana-her-an-hatta-amerikalilardan-bagimsiz-saldirabiliriz-1110609281.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2113,8 +2114,6 @@
   ]
  },
  "recent_titles": [
-  "chp myk kılıçdaroğlu önderliğinde ikinci kez toplandı",
-  "cemil çiçek kaliteli kanun üretemiyoruz",
   "chpde yüksek disiplin kurulu seçildi",
   "özgür özel chpyi bırakmak yok mücadele var",
   "kılıçdaroğlunun myk listesinde dikkat çeken isim gamze akkuş ilgezdi",
@@ -3612,6 +3611,8 @@
   "borsa günün ilk yarısında pozitif seyretti",
   "tüm tesla modellerine starlink uydu interneti geliyor elon musk tarih verdi",
   "orkinos ihracatında japonya ilk sırada",
-  "mersinde kurtların ağıla girmesinin ardından kaybolan 90 keçi 5 gündür aranıyor"
+  "mersinde kurtların ağıla girmesinin ardından kaybolan 90 keçi 5 gündür aranıyor",
+  "chpli gürsel eroldan murat kuruma cop31 teşekkürü sorun cop31in tüzüğü",
+  "israil irana her an hatta amerikalılardan bağımsız saldırabiliriz"
  ]
 }
