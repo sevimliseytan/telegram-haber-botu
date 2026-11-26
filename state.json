@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/bakan-ibrahim-yumakli-tbmm-butce-komisyonunda-sunum-yapti-h1585519",
    "https://www.ensonhaber.com/ne-trabzon-ne-rize-kocarinin-vuruldugu-yer-bakin-neresi-cikti-h1585520",
    "https://www.ensonhaber.com/vanda-evlilik-basvurusu-icin-saglik-raporu-almaya-gittikleri-asmde-doktor-ve-hemsire-doven-h1585521",
    "https://www.ensonhaber.com/besiktasin-hapoel-beer-sheva-maci-kamp-kadrosu-belli-oldu-h1585522",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/noah-saviolo-takimimla-gurur-duyuyorum-h1586011",
    "https://www.ensonhaber.com/bddk-baskanligina-yusuf-kenan-bagir-atandi-h1586012",
    "https://www.ensonhaber.com/findik-diyarinda-onun-mesaisi-basladi-kilosu-50-liradan-satiliyor-500-ton-bekleniyor-h1586013",
-   "https://www.ensonhaber.com/mekke-anlasmasi-onaylandi-resmi-gazetede-yayimlandi-h1586014"
+   "https://www.ensonhaber.com/mekke-anlasmasi-onaylandi-resmi-gazetede-yayimlandi-h1586014",
+   "https://www.ensonhaber.com/kayseride-haber-alinamayan-adam-olu-bulundu-h1586015"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2179,7 +2179,6 @@
   ]
  },
  "recent_titles": [
-  "abdde 3 bin 500den fazla uçuş ertelendi veya iptal edildi",
   "izmir büyükşehir belediyesinin 2027 yılı bütçesi kabul edildi 183 milyar 500 milyon lira",
   "yeniden değerleme oranı 2026 için belli oldu yüzde 2783",
   "fon soruşturması kapsamında gözaltına alınan 4 şüpheli tutuklandı",
@@ -3678,6 +3677,7 @@
   "noah saviolo takımımla gurur duyuyorum",
   "fındık diyarında onun mesaisi başladı kilosu 50 liradan satılıyor 500 ton bekleniyor",
   "mekke anlaşması onaylandı resmi gazetede yayımlandı",
-  "thomas reis devre arasında çevirebileceğimizi söyledim"
+  "thomas reis devre arasında çevirebileceğimizi söyledim",
+  "kayseride haber alınamayan adam ölü bulundu"
  ]
 }
