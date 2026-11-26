@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/melis-sezen-amerikada-pozlari-begeni-yagmuruna-tutuldu-h1585468",
    "https://www.ensonhaber.com/yeni-konutlarda-dikkat-ceken-artis-iskan-alan-daire-sayisi-yuzde-21-yukseldi-h1585469",
    "https://www.ensonhaber.com/abdulkadir-uraloglu-turkiyenin-demir-yolu-agi-son-25-yilda-yuzde-30-buyudu-h1585470",
    "https://www.ensonhaber.com/uzmanlar-uyardi-ekran-bagimliligi-cildin-yaslanmasini-ve-lekelenmeyi-hizlandirabiliyor-h1585471",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinin-ilk-11leri-h1585961",
    "https://www.ensonhaber.com/cevdet-yilmaz-fon-odemelerinde-hazineden-tek-kurus-harcanmadi-h1585962",
    "https://www.ensonhaber.com/akin-gurlekten-fon-sorusturmasi-aciklamasi-sureci-cerrahi-bir-titizlikle-ele-aliyoruz-h1585963",
-   "https://www.ensonhaber.com/turkiye-olimpiyat-ev-sahipligi-vizyonunu-iocye-sundu-h1585964"
+   "https://www.ensonhaber.com/turkiye-olimpiyat-ev-sahipligi-vizyonunu-iocye-sundu-h1585964",
+   "https://www.ensonhaber.com/mehmet-simsek-fon-sorusturmasinda-alinan-tedbirleri-siraladi-h1585965"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679664-trabzonda-siddetli-yagis-sonrasi-istinat-duvari-araclarin-uzerine-coktu",
-   "https://www.haber7.com/guncel/haber/3679665-ardahanda-kar-ve-buzlanma-iki-kara-yolu-agir-tonajli-araclara-kapatildi",
    "https://www.haber7.com/guncel/haber/3679665-denizlide-kavga-ihbari-uzerine-gidilen-evde-bir-kisi-olu-bulundu",
    "https://www.haber7.com/elazig/3679666-elazigda-20-dakikada-satildi-180-200-bin-tl-degerinde",
    "https://spor.haber7.com/avrupa-ligleri/haber/3679667-herkes-arda-guleri-konusuyor-mac-biter-bitmez-aciklama-geldi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680129-bakanlik-tek-tek-tespit-ediyor-en-cok-bu-gidalarda-hile-yapiliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680131-turkiyenin-gunes-enerjisi-kurulu-gucunun-yuzde-10u-konyada",
    "https://www.haber7.com/guncel/haber/3680130-yilmazdan-fon-sorusturmasi-cikisi-hastalikli-yapilar-karantinaya-alindi",
-   "https://spor.haber7.com/besiktas/haber/3680132-italiano-rotasyon-karari-hakkinda-konustu-oynamayi-hak-etti"
+   "https://spor.haber7.com/besiktas/haber/3680132-italiano-rotasyon-karari-hakkinda-konustu-oynamayi-hak-etti",
+   "https://www.haber7.com/guncel/haber/3680133-bakan-gurlek-acikladi-fon-sorusturmasinda-4536-milyar-tl-tahsil-edildi",
+   "https://www.haber7.com/dunya/haber/3680134-israilde-tarihi-gelisme-netanyahu-devri-sona-eriyor-muhalefet-partileri-resmen-duyurdu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2160,9 +2160,6 @@
   ]
  },
  "recent_titles": [
-  "şile belediyesi yolsuzluk davasında sıla tanıklık yaptı 625 bin lira ücretle ilgili bir bilgim yok hatırlamıyorum",
-  "sibil çetinkayadan inanç açıklaması dua etmek benim en büyük motivasyon kaynağım",
-  "avengers doomsdayden yeni fragman ve afiş geldi 18 aralıkta vizyonda",
   "çağatay ulusoylu eşref tekten ilk kareler geldi",
   "beste kökdemir japonya tatilinde hastanelik oldu saatlerce beklettiler",
   "jennifer lawrence en kötü öpüşme sahnesini açıkladı hepsi harikaydı",
@@ -3659,6 +3656,9 @@
   "altın yine düşüşte fedin faiz artırımı beklentisiyle 3 bin 572 dolara indi",
   "italiano rotasyon kararı hakkında konuştu oynamayı hak etti",
   "bakan gürlek açıkladı fon soruşturmasında 4536 milyar tl tahsil edildi",
-  "türkiye olimpiyat ev sahipliği vizyonunu iocye sundu"
+  "türkiye olimpiyat ev sahipliği vizyonunu iocye sundu",
+  "israilde tarihi gelişme netanyahu devri sona eriyor muhalefet partileri resmen duyurdu",
+  "mehmet şimşek fon soruşturmasında alınan tedbirleri sıraladı",
+  "akın gürlek fon soruşturmasındaki son durumu açıkladı"
  ]
 }
