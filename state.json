@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/turkiye-ile-umman-arasinda-5-milyar-dolarlik-ticaret-hedefi-h1585427",
-   "https://www.ensonhaber.com/avcilarda-yeralti-elektrik-kablolarinda-patlama-sonrasi-yangin-h1585428",
    "https://www.ensonhaber.com/israilin-galatasaray-hakkindaki-sikayeti-uluslararasi-medyada-h1585429",
    "https://www.ensonhaber.com/mezarliktan-gecerken-fark-etti-topragin-altinda-milyonlarcasi-yasiyormus-h1585430",
    "https://www.ensonhaber.com/eskisehirde-helikopter-kazasinda-sehit-olan-askerlerin-evlerine-turk-bayraklari-asildi-h1585431",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/yok-kayit-hakkini-kullanamayan-ogrencileri-af-kapsamina-aldi-h1585919",
    "https://www.ensonhaber.com/tekirdagda-trafikte-birbirlerine-girdiler-3-kisiye-toplam-640-bin-tl-ceza-h1585920",
    "https://www.ensonhaber.com/sanliurfada-otobus-soforunden-kalbi-duran-yolcuya-kalp-masajiyla-mudahale-h1585921",
-   "https://www.ensonhaber.com/istanbulda-feci-olum-yasli-kadin-beton-mikserin-altinda-kaldi-h1585922"
+   "https://www.ensonhaber.com/istanbulda-feci-olum-yasli-kadin-beton-mikserin-altinda-kaldi-h1585922",
+   "https://www.ensonhaber.com/eski-formula-1-sampiyonu-mika-hakkinen-istanbulda-hayranlariyla-bulustu-h1585923",
+   "https://www.ensonhaber.com/supurgelikleri-surekli-silmekten-kurtaran-yontem-bir-kez-surun-farki-gorun-h1585924"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/seyahat/haber/3679609-edirnede-1200-donumluk-tarihi-donusum-sarayda-restorasyon-heyecani",
    "https://spor.haber7.com/galatasaray/haber/3679611-galatasaray-ve-okan-burukun-gurur-gecesi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679614-suruculerin-cebini-yakan-o-kesinti-bitiyor-bakan-tarih-verip-noktayi-koydu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679615-dolar-ve-euro-kac-tl-oldu-iste-gunun-ilk-fiyatlari",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680086-yok-duyurdu-kayit-yaptiramayan-ogrenciler-icin-af-karari",
    "https://www.haber7.com/ulkede-bugun/haber/3680088-konyada-cesmede-su-dolduran-yasli-kadin-defalarca-bicaklandi",
    "https://spor.haber7.com/super-lig/haber/3680089-super-lig-ekibi-transfer-yasagini-kaldirdi",
-   "https://www.haber7.com/dunya/haber/3680090-akdenizde-rus-gemisi-vuruldu-meloniden-cok-net-savas-mesaji"
+   "https://www.haber7.com/dunya/haber/3680090-akdenizde-rus-gemisi-vuruldu-meloniden-cok-net-savas-mesaji",
+   "https://www.haber7.com/guncel/haber/3680091-37-yilla-yargilaniyordu-haluk-leventin-kardesi-icin-tahliye-karari"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2113,7 +2113,8 @@
    "https://anlatilaninotesi.com.tr/20261126/irakta-yeni-sinir-duzenlemesi-resmi-olmayan-tum-gecisler-kapatiliyor-1110611871.html",
    "https://anlatilaninotesi.com.tr/20261126/israilden-gazzeye-yeni-saldiri-tehdidi-bir-milyon-filistinli-yerinden-edilebilir-1110613592.html",
    "https://anlatilaninotesi.com.tr/20261126/yalnizligin-saglik-uzerindeki-agir-etkileri-erken-olum-riskini-yuzde-30-artirabiliyor-1110614322.html",
-   "https://anlatilaninotesi.com.tr/20261126/sile-belediyesindeki-yolsuzluk-davasinda-5-saniga-tahliye-karari-1110615015.html"
+   "https://anlatilaninotesi.com.tr/20261126/sile-belediyesindeki-yolsuzluk-davasinda-5-saniga-tahliye-karari-1110615015.html",
+   "https://anlatilaninotesi.com.tr/20261126/zaharovadan-abye-sert-suclama-muzakere-soylemleri-rusyaya-yonelik-saldirganligi-gizleme-amaci-1110615160.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2142,9 +2143,6 @@
   ]
  },
  "recent_titles": [
-  "mersinde zincir markette skandal denetim tarihi geçmiş 135 ürün toplatıldı",
-  "eskişehirde yayılan kokular nedeniyle eve giren ekipler yaşlı adamın cesedi ile karşılaştı",
-  "yunanistanda kamera görüntüleri ortaya çıkan tanerin ailesinden yardım talebi",
   "manisada tartıştığı eşinin burnunu ısırıp kopardı",
   "samsun merkezli 87 milyon tllik dolandırıcılık operasyonunda 6 kişi adliyeye sevk edildi",
   "aşkın olayım son buldu mauro icardinin ayrılığı böyle gerçekleşti",
@@ -3641,6 +3639,9 @@
   "şanlıurfada otobüs şoföründen kalbi duran yolcuya kalp masajıyla müdahale",
   "şile belediyesindeki yolsuzluk davasında 5 sanığa tahliye kararı",
   "istanbulda feci ölüm yaşlı kadın beton mikserin altında kaldı",
-  "eski formula 1 şampiyonu mika hakkinen istanbulda hayranlarıyla buluştu"
+  "eski formula 1 şampiyonu mika hakkinen istanbulda hayranlarıyla buluştu",
+  "37 yılla yargılanıyordu haluk leventin kardeşi için tahliye kararı",
+  "süpürgelikleri sürekli silmekten kurtaran yöntem bir kez sürün farkı görün",
+  "zaharovadan abye sert suçlama müzakere söylemleri rusyaya yönelik saldırganlığı gizleme amacı taşıyor"
  ]
 }
