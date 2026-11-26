@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/marmara-tanker-parkina-dondu-istanbul-aciklarinda-gemi-kuyrugu-h1585462",
    "https://www.ensonhaber.com/istanbulda-5inci-kattan-duserek-olen-genc-kadinin-1-ay-once-evlendigi-esi-tutuklandi-h1585463",
    "https://www.ensonhaber.com/arda-turan-mi-emre-belozoglu-mu-iste-shakhtar-donetsk-fenerbahce-maci-canli-yayin-bilgiler-h1585464",
    "https://www.ensonhaber.com/zeytinyaginin-kalitesini-dusuren-5-hata-saklarken-bu-hatalari-yapmayin-h1585465",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/iran-duyurdu-katar-ve-pakistanin-arabuluculuk-faaliyetleri-suruyor-h1585955",
    "https://www.ensonhaber.com/siaka-bakayoko-kasimpasa-maci-oncesi-degerlendirmede-bulundu-h1585956",
    "https://www.ensonhaber.com/dursun-ozbekten-sampiyonlar-ligi-sozleri-h1585957",
-   "https://www.ensonhaber.com/besiktas-taraftarlari-sarp-sinir-kapisina-akin-etti-h1585958"
+   "https://www.ensonhaber.com/besiktas-taraftarlari-sarp-sinir-kapisina-akin-etti-h1585958",
+   "https://www.ensonhaber.com/disisleri-bakanligindan-apnin-libya-mutabakat-muhtirasi-hakkindaki-kararina-tepki-h1585959"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679647-iran-yolcu-ucaginin-vurulma-ani-ortaya-cikti",
    "https://www.haber7.com/ulkede-bugun/haber/3679649-kar-bastirdi-turkiyenin-dort-bir-yani-beyaza-burundu",
    "https://www.haber7.com/seyahat/haber/3679648-1500-rakimda-gorsel-solen-huzurlu-yaylasi-sonbahar-renklerine-burundu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679650-bakan-isikhandan-emekli-maasi-aciklamasi-iyilestirme-icin-calisma-yapiyoruz",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680114-gida-sahtekarliginda-basi-ceken-6-urun-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680115-disislerinden-apye-libya-mutabakati-yaniti-boyle-bir-yetkiniz-yok",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva",
-   "https://www.haber7.com/guncel/haber/3680117-saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama"
+   "https://www.haber7.com/guncel/haber/3680117-saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama",
+   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-degisim-blogu-harekete-gecti-hepsi-kaldiriliyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2157,7 +2157,6 @@
   ]
  },
  "recent_titles": [
-  "ata demirer senaryoyu paylaştı işte yeni filmi",
   "pluribus 2 sezon yayınlandı mı ne zaman 2026 yayın tarihi",
   "kızılcık şerbetinden altı üstü istanbul dizisine transfer tarık hocanın kızı olacak",
   "yeni karadeniz dizisi geliyor çekim tarihi duyuruldu",
@@ -3656,6 +3655,7 @@
   "baba arif güran anlattı narini kim öldürdü",
   "beşiktaş taraftarları sarp sınır kapısına akın etti",
   "dışişleri bakanlığından apnin libya mutabakat muhtırası hakkındaki kararına tepki",
-  "dışişleri bakanlığı ab deniz yetki alanlarının sınırlandırılması konusunda herhangi bir yetkiye sahip değildir"
+  "dışişleri bakanlığı ab deniz yetki alanlarının sınırlandırılması konusunda herhangi bir yetkiye sahip değildir",
+  "netanyahuya büyük darbe israilde değişim bloğu harekete geçti hepsi kaldırılıyor"
  ]
 }
