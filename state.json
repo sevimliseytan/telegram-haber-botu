@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/trt-1den-ramazan-dizisi-geliyor-basrolu-sukru-ozyildiz-aldi-h1585481",
    "https://www.ensonhaber.com/akdeniz-foku-kusadasini-mesken-tuttu-h1585482",
    "https://www.ensonhaber.com/elektrikli-porsche-718-boxster-geliyor-0-100-kms-3-saniyenin-altinda-h1585483",
    "https://www.ensonhaber.com/sivas-sehir-merkezine-mevsimin-ilk-kari-yagdi-h1585484",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/trabzonspordan-besiktas-macinda-yasanan-olaylar-sonrasi-uefaya-israil-tepkisi-h1585974",
    "https://www.ensonhaber.com/gurcu-polisinin-yaraladigi-besiktasli-taraftar-sedyeyle-goturuldu-h1585975",
    "https://www.ensonhaber.com/besiktasli-taraftarlardan-isgale-isyan-filistine-ozgurluk-pankarti-h1585976",
-   "https://www.ensonhaber.com/cska-sofya-trabzonspor-macinin-ilk-11leri-h1585977"
+   "https://www.ensonhaber.com/cska-sofya-trabzonspor-macinin-ilk-11leri-h1585977",
+   "https://www.ensonhaber.com/gurcistanda-besiktas-taraftarlarina-mudahaleye-siyasilerden-tepki-h1585978"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3679679-nihat-kahveci-unai-emeryin-mac-sonu-sozlerine-ispanyolca-cevap-verdi-adios-hocam",
    "https://spor.haber7.com/galatasaray/haber/3679682-israilin-sikayeti-sonrasi-uefa-konustu-filistin-pankartlari-icin-karar-belli-oldu",
    "https://spor.haber7.com/avrupa-ligleri/haber/3679683-fenerbahce-macina-saatler-kala-arda-turan-icin-ayrilik-iddiasi",
    "https://www.haber7.com/3sayfa/haber/3679685-adanada-15-yasindaki-tetikci-tarafindan-oldurdu-olum-tehdidi-iddiasi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/super-lig/haber/3680147-trabzonspor-ve-erzurumspordan-besiktasa-destek-orantisiz-mudahaleyi-siddetle-kiniyoruz",
    "https://www.haber7.com/guncel/haber/3680148-mhpli-buyukatamandan-turkiyeyi-hedef-alan-yunan-vekile-ayar-cehaletini-ifsa-etti",
    "https://spor.haber7.com/super-lig/haber/3680147-super-lig-ekiplerinden-besiktasa-destek-paylasimlari-orantisiz-mudahaleyi-kiniyoruz",
-   "https://spor.haber7.com/besiktas/haber/3680149-ak-parti-sozcusu-omer-celikten-besiktas-taraftarlarina-yapilan-mudahaleye-sert-tepki"
+   "https://spor.haber7.com/besiktas/haber/3680149-ak-parti-sozcusu-omer-celikten-besiktas-taraftarlarina-yapilan-mudahaleye-sert-tepki",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680150-kredi-kisitlamalarinin-esnetilmesi-muteahhitlere-umut-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2167,7 +2167,6 @@
   ]
  },
  "recent_titles": [
-  "onur büyüktopçu nasıl zayıfladı yalan söyledim diyerek itiraf etti",
   "eşref rüya neden bitti büşra develiden fatih altaylıya net yanıt",
   "sydney sweeneyden yılbaşı öncesi olay yaratan pozlar",
   "sibel turnagöl masterchefte ortaya çıktı yıllara meydan okuyor",
@@ -3666,6 +3665,7 @@
   "cska sofya  trabzonspor maçının ilk 11leri",
   "ak parti sözcüsü ömer çelikten beşiktaş taraftarlarına yapılan müdahaleye sert tepki",
   "kredi kısıtlamalarının esnetilmesi müteahhitlere umut oldu",
-  "almanyadan ukraynaya çatışmanın yayılmaması uyarısı"
+  "almanyadan ukraynaya çatışmanın yayılmaması uyarısı",
+  "gürcistanda beşiktaş taraftarlarına müdahaleye siyasilerden tepki"
  ]
 }
