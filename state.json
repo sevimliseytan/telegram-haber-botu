@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/cumhurbaskani-erdogandan-eskisehirde-sehit-olan-5-asker-icin-taziye-mesaji-h1585356",
-   "https://www.ensonhaber.com/fon-sorusturmasinda-yeni-duzenleme-taslagi-hazir-yatirimci-odemelerinde-son-asama-27-kasim-h1585355",
-   "https://www.ensonhaber.com/besiktas-paris-basketbola-yenildi-h1585354",
    "https://www.ensonhaber.com/abdulkadir-uraloglu-hgsde-usule-uygun-yapilmayan-odemeler-iade-edilecek-h1585353",
    "https://www.ensonhaber.com/emre-belozoglu-hedef-ilk-24e-kalmak-h1585351",
    "https://www.ensonhaber.com/genclerbirliginden-fifanin-transfer-yasagi-hakkinda-aciklama-h1585350",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/kutahyada-kayip-olarak-aranan-55-yasindaki-besici-olu-bulundu-h1585850",
    "https://www.ensonhaber.com/abdde-akraba-evliligi-ile-nesiller-boyu-mavi-tenli-oldular-fugate-ailesi-h1585851",
    "https://www.ensonhaber.com/fon-sorusturmasi-kapsaminda-bulls-yatirim-yonetim-kurulu-baskani-dahil-5-kisi-adliyede-h1585852",
-   "https://www.ensonhaber.com/yazarlar/uhud-tekin/neden-cevap-vermiyoruz"
+   "https://www.ensonhaber.com/yazarlar/uhud-tekin/neden-cevap-vermiyoruz",
+   "https://www.ensonhaber.com/milli-savunma-bakani-yasar-guler-abdyi-ziyaret-edecek-h1585853",
+   "https://www.ensonhaber.com/azerbaycan-ve-ermenistan-sivil-toplum-temsilcileri-baris-icin-bir-araya-geliyor-h1585854",
+   "https://www.ensonhaber.com/ulkedeki-altin-yataklari-el-degistiriyor-dev-maden-sahasi-satildi-h1585855"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679540-savasta-sicak-saatler-bolgede-siddetli-catismalar-savas-ucaklari-pes-pese-havalandi",
    "https://spor.haber7.com/spor/haber/3679437-cuceler-dunya-kupasinda-istenmeyen-goruntuler",
    "https://www.haber7.com/guncel/haber/3679544-muglada-46-buyuklugunde-deprem-cevre-illerden-de-hissedildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679543-ticaret-bakanligindan-bebek-urunlerine-ceza-yuzde-100-dogal-diyerek-satis-yaptilar",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680030-papaya-makam-araciyla-kek-gonderdi-almanya-karisti",
    "https://spor.haber7.com/ikinci-lig/haber/3680031-1-ligde-haftanin-hakemleri-aciklandi",
    "https://www.haber7.com/3sayfa/haber/3680032-eren-kasikcinin-otopsi-raporu-cikti-olum-nedeni-belli-oldu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680034-ajetten-yurt-disi-ucuslara-yuzde-20-indirim-kampanya-icin-son-tarih-aciklandi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680034-ajetten-yurt-disi-ucuslara-yuzde-20-indirim-kampanya-icin-son-tarih-aciklandi",
+   "https://www.haber7.com/otomobil/haber/3680036-aman-dikkat-arabasini-2-gunde-bir-calistirmayana-18-bin-lira-masraf-cikacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2120,7 +2120,6 @@
   ]
  },
  "recent_titles": [
-  "ons altın 4 bin doların altına geriledi",
   "spk onay verdi dört firma daha halka arz oluyor",
   "türkiyede en çok göç alan iller sıralandı",
   "gençlik ve spor bakanlığına 550 personel istihdam edilecek",
@@ -3619,6 +3618,7 @@
   "neden cevap vermiyoruz",
   "milli savunma bakanı yaşar güler abdyi ziyaret edecek",
   "azerbaycan ve ermenistan sivil toplum temsilcileri barış için bir araya geliyor",
-  "milyonlarca öğrenciyi ilgilendiriyor lgs için örnek sorular yayımlandı"
+  "milyonlarca öğrenciyi ilgilendiriyor lgs için örnek sorular yayımlandı",
+  "ülkedeki altın yatakları el değiştiriyor dev maden sahası satıldı"
  ]
 }
