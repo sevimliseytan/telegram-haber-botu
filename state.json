@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sinopta-silahli-saldirida-1-kisi-yaralandi-h1585387",
    "https://www.ensonhaber.com/boluda-evde-cikan-yangin-sonduruldu-h1585388",
    "https://www.ensonhaber.com/natodan-turkiyeye-taziye-mesaji-56754-h1585389",
    "https://www.ensonhaber.com/gazzede-176-milyon-filistinliye-soguk-hava-tehdidi-h1585390",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ikinci-ev-alacaklara-kredi-firsati-konut-kredisinde-sinirlama-kaldirildi-h1585877",
    "https://www.ensonhaber.com/sanliurfada-akrabalarin-tasli-sopali-kavgasi-6-yarali-h1585879",
    "https://www.ensonhaber.com/igdirdaki-mustehcenlik-operasyonunda-3-kisi-tutuklandi-h1585880",
-   "https://www.ensonhaber.com/is-yeri-satislarinda-dikkat-ceken-ayrisma-ilk-el-artti-ikinci-el-geriledi-h1585881"
+   "https://www.ensonhaber.com/is-yeri-satislarinda-dikkat-ceken-ayrisma-ilk-el-artti-ikinci-el-geriledi-h1585881",
+   "https://www.ensonhaber.com/turkiye-sehitlerine-veda-ediyor-h1585882"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679527-kktcde-insaatlariyla-biliniyordu-israilli-is-insaninin-tahliyesi-gkryyi-karistirdi",
    "https://www.haber7.com/medya/haber/3679525-soz-ve-nisan-surecinde-ailelerin-baskisi-ve-kontrolun-iliskilere-etkisi-ulkede-hayatta",
    "https://ekonomi.haber7.com/ekonomi/haber/3679524-ulker-cikolata-istanbulun-dunyaya-acilan-hikayesine-clio-awardstan-odul",
    "https://www.haber7.com/kultur/haber/3679523-lidyanin-tarihi-edusa-operasiyla-akm-sahnesinde-yeniden-canlaniyor",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680048-174-milyar-dolarlik-ithalat-faturasina-yerli-fren-gebzede-dev-tesis-devreye-girdi",
    "https://www.haber7.com/ulkede-bugun/haber/3680050-sakaryada-kopek-kumese-dadandi-13-tavuk-telef-oldu",
    "https://www.haber7.com/teknoloji/haber/3680049-en-cok-kotu-soforun-oldugu-iller-aciklandi-ikinci-siradaki-ili-2ye-katladi",
-   "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-koye-yerlesene-1-milyon-lira-verilecek"
+   "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-koye-yerlesene-1-milyon-lira-verilecek",
+   "https://www.haber7.com/guncel/haber/3680052-istanbulda-kimsenin-bilmedigi-cadde-ayasofyanin-altindan-cikti-tarihi-yeniden-yazacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2131,9 +2131,6 @@
   ]
  },
  "recent_titles": [
-  "7 ameliyat olmuştu aslı bekiroğlu yorumlara ateş püskürdü",
-  "aşktan yüzü gülmüyor simge sağın dj sevgilisi ilkay şencandan ayrıldı",
-  "bertuğ yıldırımın oğluna verdiği isim gündem oldu",
   "boş odayı görünce etkilendi kadir ezildinin annesi hüngür hüngür ağladı",
   "barış arduçdan kızı jan asya ile poz görenler beğeni yağdırdı",
   "kibariyeden sahne öncesi dikkat çeken açıklama hüsnü kral ben kraliçe",
@@ -3630,6 +3627,9 @@
   "mustafa keserin acı günü 48 yıllık hayat arkadaşını kaybetti",
   "merkez bankası rezervleri geriledi",
   "iş yeri satışlarında dikkat çeken ayrışma ilk el arttı ikinci el geriledi",
-  "doğukan güngörün o itirafı akla sude zülal güleri getirdi"
+  "doğukan güngörün o itirafı akla sude zülal güleri getirdi",
+  "istanbulda kimsenin bilmediği cadde ayasofyanın altından çıktı tarihi yeniden yazacak",
+  "rusya türkiye ile ortaklığı geliştirmeye hazırız",
+  "türkiye şehitlerine veda ediyor"
  ]
 }
