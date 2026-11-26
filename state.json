@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/okan-buruk-oyuncularimla-gurur-duyuyorum-h1585364",
    "https://www.ensonhaber.com/unai-emery-hakem-bize-karsi-adil-degildi-h1585378",
    "https://www.ensonhaber.com/super-ligden-9-kulup-pfdkya-sevk-edildi-56281-h1585376",
    "https://www.ensonhaber.com/yunus-akgun-iyi-giden-bir-galatasaray-var-h1585375",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/fatih-belediyesine-altin-karincadan-iki-odul-h1585830",
    "https://www.ensonhaber.com/bagcilarda-otomobil-kaldirima-cikti-2-yaya-agir-yaralandi-h1585831",
    "https://www.ensonhaber.com/sanliurfada-3uncu-kattan-dusen-kadin-oldu-h1585832",
-   "https://www.ensonhaber.com/turkiyeden-misira-bassagligi-mesaji-h1585833"
+   "https://www.ensonhaber.com/turkiyeden-misira-bassagligi-mesaji-h1585833",
+   "https://www.ensonhaber.com/unlulere-yonelik-sorusturmada-3-ismin-gelirli-belli-oldu-h1585834"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679564-eskisehirde-5-sehit-cumhurbaskani-erdogan-ve-siyaset-dunyasindan-taziye-mesajlari",
    "https://ekonomi.haber7.com/ekonomi/haber/3679563-havalimanlarindan-devlete-milyarlarca-avro-gelir",
    "https://www.haber7.com/dunya/haber/3679502-restorandaki-feci-patlamada-6-kisi-oldu",
    "https://www.haber7.com/siyaset/haber/3679562-bakan-ciftciden-mogolistan-mesaji-orhun-yazitlari-uzerinden-tarihi-vurgu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi",
    "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti",
    "https://www.haber7.com/dunya/haber/3680016-son-dakika-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680017-kuresel-firtinaya-ragmen-turk-lirasina-yabanci-ilgisi-suruyor"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680017-kuresel-firtinaya-ragmen-turk-lirasina-yabanci-ilgisi-suruyor",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680018-komsuya-turkiyeden-kesintisiz-elektrik-hamlesi-500-megavatlik-kapasiteye-cikilacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2082,7 +2082,8 @@
    "https://anlatilaninotesi.com.tr/20261126/kongo-demokratik-cumhuriyetinde-ebola-salgini-buyuyor-can-kaybi-6-bine-yaklasti-1110605498.html",
    "https://anlatilaninotesi.com.tr/20261126/aymden-ekrem-imamoglunun-basvurusuna-ret-1110606310.html",
    "https://anlatilaninotesi.com.tr/20261126/trumptan-jensen-huanga-af-sinyali-abdnin-nvidiaya-ortak-olmasi-gundemde-1110606513.html",
-   "https://anlatilaninotesi.com.tr/20261126/super-ligde-13-hafta-maclarini-yonetecek-hakemler-aciklandi-1110606396.html"
+   "https://anlatilaninotesi.com.tr/20261126/super-ligde-13-hafta-maclarini-yonetecek-hakemler-aciklandi-1110606396.html",
+   "https://anlatilaninotesi.com.tr/20261126/avrupalilar-savasi-baltik-ve-akdenize-yaymaya-calisiyor-abd-cozume-gidecek-1110607629.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2110,14 +2111,6 @@
   ]
  },
  "recent_titles": [
-  "diyarbakır surlarına devlet bahçeli posteri asıldı",
-  "ab komisyonundan ankara çıkarması türkiyeab ilişkilerinde yeni dönem",
-  "berlinde nato zirvesi öncesi kritik e5 toplantısı",
-  "avrupanın nato içinde geleceği yeniden tanımlanıyor",
-  "bakan çiftçi her bir kardeşimizin inancı devletimizin güvencesi altındadır",
-  "yunan basını endişeli trump natoyu türkiyeye bırakacak",
-  "tbmmde yoğun hafta 12 yargı paketi gündemde",
-  "chp izmir il başkanlığında karanfil arbedesi",
   "cemil tugayı köşeye sıkıştıracak eski röportajı",
   "kemal kılıçdaroğlundan özgür özele sert mesaj",
   "hakan fidan moskovada şoygu ile görüştü",
@@ -3609,6 +3602,14 @@
   "şanlıurfada 3üncü kattan düşen kadın öldü",
   "hazar ergüçlü 19 yıldır psikolojik destek alıyorum",
   "küresel fırtınaya rağmen türk lirasına yabancı ilgisi sürüyor",
-  "türkiyeden mısıra başsağlığı mesajı"
+  "türkiyeden mısıra başsağlığı mesajı",
+  "komşuya türkiyeden kesintisiz elektrik hamlesi 500 megavatlık kapasiteye çıkılacak",
+  "kalbim sana emanet 65 bölüm raja kurtulamıyor",
+  "bilmezler ki kalbimdesin 132 bölüm malininin intikam planları",
+  "samsunda 3 aracın karıştığı trafik kazasında 5 kişi yaralandı",
+  "ünlülere yönelik soruşturmada 3 ismin geliri belli oldu",
+  "mersinde yengesi ve onun annesini öldüren sanığa 2 kez ağırlaştırılmış müebbet talebi",
+  "istanbulda kurye yaya geçidinde çarptığı vatandaşı yumruklayıp kaçtı",
+  "avrupalılar savaşı baltık ve akdenize yaymaya çalışıyor abd çözüme gidecek"
  ]
 }
