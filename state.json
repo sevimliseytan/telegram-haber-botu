@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/galatasaray-aston-villa-macinin-ilk-11leri-h1585329",
-   "https://www.ensonhaber.com/galatasaray-aston-villa-macinda-da-filistine-destek-oldu-h1585358",
    "https://www.ensonhaber.com/galatasarayda-mario-lemina-maca-devam-edemedi-h1585357",
    "https://www.ensonhaber.com/cumhurbaskani-erdogandan-eskisehirde-sehit-olan-5-asker-icin-taziye-mesaji-h1585356",
    "https://www.ensonhaber.com/fon-sorusturmasinda-yeni-duzenleme-taslagi-hazir-yatirimci-odemelerinde-son-asama-27-kasim-h1585355",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kemal-kilicdaroglu-devlet-bahceliyi-ziyaret-edecek-h1585847",
    "https://www.ensonhaber.com/eren-kacikcinin-otopsi-raporu-ortaya-cikti-h1585848",
    "https://www.ensonhaber.com/ozlem-yildiz-oglu-demir-ile-dugunde-son-hali-gundem-oldu-h1585849",
-   "https://www.ensonhaber.com/kutahyada-kayip-olarak-aranan-55-yasindaki-besici-olu-bulundu-h1585850"
+   "https://www.ensonhaber.com/kutahyada-kayip-olarak-aranan-55-yasindaki-besici-olu-bulundu-h1585850",
+   "https://www.ensonhaber.com/abdde-akraba-evliligi-ile-nesiller-boyu-mavi-tenli-oldular-fugate-ailesi-h1585851",
+   "https://www.ensonhaber.com/fon-sorusturmasi-kapsaminda-bulls-yatirim-yonetim-kurulu-baskani-dahil-5-kisi-adliyede-h1585852"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/saglik/haber/3679549-bakan-memisoglundan-saglik-calisanlarina-mujde-bu-kresler-24-saat-hizmet-verecek",
    "https://www.haber7.com/siyaset/haber/3679548-cumhurbaskani-erdogandan-ogretmenlere-atama-mujdesi",
    "https://www.haber7.com/dunya/haber/3679545-abden-13-ulkeye-uyari-alarm-verildi-yaptirim-kapida",
    "https://www.haber7.com/dunya/haber/3679547-erhurman-ve-hristodulidis-2-ortak-proje-uzerinde-anlasti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-parti-heyetini-kabul-etti-kilicdaroglu-da-ziyaret-edecek",
    "https://www.haber7.com/dunya/haber/3680027-italyada-kilise-skandali-cocuk-istismari-resmi-raporla-belgelendi",
    "https://www.haber7.com/adiyaman/3680028-adiyamanda-yurekleri-agza-getiren-hadise-7-yasindaki-ogrenciyi-akrep-soktu",
-   "https://www.haber7.com/dunya/haber/3680029-son-dakikaankara-washington-hattinda-onemli-temas-bakan-guler-abdye-gidiyor"
+   "https://www.haber7.com/dunya/haber/3680029-son-dakikaankara-washington-hattinda-onemli-temas-bakan-guler-abdye-gidiyor",
+   "https://www.haber7.com/dunya/haber/3680030-papaya-makam-araciyla-kek-gonderdi-almanya-karisti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2117,7 +2117,6 @@
   ]
  },
  "recent_titles": [
-  "dışişlerinden karadeniz uyarısı bölgesel riskler tüm taraflara iletiliyor",
   "bahçeliden istanbulun fethi mesajı",
   "iletişim başkanı durandan azerbaycanın bağımsızlık günü mesajı",
   "sözcü 13 yıl boyunca desteklediği kılıçdaroğlunu yerden yere vurdu",
@@ -3616,6 +3615,7 @@
   "son dakikaankarawashington hattında önemli temas bakan güler abdye gidiyor",
   "papaya makam aracıyla kek gönderdi almanya karıştı",
   "kütahyada kayıp olarak aranan 55 yaşındaki besici ölü bulundu",
-  "abdde akraba evliliği ile nesiller boyu mavi tenli oldular fugate ailesi"
+  "abdde akraba evliliği ile nesiller boyu mavi tenli oldular fugate ailesi",
+  "fon soruşturmasında bulls yatırım yönetim kurulu başkanı dahil 5 kişi adliyede"
  ]
 }
