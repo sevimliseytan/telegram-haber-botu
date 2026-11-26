@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/adanada-esi-katledildi-tehditler-bitmedi-h1585441",
    "https://www.ensonhaber.com/avrupa-birligi-hibrit-otomobillere-kota-getirdi-turkiye-de-listede-h1585442",
    "https://www.ensonhaber.com/galatasaray-aston-villayi-yenerek-kasasini-doldurdu-h1585443",
    "https://www.ensonhaber.com/aysegul-aldinc-kivancla-oynamayi-iki-kez-reddetti-h1585444",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/olmaz-demeyin-kokusuyla-ikna-ediyor-kofte-harcina-tarcin-ilavesi-h1585934",
    "https://www.ensonhaber.com/amed-sportif-faaliyetler-mbaye-diagne-ile-yollari-ayirdi-h1585935",
    "https://www.ensonhaber.com/rockets-alperen-sengunun-triple-double-yaptigi-macta-sunsi-yendi-h1585936",
-   "https://www.ensonhaber.com/ceyhun-kazanci-a-milli-takim-yeniden-ayaga-kalkabilecek-gucte-h1585937"
+   "https://www.ensonhaber.com/ceyhun-kazanci-a-milli-takim-yeniden-ayaga-kalkabilecek-gucte-h1585937",
+   "https://www.ensonhaber.com/igdirda-akrabalar-arasinda-bicakli-kavga-1-olu-h1585938"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679632-huangin-skandal-donusu-ve-nvidianin-ikiyuzlugu",
-   "https://www.haber7.com/dunya/haber/3679633-israile-kotu-haber-bircok-silah-anlasmasi-yapmislardi-ticareti-kesiyorlar",
-   "https://www.haber7.com/dunya/haber/3679634-ab-hem-kibirli-hem-ikiyuzlu-hem-de-cevre-dusmani",
    "https://www.haber7.com/guncel/haber/3679635-gullu-dosyasinda-gizemli-sesin-sirri-cozuluyor-dikkat-ceken-ayrinti-ortaya-cikti",
    "https://spor.haber7.com/spor/haber/3679637-tekrar-olsa-yine-yaparim-milli-sporcu-ilk-kez-konustu",
    "https://www.haber7.com/guncel/haber/3679636-gaflet-uykusu",
@@ -1391,7 +1388,10 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3679971-turkiyenin-savas-gemilerine-son-savunma-kalkani-ortaya-cikti",
    "https://spor.haber7.com/futbol/haber/3680101-fifa-siber-saldiriya-ugradi-hackerlar-12-gb-veri-caldiklarini-iddia-etti",
    "https://www.haber7.com/dunya/haber/3680102-turkiye-ve-suudi-arabistandan-savunma-imzasi",
-   "https://www.haber7.com/dunya/haber/3680076-kuveytte-kritik-tesise-iha-saldirisi-romadan-aciklama-2-italyan-hayatini-kaybetti"
+   "https://www.haber7.com/dunya/haber/3680076-kuveytte-kritik-tesise-iha-saldirisi-romadan-aciklama-2-italyan-hayatini-kaybetti",
+   "https://www.haber7.com/guncel/haber/3680103-sanliurfada-silahli-kavga-7-yarali",
+   "https://spor.haber7.com/super-lig/haber/3680104-derbi-biletleri-satisa-cikiyor-fiyatlar-aciklandi",
+   "https://spor.haber7.com/super-lig/haber/3680105-amedde-diagne-defteri-kapandi-ayrilik-resmen-aciklandi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2149,9 +2149,6 @@
   ]
  },
  "recent_titles": [
-  "yıllar önce yıkadığı bebekti lamine yamal lionel messinin rakibi olmaya hazırlanıyor",
-  "mason greenwoodun istanbula geliş tarihi açıklandı",
-  "trabzonsporda paul onuachuyla ilgili kriz iddiası",
   "pierreemerick aubameyang çorum fkyı reddetti ispanyaya gidiyor",
   "mason greenwood transferinin perde arkası marsilyadan itiraf var",
   "mauro icardinin menajerinden galatasaray açıklaması geldi",
@@ -3648,6 +3645,9 @@
   "şanlıurfada silahlı kavga 7 yaralı",
   "derbi biletleri satışa çıkıyor fiyatlar açıklandı",
   "ceyhun kazancı a milli takım yeniden ayağa kalkabilecek güçte",
-  "antrenmanlara çıkmamıştı amedspordan mbaye diagne kararı"
+  "antrenmanlara çıkmamıştı amedspordan mbaye diagne kararı",
+  "amedde diagne defteri kapandı ayrılık resmen açıklandı",
+  "iğdırda akrabalar arasında bıçaklı kavga 1 ölü",
+  "beşiktaş taraftarından filistine özgürlük pankartı"
  ]
 }
