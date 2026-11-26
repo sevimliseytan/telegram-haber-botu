@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/emre-belozoglu-hedef-ilk-24e-kalmak-h1585351",
-   "https://www.ensonhaber.com/genclerbirliginden-fifanin-transfer-yasagi-hakkinda-aciklama-h1585350",
-   "https://www.ensonhaber.com/selen-erdem-panathinaikos-kadin-basketbol-takimindaki-gorevinden-ayrildi-h1585348",
    "https://www.ensonhaber.com/abd-basini-trump-yonetimi-iranli-ust-duzey-isimlere-suikasti-degerlendiriyor-h1585347",
    "https://www.ensonhaber.com/eskisehirde-askeri-helikopter-dustu-h1585338",
    "https://www.ensonhaber.com/arda-turandan-fenerbahce-maci-oncesi-aciklama-h1585346",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/milli-savunma-bakani-yasar-guler-abdyi-ziyaret-edecek-h1585853",
    "https://www.ensonhaber.com/azerbaycan-ve-ermenistan-sivil-toplum-temsilcileri-baris-icin-bir-araya-geliyor-h1585854",
    "https://www.ensonhaber.com/ulkedeki-altin-yataklari-el-degistiriyor-dev-maden-sahasi-satildi-h1585855",
-   "https://www.ensonhaber.com/besiktas-galatasaray-mac-biletleri-ne-zaman-satisa-cikacak-bjk-gs-derbi-bilet-fiyatlari-h1585856"
+   "https://www.ensonhaber.com/besiktas-galatasaray-mac-biletleri-ne-zaman-satisa-cikacak-bjk-gs-derbi-bilet-fiyatlari-h1585856",
+   "https://www.ensonhaber.com/bursada-sokakta-tartistiklari-kisiyi-tabancayla-vuran-2-supheli-gozaltina-alindi-h1585857",
+   "https://www.ensonhaber.com/alina-boz-annesiyle-paylasim-yapti-h1585858",
+   "https://www.ensonhaber.com/konyada-cesmeden-su-almak-isteyen-70-yasindaki-kadin-bicaklandi-h1585859"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679543-ticaret-bakanligindan-bebek-urunlerine-ceza-yuzde-100-dogal-diyerek-satis-yaptilar",
    "https://spor.haber7.com/birinci-lig/haber/3679542-tff-1-lig-ekibi-sariyerin-yeni-hocasi-aciklandi",
    "https://www.haber7.com/guncel/haber/3679541-25-ulkeden-225-firma-dunya-helal-zirvesi-ve-helal-expoda-bulusacak",
    "https://spor.haber7.com/fenerbahce/haber/3679539-fenerbahcede-5-yildiz-topun-agzinda-ocakta-veda-edilebilir",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680034-ajetten-yurt-disi-ucuslara-yuzde-20-indirim-kampanya-icin-son-tarih-aciklandi",
    "https://www.haber7.com/otomobil/haber/3680036-aman-dikkat-arabasini-2-gunde-bir-calistirmayana-18-bin-lira-masraf-cikacak",
    "https://www.haber7.com/guncel/haber/3680032-eren-kasikcinin-otopsi-raporu-cikti-olum-nedeni-belli-oldu",
-   "https://www.haber7.com/guncel/haber/3680038-995-bin-kisinin-saglik-raporu-hastaneye-gitmeden-yenilendi"
+   "https://www.haber7.com/guncel/haber/3680038-995-bin-kisinin-saglik-raporu-hastaneye-gitmeden-yenilendi",
+   "https://www.haber7.com/ulkede-bugun/haber/3680039-turkiyenin-en-karli-noktalari-belli-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1849,7 +1849,8 @@
    "https://www.mynet.com/magazin/khloe-kardashian-dan-itiraf-kore-de-ilk-gun-yuzumuzun-icine-ettik-130100607726",
    "https://www.mynet.com/magazin/hazar-erguclu-19-yildir-psikolojik-destek-aliyorum-130100607729",
    "https://www.mynet.com/magazin/alina-boz-rus-annesi-olga-ile-kamera-karsisina-gecti-tipki-annesi-130100607732",
-   "https://www.mynet.com/magazin/eren-kasikci-nin-otopsi-raporu-ortaya-cikti-130100607735"
+   "https://www.mynet.com/magazin/eren-kasikci-nin-otopsi-raporu-ortaya-cikti-130100607735",
+   "https://www.mynet.com/magazin/acun-ilicali-kararini-verdi-survivor-yarismacilarini-halk-sececek-130100607738"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2092,7 +2093,8 @@
    "https://anlatilaninotesi.com.tr/20261126/kilicdaroglu-bahceliyi-ziyaret-edecek-1110610110.html",
    "https://anlatilaninotesi.com.tr/20261126/kremlin-ab-barisa-degil-savasa-kaynak-ayirmaya-hazirlaniyor-1110610584.html",
    "https://anlatilaninotesi.com.tr/20261126/otopsi-raporu-cikti-masterchef-eren-kasikcinin-olum-nedeni-belli-oldu-1110609728.html",
-   "https://anlatilaninotesi.com.tr/20261126/milyonlarca-ogrenciyi-ilgilendiriyor-lgs-icin-ornek-sorular-yayimlandi-1110610744.html"
+   "https://anlatilaninotesi.com.tr/20261126/milyonlarca-ogrenciyi-ilgilendiriyor-lgs-icin-ornek-sorular-yayimlandi-1110610744.html",
+   "https://anlatilaninotesi.com.tr/20261126/gazzede-salgin-alarmi-menenjit-vakalari-hizla-artiyor-1110611240.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2120,12 +2122,6 @@
   ]
  },
  "recent_titles": [
-  "edirnede çeltik bereketi rekolte beklentisi 400 bin tonu aştı",
-  "nato zirvesi ankara ekonomisine 900 milyon lira kazandırdı",
-  "piyasalarda son durum altın düşüşte",
-  "ticaret bakanlığı paylaştı 19 serbest bölgeden haziran ayı ihracat rekoru",
-  "morgan stanleynin kârında yüzde 58lik yükseliş",
-  "gazprom hisseleri 17 yılın en düşük seviyesinde",
   "tobb ve tcmb yöneticileri finansmana erişimi konuştu",
   "abdde üretici enflasyonu beklentilerin altında kaldı",
   "oecd türkiye dünyada turist çeken dördüncü ülke",
@@ -3619,6 +3615,12 @@
   "995 bin kişinin sağlık raporu hastaneye gitmeden yenilendi",
   "beşiktaş  galatasaray maç biletleri ne zaman satışa çıkacak bjk gs derbi bilet fiyatları",
   "bursada sokakta tartıştıkları kişiyi tabancayla vuran 2 şüpheli gözaltına alındı",
-  "alina boz annesiyle paylaşım yaptı"
+  "alina boz annesiyle paylaşım yaptı",
+  "türkiyenin en karlı noktaları belli oldu",
+  "konyada çeşmeden su almak isteyen 70 yaşındaki kadın bıçaklandı",
+  "vanda havaların soğumasıyla terzilerde yoğunluk başladı",
+  "şampiyonlar liginde gecenin olayı açtığı çukura çarpan top gol oldu",
+  "acun ilıcalı kararını verdi survivor yarışmacılarını halk seçecek",
+  "gazzede salgın alarmı menenjit vakaları hızla artıyor"
  ]
 }
