@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/dunyaca-unlu-model-hailey-bieberdan-dogum-gunu-pozlari-takipcileri-begeni-yagdirdi-h1585533",
    "https://www.ensonhaber.com/yeralti-behram-sahnede-bozo-ve-ruzgarin-yeni-dusmani-geldi-h1585534",
    "https://www.ensonhaber.com/pakistanda-insaat-halindeki-binanin-cokmesi-sonucu-iki-kisi-hayatini-kaybetti-h1585535",
    "https://www.ensonhaber.com/karabuk-safranboluda-kar-yagisi-h1585536",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/nijeryada-silahli-saldirida-17-kisi-oldu-h1586025",
    "https://www.ensonhaber.com/usakta-otomobilin-carptigi-genc-kiz-can-verdi-h1586026",
    "https://www.ensonhaber.com/izmir-aciklarinda-41-buyuklugunde-deprem-h1586027",
-   "https://www.ensonhaber.com/almanyada-tedavi-goruyordu-killa-hakandan-saglik-durumuyla-ilgili-aciklama-geldi-h1586028"
+   "https://www.ensonhaber.com/almanyada-tedavi-goruyordu-killa-hakandan-saglik-durumuyla-ilgili-aciklama-geldi-h1586028",
+   "https://www.ensonhaber.com/yazarlar/cuneyt-inay/yatirimda-guvenli-liman"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2188,8 +2188,6 @@
   ]
  },
  "recent_titles": [
-  "kural tanımayan iett şoförleri otobüs içi kameralarla tespit edilsin",
-  "kâğıthanenin sevilen isimlerinden kemal dirice son yolculuğuna uğurlandı",
   "yaşlı ve engelli vatandaşlara evde fizik tedavi desteği",
   "şirintepeye otopark ve yeni sosyal yaşam alanları kazandırılıyor",
   "gültepe semt pazarı modern yerine taşınıyor",
@@ -3687,6 +3685,8 @@
   "almanyada tedavi görüyordu killa hakandan sağlık durumuyla ilgili açıklama geldi",
   "resmi gazetede yayımlandı kamu kurumlarında yeni atamalar",
   "abdyi vuran şiddetli fırtına tarihte bir ilke imza attı 1 milyona yakın abone elektriksiz kaldı yüzlerce uçuş iptal",
-  "emekliler için kritik zirve çalışmalarda sona gelindi işte masadaki rakam"
+  "emekliler için kritik zirve çalışmalarda sona gelindi işte masadaki rakam",
+  "yatırımda güvenli liman",
+  "denizlide devrilen tırın sürücüsü öldü"
  ]
 }
