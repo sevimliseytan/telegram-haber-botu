@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/cumhurbaskani-erdoganin-hafter-kabulu-yunan-basininda-gundem-oldu-h1585730",
    "https://www.ensonhaber.com/sakaryada-20-hayvanin-oldugu-barinakla-ilgili-sorusturmada-3-gozalti-h1585731",
    "https://www.ensonhaber.com/israilin-saldirisinda-hamas-yoneticisi-halid-ebu-neda-ile-esi-hayatini-kaybetti-h1585732",
    "https://www.ensonhaber.com/ozcan-denizin-ifadesi-ortaya-cikti-h1585734",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/hatayda-otomobilin-uzerindeki-cantanin-calindigi-anlar-kamerada-h1586222",
    "https://www.ensonhaber.com/fransada-polisin-gosterilerde-ses-bombasi-kullanmasi-yasaklandi-h1586223",
    "https://www.ensonhaber.com/derbi-ertelenecek-mi-besiktas-cephesinden-aciklama-geldi-h1586224",
-   "https://www.ensonhaber.com/ramazan-ayi-icin-geri-sayim-basladi-uc-aylar-baslangic-tarihi-2026-2027-h1586225"
+   "https://www.ensonhaber.com/ramazan-ayi-icin-geri-sayim-basladi-uc-aylar-baslangic-tarihi-2026-2027-h1586225",
+   "https://www.ensonhaber.com/gazzede-8-aylik-emel-bebek-acil-ameliyat-bekliyor-h1586226"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3679915-kara-kartal-israil-ekibine-karsi-besiktas-hapoel-beer-sheva-muhtemel-11ler",
    "https://www.haber7.com/guncel/haber/3679919-sahte-mehdi-ile-anne-babasi-ve-kiz-kardesi-tutuklandi",
    "https://www.haber7.com/seyahat/haber/3679922-erzurumda-kis-vakti-tarihi-mekanlar-beyaz-ortu-altinda-mest-etti",
    "https://ekonomi.haber7.com/ekonomi/haber/3679924-cin-ve-taylanda-gecit-yok-ticaret-bakanliginin-5-yillik-vergi-karari",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680383-dunya-helal-zirvesi-ve-helal-expo-uluslararasi-ticaret-fuarinin-ucuncu-gunu-sona-erdi",
    "https://www.haber7.com/siyaset/haber/3680384-chpden-ak-partiye-gecen-busra-ozdemir-vicdanim-cok-rahat",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680371-uefa-besiktas-hapoel-beer-sheva-maci-icin-sorusturma-baslatti",
-   "https://www.haber7.com/3sayfa/haber/3680385-ben-oldurdum-diyerek-kahkaha-atan-saniktan-akil-disi-savunma"
+   "https://www.haber7.com/3sayfa/haber/3680385-ben-oldurdum-diyerek-kahkaha-atan-saniktan-akil-disi-savunma",
+   "https://spor.haber7.com/avrupa-ligleri/haber/3680386-fenerbahceden-ayrilan-dirk-kuyt-surpriz-bir-takimin-basina-geciyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2253,12 +2253,6 @@
   ]
  },
  "recent_titles": [
-  "izmirde babaoğulun cesedi ormanda bulunmuştu 3 tutuklu",
-  "şiddetli yağış yolu vurdu karayolunda kopmalar meydana geldi",
-  "böbrek ve karaciğerin gizli düşmanı çıktı fazlası tehlikeye sokuyor",
-  "marmarada yeniden ortaya çıkan müsilaj çanakkalede de görüldü",
-  "kredi kartı faizlerine dikkat fazla tahsil edilen tutarlar geri alınabilir",
-  "sayın valim edirne sizi unutmayacak",
   "bakan bolat duyurdu iit ülkeleriyle ticaret 10 ayda 1228 milyar dolara ulaştı",
   "kizilelma israil basınını sarstı abd ve çin detayı öne çıktı",
   "istanbulda kar yağması en yüksek ihtimal olan ay belli oldu",
@@ -3752,6 +3746,12 @@
   "okan aslan beşiktaş taraftarına yönelik şiddet kabul edilemez",
   "altında sert toparlanma ons yüzde 3 yükseldi gram altın 6 bin lirayı aştı",
   "ben öldürdüm diyerek kahkaha atan sanıktan akıl dışı savunma",
-  "fenerbahçeden ayrılan dirk kuyt sürpriz bir takımın başına geçiyor"
+  "fenerbahçeden ayrılan dirk kuyt sürpriz bir takımın başına geçiyor",
+  "gazzede 8 aylık emel bebek acil ameliyat bekliyor",
+  "burhanettin durandan dezenformasyonla mücadele mesajı gençler kilit rol oynuyor",
+  "putin yapay zekaya sahip olmak dünyaya hükmetmeyi garanti etmiyor",
+  "gaziantepte gürültü ihbarı için 112yi aradı gelen ceza ile hayatının şokunu yaşadı",
+  "cumhurbaşkanı erdoğan fatih sultan mehmet han türbesini ziyaret etti",
+  "ikinci el otomobil pazarında dengeler değişti türkiye suv tercih ediyor"
  ]
 }
