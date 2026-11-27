@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ankarada-sosyal-medyada-tanisip-ormanda-tuzaga-dusurduler-h1585695",
    "https://www.ensonhaber.com/mecliste-gorusulmeye-baslandi-22-milyon-kisinin-gss-prim-borcu-silinecek-h1585696",
    "https://www.ensonhaber.com/adanada-basindan-vurusan-nurmuhammed-37-gun-sonra-hayatini-kaybetti-h1585697",
    "https://www.ensonhaber.com/avrupada-besiktas-ve-trabzonspor-gecesi-muhtemel-11ler-h1585698",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/trabzonda-heyelan-kopruyu-kullanilamaz-hale-getirdi-yeniden-yapilacak-h1586187",
    "https://www.ensonhaber.com/batmanda-bir-ogretmenin-22-yil-once-cektigi-okul-vlogu-gundem-oldu-h1586188",
    "https://www.ensonhaber.com/yazin-pek-olmuyor-kisin-siklasiyor-kapi-koluna-dokununca-neden-carpiliyoruz-h1586189",
-   "https://www.ensonhaber.com/ismail-jakobstan-pape-gueyeye-cagri-galatasaraya-hos-geldin-h1586190"
+   "https://www.ensonhaber.com/ismail-jakobstan-pape-gueyeye-cagri-galatasaraya-hos-geldin-h1586190",
+   "https://www.ensonhaber.com/ege-universitesinde-ogretmene-bicakli-saldiri-saldirgan-gozaltinda-h1586191"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679740-istanbul-51-asliye-ceza-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679739-konya-7-aile-mahkemesi-hakimligi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679221-akcakiraz-belediye-baskanligi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679209-ankara-4-sulh-hukuk-mahkemesi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680337-uefadan-skandal-aciklama-besiktas-taraftarlarini-suclamaya-kalktilar",
    "https://www.haber7.com/guncel/haber/3680340-turkiyenin-en-soguk-noktasi-belli-oldu-senelerdir-degismedi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680341-emlak-katilim-katilimevim-birevim-ve-iktisat-katilim-bankasini-bunyesine-katti",
-   "https://www.haber7.com/dunya/haber/3680343-abdde-siddetli-firtina-su-baskinlari-ve-iptaller"
+   "https://www.haber7.com/dunya/haber/3680343-abdde-siddetli-firtina-su-baskinlari-ve-iptaller",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680344-yaptigi-dedektiflik-degil-kamuoyunu-yaniltmak-goruntuler-eski-cikti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2209,7 +2209,8 @@
    "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-ingilterenin-en-buyuk-bankalarindan-lloydsta-buyuk-kesinti-mobil-uygulama-coktu-1110640727.html",
    "https://anlatilaninotesi.com.tr/20261127/turkiyenin-en-soguk-yeri-belli-oldu-termometreler-eksi-18i-gosterdi-1110641151.html",
    "https://anlatilaninotesi.com.tr/20261127/besiktas-kafilesini-tasiyan-ucak-batumdan-ayrildi-25-saat-gecikme-yasandi--1110641481.html",
-   "https://anlatilaninotesi.com.tr/20261127/emekli-tumamiral-ali-deniz-kutluk-anlatti-atinanin-turkiye-libya-itirazi-ne-anlama-geliyor-1110641596.html"
+   "https://anlatilaninotesi.com.tr/20261127/emekli-tumamiral-ali-deniz-kutluk-anlatti-atinanin-turkiye-libya-itirazi-ne-anlama-geliyor-1110641596.html",
+   "https://anlatilaninotesi.com.tr/20261127/rusyanin-askeri-harekati-devam-ediyor-son-bir-haftanin-bilancosu-aciklandi-1110642058.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2241,12 +2242,6 @@
   ]
  },
  "recent_titles": [
-  "milli yıldızın annesinden takım arkadaşları için şok iddia bilerek pas atmıyorlar",
-  "kruvaziyer turizminde indirim dönemi başladı",
-  "gözaltındaki burcu özberk özcan deniz deniz çakır böyle görüntülendi",
-  "bilim insanlarında yeni keşif bağırsaklardaki antikor kanseri önleyebilir",
-  "gündemdeki lastikçi karşı tarafa sitem etti emeklerimiz yok oldu kazancımız helaldir",
-  "fenerbahçe shakhtar maçı ile şampiyonlar ligi tarihine geçecek yok böyle tesadüf",
   "istanbuldaki yangında dumandan etkilenen 6 yaşındaki kız 5 günlük yaşam mücadelesini kaybetti",
   "ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında yeni gelişme 24 isim adliyeye sevk edildi",
   "haluk levent onun yerine benim tutuklanmam gerekiyor",
@@ -3740,6 +3735,12 @@
   "beşiktaş kafilesini taşıyan uçak batumdan ayrıldı 25 saat gecikme yaşandı",
   "abdde şiddetli fırtına su baskınları ve iptaller",
   "ismail jakobstan pape gueyeye çağrı galatasaraya hoş geldin",
-  "emekli tümamiral ali deniz kutluk anlattı atinanın türkiyelibya itirazı ne anlama geliyor"
+  "emekli tümamiral ali deniz kutluk anlattı atinanın türkiyelibya itirazı ne anlama geliyor",
+  "yaptığı dedektiflik değil kamuoyunu yanıltmak görüntüler eski çıktı",
+  "beşiktaş derbisi öncesi galatasaraya osimhen müjdesi",
+  "ege üniversitesinde öğretmene bıçaklı saldırı saldırgan gözaltında",
+  "çanakkalede kaçakçılık operasyonu bin 60 litre şarap ele geçirildi",
+  "kastamonuda evinin balkonundan düştü",
+  "rusyanın askeri harekatı devam ediyor son bir haftanın bilançosu açıklandı"
  ]
 }
