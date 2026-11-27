@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679976-sehitlerimiz-icin-son-gorev-memleketlerine-ugurlaniyorlar",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679977-halka-arzlarda-da-vurgun-yapmislar-tera-ceosu-birer-birer-acikladi",
    "https://www.haber7.com/guncel/haber/3679978-acili-babadan-kan-donduran-miras-iddiasi-yanginda-2-cocuk-hayatini-kaybetmisti",
    "https://www.haber7.com/guncel/haber/3679979-son-dakika-turkiyenin-savunma-kalkanina-sizma-girisimi-mit-casusluk-sebekesini-cokertti",
    "https://www.haber7.com/dunya/haber/3679980-polonya-cumhurbaskanligi-sarayi-karsisinda-korkunc-olay-kendini-yakti",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/siyaset/haber/3680427-imamoglu-taca-cikti-ozel-deme-dirsek-cevirdi-siyasette-yeni-ittifak-hazirligi-mi",
    "https://www.haber7.com/dunya/haber/3680428-abdden-umman-korfezinde-dikkat-ceken-saldiri-ablukayi-asmaya-calisan-gemiyi-vurdu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680429-2027-butcesi-komisyonda-kabul-edildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680431-turk-savunma-sanayisinden-ingilterede-milyonlarca-dolarlik-hamle-hedef-4-katina-cikti"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680431-turk-savunma-sanayisinden-ingilterede-milyonlarca-dolarlik-hamle-hedef-4-katina-cikti",
+   "https://spor.haber7.com/basketbol/haber/3680432-ergin-atamandan-fransizlarin-irkcilik-iddiasina-cok-sert-cevap",
+   "https://www.haber7.com/guncel/haber/3680433-siz-evdeyken-yildirim-duserse-oncesinde-ve-sonrasinda-ne-yapilmali"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2242,7 +2242,8 @@
    "https://anlatilaninotesi.com.tr/20261127/iletisim-baskanligi-duyurdu-fonda-ara-odeme-tamamlandi-1110649806.html",
    "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-kuzey-kibrista-batan-yolcu-gemisi-davasinda-9-supheli-tutuklu-yargilanmak-uzere-cezaevine-1110650452.html",
    "https://anlatilaninotesi.com.tr/20261127/turkiye-kupasinda-kura-heyecani-devlerin-rakipleri-belli-oluyor-1110650592.html",
-   "https://anlatilaninotesi.com.tr/20261127/cumhurbaskani-erdogan-yarin-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek-1110650713.html"
+   "https://anlatilaninotesi.com.tr/20261127/cumhurbaskani-erdogan-yarin-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek-1110650713.html",
+   "https://anlatilaninotesi.com.tr/20261127/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-1110650810.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2274,9 +2275,6 @@
   ]
  },
  "recent_titles": [
-  "celtics tatumun 41 sayısıyla wizardsı yendi",
-  "beşiktaş avrupada 269 maçına çıkacak",
-  "a milli erkek basketbol takımı 1068 maçına çıkacak",
   "adanada 9 yıl sonra gelen acı tesadüf",
   "eskişehirde elinde silahla kovaladı ateş açtığını beyan etti",
   "beşiktaş israil ekipleriyle 8 kez karşılaşacak",
@@ -3773,6 +3771,9 @@
   "cumhurbaşkanı erdoğan yarın yunanistan cumhurbaşkanı tasulas ile istanbulda görüşecek",
   "türk savunma sanayisinden ingilterede milyonlarca dolarlık hamle hedef 4 katına çıktı",
   "ergin atamandan fransızların irkçılık iddiasına çok sert cevap",
-  "4 ibb meclis üyesi daha ak partiye katıldı"
+  "4 ibb meclis üyesi daha ak partiye katıldı",
+  "siz evdeyken yıldırım düşerse öncesinde ve sonrasında ne yapılmalı",
+  "erdoğanın hocası kemal efendi vefat etti sağlığında anlattığı kıssa yeniden gündem oldu",
+  "2027 yılı bütçesi tbmm plan ve bütçe komisyonunda kabul edildi"
  ]
 }
