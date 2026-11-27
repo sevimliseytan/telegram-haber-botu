@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/eskisehirde-elinde-silahla-kovaladi-ates-actigini-beyan-etti-h1585597",
    "https://www.ensonhaber.com/besiktas-israil-ekipleriyle-8-kez-karsilasacak-h1585598",
    "https://www.ensonhaber.com/a-milli-basketbol-takimi-italya-karsisinda-resmi-maclardaki-3-galibiyeti-istiyor-h1585599",
    "https://www.ensonhaber.com/gaziantep-basketbolda-sistem-sampiyonluga-kuruldu-h1585600",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ford-gt41-tanitildi-ford-le-mansa-zafer-icin-geri-donuyor-h1586089",
    "https://www.ensonhaber.com/donald-trump-iranla-savas-benim-istedigim-zamanda-bitecek-h1586090",
    "https://www.ensonhaber.com/izmirde-uyusturucu-saticilarina-sucustu-2-gozalti-h1586091",
-   "https://www.ensonhaber.com/eskisehirde-parkta-pompali-tufekle-saldiri-7-kisi-gozaltinda-h1586092"
+   "https://www.ensonhaber.com/eskisehirde-parkta-pompali-tufekle-saldiri-7-kisi-gozaltinda-h1586092",
+   "https://www.ensonhaber.com/batmanda-suca-ozendirici-paylasimlara-operasyon-6-gozalti-h1586093"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-galatasaraydan-sampiyonlar-liginde-buyuk-sicrama-puan-durumunda-ilk-15e-girdi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679801-avrupa-sanayisinde-alarm-37-milyon-kisinin-isi-tehlikede",
    "https://www.haber7.com/guncel/haber/3679802-16-ogrenci-gida-zehirlenmesi-nedeniyle-hastaneye-kaldirildi",
    "https://www.haber7.com/denizli/3679803-denizlide-bir-ogretmen-adliye-onunde-bicaklandi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680247-besiktas-israil-takimini-devirdi-mac-sonu-arda-gulerden-de-destek-geldi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680251-bakan-uraloglu-tarih-verdi-bursanin-ulasiminda-yeni-donem",
    "https://www.haber7.com/3sayfa/haber/3680252-ayni-apartmanda-3-cocugun-supheli-olumu-20-yillik-sir-dosya-acildi-7-gozalti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680253-ekonomik-guven-kasim-ayinda-yukseldi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680253-ekonomik-guven-kasim-ayinda-yukseldi",
+   "https://www.haber7.com/3sayfa/haber/3680252-adanada-sazan-sarmaliyla-35-milyon-tllik-vurgun-16-tutuklama"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2175,7 +2175,8 @@
    "https://anlatilaninotesi.com.tr/20261127/fsb-donetskte-ust-duzey-rus-askeri-yetkilisine-yonelik-suikast-girisimi-engellendi-1110633270.html",
    "https://anlatilaninotesi.com.tr/20261127/cildir-golu-hayalinden-cop31-klibine-kamera-arkasinda-neler-yasandi-suya-belki-50-kez-atladim-1110607031.html",
    "https://anlatilaninotesi.com.tr/20261127/15-bin-ogretmen-adayi-icin-kontenjanlar-ve-basvuru-takvimi-aciklandi-1110633487.html",
-   "https://anlatilaninotesi.com.tr/20261127/yeni-zelandada-hukumeti-kurmak-icin-cogunluk-saglanamadi-gozler-7-sandalye-kazanan-partide-1110634228.html"
+   "https://anlatilaninotesi.com.tr/20261127/yeni-zelandada-hukumeti-kurmak-icin-cogunluk-saglanamadi-gozler-7-sandalye-kazanan-partide-1110634228.html",
+   "https://anlatilaninotesi.com.tr/20261127/akom-tarih-verdi-istanbula-sibirya-soguklari-geliyor-sicakliklar-10-derece-birden-dusecek-1110634544.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2205,11 +2206,6 @@
   ]
  },
  "recent_titles": [
-  "vanda yakalanan afganistanlı düzensiz göçmenler ülkelerine geri gönderildi",
-  "yabancı yatırımcının gözü yeniden türkiyeye çevrildi",
-  "araç kamerası yetkili servisteki oyunu ortaya çıkardı",
-  "okan buruk mat etti emery kariyerinde ilki yaşadı galatasaraya zaferi getiren detay",
-  "pakistan uzaya ilk kez astronot gönderdi",
   "borsa güne düşüşle başladı",
   "kandil hakurk metina zap gara avaşinbasyan sinathaftanin",
   "adanada eşi katledildi tehditler bitmedi",
@@ -3704,6 +3700,11 @@
   "ekonomik güven kasım ayında yükseldi",
   "izmirde uyuşturucu satıcılarına suçüstü 2 gözaltı",
   "eskişehirde parkta pompalı tüfekle saldırı 7 kişi gözaltında",
-  "yeni zelandada hükümeti kurmak için çoğunluk sağlanamadı gözler 7 sandalye kazanan partide"
+  "yeni zelandada hükümeti kurmak için çoğunluk sağlanamadı gözler 7 sandalye kazanan partide",
+  "adanada sazan sarmalıyla 35 milyon tllik vurgun 16 tutuklama",
+  "her şeyden önce insanlık diyen ouattaradan filistin mesajı sözünü sakınmadı",
+  "batmanda suça özendirici paylaşımlara operasyon 6 gözaltı",
+  "türkiyede elektrikli araç şarj istasyonu sayısı artıyor",
+  "akom tarih verdi istanbula sibirya soğukları geliyor sıcaklıklar 10 derece birden düşecek"
  ]
 }
