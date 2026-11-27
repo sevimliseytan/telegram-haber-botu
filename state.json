@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/new-york-belediye-baskani-mamdani-kira-davasini-kazandi-h1585746",
    "https://www.ensonhaber.com/erzurumda-etkili-olan-kar-kartpostallik-goruntu-olusturdu-h1585747",
    "https://www.ensonhaber.com/istanbuldaki-feminist-yuruyusunde-kahrolsun-seriat-yasasin-laiklik-slogani-atildi-h1585748",
    "https://www.ensonhaber.com/sampiyonlar-liginde-tarihi-derbi-ihtimali-galatasaray-ile-fenerbahce-eslesebilir-h1585749",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/izmirde-tombala-baskini-63-kisiye-731-bin-tl-ceza-h1586238",
    "https://www.ensonhaber.com/samsunda-gazetecilere-gulerek-ben-oldurdum-diyen-saniktan-mahkemede-ilginc-savunma-h1586239",
    "https://www.ensonhaber.com/noel-babanin-sehri-antalyada-9-ulkeli-festival-h1586240",
-   "https://www.ensonhaber.com/mustafa-sarigule-yeni-cinsel-saldiri-sorusturmasi-dosya-ankaraya-gonderildi-h1586241"
+   "https://www.ensonhaber.com/mustafa-sarigule-yeni-cinsel-saldiri-sorusturmasi-dosya-ankaraya-gonderildi-h1586241",
+   "https://www.ensonhaber.com/boluda-polis-denetiminde-kacak-gocmen-yakalandi-h1586242"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2256,8 +2256,6 @@
   ]
  },
  "recent_titles": [
-  "galatasaraydan şampiyonlar liginde büyük sıçrama puan durumunda ilk 15e girdi",
-  "samsunda kamyon otomobile çarptı 1 yaralı",
   "istanbul havalimanı avrupanın zirvesinde",
   "avrupa sanayisinde alarm 37 milyon kişinin işi tehlikede",
   "16 öğrenci gıda zehirlenmesi nedeniyle hastaneye kaldırıldı",
@@ -3755,6 +3753,8 @@
   "noel babanın şehri antalyada 9 ülkeli festival",
   "galatasaray ile adı anılıyordu bruno fernandes imzayı attı",
   "süper lig devleriyle anılıyordu real madrid brahim diazın sözleşmesini uzattı",
-  "mustafa sarıgüle yeni cinsel saldırı soruşturması dosya ankaraya gönderildi"
+  "mustafa sarıgüle yeni cinsel saldırı soruşturması dosya ankaraya gönderildi",
+  "boluda polis denetiminde kaçak göçmen yakalandı",
+  "belçikalı yayıncılardan kitaplara yapay zekasız etiketi önerisi"
  ]
 }
