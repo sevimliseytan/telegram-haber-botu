@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679938-bitcoinde-60-bin-dolar-aldatmacasi-mi-2022den-bu-yana-en-agir-aylik-cokus-kapida",
    "https://www.haber7.com/guncel/haber/3679939-libya",
    "https://www.haber7.com/guncel/haber/3679940-yurdun-dogusu-buz-kesti-termometreler-eksi-12-dereceyi-gosterdi",
    "https://www.haber7.com/dunya/haber/3679941-brezilyadaki-araba-yarislarini-takip-eden-basin-mensuplari-ruzgarin-azizligine-ugradi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680393-kara-kartal-yurda-dondu-heastan-besiktasa-anlamli-karsilama",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680395-galatasaray-ile-adi-aniliyordu-bruno-fernandes-imzayi-atti",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680396-super-lig-devleriyle-aniliyordu-real-madrid-brahim-diazin-sozlesmesini-uzatti",
-   "https://www.haber7.com/guncel/haber/3680397-burhanettin-durandan-genclere-cagri-hakikat-hic-olmadigi-kadar-kusatma-altinda"
+   "https://www.haber7.com/guncel/haber/3680397-burhanettin-durandan-genclere-cagri-hakikat-hic-olmadigi-kadar-kusatma-altinda",
+   "https://spor.haber7.com/besiktas/haber/3680398-besiktas-sadece-israili-yenmemis-gurcu-polisinin-bir-skandal-goruntusu-daha-ortaya-cikti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2225,7 +2225,8 @@
    "https://anlatilaninotesi.com.tr/20261127/turk-disisleri-gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-1110645490.html",
    "https://anlatilaninotesi.com.tr/20261127/sgk-uzmani-melis-elmen-emekli-maaslari-arasindaki-adaletsizlik-nasil-giderilecek-1110645523.html",
    "https://anlatilaninotesi.com.tr/20261127/cekya-basbakani-babis-ab-zirvesinde-tansiyon-yukseldi-uzlasma-cikmadi-1110645672.html",
-   "https://anlatilaninotesi.com.tr/20261127/kuveyt-iranin-buyukelcisini-disisleri-bakanligina-cagirdi-iran-saldiriyla-ilgimiz-yok-1110645931.html"
+   "https://anlatilaninotesi.com.tr/20261127/kuveyt-iranin-buyukelcisini-disisleri-bakanligina-cagirdi-iran-saldiriyla-ilgimiz-yok-1110645931.html",
+   "https://anlatilaninotesi.com.tr/20261127/rost-baskani-kurtulus-turkiye-ve-rusya-ekonomik-iliskilerini-ortak-uretim-ve-stratejik-yatirimlarla-1110646133.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2257,8 +2258,6 @@
   ]
  },
  "recent_titles": [
-  "cumhurbaşkanı erdoğan mareşal halife hafteri kabul etti",
-  "mhpnin terörsüz türkiye izleme komisyonu üyeleri belli oldu",
   "kolombiyada süpermarkette rehin alınan 20 kişi kurtarıldı",
   "tolun l hedefi tam isabetle vurdu",
   "denizlide bir öğretmen adliye önünde bıçaklandı",
@@ -3756,6 +3755,8 @@
   "belçikalı yayıncılardan kitaplara yapay zekasız etiketi önerisi",
   "adıyamanda konteyner kentler kaldırılıyor",
   "burhanettin durandan gençlere çağrı hakikat hiç olmadığı kadar kuşatma altında",
-  "kuveyt iranın büyükelçisini dışişleri bakanlığına çağırdı iran saldırıyla ilgimiz yok"
+  "kuveyt iranın büyükelçisini dışişleri bakanlığına çağırdı iran saldırıyla ilgimiz yok",
+  "beşiktaş sadece israili yenmemiş gürcü polisinin bir skandal görüntüsü daha ortaya çıktı",
+  "rost başkanı kurtuluş türkiye ve rusya ekonomik ilişkilerini ortak üretim ve stratejik yatırımlarla güçlendirmeli"
  ]
 }
