@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679937-yetim-vakfindan-kis-yardim-seferberligi-85-bini-askin-kisiye-ulasilmasi-hedefleniyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679938-bitcoinde-60-bin-dolar-aldatmacasi-mi-2022den-bu-yana-en-agir-aylik-cokus-kapida",
    "https://www.haber7.com/guncel/haber/3679939-libya",
    "https://www.haber7.com/guncel/haber/3679940-yurdun-dogusu-buz-kesti-termometreler-eksi-12-dereceyi-gosterdi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680389-adalar-denizinde-kritik-rafale-hamlesi-yunanistan-neyin-pesinde",
    "https://www.haber7.com/guncel/haber/3680393-kara-kartal-yurda-dondu-heastan-besiktasa-anlamli-karsilama",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680395-galatasaray-ile-adi-aniliyordu-bruno-fernandes-imzayi-atti",
-   "https://spor.haber7.com/avrupa-ligleri/haber/3680396-super-lig-devleriyle-aniliyordu-real-madrid-brahim-diazin-sozlesmesini-uzatti"
+   "https://spor.haber7.com/avrupa-ligleri/haber/3680396-super-lig-devleriyle-aniliyordu-real-madrid-brahim-diazin-sozlesmesini-uzatti",
+   "https://www.haber7.com/guncel/haber/3680397-burhanettin-durandan-genclere-cagri-hakikat-hic-olmadigi-kadar-kusatma-altinda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2224,7 +2224,8 @@
    "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-altinda-sert-toparlanma-ons-yuzde-3-yukseldi-gram-altin-6-bin-lirayi-asti-1110644927.html",
    "https://anlatilaninotesi.com.tr/20261127/turk-disisleri-gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-1110645490.html",
    "https://anlatilaninotesi.com.tr/20261127/sgk-uzmani-melis-elmen-emekli-maaslari-arasindaki-adaletsizlik-nasil-giderilecek-1110645523.html",
-   "https://anlatilaninotesi.com.tr/20261127/cekya-basbakani-babis-ab-zirvesinde-tansiyon-yukseldi-uzlasma-cikmadi-1110645672.html"
+   "https://anlatilaninotesi.com.tr/20261127/cekya-basbakani-babis-ab-zirvesinde-tansiyon-yukseldi-uzlasma-cikmadi-1110645672.html",
+   "https://anlatilaninotesi.com.tr/20261127/kuveyt-iranin-buyukelcisini-disisleri-bakanligina-cagirdi-iran-saldiriyla-ilgimiz-yok-1110645931.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2256,8 +2257,6 @@
   ]
  },
  "recent_titles": [
-  "avrupa sanayisinde alarm 37 milyon kişinin işi tehlikede",
-  "16 öğrenci gıda zehirlenmesi nedeniyle hastaneye kaldırıldı",
   "cumhurbaşkanı erdoğan mareşal halife hafteri kabul etti",
   "mhpnin terörsüz türkiye izleme komisyonu üyeleri belli oldu",
   "kolombiyada süpermarkette rehin alınan 20 kişi kurtarıldı",
@@ -3755,6 +3754,8 @@
   "mustafa sarıgüle yeni cinsel saldırı soruşturması dosya ankaraya gönderildi",
   "boluda polis denetiminde kaçak göçmen yakalandı",
   "belçikalı yayıncılardan kitaplara yapay zekasız etiketi önerisi",
-  "adıyamanda konteyner kentler kaldırılıyor"
+  "adıyamanda konteyner kentler kaldırılıyor",
+  "burhanettin durandan gençlere çağrı hakikat hiç olmadığı kadar kuşatma altında",
+  "kuveyt iranın büyükelçisini dışişleri bakanlığına çağırdı iran saldırıyla ilgimiz yok"
  ]
 }
