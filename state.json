@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/fenerbahceli-taraftarlar-shakhtar-donetsk-macinda-tribunleri-doldurdu-h1585659",
-   "https://www.ensonhaber.com/kayseride-torbacilara-operasyon-19-tutuklama-h1585660",
    "https://www.ensonhaber.com/izmirde-sifa-vaadiyle-dolandiriciliga-4-tutuklama-h1585661",
    "https://www.ensonhaber.com/anadolu-efes-baskoniaya-maglup-oldu-34088-h1585662",
    "https://www.ensonhaber.com/sampiyonlar-liginde-sonuclar-ve-gorunum-h1585663",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/malatyada-yuzde-56-gorme-engelli-vatandas-hurda-malzemelerden-bahce-islerinde-kullanmak-ic-h1586151",
    "https://www.ensonhaber.com/mbaye-diagne-diyarbakira-ahmet-kaya-ile-veda-etti-h1586152",
    "https://www.ensonhaber.com/hatayda-devlet-benim-dedi-sehitlere-kufretti-ters-kelepceyle-gozaltina-alindi-h1586153",
-   "https://www.ensonhaber.com/cinde-duzenlenen-universite-giris-sinavindan-goruntuler-viral-oldu-h1586154"
+   "https://www.ensonhaber.com/cinde-duzenlenen-universite-giris-sinavindan-goruntuler-viral-oldu-h1586154",
+   "https://www.ensonhaber.com/unlu-markanin-kahveleri-toksik-cikti-ucreti-iade-edilecek-h1586155",
+   "https://www.ensonhaber.com/boluda-domuz-avinda-kazara-vuruldugu-iddiasi-5-kisi-gozaltinda-h1586156"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679857-iran-israil-rejimi-7-ulkeye-saldirdi-3-ulkenin-topragini-isgal-etti",
-   "https://www.haber7.com/saglik/haber/3679858-oyun-cilginliginda-kalp-krizi-riski-ozellikle-tansiyonu-ve-ritim-bozuklugu-olanlar-dikkat",
    "https://www.haber7.com/guncel/haber/3679859-bu-kermes-cok-farkli-eski-bagimlilar-kurtulus-arayan-bagimlilar-icin-gonullu-calisiyor",
    "https://www.haber7.com/dunya/haber/3679860-mossadin-eski-baskani-almanyada-protesto-edildi-savas-suclususun-diye-bagirdi",
    "https://www.haber7.com/dunya/haber/3679861-israilin-yeni-meclisinden-ezan-karari-ben-gvir-salondan-atildi-cilgina-donduler",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/besiktas/haber/3680307-hastaneye-kaldirilan-emirhan-topcunun-durumu-belli-oldu-gsaray-macinda-oynayacak-mi",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680308-besiktasin-israil-ekibini-devirmesi-kasasini-doldurdu",
    "https://www.haber7.com/3sayfa/haber/3680309-istanbulda-173-kilo-metamfetamin-ele-gecirildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680311-turk-rus-20-donem-kek-protokolu-imzalandi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680311-turk-rus-20-donem-kek-protokolu-imzalandi",
+   "https://spor.haber7.com/trabzonspor/haber/3680312-bulgar-basini-trabzonsporu-konusuyor-salah-ve-arkadaslari-mahvetti",
+   "https://www.haber7.com/guncel/haber/3680313-5-arkadasin-domuz-avi-kotu-sonla-bitti-1-olu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2226,8 +2226,6 @@
   ]
  },
  "recent_titles": [
-  "cia dahil abd istihbarat kurumlarına siber saldırı gizli olmayan bazı bilgiler ele geçirildi ne biliniyor",
-  "bakan gürlek açıkladı yargıtay üyeliğine 5 yeni isim seçildi",
   "antalyada yine yaşlılar hedef alındı tek yalanla 2 milyon tl vurgun 5 gözaltı",
   "ankarada metro istasyonunda",
   "tbmm başkanı kurtulmuş fonla alakası olmayıp borsada para kaybeden var",
@@ -3725,6 +3723,8 @@
   "bulgar basını trabzonsporu konuşuyor salah ve arkadaşları mahvetti",
   "5 arkadaşın domuz avı kötü sonla bitti 1 ölü",
   "çinde düzenlenen üniversite giriş sınavından görüntüler viral oldu",
-  "ünlü markanın kahveleri toksik çıktı ücreti iade edilecek"
+  "ünlü markanın kahveleri toksik çıktı ücreti iade edilecek",
+  "boluda domuz avında kazara vurulduğu iddiası 5 kişi gözaltında",
+  "donald trump irak başbakanının devlet otoritesini koruma çabasını destekliyorum"
  ]
 }
