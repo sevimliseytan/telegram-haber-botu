@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679963-samandagda-trafik-kazasinda-2-kisi-yaralandi",
-   "https://www.haber7.com/dunya/haber/3679965-misirdaki-tanker-faciasinda-patlama-ani-kamerada-31-olu-21-yarali",
    "https://ekonomi.haber7.com/ekonomi/haber/3679964-dolar-ve-euroda-son-durum-iste-guncel-rakamlar",
    "https://ekonomi.haber7.com/ekonomi/haber/3679967-dogal-gaz-sebekesinde-yeni-esik-erisim-orani-yuzde-97ye-firliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679966-gidada-kasim-ayinin-zam-sampiyonlari-belli-oldu",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/diger-branslar/haber/3680417-milli-guresci-avrupa-sampiyonu-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680418-fon-tasfiyesinde-1995-milyar-tl-odeme-yapildi-iletisim-baskanligindan-aciklama",
    "https://ekonomi.haber7.com/ekonomi/haber/3680419-bakan-bolat-5inci-ulusal-bahcelievler-kitap-fuarinin-acilis-torenine-katildi",
-   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-2-mac-birden-canli"
+   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-2-mac-birden-canli",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680418-fon-tasfiyesinde-yeni-donem-odeme-bekleyenleri-ilgilendiren-gelisme",
+   "https://www.haber7.com/guncel/haber/3680420-27-kisiye-mezar-olmustu-girnedeki-gemi-faciasinda-ilk-karar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1871,7 +1871,8 @@
    "https://www.mynet.com/magazin/ahmet-kaya-nin-ailesi-dava-acmisti-iki-gozum-ahmet-filmi-icin-mahkemeden-karar-cikti-130100607822",
    "https://www.mynet.com/magazin/cocuktan-al-haberi-nin-kutu-bebek-ebrar-i-sete-cikmaktan-vazgecmisti-now-tv-ile-anlasti-130100607819",
    "https://www.mynet.com/magazin/derya-ulug-un-ozel-tasarim-gelinligi-hic-begenilmemisti-fiyati-dudak-ucuklatti-130100607825",
-   "https://www.mynet.com/magazin/unlulere-uyusturucu-sorusturmasi-3-ismin-testi-pozitif-cikti-130100607828"
+   "https://www.mynet.com/magazin/unlulere-uyusturucu-sorusturmasi-3-ismin-testi-pozitif-cikti-130100607828",
+   "https://www.mynet.com/magazin/unlulere-yonelik-uyusturucu-sorusturmasi-deniz-cakir-ozcan-deniz-ve-burcu-ozberk-in-uyusturucu-testleri-negatif-cikti-130100607831"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2270,8 +2271,6 @@
   ]
  },
  "recent_titles": [
-  "shein abddeki dava için 100 milyon dolar verecek",
-  "byd ineosun fransadaki fabrikasını almak için masaya oturdu",
   "fenerbahçe u19 shakhtar u19a farklı mağlup oldu",
   "kepez belediyesi soruşturmasında 24 şüpheli adliyede",
   "görenler uyku uyarısı sanıyor işte kısık göze benzeyen trafik levhasının anlamı",
@@ -3769,6 +3768,8 @@
   "abd ordusu abluka yasağını delmeye çalışan ticari gemiyi umman körfezinde vurduk",
   "iletişim başkanlığı duyurdu fonda ara ödeme tamamlandı",
   "süper ligde 2 maç birden  canli",
-  "fon tasfiyesinde yeni dönem ödeme bekleyenleri ilgilendiren gelişme"
+  "fon tasfiyesinde yeni dönem ödeme bekleyenleri ilgilendiren gelişme",
+  "27 kişiye mezar olmuştu girnedeki gemi faciasında ilk karar",
+  "ünlülere yönelik uyuşturucu soruşturması deniz çakır özcan deniz ve burcu özberkin uyuşturucu testleri negatif çıktı"
  ]
 }
