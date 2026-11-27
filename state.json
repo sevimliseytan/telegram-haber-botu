@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/cin-ve-taylanddan-ithal-bebek-urunlerine-damping-onlemi-devam-edecek-h1585707",
    "https://www.ensonhaber.com/emre-belozoglunun-esprili-sampiyonlar-ligi-vaadi-turk-usulu-dans-ederim-h1585708",
    "https://www.ensonhaber.com/israilin-gazzede-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti-h1585709",
    "https://www.ensonhaber.com/ulke-genelinde-hafta-sonu-sicakliklar-dusecek-yeni-haftayla-yagislar-artacak-h1585710",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/kocaelide-namaza-gelen-vatandas-darbedilmisti-cuma-namazi-icin-akin-ettiler-h1586199",
    "https://www.ensonhaber.com/bakan-yumakli-tarimsal-hasilada-90-milyar-dolar-tavanina-yaklastik-h1586200",
    "https://www.ensonhaber.com/rus-gazindan-vazgecen-ab-abdye-bagimli-olabilir-h1586201",
-   "https://www.ensonhaber.com/samsung-galaxy-s27-pro-ve-s27-ultra-maketleri-ortaya-cikti-iste-yeni-tasarim-h1586202"
+   "https://www.ensonhaber.com/samsung-galaxy-s27-pro-ve-s27-ultra-maketleri-ortaya-cikti-iste-yeni-tasarim-h1586202",
+   "https://www.ensonhaber.com/adanada-cigere-talep-artti-h1586203"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679890-kizilelmaya-hayran-kaldilar-biz-ona-rakip-olamayiz",
-   "https://www.haber7.com/guncel/haber/3679891-uc-baskentte-diplomasi-adim-adim-tek-libyaya",
    "https://www.haber7.com/guncel/haber/3679892-istanbula-saganak-geliyor-meteoroloji-gun-gun-acikladi",
    "https://www.haber7.com/guncel/haber/3679893-ters-yonden-giden-otomobil-faciaya-yol-acti-1-olu-2si-agir-5-yarali",
    "https://www.haber7.com/guncel/haber/3679894-avcilar-e-5te-elektrikli-cip-alev-alev-yandi",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680355-turkiyenin-savunma-ihracati-10-milyar-dolara-ulasti-dunyada-11inci-siraya-yukseldi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680354-dunyanin-en-uzun-omurlu-insanlari-hangi-ulkede-turkiyede-zirvedeki-il-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680357-gulistan-doku-sorusturmasinda-iki-supheli-birbirini-tanimadigini-soyledi-tanik-yalanladi",
-   "https://www.haber7.com/guncel/haber/3674980-tum-dunyanin-hayran-kaldigi-turk-koyleri-tas-evleri-goz-kamastiran-dogasiyla-listede"
+   "https://www.haber7.com/guncel/haber/3674980-tum-dunyanin-hayran-kaldigi-turk-koyleri-tas-evleri-goz-kamastiran-dogasiyla-listede",
+   "https://spor.haber7.com/futbol/haber/3680358-74-bin-mac-incelendi-turkiyeden-4-kulup-avrupanin-zirvesinde-yer-aldi",
+   "https://www.haber7.com/dunya/haber/3680359-gazzedeki-gonullu-doktorlardan-besiktasa-selam-acinin-kalbinden-tesekkur-ediyoruz"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2247,7 +2247,6 @@
   ]
  },
  "recent_titles": [
-  "denizlide inşaat ustası evinde elleri bağlanmış halde ölü bulundu eşi dahil 3 gözaltı",
   "sofia vergaranın güzellik sırları bakın papatya çayına ne katıyor",
   "mecliste renkli anlar müslüman senatörün bebeğiyle oynadılar",
   "trabzonspor kafilesi bulgaristana gitti",
@@ -3746,6 +3745,7 @@
   "74 bin maç incelendi türkiyeden 4 kulüp avrupanın zirvesinde yer aldı",
   "samsung galaxy s27 pro ve s27 ultra maketleri ortaya çıktı işte yeni tasarım",
   "adanada ciğere talep arttı",
-  "derya uluğun özel tasarım gelinliği hiç beğenilmemişti fiyatı dudak uçuklattı"
+  "derya uluğun özel tasarım gelinliği hiç beğenilmemişti fiyatı dudak uçuklattı",
+  "gazzedeki gönüllü doktorlardan beşiktaşa selam acının kalbinden teşekkür ediyoruz"
  ]
 }
