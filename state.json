@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ulke-genelinde-hafta-sonu-sicakliklar-dusecek-yeni-haftayla-yagislar-artacak-h1585710",
-   "https://www.ensonhaber.com/lastiklerdeki-4-rakami-kontrol-edin-ozelligi-o-kodda-gizliymis-h1585711",
    "https://www.ensonhaber.com/kahramanmarasta-uyusturucu-operasyonunda-16-kisi-tutuklandi-h1585712",
    "https://www.ensonhaber.com/japonyada-enflasyon-36-yilin-rekorunu-kirdi-faiz-mesaji-geldi-h1585713",
    "https://www.ensonhaber.com/donald-trump-nato-genel-sekreteri-rutte-ile-rusya-ukrayna-savasini-gorustu-h1585714",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/samsung-galaxy-s27-pro-ve-s27-ultra-maketleri-ortaya-cikti-iste-yeni-tasarim-h1586202",
    "https://www.ensonhaber.com/adanada-cigere-talep-artti-h1586203",
    "https://www.ensonhaber.com/abd-hava-kuvvetlerine-siber-saldiri-saldirganlar-bulut-bilisim-platformuna-sizdi-h1586204",
-   "https://www.ensonhaber.com/motogpnin-sampiyon-pilotu-marc-marquez-emekliligini-duyurdu-h1586205"
+   "https://www.ensonhaber.com/motogpnin-sampiyon-pilotu-marc-marquez-emekliligini-duyurdu-h1586205",
+   "https://www.ensonhaber.com/katy-perry-ve-justin-trudeau-cifti-macron-ile-bir-araya-geldi-h1586206",
+   "https://www.ensonhaber.com/trump-yonetiminde-guvenlik-onlemleri-artirildi-kabine-uyeleri-askeri-uslere-tasiniyor-h1586207"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679893-ters-yonden-giden-otomobil-faciaya-yol-acti-1-olu-2si-agir-5-yarali",
    "https://www.haber7.com/guncel/haber/3679894-avcilar-e-5te-elektrikli-cip-alev-alev-yandi",
    "https://www.haber7.com/dunya/haber/3679895-fransada-lise-eylemlerinde-yaklasik-500-ogrenci-yaralandi",
    "https://www.haber7.com/guncel/haber/3679896-kayseride-zehir-tacirlerine-operasyon-19-kisi-tutuklandi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3674980-tum-dunyanin-hayran-kaldigi-turk-koyleri-tas-evleri-goz-kamastiran-dogasiyla-listede",
    "https://spor.haber7.com/futbol/haber/3680358-74-bin-mac-incelendi-turkiyeden-4-kulup-avrupanin-zirvesinde-yer-aldi",
    "https://www.haber7.com/dunya/haber/3680359-gazzedeki-gonullu-doktorlardan-besiktasa-selam-acinin-kalbinden-tesekkur-ediyoruz",
-   "https://www.haber7.com/guncel/haber/3680360-esenlerde-akilalmaz-goruntu-yon-tabelasina-tirmanip-karsiya-gecti"
+   "https://www.haber7.com/guncel/haber/3680360-esenlerde-akilalmaz-goruntu-yon-tabelasina-tirmanip-karsiya-gecti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680361-gazprom-avrupada-dogal-gaz-fiyatlarinin-artmaya-devam-etmesini-bekliyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2216,7 +2216,8 @@
    "https://anlatilaninotesi.com.tr/20261127/rusyanin-askeri-harekati-devam-ediyor-son-bir-haftanin-bilancosu-aciklandi-1110642058.html",
    "https://anlatilaninotesi.com.tr/20261127/ege-universitesinde-kadin-profesore-delici-aletle-saldiri-saldirgan-ogrenci-cikti-1110642429.html",
    "https://anlatilaninotesi.com.tr/20261127/meteorolojiden-yeni-uyari-kar-istanbulun-yani-basina-geliyor-1110642818.html",
-   "https://anlatilaninotesi.com.tr/20261127/turkiyenin-2040-enerji-vizyonu-turkiye-70-yil-sonra-nukleer-hayaline-kavusmus-olacak-1110643163.html"
+   "https://anlatilaninotesi.com.tr/20261127/turkiyenin-2040-enerji-vizyonu-turkiye-70-yil-sonra-nukleer-hayaline-kavusmus-olacak-1110643163.html",
+   "https://anlatilaninotesi.com.tr/20261127/ispanyada-secim-kampanyasi-sona-eriyor-ulke-hafta-sonu-genel-secimlere-gidecek-1110643960.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2248,9 +2249,6 @@
   ]
  },
  "recent_titles": [
-  "meghan marklenin babasına çocuk istismarı suçlaması",
-  "dünya devi için mauro icardi önerisi",
-  "transferde yıldız değil doğru planlama kazandırıyor esenlerde futbol zirvesi",
   "samsunda kenevir yetiştiren şahsa jandarma baskını",
   "haluk levent onu değil beni tutuklayın",
   "insansız hava platformlarında dinamik hedef angajmanı tolunl ilk atış testinde",
@@ -3747,6 +3745,9 @@
   "abd hava kuvvetlerine siber saldırı saldırganlar bulut bilişim platformuna sızdı",
   "türkiyenin 2040 enerji vizyonu türkiye 70 yıl sonra nükleer hayaline kavuşmuş olacak",
   "motogpnin şampiyon pilotu marc marquez emekliliğini duyurdu",
-  "katy perry ve justin trudeau çifti macron ile bir araya geldi"
+  "katy perry ve justin trudeau çifti macron ile bir araya geldi",
+  "gazprom avrupada doğal gaz fiyatlarının artmaya devam etmesini bekliyor",
+  "fenerbahçe maçı sonrası ukraynada arda turana büyük şok",
+  "trump yönetiminde güvenlik önlemleri artırıldı kabine üyeleri askeri üslere taşınıyor"
  ]
 }
