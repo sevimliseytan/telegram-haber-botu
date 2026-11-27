@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/rafineri-onarimlari-rusyayi-akaryakit-ithalatina-yoneltti-h1585565",
-   "https://www.ensonhaber.com/manisada-16-lise-ogrencisi-gida-zehirlenmesi-suphesiyle-hastaneye-gitti-h1585566",
    "https://www.ensonhaber.com/bilim-insanlarindan-sevindiren-haber-zirh-teknolojisi-otomobillere-geliyor-h1585567",
    "https://www.ensonhaber.com/gta-6ya-erisim-engeli-gerekcesi-aciklandi-h1585568",
    "https://www.ensonhaber.com/abdde-enflasyon-ekimde-yillik-yuzde-38-artti-h1585569",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/fon-sorusturmasi-kemal-akkaya-serbest-birakildi-3-kisi-tutuklandi-h1586057",
    "https://www.ensonhaber.com/yerin-4-metre-altindaki-uretim-tesisi-her-gun-35-kilo-topluyor-h1586058",
    "https://www.ensonhaber.com/japonyadan-fatma-sahine-turkiye-japonya-dostluguna-katkilarindan-dolayi-nisan-h1586059",
-   "https://www.ensonhaber.com/amasyada-asirlik-cinar-gunlerini-namaz-kilarak-geciriyor-h1586060"
+   "https://www.ensonhaber.com/amasyada-asirlik-cinar-gunlerini-namaz-kilarak-geciriyor-h1586060",
+   "https://www.ensonhaber.com/diyarbakirda-magarada-bulunan-bircok-kafatasi-ve-kemik-incelenmek-uzere-istanbula-gonderil-h1586061",
+   "https://www.ensonhaber.com/gurcu-polisinin-iki-yuzlulugu-israil-bayragini-gormezden-geldiler-h1586062"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/medya/haber/3679756-gelinde-gulfem-koseye-sikisti-neyin-ortaya-cikmasindan-korkuyor",
-   "https://www.haber7.com/dunya/haber/3679755-meghan-marklenin-babasina-cocuk-istismari-suclamasi",
    "https://spor.haber7.com/avrupa-ligleri/haber/3679758-dunya-devi-icin-mauro-icardi-onerisi",
    "https://spor.haber7.com/diger-branslar/haber/3679757-transferde-yildiz-degil-dogru-planlama-kazandiriyor-esenlerde-futbol-zirvesi",
    "https://www.haber7.com/guncel/haber/3679759-haluk-levent-onu-degil-beni-tutuklayin",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680213-unlulere-uyusturucu-operasyonu-3-isim-tutuklandi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680214-enerjide-tarihi-gun-abdli-chevron-ile-dev-imza-avrupa-ile-5-yillik-mutabakat",
    "https://ekonomi.haber7.com/ekonomi/haber/3680215-serbest-piyasada-doviz-acilis-fiyatlari",
-   "https://www.haber7.com/saglik/haber/3680217-filmim-temiz-demek-akcigerlerin-saglam-oldugu-anlamina-gelmiyor"
+   "https://www.haber7.com/saglik/haber/3680217-filmim-temiz-demek-akcigerlerin-saglam-oldugu-anlamina-gelmiyor",
+   "https://www.haber7.com/guncel/haber/3680216-gurcistanin-derdi-ne",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680220-motorine-indirim-geldi-gozler-artik-benzin-fiyatlarinda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2165,7 +2165,8 @@
    "https://anlatilaninotesi.com.tr/20261127/rusya-savunma-bakanligi-ukraynada-vurulan-hedefleri-acikladi-1110630224.html",
    "https://anlatilaninotesi.com.tr/20261127/lpgli-arac-sahipleri-dikkat-resmi-gazetede-yayimlandi-avm-otoparklarina-6-kritik-sart-geldi-1110630379.html",
    "https://anlatilaninotesi.com.tr/20261127/kamu-borclarinda-yeni-donem-gecikme-zammi-ve-tecil-faizi-dusuruldu-mevcut-borclarda-yeni-oran-nasil-1110630654.html",
-   "https://anlatilaninotesi.com.tr/20261127/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-1110630958.html"
+   "https://anlatilaninotesi.com.tr/20261127/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-1110630958.html",
+   "https://anlatilaninotesi.com.tr/20261127/bakan-kurum-tarih-verdi-10-bin-liradan-baslayan-kiralik-sosyal-konutlar-hizmete-sunuluyor-1110631232.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2195,11 +2196,6 @@
   ]
  },
  "recent_titles": [
-  "petrol fiyatlarında yön değişti gözler opec toplantısında",
-  "körfezde sıcak saatler devrim muhafızları duyurdu iki petrol tankeri alev aldı",
-  "serenay sarıkaya hayvanseverlere seslendi satın alma sahiplen",
-  "ukraynada 2022den bu yana rusya bağlantılı sokakların yüzde 96sının ismi değiştirildi",
-  "papa francisin gizli günlükleri yayınlandı şeytanla üç kez karşılaştım cehennemin kapılarını gördüm",
   "altında yükseliş sevinci kısa sürebilir kritik seviyeler açıklandı",
   "altın fiyatlarında düşüş sürüyor",
   "yasak elmas dizisinde iki ünlü oyuncu kardeş olacak işte yeni başrol",
@@ -3694,6 +3690,11 @@
   "filmim temiz demek akciğerlerin sağlam olduğu anlamına gelmiyor",
   "gürcistanın derdi ne",
   "amasyada asırlık çınar günlerini namaz kılarak geçiriyor",
-  "diyarbakırda mağarada bulunan birçok kafatası ve kemik incelenmek üzere istanbula gönderildi"
+  "diyarbakırda mağarada bulunan birçok kafatası ve kemik incelenmek üzere istanbula gönderildi",
+  "motorine indirim geldi gözler artık benzin fiyatlarında",
+  "nato savaş uçakları havalandı avrupa ülkesi sınır içinde fark etti",
+  "tarih kapıyı çalarken türk dünyası ne kadar duyuyor",
+  "hatayda öğrenciler zimem defteri geleneğiyle mahallenin borçlarını ödedi",
+  "bakan kurum tarih verdi 10 bin liradan başlayan kiralık sosyal konutlar hizmete sunuluyor"
  ]
 }
