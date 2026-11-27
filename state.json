@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-aracini-onune-kirdi-tepki-gosteren-sofore-saldirdi-h1585767",
    "https://www.ensonhaber.com/yeni-katlanabilir-telefon-huawei-mate-x8-tanitildi-iste-fiyati-ve-ozellikleri-h1585768",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-maci-trt-1de-mi-saat-kacta-baslayacak-iste-canli-yayin-bilgiler-h1585769",
    "https://www.ensonhaber.com/mitten-siber-casuslara-operasyon-2-tutuklama-57349-h1585770",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/2027-butcesi-tbmmde-komisyondan-gecti-h1586259",
    "https://www.ensonhaber.com/ozgur-ozel-cumhurbaskani-adayligina-iliskin-4-araliki-isaret-etti-h1586260",
    "https://www.ensonhaber.com/edirnede-kapikule-karsisindaki-gumruk-kapisinda-tirda-34-bin-sterlin-ele-gecirildi-h1586261",
-   "https://www.ensonhaber.com/pfdkdan-fenerbahce-kocaelispor-ve-besiktasa-para-cezasi-h1586262"
+   "https://www.ensonhaber.com/pfdkdan-fenerbahce-kocaelispor-ve-besiktasa-para-cezasi-h1586262",
+   "https://www.ensonhaber.com/dmm-somalide-turkiye-menseli-muhimmat-ve-siha-kullanildigi-iddialari-gercek-disi-h1586263"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2244,7 +2244,8 @@
    "https://anlatilaninotesi.com.tr/20261127/turkiye-kupasinda-kura-heyecani-devlerin-rakipleri-belli-oluyor-1110650592.html",
    "https://anlatilaninotesi.com.tr/20261127/cumhurbaskani-erdogan-yarin-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek-1110650713.html",
    "https://anlatilaninotesi.com.tr/20261127/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-1110650810.html",
-   "https://anlatilaninotesi.com.tr/20261127/berlinde-amazon-deposu-onunde-eylem-filistin-destekcileri-girisi-kapatti-1110651507.html"
+   "https://anlatilaninotesi.com.tr/20261127/berlinde-amazon-deposu-onunde-eylem-filistin-destekcileri-girisi-kapatti-1110651507.html",
+   "https://anlatilaninotesi.com.tr/20261127/yeni-parti-genel-baskani-ozelden-cumhurbaskani-adayi-aciklamasi-1110651778.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2276,8 +2277,6 @@
   ]
  },
  "recent_titles": [
-  "afonso sousa üst sıralarda olmak istiyoruz",
-  "terörsüz türkiye sürecine seçim atmosferi uyarısı",
   "beşiktaşın yıldızına premier lig kancası italiano son kararını verdi",
   "cumhurbaşkanlığı himayelerinde 2 palandöken ekonomi forumu düzenlenecek",
   "samsunspordan galatasaray maçındaki ofsayt pozisyonuna tepki",
@@ -3775,6 +3774,8 @@
   "edirnede kapıkule karşısındaki gümrük kapısında tırda 34 bin sterlin ele geçirildi",
   "düşme hattındaki kritik maçta 907de muhteşem zafer",
   "pfdkdan fenerbahçe kocaelispor ve beşiktaşa para cezası",
-  "bakan fidandan gürcistana tepki gereken uyarıları yaptık"
+  "bakan fidandan gürcistana tepki gereken uyarıları yaptık",
+  "dmm somalide türkiye menşeli mühimmat ve siha kullanıldığı iddiaları gerçek dışı",
+  "yeni parti genel başkanı özelden cumhurbaşkanı adayı açıklaması"
  ]
 }
