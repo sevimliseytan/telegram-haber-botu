@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/adanada-tartistigi-kisiyi-sokak-ortasinda-vurdu-h1585652",
-   "https://www.ensonhaber.com/misirda-petrol-urunleri-tasiyan-tankerde-yangin-30-olu-h1585653",
-   "https://www.ensonhaber.com/fenerbahcenin-shakhtar-donetsk-macinda-golu-iptal-oldu-h1585654",
    "https://www.ensonhaber.com/luca-banchi-turkiye-her-yonuyle-eksiksiz-h1585655",
    "https://www.ensonhaber.com/iranda-hanelere-enerji-tuketimini-yuzde-20-azaltma-cagrisi-h1585656",
    "https://www.ensonhaber.com/emre-belozoglu-fenerbahce-tarihine-gecti-h1585657",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/hatayda-devlet-benim-diyerek-sanal-medyada-sehitlere-hakaret-eden-supheli-gozaltina-alindi-h1586144",
    "https://www.ensonhaber.com/besiktas-donus-yoluna-gecti-h1586145",
    "https://www.ensonhaber.com/yataga-corapla-girenler-bunu-bilmiyor-vucut-tam-tersini-yapiyor-h1586146",
-   "https://www.ensonhaber.com/bursada-2-firari-yakalandi-h1586147"
+   "https://www.ensonhaber.com/bursada-2-firari-yakalandi-h1586147",
+   "https://www.ensonhaber.com/istanbulda-tahliye-edilen-bina-havadan-goruntulendi-h1586148",
+   "https://www.ensonhaber.com/cicim-aylari-devam-ediyor-zeynep-bastik-ve-serkay-tutuncuden-romantik-poz-h1586149",
+   "https://www.ensonhaber.com/sakaryada-tas-atan-gizemli-kisi-korku-saliyor-bu-koyun-icinden-biri-ama-kim-h1586150"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679855-titanik-faciasindan-114-yil-sonra-rekor-satis-olen-yolcunun-cebinden-cikmisti",
    "https://spor.haber7.com/spor/haber/3679856-tum-dunya-turk-sporcuyu-konusuyor-israilli-rakibinin-elini-sikmadi-1-saniyede-yendi",
    "https://www.haber7.com/dunya/haber/3679857-iran-israil-rejimi-7-ulkeye-saldirdi-3-ulkenin-topragini-isgal-etti",
    "https://www.haber7.com/saglik/haber/3679858-oyun-cilginliginda-kalp-krizi-riski-ozellikle-tansiyonu-ve-ritim-bozuklugu-olanlar-dikkat",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/saglik/haber/3680306-araba-kullanmanin-bilinmeyen-etkisi-ortaya-cikti-kalp-ritmi-alarm-veriyor",
    "https://www.haber7.com/guncel/haber/3680305-narin-guran-sorusturmasinda-yeni-gelisme-15-sanik-yargilandi-dava-ertelendi",
    "https://spor.haber7.com/besiktas/haber/3680307-hastaneye-kaldirilan-emirhan-topcunun-durumu-belli-oldu-gsaray-macinda-oynayacak-mi",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680308-besiktasin-israil-ekibini-devirmesi-kasasini-doldurdu"
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680308-besiktasin-israil-ekibini-devirmesi-kasasini-doldurdu",
+   "https://www.haber7.com/3sayfa/haber/3680309-istanbulda-173-kilo-metamfetamin-ele-gecirildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1857,7 +1857,9 @@
    "https://www.mynet.com/magazin/guller-ve-gunahlar-43-bolum-2-fragman-seyirci-sitem-etti-130100607750",
    "https://www.mynet.com/magazin/7-unlu-isim-5-yil-boyunca-adli-tip-kurumuna-gidecek-130100607753",
    "https://www.mynet.com/magazin/almanya-da-tedavi-goruyordu-killa-hakan-dan-yeni-haber-130100607756",
-   "https://www.mynet.com/magazin/emin-gunenc-haysiyet-in-finaline-uzuldu-reytingleri-iyiydi-130100607765"
+   "https://www.mynet.com/magazin/emin-gunenc-haysiyet-in-finaline-uzuldu-reytingleri-iyiydi-130100607765",
+   "https://www.mynet.com/magazin/unlulere-uyusturucu-sorusturmasi-3-kisiye-tutuklama-talebi-130100607771",
+   "https://www.mynet.com/magazin/daha-17-27-bolum-2-fragmani-izle-iste-bu-cok-iyi-oldu-130100607777"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2218,11 +2220,6 @@
   ]
  },
  "recent_titles": [
-  "dereler kıpkırmızı aktı gören şalgam sandı işte sebebi",
-  "istanbulda uyuşturucu operasyonu",
-  "trump iran savaşı için tarih verdi ocak sonuna kadar finansmanımız var",
-  "istanbulu dinliyoruz buluşmalarının yedinci durağı ümraniye",
-  "vanda sıcaklıklar mevsim normalinin üzerinde seyredince flamingolar van gölünde kaldı",
   "türkiyenin şiddetli yağış haritası dijital ortama taşındı",
   "mersinde 7 günün sonunda bulunan kadın nasıl hayatta kaldığını anlattı",
   "jensen huang nvidiaya geri döndü hisseler bir günde yüzde 32 arttı",
@@ -3717,6 +3714,11 @@
   "istanbulda tahliye edilen bina havadan görüntülendi",
   "cicim ayları devam ediyor zeynep bastık ve serkay tütüncüden romantik poz",
   "emin günenç haysiyetin finaline üzüldü reytingleri iyiydi",
-  "ünlülere uyuşturucu soruşturması 3 kişi tutuklandı"
+  "ünlülere uyuşturucu soruşturması 3 kişi tutuklandı",
+  "sakaryada taş atan gizemli kişi korku salıyor bu köyün içinden biri ama kim",
+  "adli kontrolle serbest kaldı özcan denizden ilk açıklama geldi",
+  "halk tv operasyonunda yeni dalga ece üner deniz bayramoğlu ve kürşad oğuz için gözaltı kararı",
+  "canlı yayına bağlandı blok3 sandılar gerçek başka çıktı",
+  "tuzlu kahveye mike tyson konuk oluyor"
  ]
 }
