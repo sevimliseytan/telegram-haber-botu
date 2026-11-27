@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sampiyonlar-liginde-tarihi-derbi-ihtimali-galatasaray-ile-fenerbahce-eslesebilir-h1585749",
    "https://www.ensonhaber.com/sehitlerimiz-son-yolculuklarina-ugurlaniyor-h1585750",
    "https://www.ensonhaber.com/burcu-ozberk-ve-deniz-cakirin-ifadesi-ortaya-cikti-h1585751",
    "https://www.ensonhaber.com/abdnin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi-h1585752",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/mustafa-sarigule-yeni-cinsel-saldiri-sorusturmasi-dosya-ankaraya-gonderildi-h1586241",
    "https://www.ensonhaber.com/boluda-polis-denetiminde-kacak-gocmen-yakalandi-h1586242",
    "https://www.ensonhaber.com/belcikali-yayincilardan-kitaplara-yapay-zekasiz-etiketi-onerisi-h1586243",
-   "https://www.ensonhaber.com/adiyamanda-konteyner-kentler-kaldiriliyor-h1586244"
+   "https://www.ensonhaber.com/adiyamanda-konteyner-kentler-kaldiriliyor-h1586244",
+   "https://www.ensonhaber.com/mersinde-interpol-tarafindan-kirmizi-bultenle-aranan-sahis-havalimaninda-yakalandi-h1586245"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679940-yurdun-dogusu-buz-kesti-termometreler-eksi-12-dereceyi-gosterdi",
    "https://www.haber7.com/dunya/haber/3679941-brezilyadaki-araba-yarislarini-takip-eden-basin-mensuplari-ruzgarin-azizligine-ugradi",
    "https://www.haber7.com/dunya/haber/3679943-parcalanmis-cografyanin-yeniden-insasi",
    "https://www.haber7.com/guncel/haber/3679942-kokusmus-zihniyet",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/avrupa-ligleri/haber/3680396-super-lig-devleriyle-aniliyordu-real-madrid-brahim-diazin-sozlesmesini-uzatti",
    "https://www.haber7.com/guncel/haber/3680397-burhanettin-durandan-genclere-cagri-hakikat-hic-olmadigi-kadar-kusatma-altinda",
    "https://spor.haber7.com/besiktas/haber/3680398-besiktas-sadece-israili-yenmemis-gurcu-polisinin-bir-skandal-goruntusu-daha-ortaya-cikti",
-   "https://spor.haber7.com/galatasaray/haber/3680399-galatasarayda-besiktas-hazirliklari-devam-etti"
+   "https://spor.haber7.com/galatasaray/haber/3680399-galatasarayda-besiktas-hazirliklari-devam-etti",
+   "https://www.haber7.com/dunya/haber/3680400-iran-operasyon-vakti-geldi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2226,7 +2226,8 @@
    "https://anlatilaninotesi.com.tr/20261127/sgk-uzmani-melis-elmen-emekli-maaslari-arasindaki-adaletsizlik-nasil-giderilecek-1110645523.html",
    "https://anlatilaninotesi.com.tr/20261127/cekya-basbakani-babis-ab-zirvesinde-tansiyon-yukseldi-uzlasma-cikmadi-1110645672.html",
    "https://anlatilaninotesi.com.tr/20261127/kuveyt-iranin-buyukelcisini-disisleri-bakanligina-cagirdi-iran-saldiriyla-ilgimiz-yok-1110645931.html",
-   "https://anlatilaninotesi.com.tr/20261127/rost-baskani-kurtulus-turkiye-ve-rusya-ekonomik-iliskilerini-ortak-uretim-ve-stratejik-yatirimlarla-1110646133.html"
+   "https://anlatilaninotesi.com.tr/20261127/rost-baskani-kurtulus-turkiye-ve-rusya-ekonomik-iliskilerini-ortak-uretim-ve-stratejik-yatirimlarla-1110646133.html",
+   "https://anlatilaninotesi.com.tr/20261127/sosyal-medyada-gundem-olan-oto-lastikci-muhurlendi-1110646756.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2258,8 +2259,6 @@
   ]
  },
  "recent_titles": [
-  "denizlide bir öğretmen adliye önünde bıçaklandı",
-  "muğlada seyir halinde alev alan beton mikseri kullanılamaz hale geldi",
   "ingilterede iha tehdidi savaş uçakları hangarlara çekiliyor",
   "rafineri onarımları rusyayı akaryakıt ithalatına yöneltti",
   "abd ekonomisi yüzde 43 büyüdü",
@@ -3757,6 +3756,8 @@
   "beşiktaş sadece israili yenmemiş gürcü polisinin bir skandal görüntüsü daha ortaya çıktı",
   "rost başkanı kurtuluş türkiye ve rusya ekonomik ilişkilerini ortak üretim ve stratejik yatırımlarla güçlendirmeli",
   "galatasarayda beşiktaş hazırlıkları devam etti",
-  "iran operasyon vakti geldi"
+  "iran operasyon vakti geldi",
+  "mersinde interpol tarafından kırmızı bültenle aranan şahıs havalimanında yakalandı",
+  "sosyal medyada gündem olan oto lastikçi mühürlendi"
  ]
 }
