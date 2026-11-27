@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/aras-kargonun-ligdeki-maclarinda-degisiklik-h1585613",
    "https://www.ensonhaber.com/yilin-son-mgksi-cumhurbaskani-erdogan-baskanliginda-toplaniyor-h1585614",
    "https://www.ensonhaber.com/trabzonspor-cska-sofya-maci-icin-bulgaristanda-h1585615",
    "https://www.ensonhaber.com/izmirde-sofbenin-icinden-uyusturucu-hap-cikti-h1585616",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/sarkici-gokselden-yillar-sonra-itiraf-etti-bosanmak-kolay-olmadi-h1586105",
    "https://www.ensonhaber.com/istanbulda-drone-destekli-operasyon-12-kilo-840-gram-uyusturucu-ele-gecirildi-h1586106",
    "https://www.ensonhaber.com/yasin-ozcan-israilli-oyuncunun-uzerine-yurudu-fotograf-karesi-gundem-oldu-h1586107",
-   "https://www.ensonhaber.com/trump-iran-israile-ve-orta-dogudaki-ulkelere-nukleer-silahlarla-ates-acarsa-nukleer-bir-so-h1586108"
+   "https://www.ensonhaber.com/trump-iran-israile-ve-orta-dogudaki-ulkelere-nukleer-silahlarla-ates-acarsa-nukleer-bir-so-h1586108",
+   "https://www.ensonhaber.com/kasim-ayi-dogum-yardimlari-annelerin-hesaplarina-yatirildi-h1586109"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/mersin/3679813-mersinde-yanan-evde-cesetleri-bulunmustu-yeni-rapor-duzenlenecek",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679815-fiyati-bir-ayda-dibi-gordu-400-tlden-20-tlye-dustu",
    "https://www.haber7.com/dunya/haber/3679816-belcikada-82-belediyeye-es-zamanli-siber-saldiri",
    "https://www.haber7.com/guncel/haber/3679817-motosiklet-surucusunun-zor-anlari-karton-az-kalsin-kazaya-neden-oluyordu",
    "https://spor.haber7.com/besiktas/haber/3679818-besiktas-kafilesini-tasiyan-ucak-batuma-inemedi-alternatif-rota-gundemde",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680265-avrupali-ureticiler-turkiyedeki-tesislerinin-made-in-eu-kapsamina-alinmasini-istiyor",
    "https://spor.haber7.com/futbol/haber/3680256-super-lig-ve-1-ligde-yeni-donem-tff-yayin-ihalesinin-tarihini-acikladi",
    "https://www.haber7.com/karaman/3680266-karamanda-kayip-olarak-aranan-mehmet-ali-olu-bulunmustu-3-supheli-serbest",
-   "https://www.haber7.com/guncel/haber/3680267-skydagger-dronlari-aselsan-radar-verisiyle-sahada-gorev-basinda"
+   "https://www.haber7.com/guncel/haber/3680267-skydagger-dronlari-aselsan-radar-verisiyle-sahada-gorev-basinda",
+   "https://www.haber7.com/seyahat/haber/3680268-kura-nehrinde-sasirtan-manzara-buz-adaciklari-ilginc-goruntuler-olusturdu",
+   "https://www.haber7.com/dunya/haber/3680269-irandan-abd-f-16sina-hurmuz-bogazinda-uyari-atesi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2177,7 +2177,8 @@
    "https://anlatilaninotesi.com.tr/20261127/15-bin-ogretmen-adayi-icin-kontenjanlar-ve-basvuru-takvimi-aciklandi-1110633487.html",
    "https://anlatilaninotesi.com.tr/20261127/yeni-zelandada-hukumeti-kurmak-icin-cogunluk-saglanamadi-gozler-7-sandalye-kazanan-partide-1110634228.html",
    "https://anlatilaninotesi.com.tr/20261127/akom-tarih-verdi-istanbula-sibirya-soguklari-geliyor-sicakliklar-10-derece-birden-dusecek-1110634544.html",
-   "https://anlatilaninotesi.com.tr/20261127/gurcistan-icisleri-bakanligindan-skandal-mudahaleye-savunma-aciklamasi-besiktas-taraftarini-1110634780.html"
+   "https://anlatilaninotesi.com.tr/20261127/gurcistan-icisleri-bakanligindan-skandal-mudahaleye-savunma-aciklamasi-besiktas-taraftarini-1110634780.html",
+   "https://anlatilaninotesi.com.tr/20261127/samsunda-100-kopegin-izinsiz-tutulmasiyla-ilgili-sorusturma-baslatildi-kopekler-koruma-altina-1110635478.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2207,11 +2208,6 @@
   ]
  },
  "recent_titles": [
-  "trump zelenskiyin barış takvimi iddialarına kahkahayla yanıt verdi",
-  "beşiktaş israil ekibine karşı uefa avrupa liginde 5 haftanın programı",
-  "abdde dev dalgalar adamı ve köpeğini denize sürükledi ikisi de son anda kurtuldu",
-  "bursada 850 polisle uyuşturucu operasyonu 122 gözaltı",
-  "türkiye kadın dernekleri federasyon açıkladı türkiyede 237 günde 355 kadın hayatını kaybetti",
   "3 ay önce çocuğu doğmuştu şehidin son paylaşımı yürekleri yaktı",
   "hafterden ankaraya ilk resmi ziyaret",
   "sultangazide 5inci kattan düşen kardelen öldü kocası tutuklandı",
@@ -3706,6 +3702,11 @@
   "yasin özcan israilli oyuncunun üzerine yürüdü fotoğraf karesi gündem oldu",
   "skydagger dronları aselsan radar verisiyle sahada görev başında",
   "kura nehrinde şaşırtan manzara buz adacıkları ilginç görüntüler oluşturdu",
-  "trump iran israile ve orta doğudaki ülkelere nükleer silahlarla ateş açarsa nükleer bir soykırım yaşanır"
+  "trump iran israile ve orta doğudaki ülkelere nükleer silahlarla ateş açarsa nükleer bir soykırım yaşanır",
+  "irandan abd f16sına hürmüz boğazında uyarı ateşi",
+  "kasım ayı doğum yardımları annelerin hesaplarına yatırıldı",
+  "hikmet çetin için tbmmde tören siyasi parti liderleri yan yana",
+  "ingilterede savaş alarmı üsler korumaya alındı eski askerlere çağrı yapıldı",
+  "samsunda 100 köpeğin izinsiz tutulmasıyla ilgili soruşturma başlatıldı köpekler koruma altına alındı"
  ]
 }
