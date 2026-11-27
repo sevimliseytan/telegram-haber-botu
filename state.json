@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sahap-kavcioglu-hakkinda-sorusturma-izni-verildi-h1585706",
    "https://www.ensonhaber.com/cin-ve-taylanddan-ithal-bebek-urunlerine-damping-onlemi-devam-edecek-h1585707",
    "https://www.ensonhaber.com/emre-belozoglunun-esprili-sampiyonlar-ligi-vaadi-turk-usulu-dans-ederim-h1585708",
    "https://www.ensonhaber.com/israilin-gazzede-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti-h1585709",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/evi-arabayi-sattirdi-suleymani-kandiran-kadinin-gercek-hali-ortaya-cikti-h1586198",
    "https://www.ensonhaber.com/kocaelide-namaza-gelen-vatandas-darbedilmisti-cuma-namazi-icin-akin-ettiler-h1586199",
    "https://www.ensonhaber.com/bakan-yumakli-tarimsal-hasilada-90-milyar-dolar-tavanina-yaklastik-h1586200",
-   "https://www.ensonhaber.com/rus-gazindan-vazgecen-ab-abdye-bagimli-olabilir-h1586201"
+   "https://www.ensonhaber.com/rus-gazindan-vazgecen-ab-abdye-bagimli-olabilir-h1586201",
+   "https://www.ensonhaber.com/samsung-galaxy-s27-pro-ve-s27-ultra-maketleri-ortaya-cikti-iste-yeni-tasarim-h1586202"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679887-arda-turan-aci-verici-bir-tecrube-oldu",
-   "https://www.haber7.com/dunya/haber/3679888-iraktan-askeri-hamle-tum-birlikler-sahaya-iniyor",
-   "https://www.haber7.com/guncel/haber/3679889-oto-servisinde-dolandiricilik-iddiasi-3-supheli-yakalandi",
    "https://www.haber7.com/dunya/haber/3679890-kizilelmaya-hayran-kaldilar-biz-ona-rakip-olamayiz",
    "https://www.haber7.com/guncel/haber/3679891-uc-baskentte-diplomasi-adim-adim-tek-libyaya",
    "https://www.haber7.com/guncel/haber/3679892-istanbula-saganak-geliyor-meteoroloji-gun-gun-acikladi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/guncel/haber/3680352-kubra-yapici-cinayetinin-nedeni-ortaya-cikti-kan-donduran-itiraf-balyozla-parcalamislar",
    "https://spor.haber7.com/trabzonspor/haber/3680353-mohamed-salah-trabzonsporu-sirtinda-tasiyor",
    "https://www.haber7.com/biyografi/haber/3680349-kurra-hafiz-ali-kemal-hut-kimdir-kasimpasali-kemal-efendi-hayatini-kaybetti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680355-turkiyenin-savunma-ihracati-10-milyar-dolara-ulasti-dunyada-11inci-siraya-yukseldi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680355-turkiyenin-savunma-ihracati-10-milyar-dolara-ulasti-dunyada-11inci-siraya-yukseldi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680354-dunyanin-en-uzun-omurlu-insanlari-hangi-ulkede-turkiyede-zirvedeki-il-belli-oldu",
+   "https://www.haber7.com/guncel/haber/3680357-gulistan-doku-sorusturmasinda-iki-supheli-birbirini-tanimadigini-soyledi-tanik-yalanladi",
+   "https://www.haber7.com/guncel/haber/3674980-tum-dunyanin-hayran-kaldigi-turk-koyleri-tas-evleri-goz-kamastiran-dogasiyla-listede"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1869,7 +1869,8 @@
    "https://www.mynet.com/magazin/demet-ozdemir-in-dugun-tarzi-cok-begenildi-arkasini-donunce-mest-etti-130100607813",
    "https://www.mynet.com/magazin/mesam-40-inci-yil-donumunu-kutladi-35-odul-sahiplerini-buldu-130100607816",
    "https://www.mynet.com/magazin/ahmet-kaya-nin-ailesi-dava-acmisti-iki-gozum-ahmet-filmi-icin-mahkemeden-karar-cikti-130100607822",
-   "https://www.mynet.com/magazin/cocuktan-al-haberi-nin-kutu-bebek-ebrar-i-sete-cikmaktan-vazgecmisti-now-tv-ile-anlasti-130100607819"
+   "https://www.mynet.com/magazin/cocuktan-al-haberi-nin-kutu-bebek-ebrar-i-sete-cikmaktan-vazgecmisti-now-tv-ile-anlasti-130100607819",
+   "https://www.mynet.com/magazin/derya-ulug-un-ozel-tasarim-gelinligi-hic-begenilmemisti-fiyati-dudak-ucuklatti-130100607825"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2246,11 +2247,6 @@
   ]
  },
  "recent_titles": [
-  "bursanın gururu umut eren gündoğdan dünya ikinciliği çinde gümüş madalya",
-  "manisada iki ayrı evde 137 bin 858 sentetik hap ele geçirildi",
-  "istanbulda inşaattaki vinçten çelik bloklar park halindeki 3 aracın üzerine düştü",
-  "batmanda açılan ahır kapısı besiciyi kahretti 109 keşi telef oldu",
-  "izmirde baba ve oğlu ormanda ölü bulundu 3 tutuklama",
   "denizlide inşaat ustası evinde elleri bağlanmış halde ölü bulundu eşi dahil 3 gözaltı",
   "sofia vergaranın güzellik sırları bakın papatya çayına ne katıyor",
   "mecliste renkli anlar müslüman senatörün bebeğiyle oynadılar",
@@ -3745,6 +3741,11 @@
   "rus gazından vazgeçen ab abdye bağımlı olabilir",
   "türkiyenin savunma ihracatı 10 milyar dolara ulaştı dünyada 11inci sıraya yükseldi",
   "dünyanın en uzun ömürlü insanları hangi ülkede türkiyede zirvedeki il belli oldu",
-  "gülistan doku soruşturmasında iki şüpheli birbirini tanımadığını söyledi tanık yalanladı"
+  "gülistan doku soruşturmasında iki şüpheli birbirini tanımadığını söyledi tanık yalanladı",
+  "tüm dünyanın hayran kaldığı türk köyleri taş evleri göz kamaştıran doğasıyla listede",
+  "74 bin maç incelendi türkiyeden 4 kulüp avrupanın zirvesinde yer aldı",
+  "samsung galaxy s27 pro ve s27 ultra maketleri ortaya çıktı işte yeni tasarım",
+  "adanada ciğere talep arttı",
+  "derya uluğun özel tasarım gelinliği hiç beğenilmemişti fiyatı dudak uçuklattı"
  ]
 }
