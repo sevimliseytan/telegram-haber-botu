@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679992-israil-ordusundan-abd-cikisi-onlarsiz-da-irana-saldiriya-haziriz",
    "https://ekonomi.haber7.com/ekonomi/haber/3679993-2021den-sonra-yapilan-binalara-kritik-uyari-2027de-denetimler-baslayacak",
    "https://www.haber7.com/guncel/haber/3679989-elazigda-isletme-gibi-calisan-okul-bir-yillik-cirosu-duyanlari-sasirtti",
    "https://ekonomi.haber7.com/ekonomi/haber/3679994-altin-ve-dolarda-dengeleri-degistirecek-gelisme-kritik-tahmin",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/3sayfa/haber/3680439-elleri-baglayip-bogmuslar-kocasini-eve-cagirdigi-arkadaslarina-oldurttu",
    "https://www.haber7.com/guncel/haber/3680442-bakanlik-acikladi-boluya-geziye-giden-10-kiz-cocugu-ile-3-personel-kayip",
    "https://www.haber7.com/siyaset/haber/3680443-ibb-meclisinde-ak-partiye-4-yeni-katilim-sandalye-sayisi-degisti",
-   "https://spor.haber7.com/super-lig/haber/3680444-rize-taraftarindan-besiktas-ve-filistine-destek-benzer-pankart-acildi"
+   "https://spor.haber7.com/super-lig/haber/3680444-rize-taraftarindan-besiktas-ve-filistine-destek-benzer-pankart-acildi",
+   "https://www.haber7.com/guncel/haber/3680445-dmmden-somali-iddialarina-yalanlama"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2280,10 +2280,6 @@
   ]
  },
  "recent_titles": [
-  "houston texans oyuncusu alshaairden sahada filistin protestosu",
-  "gaziantepte tam buğday ekmeği dönemi türkiyeye örnek olacak proje için imzalar atıldı",
-  "trabzonspor cska sofya maçı için bulgaristanda",
-  "izmirde şofbenin içinden uyuşturucu hap çıktı",
   "ran kozuch beşiktaş çok kaliteli bir takım",
   "mossad eski başkanı barnea almanya federal meclisinde protesto edildi savaş suçlususun",
   "rusya savunma bakanlığı ukraynanın enerji ve lojistik altyapısı vuruldu",
@@ -3779,6 +3775,10 @@
   "adanada tavuk döner yiyen 25 öğrenci hastanelik oldu",
   "ibb meclisinde ak partiye 4 yeni katılım sandalye sayısı değişti",
   "rize taraftarından beşiktaş ve filistine destek benzer pankart açıldı",
-  "galatasarayın milli yıldızı yunus akgün evlendi"
+  "galatasarayın milli yıldızı yunus akgün evlendi",
+  "dmmden somali iddialarına yalanlama",
+  "gazzedeki yetim çocuklardan beşiktaşa teşekkür mazlumlar direniyorsa zafer yakındır",
+  "uğur uçar sistem değişikliğinin acısını yaşıyoruz",
+  "erzurum bölge adliye mahkemesi 4 hukuk dairesi başkanlığı"
  ]
 }
