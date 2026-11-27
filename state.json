@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/marmarada-yeniden-ortaya-cikan-musilaj-canakkalede-de-goruldu-h1585545",
-   "https://www.ensonhaber.com/istanbulda-kar-yagmasi-en-yuksek-ihtimal-olan-ay-belli-oldu-h1585546",
    "https://www.ensonhaber.com/ispartada-33-adrese-es-zamanli-uyusturucu-operasyonu-h1585547",
    "https://www.ensonhaber.com/turk-eximbank-740-milyon-dolarlik-kredi-sagladi-h1585548",
    "https://www.ensonhaber.com/6-subati-bilmisti-frank-hoogerbeetsin-yeni-tahmini-istanbul-cikti-h1585549",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kayseride-kuaforde-nefes-borusuna-seker-kacti-hayat-kurtaran-hamle-kamerada-h1586036",
    "https://www.ensonhaber.com/doktor-cakar-besiktasin-maci-batumda-oynanmasinin-gerekcelerini-anlatti-h1586037",
    "https://www.ensonhaber.com/kayseride-polisten-kacan-yoklama-kacagi-surucu-bedavaya-kactik-h1586038",
-   "https://www.ensonhaber.com/altin-fiyatlari-sert-yukseldi-gram-6-bin-lira-sinirina-dayandi-h1586039"
+   "https://www.ensonhaber.com/altin-fiyatlari-sert-yukseldi-gram-6-bin-lira-sinirina-dayandi-h1586039",
+   "https://www.ensonhaber.com/kirikkalede-oto-elektrik-dukkaninda-yangin-5-arac-alevlere-teslim-oldu-h1586040",
+   "https://www.ensonhaber.com/berfu-yenenler-hastanelik-oldu-serumlu-paylasim-yapti-h1586041"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679737-tarim-desteklerinde-yeni-donem-ciftcilere-13-trilyon-liralik-kaynak",
    "https://www.haber7.com/ulkede-bugun/haber/3679738-adanada-cete-infazi-37-gunluk-savasi-kaybeden-cocuga-aci-veda",
    "https://spor.haber7.com/besiktas/haber/3679699-hapoel-beer-sheva-maci-oncesi-sok-gelisme-besiktasin-yildizi-kamp-kadrosuna-alinmadi",
    "https://www.haber7.com/guncel/haber/3679741-gozaltindaki-unlu-isimler-adliyeye-sevk-edilirken-goruntulendi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680191-abdden-surpriz-karar-resmen-dogrulandi-hava-birligini-lagvetti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680192-altin-icin-dikkat-ceken-tahmin-bankacilik-devi-tarih-verdi-fiyatlarda-son-durum",
    "https://www.haber7.com/otomobil/haber/3680193-lpgli-arac-sahipleri-dikkat-sartlar-aciklandi-milyonlarca-kisiyi-ilgilendiren-duzenleme",
-   "https://www.haber7.com/guncel/haber/3680194-resmi-gazetede-yayimlandi-18-yillik-anlasma-bitti-turkiye-de-vize-isteyecek"
+   "https://www.haber7.com/guncel/haber/3680194-resmi-gazetede-yayimlandi-18-yillik-anlasma-bitti-turkiye-de-vize-isteyecek",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680201-kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2162,7 +2162,8 @@
    "https://anlatilaninotesi.com.tr/20261127/turkiyeden-karadaga-vize-hamlesi-muafiyet-sona-eriyor-1110629190.html",
    "https://anlatilaninotesi.com.tr/20261127/altinda-sert-dusus-sonrasi-dev-bankadan-yil-sonu-tahmini-1110629364.html",
    "https://anlatilaninotesi.com.tr/20261127/kasim-indirimindeki-alisveris-sepeti-aliskanliklari-degisti-yeni-trend-ne-1110629806.html",
-   "https://anlatilaninotesi.com.tr/20261127/rusya-savunma-bakanligi-ukraynada-vurulan-hedefleri-acikladi-1110630224.html"
+   "https://anlatilaninotesi.com.tr/20261127/rusya-savunma-bakanligi-ukraynada-vurulan-hedefleri-acikladi-1110630224.html",
+   "https://anlatilaninotesi.com.tr/20261127/lpgli-arac-sahipleri-dikkat-resmi-gazetede-yayimlandi-avm-otoparklarina-6-kritik-sart-geldi-1110630379.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2192,10 +2193,6 @@
   ]
  },
  "recent_titles": [
-  "meteoroloji 20 ili sarı kodla uyardı soğuk hava dalgasıyla birlikte kar geliyor",
-  "abden doğu sınırında güvenlik hamlesi vize ve dron önlemleri geliyor",
-  "ormanda kaybolan 76 yaşındaki mümine kılıç 7 gün sonra sağ bulundu nemli toprak yiyerek hayatta kaldı",
-  "iraka suriye modeli kriz senaryoları çöpe atıldı  25 kasım 2026 gazete manşetleri",
   "eşini öldürdü 9 saat teslim olmayan şahıs evde kendisini vurdu",
   "trabzonda sel ve heyelan dere taştı evleri su bastı yollar kapandı",
   "kış geldi meteorolojiden 20 ile peş peşe uyarı",
@@ -3691,6 +3688,10 @@
   "altın fiyatları sert yükseldi gram 6 bin lira sınırına dayandı",
   "kırıkkalede oto elektrik dükkanında yangın 5 araç alevlere teslim oldu",
   "rusya savunma bakanlığı ukraynada vurulan hedefleri açıkladı",
-  "lpgli araç sahipleri dikkat resmi gazetede yayımlandı avm otoparklarına 6 kritik şart geldi"
+  "lpgli araç sahipleri dikkat resmi gazetede yayımlandı avm otoparklarına 6 kritik şart geldi",
+  "kamu alacakları için gecikme zammı oranı düşürüldü",
+  "berfu yenenler hastanelik oldu serumlu paylaşım yaptı",
+  "cuma hutbesi paylaşıldı 27 kasım 2026 hutbe konusu ve metni",
+  "erzincanda 15 bin adet kaçak makaron ele geçirildi"
  ]
 }
