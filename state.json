@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/erzincanda-ayaz-etkisini-artirdi-h1585720",
-   "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-ceylan-kaya-tutuklandi-h1585721",
    "https://www.ensonhaber.com/kastamonuda-dev-dalgalarin-dovdugu-sahilde-tahkimat-duvari-ve-kaldirim-yikildi-h1585722",
    "https://www.ensonhaber.com/abnin-hibrit-otomobil-kotasina-osdden-tepki-turkiyeye-126-bin-320-adet-sinir-h1585723",
    "https://www.ensonhaber.com/devlet-bahceli-dem-parti-imrali-heyetiyle-gorusecek-h1585724",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/hikmet-cetin-son-yolculuguna-ugurlandi-h1586212",
    "https://www.ensonhaber.com/isgal-altindaki-bati-seriada-beytullahim-kenti-noele-hazirlaniyor-h1586213",
    "https://www.ensonhaber.com/sakaryada-atilan-gizemli-taslar-koyde-korkuya-neden-oluyor-h1586214",
-   "https://www.ensonhaber.com/corumun-tandir-kebabi-tescillendi-h1586215"
+   "https://www.ensonhaber.com/corumun-tandir-kebabi-tescillendi-h1586215",
+   "https://www.ensonhaber.com/orkun-kokcu-uefa-sorusturma-acarsa-sonuclarina-katlaniriz-hicbir-sikinti-yok-h1586216",
+   "https://www.ensonhaber.com/ingilterede-yapay-zeka-kaynakli-hukuki-hatalar-mahkeme-dosyalarina-yansidi-h1586217"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679908-konya-buyuksehir-destekliyor-uretilen-mantarlar-turkiyenin-dort-bir-yanina-ulasiyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679909-milyonlarca-kisinin-borcu-siliniyor-tbmmdeki-gorusmeler-basladi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679910-kopru-ve-otoyollar-konusunda-kritik-rakam-bakan-uraloglu-10-milyar-dolari-isaret-etti",
    "https://www.haber7.com/dunya/haber/3679911-abd-basini-duyurdu-new-jerseyde-olaganustu-hal-ilan-edildi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680374-yuruyen-merdivenlerde-kahreden-olay-yasli-kadin-hayatini-kaybetti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680373-dunya-ekonomisinin-nabzi-palandokende-atacak",
    "https://www.haber7.com/guncel/haber/3680375-tbmm-baskani-kurtulmus-avustralya-senatosu-baskani-lines-ile-gorustu",
-   "https://www.haber7.com/kultur/haber/3680377-hatayin-tarihi-ve-manevi-mirasi-yeniden-yukseliyor-bakan-ersoy-20-eserin-acilisini-yapti"
+   "https://www.haber7.com/kultur/haber/3680377-hatayin-tarihi-ve-manevi-mirasi-yeniden-yukseliyor-bakan-ersoy-20-eserin-acilisini-yapti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680373-dunya-ekonomisinin-kalbi-palandokende-atacak-dev-zirveye-ust-duzey-isimler-katilacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2217,7 +2217,8 @@
    "https://anlatilaninotesi.com.tr/20261127/ege-universitesinde-kadin-profesore-delici-aletle-saldiri-saldirgan-ogrenci-cikti-1110642429.html",
    "https://anlatilaninotesi.com.tr/20261127/meteorolojiden-yeni-uyari-kar-istanbulun-yani-basina-geliyor-1110642818.html",
    "https://anlatilaninotesi.com.tr/20261127/turkiyenin-2040-enerji-vizyonu-turkiye-70-yil-sonra-nukleer-hayaline-kavusmus-olacak-1110643163.html",
-   "https://anlatilaninotesi.com.tr/20261127/ispanyada-secim-kampanyasi-sona-eriyor-ulke-hafta-sonu-genel-secimlere-gidecek-1110643960.html"
+   "https://anlatilaninotesi.com.tr/20261127/ispanyada-secim-kampanyasi-sona-eriyor-ulke-hafta-sonu-genel-secimlere-gidecek-1110643960.html",
+   "https://anlatilaninotesi.com.tr/20261127/uefa-acikladi-besiktas-hapoel-beer-sheva-maci-icin-sorusturma-karari-1110644340.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2249,12 +2250,6 @@
   ]
  },
  "recent_titles": [
-  "abdden vatandaşlarına iranı terk etme çağrısı",
-  "kahramanmaraştaki okul saldırganının otopsisinin yenilenmesi talep edildi",
-  "cumhurbaşkanı erdoğandan askeri helikopter kazalarına ilişkin açıklama",
-  "xiaomi otomobillerini avrupaya getiriyor 4 ülkede test edilecek",
-  "cumhurbaşkanı erdoğandan terörsüz türkiye mesajı engellemeye çalışıyorlar",
-  "erdoğandan muhalefete terörsüz türkiye tepkisi fırsatın heba edilmesine izin vermeyiz",
   "avrupanın devi borç batağına saplandı almanyanın iflas riski var mı",
   "vize serbestisi gelirse türk vatandaşlarının gidebileceği ülkeler",
   "erling haaland bu çok acı verici",
@@ -3748,6 +3743,12 @@
   "hatayın tarihi ve manevi mirası yeniden yükseliyor bakan ersoy 20 eserin açılışını yaptı",
   "önder özenden galatasaray derbisi hakkında açıklama erteleme talebi olacak mı",
   "çorumun tandır kebabı tescillendi",
-  "orkun kökçü uefa soruşturma açarsa sonuçlarına katlanırız hiçbir sıkıntı yok"
+  "orkun kökçü uefa soruşturma açarsa sonuçlarına katlanırız hiçbir sıkıntı yok",
+  "dünya ekonomisinin kalbi palandökende atacak dev zirveye üst düzey isimler katılacak",
+  "israil ekibini deviren beşiktaş yurda döndü türkiye arkamızdaydı",
+  "ingilterede yapay zeka kaynaklı hukuki hatalar mahkeme dosyalarına yansıdı",
+  "istanbulda dönüş yapmak isterken kaza yaptı",
+  "2 saatlik yolu 2 dakikaya indirdi 33 milyon kişi köprüyü görmeye geldi",
+  "uefa açıkladı beşiktaşhapoel beersheva maçı için soruşturma kararı"
  ]
 }
