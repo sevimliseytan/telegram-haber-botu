@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/abdnin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi-h1585752",
    "https://www.ensonhaber.com/istanbulda-kadinlari-taciz-ettigi-suclamasiyla-gozaltina-alindi-5-kadin-tarafindan-teshis-h1585753",
    "https://www.ensonhaber.com/burdurda-iki-otomobil-kafa-kafaya-carpisti-1-olu-2si-agir-6-yarali-h1585754",
    "https://www.ensonhaber.com/surgundeki-katalan-lider-puigdemont-ulkesine-donuyor-h1585755",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/adiyamanda-konteyner-kentler-kaldiriliyor-h1586244",
    "https://www.ensonhaber.com/mersinde-interpol-tarafindan-kirmizi-bultenle-aranan-sahis-havalimaninda-yakalandi-h1586245",
    "https://www.ensonhaber.com/girne-aciklarinda-batan-filojet-gemisi-davasinda-9-sanik-tutuklandi-h1586246",
-   "https://www.ensonhaber.com/istanbulda-elleme-bozuk-de-diyen-otomotiv-servisi-muhurlendi-h1586247"
+   "https://www.ensonhaber.com/istanbulda-elleme-bozuk-de-diyen-otomotiv-servisi-muhurlendi-h1586247",
+   "https://www.ensonhaber.com/istanbulda-3-cocugun-supheli-olumune-iliskin-sorusturmada-7-gozalti-h1586248"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679945-silah-ruhsati-harclari-belli-oldu-iste-bulundurma-ve-tasima-ucretleri",
    "https://www.haber7.com/guncel/haber/3679946-gencligin-en-buyuk-eksikligi-sabir",
    "https://ekonomi.haber7.com/ekonomi/haber/3679947-borsa-gune-yukselisle-basladi",
    "https://www.haber7.com/dunya/haber/3679950-cop31-turkiyenin-diplomatik-basarisi-ve-kuresel-iklim-yonetisiminin-gercekleri",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/kultur/haber/3680401-yedi-guzel-adamin-mirasi-yeniden-hayat-buluyor-50-bin-kitaplik-kutuphane",
    "https://ekonomi.haber7.com/ekonomi/haber/3680403-sislide-musterisini-dolandiran-oto-lastikci-muhurlendi",
    "https://www.haber7.com/guncel/haber/3680402-cumhurbaskani-basdanismani-orhandan-begeni-toplayan-kurtce-turku-performansi",
-   "https://spor.haber7.com/spor/haber/3680404-mourinho-gazeteciyi-anlindan-optu-gercek-ortaya-cikti"
+   "https://spor.haber7.com/spor/haber/3680404-mourinho-gazeteciyi-anlindan-optu-gercek-ortaya-cikti",
+   "https://spor.haber7.com/trabzonspor/haber/3680406-thomas-reis-35-yil-sonra-ilki-gerceklestirdi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2260,9 +2260,6 @@
   ]
  },
  "recent_titles": [
-  "manisada 16 lise öğrencisi gıda zehirlenmesi şüphesiyle hastaneye gitti",
-  "bilim insanlarından sevindiren haber zırh teknolojisi otomobillere geliyor",
-  "gta 6ya erişim engeli gerekçesi açıklandı",
   "abdde enflasyon ekimde yıllık yüzde 38 arttı",
   "abdden çin ve ab dahil 14 ticaret ortağına yeni gümrük vergileri",
   "avrupanın en yoğun havalimanı istanbul oldu madrid londra ve parisi solladı",
@@ -3759,6 +3756,9 @@
   "cumhurbaşkanı başdanışmanı orhandan beğeni toplayan kürtçe türkü performansı",
   "istanbulda elleme bozuk de diyen otomotiv servisi mühürlendi",
   "istanbul valiliğinden soğuk hava uyarısı karla karışık yağmur geliyor",
-  "mourinho gazeteciyi anlından öptü gerçek ortaya çıktı"
+  "mourinho gazeteciyi anlından öptü gerçek ortaya çıktı",
+  "thomas reis 35 yıl sonra ilki gerçekleştirdi",
+  "interpol kırmızı bültenle arıyordu havalimanında yakalandı",
+  "istanbulda 3 çocuğun şüpheli ölümüne ilişkin soruşturmada 7 gözaltı"
  ]
 }
