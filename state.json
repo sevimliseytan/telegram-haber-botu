@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/bitliste-ava-cikan-6-kurt-goruntulendi-h1585699",
-   "https://www.ensonhaber.com/yargitaydan-iban-magdurlari-icin-onemli-karar-h1585700",
-   "https://www.ensonhaber.com/muhammet-emin-akbasoglunun-hanim-sozlerine-mecliste-sert-tepki-h1585701",
    "https://www.ensonhaber.com/kolombiyada-68-kisinin-kurtarildigi-rehine-operasyonunun-goruntuleri-h1585702",
    "https://www.ensonhaber.com/bankalar-devrede-starbucks-satiliyor-h1585703",
    "https://www.ensonhaber.com/dogukan-gungorden-sasirtan-itirafi-ilk-basrolunu-alinca-benden-ayrildi-h1585704",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/ege-universitesinde-ogretmene-bicakli-saldiri-saldirgan-gozaltinda-h1586191",
    "https://www.ensonhaber.com/canakkalede-kacakcilik-operasyonu-bin-60-litre-sarap-ele-gecirildi-h1586192",
    "https://www.ensonhaber.com/kastamonuda-evinin-balkonundan-dustu-h1586193",
-   "https://www.ensonhaber.com/uefanin-batumdaki-olaylara-iliskin-aciklamasi-pes-dedirtti-h1586194"
+   "https://www.ensonhaber.com/uefanin-batumdaki-olaylara-iliskin-aciklamasi-pes-dedirtti-h1586194",
+   "https://www.ensonhaber.com/kizilcik-serbetinde-baba-ogul-surprizi-abdullahin-dostu-geliyor-nursemaya-ortak-cikiyor-h1586195",
+   "https://www.ensonhaber.com/avrupada-kar-ve-buzlanma-isvicrede-37-arac-carpisti-almanyada-400den-fazla-kaza-yasandi-h1586196",
+   "https://www.ensonhaber.com/bursa-ankara-ve-istanbula-hizli-trenle-baglaniyor-h1586197"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679209-ankara-4-sulh-hukuk-mahkemesi",
    "https://spor.haber7.com/futbol/haber/3679880-hakem-maca-alkollu-cikti-iddiasi-milli-yildiza-gosterdigi-kart-gundem-oldu",
    "https://www.haber7.com/guncel/haber/3679881-kayseride-torbacilara-dron-destekli-operasyon-20-gozalti",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-londrada-zafer-fenerin-arda-turanin-shakhtarini-devirdi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680343-abdde-siddetli-firtina-su-baskinlari-ve-iptaller",
    "https://ekonomi.haber7.com/ekonomi/haber/3680344-yaptigi-dedektiflik-degil-kamuoyunu-yaniltmak-goruntuler-eski-cikti",
    "https://spor.haber7.com/besiktas/haber/3680345-besiktas-derbisi-oncesi-galatasaraya-osimhen-mujdesi",
-   "https://www.haber7.com/teknoloji/haber/3680318-trumptan-muska-dev-yetki-uzaya-kurulacak-1-milyon-uydu-icin-yesil-isik"
+   "https://www.haber7.com/teknoloji/haber/3680318-trumptan-muska-dev-yetki-uzaya-kurulacak-1-milyon-uydu-icin-yesil-isik",
+   "https://www.haber7.com/guncel/haber/3680346-engelli-onuru-olduren-17-yasindaki-sanigin-cezasi-belli"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1867,7 +1867,8 @@
    "https://www.mynet.com/magazin/sener-usumezsoy-esra-ezmeci-nin-ayak-bileklerini-inceledi-sosyal-medya-onlari-konusuyor-130100607807",
    "https://www.mynet.com/magazin/ufuk-beydemir-den-yogun-bakim-paylasimi-kizi-ruby-ile-ilk-kare-130100607810",
    "https://www.mynet.com/magazin/demet-ozdemir-in-dugun-tarzi-cok-begenildi-arkasini-donunce-mest-etti-130100607813",
-   "https://www.mynet.com/magazin/mesam-40-inci-yil-donumunu-kutladi-35-odul-sahiplerini-buldu-130100607816"
+   "https://www.mynet.com/magazin/mesam-40-inci-yil-donumunu-kutladi-35-odul-sahiplerini-buldu-130100607816",
+   "https://www.mynet.com/magazin/ahmet-kaya-nin-ailesi-dava-acmisti-iki-gozum-ahmet-filmi-icin-mahkemeden-karar-cikti-130100607822"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2210,7 +2211,8 @@
    "https://anlatilaninotesi.com.tr/20261127/turkiyenin-en-soguk-yeri-belli-oldu-termometreler-eksi-18i-gosterdi-1110641151.html",
    "https://anlatilaninotesi.com.tr/20261127/besiktas-kafilesini-tasiyan-ucak-batumdan-ayrildi-25-saat-gecikme-yasandi--1110641481.html",
    "https://anlatilaninotesi.com.tr/20261127/emekli-tumamiral-ali-deniz-kutluk-anlatti-atinanin-turkiye-libya-itirazi-ne-anlama-geliyor-1110641596.html",
-   "https://anlatilaninotesi.com.tr/20261127/rusyanin-askeri-harekati-devam-ediyor-son-bir-haftanin-bilancosu-aciklandi-1110642058.html"
+   "https://anlatilaninotesi.com.tr/20261127/rusyanin-askeri-harekati-devam-ediyor-son-bir-haftanin-bilancosu-aciklandi-1110642058.html",
+   "https://anlatilaninotesi.com.tr/20261127/ege-universitesinde-kadin-profesore-delici-aletle-saldiri-saldirgan-ogrenci-cikti-1110642429.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2242,12 +2244,6 @@
   ]
  },
  "recent_titles": [
-  "bakan ibrahim yumaklı tbmm bütçe komisyonunda sunum yaptı",
-  "prof dr kayıhan pala kent merkezindeki hastanelerin kapanması sağlık hizmetine erişimi zorlaştırıyor",
-  "samsunspordan galatasaray maçı açıklaması şikayet ettik",
-  "tarım desteklerinde yeni dönem çiftçilere 13 trilyon liralık kaynak",
-  "lukaşenko avrupanın rusya ile diyaloğu reddetmesi büyük bir hata",
-  "adanada çete infazı 37 günlük savaşı kaybeden çocuğa acı veda",
   "hapoel beersheva maçı öncesi şok gelişme beşiktaşın yıldızı kamp kadrosuna alınmadı",
   "ne trabzon ne rize koçarinin vurulduğu yer bakın neresi çıktı",
   "vanda evlilik başvurusu için sağlık raporu almaya gittikleri asmde doktor ve hemşire döven çift tutuklandı",
@@ -3741,6 +3737,12 @@
   "trumptan muska dev yetki uzaya kurulacak 1 milyon uydu için yeşil ışık",
   "uefanın batumdaki olaylara ilişkin açıklaması pes dedirtti",
   "kızılcık şerbetinde baba oğul sürprizi abdullahın dostu geliyor nursemaya ortak çıkıyor",
-  "avrupada kar ve buzlanma isviçrede 37 araç çarpıştı almanyada 400den fazla kaza yaşandı"
+  "avrupada kar ve buzlanma isviçrede 37 araç çarpıştı almanyada 400den fazla kaza yaşandı",
+  "engelli onuru öldüren 17 yaşındaki sanığın cezası belli",
+  "abdde tarihi kırılma nbcnin yayınladığı israil karşıtı reklam dünya gündemine oturdu",
+  "bursa ankara ve istanbula hızlı trenle bağlanıyor",
+  "ahmet kayanın ailesi dava açmıştı iki gözüm ahmet filmi için mahkemeden karar çıktı",
+  "çocuktan al haberinin kutu bebek ebrarı sete çıkmaktan vazgeçmişti now tv ile anlaştı",
+  "ege üniversitesinde kadın profesöre delici aletle saldırı saldırgan öğrenci çıktı"
  ]
 }
