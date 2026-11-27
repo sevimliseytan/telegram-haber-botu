@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/bati-avrupada-grev-fransa-ve-ingiltere-arasinda-hizli-tren-seferleri-iptal-edildi-h1585651",
    "https://www.ensonhaber.com/adanada-tartistigi-kisiyi-sokak-ortasinda-vurdu-h1585652",
    "https://www.ensonhaber.com/misirda-petrol-urunleri-tasiyan-tankerde-yangin-30-olu-h1585653",
    "https://www.ensonhaber.com/fenerbahcenin-shakhtar-donetsk-macinda-golu-iptal-oldu-h1585654",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/gurcu-hamsisi-nasil-anlasilir-iste-yerli-hamsiden-ayiran-ozellik-h1586143",
    "https://www.ensonhaber.com/hatayda-devlet-benim-diyerek-sanal-medyada-sehitlere-hakaret-eden-supheli-gozaltina-alindi-h1586144",
    "https://www.ensonhaber.com/besiktas-donus-yoluna-gecti-h1586145",
-   "https://www.ensonhaber.com/yataga-corapla-girenler-bunu-bilmiyor-vucut-tam-tersini-yapiyor-h1586146"
+   "https://www.ensonhaber.com/yataga-corapla-girenler-bunu-bilmiyor-vucut-tam-tersini-yapiyor-h1586146",
+   "https://www.ensonhaber.com/bursada-2-firari-yakalandi-h1586147"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679853-abde-coca-colaya-rekabet-sorusturmasi",
-   "https://www.haber7.com/medya/haber/3679854-basin-ilan-kurumundan-basina-67-milyar-tl-destek-baskan-cay-1-yillik-tabloyu-acikladi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679855-titanik-faciasindan-114-yil-sonra-rekor-satis-olen-yolcunun-cebinden-cikmisti",
    "https://spor.haber7.com/spor/haber/3679856-tum-dunya-turk-sporcuyu-konusuyor-israilli-rakibinin-elini-sikmadi-1-saniyede-yendi",
    "https://www.haber7.com/dunya/haber/3679857-iran-israil-rejimi-7-ulkeye-saldirdi-3-ulkenin-topragini-isgal-etti",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680304-ito-baskani-sekib-avdagic-86-milyon-turkiye-seninle-gurur-duyuyor-kara-kartal",
    "https://www.haber7.com/guncel/haber/3680305-narin-guran-davasinda-4uncu-durusma-15-sanik-yargilandi",
    "https://www.haber7.com/saglik/haber/3680306-araba-kullanmanin-bilinmeyen-etkisi-ortaya-cikti-kalp-ritmi-alarm-veriyor",
-   "https://www.haber7.com/guncel/haber/3680305-narin-guran-sorusturmasinda-yeni-gelisme-15-sanik-yargilandi-dava-ertelendi"
+   "https://www.haber7.com/guncel/haber/3680305-narin-guran-sorusturmasinda-yeni-gelisme-15-sanik-yargilandi-dava-ertelendi",
+   "https://spor.haber7.com/besiktas/haber/3680307-hastaneye-kaldirilan-emirhan-topcunun-durumu-belli-oldu-gsaray-macinda-oynayacak-mi",
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680308-besiktasin-israil-ekibini-devirmesi-kasasini-doldurdu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1856,7 +1856,8 @@
    "https://www.mynet.com/magazin/dogukan-gungor-un-o-itirafi-akla-sude-zulal-guler-i-getirdi-130100607699",
    "https://www.mynet.com/magazin/guller-ve-gunahlar-43-bolum-2-fragman-seyirci-sitem-etti-130100607750",
    "https://www.mynet.com/magazin/7-unlu-isim-5-yil-boyunca-adli-tip-kurumuna-gidecek-130100607753",
-   "https://www.mynet.com/magazin/almanya-da-tedavi-goruyordu-killa-hakan-dan-yeni-haber-130100607756"
+   "https://www.mynet.com/magazin/almanya-da-tedavi-goruyordu-killa-hakan-dan-yeni-haber-130100607756",
+   "https://www.mynet.com/magazin/emin-gunenc-haysiyet-in-finaline-uzuldu-reytingleri-iyiydi-130100607765"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2217,13 +2218,6 @@
   ]
  },
  "recent_titles": [
-  "trt1den ramazan dizisi geliyor başrolü şükrü özyıldız aldı",
-  "akdeniz foku kuşadasını mesken tuttu",
-  "elektrikli porsche 718 boxster geliyor 0100 kms 3 saniyenin altında",
-  "iki yıl süren yorgunluk ve halsizlik kabusu nedeni paratiroid adenomu çıktı",
-  "işık ihlali nedeniyle otomobiller çarpıştı 1 ölü",
-  "sivas şehir merkezine mevsimin ilk karı yağdı",
-  "adanada 15 yaşındaki çocuk 5 gündür kayıp",
   "dereler kıpkırmızı aktı gören şalgam sandı işte sebebi",
   "istanbulda uyuşturucu operasyonu",
   "trump iran savaşı için tarih verdi ocak sonuna kadar finansmanımız var",
@@ -3716,6 +3710,13 @@
   "beşiktaş dönüş yoluna geçti",
   "narin güran soruşturmasında yeni gelişme 15 sanık yargılandı dava ertelendi",
   "hastaneye kaldırılan emirhan topçunun durumu belli oldu gsaray maçında oynayacak mı",
-  "yatağa çorapla girenler bunu bilmiyor vücut tam tersini yapıyor"
+  "yatağa çorapla girenler bunu bilmiyor vücut tam tersini yapıyor",
+  "beşiktaşın israil ekibini devirmesi kasasını doldurdu",
+  "istanbulda 173 kilo metamfetamin ele geçirildi",
+  "bursada 2 firari yakalandı",
+  "istanbulda tahliye edilen bina havadan görüntülendi",
+  "cicim ayları devam ediyor zeynep bastık ve serkay tütüncüden romantik poz",
+  "emin günenç haysiyetin finaline üzüldü reytingleri iyiydi",
+  "ünlülere uyuşturucu soruşturması 3 kişi tutuklandı"
  ]
 }
