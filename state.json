@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3679957-asya-sampiyonlar-liginde-hakem-maca-alkollu-cikti-iddiasi",
-   "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-heyeti-ile-gorusecek",
    "https://www.haber7.com/guncel/haber/3679959-uefanin-cifte-standardi-besiktas-kafilesine-kabusu-yasatti",
    "https://www.haber7.com/medya/haber/3679958-nisanlilikta-uyum-beklentiler-ve-gelenekler-ulkede-hayatta-ele-alinacak",
    "https://www.haber7.com/guncel/haber/3679960-unlu-dj-burak-yeter-gozaltina-alindi",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680411-omur-boyu-garanti-tuzagina-1-milyon-tlyi-asan-ceza",
    "https://spor.haber7.com/fenerbahce/haber/3680412-uefa-fenerbahceden-ozur-diledi",
    "https://www.haber7.com/guncel/haber/3680413-mekke-ortak-savunma-ittifaki-toplandi-turkiye-pakistan-ve-suudi-arabistan-ayni-masada",
-   "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-sevinci-gazzede-duvara-cizildi"
+   "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-sevinci-gazzede-duvara-cizildi",
+   "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-mesaji-gazzede-duvara-cizildi",
+   "https://www.haber7.com/guncel/haber/3680415-ankarada-alihan-kuris-operasyonu-18-kisi-tutuklandi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2268,7 +2268,6 @@
   ]
  },
  "recent_titles": [
-  "ensonhaber sordu karşına aslan çıksa ne yapardın",
   "bilim insanları insan kulağının sandığımızdan çok farklı çalıştığını keşfetti",
   "altının onsu abd enflasyon verisi sonrası 3 bin 500 doların altına indi",
   "ardahanda kar yağışı etkisini sürdürüyor",
@@ -3767,6 +3766,7 @@
   "beşiktaşın yıldızının sevinci gazzede duvara çizildi",
   "mekke ortak savunma anlaşması komitesi islamabadda toplandı",
   "ünlülere uyuşturucu soruşturması 3 ismin testi pozitif çıktı",
-  "islamabadda mekke anlaşması toplantısı bakan fidan pakistanlı mevkidaşı dar ile görüştü"
+  "islamabadda mekke anlaşması toplantısı bakan fidan pakistanlı mevkidaşı dar ile görüştü",
+  "ankarada alihan kuriş operasyonu 18 kişi tutuklandı"
  ]
 }
