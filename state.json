@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/mecliste-gorusulmeye-baslandi-22-milyon-kisinin-gss-prim-borcu-silinecek-h1585696",
-   "https://www.ensonhaber.com/adanada-basindan-vurusan-nurmuhammed-37-gun-sonra-hayatini-kaybetti-h1585697",
-   "https://www.ensonhaber.com/avrupada-besiktas-ve-trabzonspor-gecesi-muhtemel-11ler-h1585698",
    "https://www.ensonhaber.com/bitliste-ava-cikan-6-kurt-goruntulendi-h1585699",
    "https://www.ensonhaber.com/yargitaydan-iban-magdurlari-icin-onemli-karar-h1585700",
    "https://www.ensonhaber.com/muhammet-emin-akbasoglunun-hanim-sozlerine-mecliste-sert-tepki-h1585701",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/batmanda-bir-ogretmenin-22-yil-once-cektigi-okul-vlogu-gundem-oldu-h1586188",
    "https://www.ensonhaber.com/yazin-pek-olmuyor-kisin-siklasiyor-kapi-koluna-dokununca-neden-carpiliyoruz-h1586189",
    "https://www.ensonhaber.com/ismail-jakobstan-pape-gueyeye-cagri-galatasaraya-hos-geldin-h1586190",
-   "https://www.ensonhaber.com/ege-universitesinde-ogretmene-bicakli-saldiri-saldirgan-gozaltinda-h1586191"
+   "https://www.ensonhaber.com/ege-universitesinde-ogretmene-bicakli-saldiri-saldirgan-gozaltinda-h1586191",
+   "https://www.ensonhaber.com/canakkalede-kacakcilik-operasyonu-bin-60-litre-sarap-ele-gecirildi-h1586192",
+   "https://www.ensonhaber.com/kastamonuda-evinin-balkonundan-dustu-h1586193",
+   "https://www.ensonhaber.com/uefanin-batumdaki-olaylara-iliskin-aciklamasi-pes-dedirtti-h1586194"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679739-konya-7-aile-mahkemesi-hakimligi",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679221-akcakiraz-belediye-baskanligi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679209-ankara-4-sulh-hukuk-mahkemesi",
    "https://spor.haber7.com/futbol/haber/3679880-hakem-maca-alkollu-cikti-iddiasi-milli-yildiza-gosterdigi-kart-gundem-oldu",
    "https://www.haber7.com/guncel/haber/3679881-kayseride-torbacilara-dron-destekli-operasyon-20-gozalti",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680340-turkiyenin-en-soguk-noktasi-belli-oldu-senelerdir-degismedi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680341-emlak-katilim-katilimevim-birevim-ve-iktisat-katilim-bankasini-bunyesine-katti",
    "https://www.haber7.com/dunya/haber/3680343-abdde-siddetli-firtina-su-baskinlari-ve-iptaller",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680344-yaptigi-dedektiflik-degil-kamuoyunu-yaniltmak-goruntuler-eski-cikti"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680344-yaptigi-dedektiflik-degil-kamuoyunu-yaniltmak-goruntuler-eski-cikti",
+   "https://spor.haber7.com/besiktas/haber/3680345-besiktas-derbisi-oncesi-galatasaraya-osimhen-mujdesi",
+   "https://www.haber7.com/teknoloji/haber/3680318-trumptan-muska-dev-yetki-uzaya-kurulacak-1-milyon-uydu-icin-yesil-isik"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2242,10 +2242,6 @@
   ]
  },
  "recent_titles": [
-  "istanbuldaki yangında dumandan etkilenen 6 yaşındaki kız 5 günlük yaşam mücadelesini kaybetti",
-  "ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında yeni gelişme 24 isim adliyeye sevk edildi",
-  "haluk levent onun yerine benim tutuklanmam gerekiyor",
-  "tartışma yaratan görüntü mahsun kırmızıgül galatasaray maçına böyle geldi bu çakarlı araç kimin",
   "bakan ibrahim yumaklı tbmm bütçe komisyonunda sunum yaptı",
   "prof dr kayıhan pala kent merkezindeki hastanelerin kapanması sağlık hizmetine erişimi zorlaştırıyor",
   "samsunspordan galatasaray maçı açıklaması şikayet ettik",
@@ -3741,6 +3737,10 @@
   "ege üniversitesinde öğretmene bıçaklı saldırı saldırgan gözaltında",
   "çanakkalede kaçakçılık operasyonu bin 60 litre şarap ele geçirildi",
   "kastamonuda evinin balkonundan düştü",
-  "rusyanın askeri harekatı devam ediyor son bir haftanın bilançosu açıklandı"
+  "rusyanın askeri harekatı devam ediyor son bir haftanın bilançosu açıklandı",
+  "trumptan muska dev yetki uzaya kurulacak 1 milyon uydu için yeşil ışık",
+  "uefanın batumdaki olaylara ilişkin açıklaması pes dedirtti",
+  "kızılcık şerbetinde baba oğul sürprizi abdullahın dostu geliyor nursemaya ortak çıkıyor",
+  "avrupada kar ve buzlanma isviçrede 37 araç çarpıştı almanyada 400den fazla kaza yaşandı"
  ]
 }
