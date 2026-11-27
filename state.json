@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/gaziantep-basketbolda-sistem-sampiyonluga-kuruldu-h1585600",
    "https://www.ensonhaber.com/trabzonspor-avrupa-kupalarinda-161-macina-cikacak-h1585601",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macina-hazir-h1585602",
    "https://www.ensonhaber.com/afonso-sousa-ust-siralarda-olmak-istiyoruz-h1585603",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/eskisehirde-parkta-pompali-tufekle-saldiri-7-kisi-gozaltinda-h1586092",
    "https://www.ensonhaber.com/batmanda-suca-ozendirici-paylasimlara-operasyon-6-gozalti-h1586093",
    "https://www.ensonhaber.com/turkiyede-elektrikli-arac-sarj-istasyonu-sayisi-artiyor-h1586094",
-   "https://www.ensonhaber.com/besiktas-macindaki-olaylar-dunya-basininin-gundeminde-polis-mudahalesi-kabul-edilemez-h1586095"
+   "https://www.ensonhaber.com/besiktas-macindaki-olaylar-dunya-basininin-gundeminde-polis-mudahalesi-kabul-edilemez-h1586095",
+   "https://www.ensonhaber.com/japonyada-dunyada-bir-ilk-suni-dollenmeyle-penguen-yavrusu-dunyaya-geldi-h1586096"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,14 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679802-16-ogrenci-gida-zehirlenmesi-nedeniyle-hastaneye-kaldirildi",
-   "https://www.haber7.com/denizli/3679803-denizlide-bir-ogretmen-adliye-onunde-bicaklandi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679804-abd-ekonomisi-yuzde-43-buyudu",
-   "https://www.haber7.com/guncel/haber/3679661-hafterden-ankaraya-ilk-resmi-ziyaret-cumhurbaskani-erdogan-tarafindan-kabul-edildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679805-12-dunya-helal-zirvesi-ve-helal-expo-2026-uluslararasi-ticaret-fuari-basladi",
-   "https://www.haber7.com/dunya/haber/3679806-fransada-grev-tren-seferlerini-vurdu",
-   "https://spor.haber7.com/fenerbahce/haber/3679807-fenerbahcenin-gencleri-avrupada-dagildi-shakhtar-donetske-6-golle-yenildiler",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679808-avrupanin-en-yogun-havalimani-istanbul-oldu-madrid-londra-ve-parisi-solladi",
    "https://www.haber7.com/guncel/haber/3679809-bir-kez-dikiliyor-10-yil-kazandiriyor-yuzde-78i-gaziantepte-uretiliyor",
    "https://www.haber7.com/guncel/haber/3679810-lastikcinin-zaten-her-yil-bir-olayi-varmis-biz-yeni-duymusuz-yarik-lastik-bile-vermisler",
    "https://www.haber7.com/yerel-yonetimler/haber/3679811-gaziantepte-tum-okullara-kahve-makinesi-fatma-sahinden-ogretmenlere-jest",
@@ -1391,7 +1383,15 @@
    "https://www.haber7.com/3sayfa/haber/3680252-ayni-apartmanda-3-cocugun-supheli-olumu-20-yillik-sir-dosya-acildi-7-gozalti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680253-ekonomik-guven-kasim-ayinda-yukseldi",
    "https://www.haber7.com/3sayfa/haber/3680252-adanada-sazan-sarmaliyla-35-milyon-tllik-vurgun-16-tutuklama",
-   "https://www.haber7.com/guncel/haber/3680232-son-dakika-halk-tv-sorusturmasinda-ece-uner-ve-deniz-bayramoglu-dahil-9-kisi-gozaltinda"
+   "https://www.haber7.com/guncel/haber/3680232-son-dakika-halk-tv-sorusturmasinda-ece-uner-ve-deniz-bayramoglu-dahil-9-kisi-gozaltinda",
+   "https://www.haber7.com/adana/3680252-adanada-sazan-sarmaliyla-35-milyon-tllik-vurgun-16-tutuklama",
+   "https://spor.haber7.com/besiktas/haber/3680254-her-seyden-once-insanlik-diyen-ouattaradan-filistin-mesaji-sozunu-sakinmadi",
+   "https://www.haber7.com/guncel/haber/3680255-bitliste-dereye-devrilen-otomobildeki-4-kisi-yaralandi",
+   "https://www.haber7.com/guncel/haber/3680257-eskisehirde-pompali-tufekli-saldiri-7-supheli-gozaltina-alindi",
+   "https://spor.haber7.com/futbol/haber/3680256-son-dakika-super-lig-ve-1-ligde-yeni-donem-tff-yayin-ihalesinin-tarihini-acikladi",
+   "https://www.haber7.com/seyahat/haber/3680258-giresunun-ozel-misafirlere-sunulan-lezzeti-tavsan-ici",
+   "https://www.haber7.com/otomobil/haber/3680259-hyundai-ioniq-3-topgearcom-odullerinde-yilin-kucuk-otomobili-secildi",
+   "https://www.haber7.com/guncel/haber/3680260-73-ilde-uyusturucu-operasyonu-1017-supheli-tutuklandi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2206,9 +2206,6 @@
   ]
  },
  "recent_titles": [
-  "1500 rakımda görsel şölen huzurlu yaylası sonbahar renklerine büründü",
-  "bakan işıkhandan emekli maaşı açıklaması iyileştirme için çalışma yapıyoruz",
-  "husilerden son dakika açıklaması petrol tesisi ve ekonomi şehrini hedef aldık",
   "galatasaray aston villayı yenerek kasasını doldurdu",
   "ayşegül aldinç kıvançla oynamayı iki kez reddetti",
   "tidalden yapay zeka müziğine kısıtlama",
@@ -3705,6 +3702,9 @@
   "son dakika süper lig ve 1 ligde yeni dönem tff yayın ihalesinin tarihini açıkladı",
   "giresunun özel misafirlere sunulan lezzeti tavşan içi",
   "hyundai ioniq 3 topgearcom ödüllerinde yılın küçük otomobili seçildi",
-  "beşiktaş maçındaki olaylar dünya basınının gündeminde polis müdahalesi kabul edilemez"
+  "beşiktaş maçındaki olaylar dünya basınının gündeminde polis müdahalesi kabul edilemez",
+  "73 ilde uyuşturucu operasyonu 1017 şüpheli tutuklandı",
+  "natonun hava nöbetini türk hava kuvvetleri devralacak",
+  "japonyada dünyada bir ilk suni döllenmeyle penguen yavrusu dünyaya geldi"
  ]
 }
