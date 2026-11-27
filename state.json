@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/turkiyenin-dogalgaz-sebekesi-250-bin-kilometreyi-asacak-h1585744",
-   "https://www.ensonhaber.com/dolar-ve-euro-gune-yukselisle-basladi-h1585745",
    "https://www.ensonhaber.com/new-york-belediye-baskani-mamdani-kira-davasini-kazandi-h1585746",
    "https://www.ensonhaber.com/erzurumda-etkili-olan-kar-kartpostallik-goruntu-olusturdu-h1585747",
    "https://www.ensonhaber.com/istanbuldaki-feminist-yuruyusunde-kahrolsun-seriat-yasasin-laiklik-slogani-atildi-h1585748",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/gurcistan-elcisi-disislerine-cagrildi-h1586236",
    "https://www.ensonhaber.com/elektrikli-bmw-m3-ces-2027de-tanitilabilir-1200-nm-tork-ve-650-km-menzil-h1586237",
    "https://www.ensonhaber.com/izmirde-tombala-baskini-63-kisiye-731-bin-tl-ceza-h1586238",
-   "https://www.ensonhaber.com/samsunda-gazetecilere-gulerek-ben-oldurdum-diyen-saniktan-mahkemede-ilginc-savunma-h1586239"
+   "https://www.ensonhaber.com/samsunda-gazetecilere-gulerek-ben-oldurdum-diyen-saniktan-mahkemede-ilginc-savunma-h1586239",
+   "https://www.ensonhaber.com/noel-babanin-sehri-antalyada-9-ulkeli-festival-h1586240",
+   "https://www.ensonhaber.com/mustafa-sarigule-yeni-cinsel-saldiri-sorusturmasi-dosya-ankaraya-gonderildi-h1586241"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679933-gumuste-buyuk-cokusun-ardindan-nefes-molasi-90-gunluk-kayip-yuzde-33u-asti",
    "https://spor.haber7.com/trabzonspor/haber/3679936-firtina-bulgaristanda-cska-sofya-trabzonspor-muhtemel-11ler",
    "https://www.haber7.com/guncel/haber/3679937-yetim-vakfindan-kis-yardim-seferberligi-85-bini-askin-kisiye-ulasilmasi-hedefleniyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679938-bitcoinde-60-bin-dolar-aldatmacasi-mi-2022den-bu-yana-en-agir-aylik-cokus-kapida",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680391-bik-acikladi-resmi-ilan-fiyat-tarifesine-yapilacak-artis-oranlari-belirlendi",
    "https://www.haber7.com/guncel/haber/3680392-is-vaadiyle-17-kisiyi-dolandiran-sahte-avukat-tutuklandi",
    "https://www.haber7.com/guncel/haber/3680389-adalar-denizinde-kritik-rafale-hamlesi-yunanistan-neyin-pesinde",
-   "https://www.haber7.com/guncel/haber/3680393-kara-kartal-yurda-dondu-heastan-besiktasa-anlamli-karsilama"
+   "https://www.haber7.com/guncel/haber/3680393-kara-kartal-yurda-dondu-heastan-besiktasa-anlamli-karsilama",
+   "https://spor.haber7.com/avrupa-ligleri/haber/3680395-galatasaray-ile-adi-aniliyordu-bruno-fernandes-imzayi-atti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2256,9 +2256,6 @@
   ]
  },
  "recent_titles": [
-  "üçüncü çeyrek büyüme beklentisi yüzde 270",
-  "tuna tüner anlattı cinsellik evliliği etkiler mi",
-  "öğretmenler günü yemeğinde 91 kişi hastanelik oldu",
   "galatasaraydan şampiyonlar liginde büyük sıçrama puan durumunda ilk 15e girdi",
   "samsunda kamyon otomobile çarptı 1 yaralı",
   "istanbul havalimanı avrupanın zirvesinde",
@@ -3755,6 +3752,9 @@
   "çekya başbakanı babiş ab zirvesinde tansiyon yükseldi uzlaşma çıkmadı",
   "kara kartal yurda döndü heastan besiktasa anlamlı karsılama",
   "samsunda gazetecilere gülerek ben öldürdüm diyen sanıktan mahkemede ilginç savunma",
-  "noel babanın şehri antalyada 9 ülkeli festival"
+  "noel babanın şehri antalyada 9 ülkeli festival",
+  "galatasaray ile adı anılıyordu bruno fernandes imzayı attı",
+  "süper lig devleriyle anılıyordu real madrid brahim diazın sözleşmesini uzattı",
+  "mustafa sarıgüle yeni cinsel saldırı soruşturması dosya ankaraya gönderildi"
  ]
 }
