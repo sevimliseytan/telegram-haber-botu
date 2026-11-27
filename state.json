@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/suriyeli-hakem-maca-alkollu-cikti-iddiasi-ikinci-yariyi-baskasi-yonetti-h1585762",
    "https://www.ensonhaber.com/rafet-el-roman-yeni-sevgilisini-anlatti-dogru-kisiyi-buldum-h1585763",
    "https://www.ensonhaber.com/izmirde-uyusturucu-imalathanesine-baskin-on-binlerce-hap-ele-gecirildi-h1585764",
    "https://www.ensonhaber.com/isvicre-turkiye-ekonomi-forumu-20nci-yilinda-h1585765",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/irak-turkiye-petrol-boru-hatti-yeniden-faaliyete-gececek-h1586254",
    "https://www.ensonhaber.com/afrikada-catlak-iyice-buyudu-kita-ikiye-bolunuyor-42290-h1586255",
    "https://www.ensonhaber.com/fon-tasfiye-surecinde-odemeler-tamamlandi-h1586256",
-   "https://www.ensonhaber.com/unlulere-uyusturucu-sorusturmasi-test-sonuclari-belli-oldu-h1586257"
+   "https://www.ensonhaber.com/unlulere-uyusturucu-sorusturmasi-test-sonuclari-belli-oldu-h1586257",
+   "https://www.ensonhaber.com/4-ibb-meclis-uyesi-daha-ak-partiye-katildi-h1586258"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/seyahat/haber/3679975-balikesirin-altin-lezzeti-bin-yildir-ayni-yontemle-hazirlaniyor",
    "https://www.haber7.com/guncel/haber/3679976-sehitlerimiz-icin-son-gorev-memleketlerine-ugurlaniyorlar",
    "https://ekonomi.haber7.com/ekonomi/haber/3679977-halka-arzlarda-da-vurgun-yapmislar-tera-ceosu-birer-birer-acikladi",
    "https://www.haber7.com/guncel/haber/3679978-acili-babadan-kan-donduran-miras-iddiasi-yanginda-2-cocuk-hayatini-kaybetmisti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/kultur/haber/3680426-mevlevi-sema-mukabelesi-ve-turk-tasavvuf-musikisi-ingilterede",
    "https://www.haber7.com/siyaset/haber/3680427-imamoglu-taca-cikti-ozel-deme-dirsek-cevirdi-siyasette-yeni-ittifak-hazirligi-mi",
    "https://www.haber7.com/dunya/haber/3680428-abdden-umman-korfezinde-dikkat-ceken-saldiri-ablukayi-asmaya-calisan-gemiyi-vurdu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680429-2027-butcesi-komisyonda-kabul-edildi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680429-2027-butcesi-komisyonda-kabul-edildi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680431-turk-savunma-sanayisinden-ingilterede-milyonlarca-dolarlik-hamle-hedef-4-katina-cikti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2274,9 +2274,6 @@
   ]
  },
  "recent_titles": [
-  "teracılar ayrı pusulacılar ayrı fonda iki farklı örgüt var",
-  "uefa avrupa liginde 5 hafta maçları yapılacak",
-  "yılancık taşı nedir neye iyi gelir doğurduğuna bile inanılıyor",
   "celtics tatumun 41 sayısıyla wizardsı yendi",
   "beşiktaş avrupada 269 maçına çıkacak",
   "a milli erkek basketbol takımı 1068 maçına çıkacak",
@@ -3773,6 +3770,9 @@
   "imamoğlu taca çıktı özel deme dirsek çevirdi siyasette yeni ittifak hazırlığı mı",
   "abdden umman körfezinde dikkat çeken saldırı ablukayı aşmaya çalışan gemiyi vurdu",
   "2027 bütçesi komisyonda kabul edildi",
-  "cumhurbaşkanı erdoğan yarın yunanistan cumhurbaşkanı tasulas ile istanbulda görüşecek"
+  "cumhurbaşkanı erdoğan yarın yunanistan cumhurbaşkanı tasulas ile istanbulda görüşecek",
+  "türk savunma sanayisinden ingilterede milyonlarca dolarlık hamle hedef 4 katına çıktı",
+  "ergin atamandan fransızların irkçılık iddiasına çok sert cevap",
+  "4 ibb meclis üyesi daha ak partiye katıldı"
  ]
 }
