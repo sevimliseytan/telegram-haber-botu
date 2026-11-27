@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3679988-vedat-muriqiden-esine-jest-askim-bu-senin-icin-dedi-odulu-eve-goturdu",
-   "https://www.haber7.com/gaziantep/3679987-gaziantepte-kan-donduran-olay-arkadasini-oldurup-parasiyla-borclarini-odedi-iddiasi",
    "https://www.haber7.com/dunya/haber/3679990-abd-olmadan-da-irani-vururuz-dedi-katil-sozcuden-canli-kalkan-savunmasi",
    "https://www.haber7.com/guncel/haber/3679989-elazigda-isletme-gibi-calisan-okul-yillik-cirosu-dudak-ucuklatti",
    "https://www.haber7.com/dunya/haber/3679991-endonezyada-yasa-disi-altin-madeninde-facia-13-olu-13-mahsur",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/saglik/haber/3680430-mehmet-ali-bulut-gdo-deccal-caginin-kasitli-bir-operasyonudur",
    "https://www.haber7.com/guncel/haber/3680413-mekke-ortak-savunma-ittifaki-toplandi-3-ulkeden-ortak-aciklama",
    "https://www.haber7.com/3sayfa/haber/3680439-elleri-baglayip-bogarak-oldurmusler-kocasini-eve-cagirdigi-arkadaslarina-oldurttu",
-   "https://spor.haber7.com/super-lig/haber/3680440-pfdkdan-besiktas-ve-fenerbahceye-ceza"
+   "https://spor.haber7.com/super-lig/haber/3680440-pfdkdan-besiktas-ve-fenerbahceye-ceza",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680441-35-kalite-kongresi-ortak-ritim-temasiyla-gerceklestirildi",
+   "https://www.haber7.com/3sayfa/haber/3680439-elleri-baglayip-bogmuslar-kocasini-eve-cagirdigi-arkadaslarina-oldurttu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2246,7 +2246,8 @@
    "https://anlatilaninotesi.com.tr/20261127/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-1110650810.html",
    "https://anlatilaninotesi.com.tr/20261127/berlinde-amazon-deposu-onunde-eylem-filistin-destekcileri-girisi-kapatti-1110651507.html",
    "https://anlatilaninotesi.com.tr/20261127/yeni-parti-genel-baskani-ozelden-cumhurbaskani-adayi-aciklamasi-1110651778.html",
-   "https://anlatilaninotesi.com.tr/20261127/ingiliz-general-carter-rusyaya-karsi-baltik-ulkeleri-askeri-kirpiye-donusturulmeli-1110652040.html"
+   "https://anlatilaninotesi.com.tr/20261127/ingiliz-general-carter-rusyaya-karsi-baltik-ulkeleri-askeri-kirpiye-donusturulmeli-1110652040.html",
+   "https://anlatilaninotesi.com.tr/20261127/denizlide-evinde-bagli-halde-olu-bulunmustu-darp-edilip-boguldugu-ortaya-cikti-3-kisi-tutuklandi-1110652370.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2278,7 +2279,6 @@
   ]
  },
  "recent_titles": [
-  "beşiktaş kafilesini taşıyan uçak batuma inemedi italianonun toplantısı iptal edildi",
   "markus gisdoldan trabzonspor maçı öncesi açıklama",
   "galatasarayda derbi mesaisi başladı",
   "aras kargonun ertelenen cev kadınlar challenge kupası maçlarının tarihi belirlendi",
@@ -3777,6 +3777,7 @@
   "boluda çocukların bulunduğu araçtan haber alınamıyor arama çalışması başlatıldı",
   "ingiliz general carter rusyaya karşı baltık ülkeleri askeri kirpiye dönüştürülmeli",
   "pfdkdan beşiktaş ve fenerbahçeye ceza",
-  "35 kalite kongresi ortak ritim temasıyla gerçekleştirildi"
+  "35 kalite kongresi ortak ritim temasıyla gerçekleştirildi",
+  "denizlide evinde bağlı halde ölü bulunmuştu darp edilip boğulduğu ortaya çıktı 3 kişi tutuklandı"
  ]
 }
