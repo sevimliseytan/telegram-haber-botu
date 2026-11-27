@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/abdulkadir-uraloglu-demiryolunda-9-milyon-engelli-yolcumuza-ucretsiz-hizmet-verdik-h1533357",
-   "https://www.ensonhaber.com/yapay-zekalardan-2027-asgari-ucret-tahmini-chatgpt-gemini-grok-claude-h1585554",
-   "https://www.ensonhaber.com/ucuncu-ceyrekte-buyume-beklentisi-yuzde-270-h1585555",
    "https://www.ensonhaber.com/tuna-tuner-anlatti-cinsellik-evliligi-etkiler-mi-h1585556",
    "https://www.ensonhaber.com/samsunda-kamyon-otomobile-carpti-1-yarali-h1585557",
    "https://www.ensonhaber.com/istanbul-havalimani-avrupanin-zirvesinde-95940-h1585558",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/orduda-alkollu-surucunun-carptigi-2-lise-ogrencisi-yaralandi-h1586046",
    "https://www.ensonhaber.com/kamu-alacaklarinda-gecikme-zammi-orani-ve-tecil-faizi-dusuruldu-h1586047",
    "https://www.ensonhaber.com/zigana-daginda-gun-batimi-kar-ve-sis-gorsel-solen-olusturdu-h1586048",
-   "https://www.ensonhaber.com/yazarlar/mustafa-armagan/bati-icinden-batiya-itiraz-guenon-ve-celine"
+   "https://www.ensonhaber.com/yazarlar/mustafa-armagan/bati-icinden-batiya-itiraz-guenon-ve-celine",
+   "https://www.ensonhaber.com/galibiyetin-ardindan-salih-ozcan-allahu-ekber-h1586049",
+   "https://www.ensonhaber.com/sicakliklar-dusecek-sibiryadan-soguk-hava-geliyor-h1586050",
+   "https://www.ensonhaber.com/google-ceosundan-turkiye-aciklamasi-100-milyar-dolar-katki-saglayabilir-h1586051"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679743-esini-oldurdugu-olaydan-yarim-saat-once-kayinpederinin-evini-atese-vermis",
    "https://www.haber7.com/guncel/haber/3679744-mersinde-yabani-ot-faciasi-iki-kuzenden-biri-oldu-digeri-yogun-bakimda",
    "https://www.haber7.com/3sayfa/haber/3679746-konyada-fuhus-operasyonu11-tutuklama",
    "https://www.haber7.com/guncel/haber/3679745-topladiklari-otlari-yiyen-kuzenlerden-aci-haber-biri-oldu-digeri-yogun-bakimda",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680201-kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu",
    "https://www.haber7.com/guncel/haber/3680203-ozgur-ozel-terorsuz-turkiye-meselesinde-neden-surekli-zikzak-ciziyor-sorusunun-cevabi",
    "https://www.haber7.com/guncel/haber/3680202-oto-elektrik-dukkaninda-yangin-5-arac-alevlere-teslim-oldu",
-   "https://www.haber7.com/seyahat/haber/3680204-onceden-gezmek-imkansizdi-sakaryanin-doga-harikasi-ziyarete-acildi"
+   "https://www.haber7.com/seyahat/haber/3680204-onceden-gezmek-imkansizdi-sakaryanin-doga-harikasi-ziyarete-acildi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680205-ev-ve-arsa-alacaklar-dikkat-guvenli-odeme-sistemi-icin-tarih-belli-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2163,7 +2163,8 @@
    "https://anlatilaninotesi.com.tr/20261127/altinda-sert-dusus-sonrasi-dev-bankadan-yil-sonu-tahmini-1110629364.html",
    "https://anlatilaninotesi.com.tr/20261127/kasim-indirimindeki-alisveris-sepeti-aliskanliklari-degisti-yeni-trend-ne-1110629806.html",
    "https://anlatilaninotesi.com.tr/20261127/rusya-savunma-bakanligi-ukraynada-vurulan-hedefleri-acikladi-1110630224.html",
-   "https://anlatilaninotesi.com.tr/20261127/lpgli-arac-sahipleri-dikkat-resmi-gazetede-yayimlandi-avm-otoparklarina-6-kritik-sart-geldi-1110630379.html"
+   "https://anlatilaninotesi.com.tr/20261127/lpgli-arac-sahipleri-dikkat-resmi-gazetede-yayimlandi-avm-otoparklarina-6-kritik-sart-geldi-1110630379.html",
+   "https://anlatilaninotesi.com.tr/20261127/kamu-borclarinda-yeni-donem-gecikme-zammi-ve-tecil-faizi-dusuruldu-mevcut-borclarda-yeni-oran-nasil-1110630654.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2193,10 +2194,6 @@
   ]
  },
  "recent_titles": [
-  "eylül öztürk estetik sonrası amerikaya döndü uçaktan yaptığı paylaşım şaşırttı",
-  "kurtulmuş terörsüz türkiye sürecinde izleme komisyonu 19 üyeden oluşacak",
-  "nvidiada u dönüşü huangın dönüşü küresel piyasaları uçurdu",
-  "terörsüz türkiye sürecinde kritik adım 19 üyeden oluşacak",
   "netanyahu şikayet etmişti galatasaraydan uefanın ceza uyarısına filistin pankartlı cevap",
   "feyza civelekten yeraltı dizisi sorusuna yanıt sürpriz olsun",
   "araç muayenesinde yeni dönem başlıyor kredi kartı komisyonu ne zaman kalkacak",
@@ -3692,6 +3689,10 @@
   "önceden gezmek imkansızdı sakaryanın doğa harikası ziyarete açıldı",
   "batı içinden batıya itiraz guénon ve céline",
   "galibiyetin ardından salih özcanın sevinci gündem oldu allahu ekber",
-  "sıcaklıklar düşecek sibiryadan soğuk hava geliyor"
+  "sıcaklıklar düşecek sibiryadan soğuk hava geliyor",
+  "ev ve arsa alacaklar dikkat güvenli ödeme sistemi için tarih belli oldu",
+  "google ceosundan türkiye açıklaması 100 milyar dolar katkı sağlayabilir",
+  "beşiktaşı destekleyen galatasaraylı ve fenerbahçeli taraftarlar gürcü polisine direndi",
+  "kamu borçlarında yeni dönem gecikme zammı ve tecil faizi düşürüldü mevcut borçlarda yeni oran nasıl uygulanacak"
  ]
 }
