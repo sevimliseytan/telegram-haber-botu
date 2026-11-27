@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/fenerbahce-rapid-bukrese-sans-tanimadi-h1585647",
-   "https://www.ensonhaber.com/istanbulda-otomotiv-servisinde-12-bin-liralik-dolandiricilik-3-gozalti-h1585648",
    "https://www.ensonhaber.com/arda-turan-ile-emre-belozoglunun-mucadelesi-tarihe-gecti-h1585649",
    "https://www.ensonhaber.com/onder-ozenden-galatasaray-derbisi-aciklamasi-dezavantajimiz-var-h1585650",
    "https://www.ensonhaber.com/bati-avrupada-grev-fransa-ve-ingiltere-arasinda-hizli-tren-seferleri-iptal-edildi-h1585651",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/mars-meteoritinde-daha-once-rastlanmamis-granat-minerali-bulundu-h1586139",
    "https://www.ensonhaber.com/muhammed-salah-trabzonsporu-sirtlamaya-devam-ediyor-h1586140",
    "https://www.ensonhaber.com/bitliste-gonullu-kadinlar-koy-cocuklari-icin-atki-oruyor-h1586141",
-   "https://www.ensonhaber.com/kocaelide-izinsiz-hafriyat-doken-2-firmaya-46-milyon-lira-ceza-h1586142"
+   "https://www.ensonhaber.com/kocaelide-izinsiz-hafriyat-doken-2-firmaya-46-milyon-lira-ceza-h1586142",
+   "https://www.ensonhaber.com/gurcu-hamsisi-nasil-anlasilir-iste-yerli-hamsiden-ayiran-ozellik-h1586143",
+   "https://www.ensonhaber.com/hatayda-devlet-benim-diyerek-sanal-medyada-sehitlere-hakaret-eden-supheli-gozaltina-alindi-h1586144"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679849-dunya-ekonomi-ve-finans-cevreleri-palandokende-bulusacak-tarih-belli-oldu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679850-tarimda-yeni-sezon-yagis-bereketiyle-basladi-son-16-yilin-rekoru-kirildi",
-   "https://spor.haber7.com/besiktas/haber/3679851-korku-dolu-anlar-besiktas-rizeye-zorunlu-inis-yapti-hayatimdaki-en-kotu-ucustu",
    "https://www.haber7.com/guncel/haber/3679852-osmanli-arsivinden-120-yillik-petrol-sirri-erzurumun-bilinmeyen-ticaret-gecmisi",
    "https://www.haber7.com/dunya/haber/3679853-abde-coca-colaya-rekabet-sorusturmasi",
    "https://www.haber7.com/medya/haber/3679854-basin-ilan-kurumundan-basina-67-milyar-tl-destek-baskan-cay-1-yillik-tabloyu-acikladi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/medya/haber/3680301-bilmezler-ki-kalbimdesin-133-bolum-imlie-bebegini-kaybediyor",
    "https://www.haber7.com/guncel/haber/3680300-gazeteciler-saban-sevinc-ve-mustafa-balci-hakkinda-karar",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680302-besiktas-hapoel-maci-dunyada-gundem-oldu-israil-basininda-besiktasa-skandal-sozler",
-   "https://www.haber7.com/medya/haber/3680303-gelin-523-bolum-cihanin-ofkesi-diniyor"
+   "https://www.haber7.com/medya/haber/3680303-gelin-523-bolum-cihanin-ofkesi-diniyor",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680304-ito-baskani-sekib-avdagic-86-milyon-turkiye-seninle-gurur-duyuyor-kara-kartal",
+   "https://www.haber7.com/guncel/haber/3680305-narin-guran-davasinda-4uncu-durusma-15-sanik-yargilandi",
+   "https://www.haber7.com/saglik/haber/3680306-araba-kullanmanin-bilinmeyen-etkisi-ortaya-cikti-kalp-ritmi-alarm-veriyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2217,9 +2217,6 @@
   ]
  },
  "recent_titles": [
-  "bakanlık duyurdu sosyal medyada tetikçi arayan yeni nesil suç örgütlerine darbe",
-  "iran abdyi ölümcül saldırılarda yapay zeka kullanmakla suçladı",
-  "gündemdeki lastikçi karşı tarafı suçladı 20 yıllık emeğimiz yok oldu kazancımız helaldir",
   "türkiyenin bitki genetik mirası eksi 196 derecede geleceğe taşınacak",
   "galatasarayda 25 yıl sonra bir ilk",
   "erzincan ergan dağında kar ve tipi etkili oldu",
@@ -3716,6 +3713,9 @@
   "ito başkanı şekib avdagiç 86 milyon türkiye seninle gurur duyuyor kara kartal",
   "narin güran davasında 4üncü duruşma 15 sanık yargılandı",
   "kocaelide izinsiz hafriyat döken 2 firmaya 46 milyon lira ceza",
-  "gürcü hamsisi nasıl anlaşılır işte yerli hamsiden ayıran özellik"
+  "gürcü hamsisi nasıl anlaşılır işte yerli hamsiden ayıran özellik",
+  "araba kullanmanın bilinmeyen etkisi ortaya çıktı kalp ritmi alarm veriyor",
+  "hatayda devlet benim diyerek sanal medyada şehitlere hakaret eden şüpheli gözaltına alındı",
+  "beşiktaş dönüş yoluna geçti"
  ]
 }
