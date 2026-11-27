@@ -253,12 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/halkbank-jeffrey-jendryki-renklerine-bagladi-h1585607",
-   "https://www.ensonhaber.com/a-milli-erkek-voleybol-takiminin-milletler-ligindeki-gruplari-belli-oldu-h1585608",
-   "https://www.ensonhaber.com/markus-gisdoldan-trabzonspor-maci-oncesi-aciklama-h1585609",
-   "https://www.ensonhaber.com/galatasarayda-derbi-mesaisi-basladi-h1585610",
-   "https://www.ensonhaber.com/aras-kargonun-ertelenen-cev-kadinlar-challenge-kupasi-maclarinin-tarihi-belirlendi-h1585611",
-   "https://www.ensonhaber.com/nba-avrupa-icin-10-milyar-euroluk-girisim-plani-h1585612",
    "https://www.ensonhaber.com/aras-kargonun-ligdeki-maclarinda-degisiklik-h1585613",
    "https://www.ensonhaber.com/yilin-son-mgksi-cumhurbaskani-erdogan-baskanliginda-toplaniyor-h1585614",
    "https://www.ensonhaber.com/trabzonspor-cska-sofya-maci-icin-bulgaristanda-h1585615",
@@ -752,7 +746,13 @@
    "https://www.ensonhaber.com/turk-f-16lari-romanyada-nato-hava-sahasinin-guvenligini-saglayacak-h1586099",
    "https://www.ensonhaber.com/73-ilde-uyusturucu-operasyonu-bin-17-kisi-tutuklandi-h1586100",
    "https://www.ensonhaber.com/volkswagen-id-buzz-beach-tanitildi-elektrikli-minibus-kamp-aracina-donustu-h1586101",
-   "https://www.ensonhaber.com/antalyada-asla-sollamam-diyen-surucu-facianin-esiginden-dondu-h1586102"
+   "https://www.ensonhaber.com/antalyada-asla-sollamam-diyen-surucu-facianin-esiginden-dondu-h1586102",
+   "https://www.ensonhaber.com/izmir-karsiyakada-cop-yiginlarina-karsi-sandalyeli-protesto-h1586103",
+   "https://www.ensonhaber.com/124-donem-ogg-sinavi-ne-zaman-yapilacak-2026-ozel-guvenlik-gorevlisi-sinav-takvimi-h1586104",
+   "https://www.ensonhaber.com/sarkici-gokselden-yillar-sonra-itiraf-etti-bosanmak-kolay-olmadi-h1586105",
+   "https://www.ensonhaber.com/istanbulda-drone-destekli-operasyon-12-kilo-840-gram-uyusturucu-ele-gecirildi-h1586106",
+   "https://www.ensonhaber.com/yasin-ozcan-israilli-oyuncunun-uzerine-yurudu-fotograf-karesi-gundem-oldu-h1586107",
+   "https://www.ensonhaber.com/trump-iran-israile-ve-orta-dogudaki-ulkelere-nukleer-silahlarla-ates-acarsa-nukleer-bir-so-h1586108"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679813-mersinde-yanan-evde-cesetleri-bulunmustu-yeni-rapor-duzenlenecek",
-   "https://www.haber7.com/siyaset/haber/3679814-destici-kadina-yonelen-siddetin-mazereti-asla-olamaz",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679809-bir-kez-ekiliyor-10-yil-kazandiriyor-yuzde-78i-gaziantepte-uretiliyor",
    "https://www.haber7.com/mersin/3679813-mersinde-yanan-evde-cesetleri-bulunmustu-yeni-rapor-duzenlenecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3679815-fiyati-bir-ayda-dibi-gordu-400-tlden-20-tlye-dustu",
    "https://www.haber7.com/dunya/haber/3679816-belcikada-82-belediyeye-es-zamanli-siber-saldiri",
@@ -1391,7 +1388,10 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680262-ozellestirme-idaresi-6-ilde-tasinmaz-satisi-yapacak",
    "https://www.haber7.com/dunya/haber/3680263-guncel-liste-belli-oldu-iste-filistin-ve-israili-destekleyen-unluler",
    "https://spor.haber7.com/super-lig/haber/3680264-super-ligde-derbi-zamani-iste-haftanin-programi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680265-avrupali-ureticiler-turkiyedeki-tesislerinin-made-in-eu-kapsamina-alinmasini-istiyor"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680265-avrupali-ureticiler-turkiyedeki-tesislerinin-made-in-eu-kapsamina-alinmasini-istiyor",
+   "https://spor.haber7.com/futbol/haber/3680256-super-lig-ve-1-ligde-yeni-donem-tff-yayin-ihalesinin-tarihini-acikladi",
+   "https://www.haber7.com/karaman/3680266-karamanda-kayip-olarak-aranan-mehmet-ali-olu-bulunmustu-3-supheli-serbest",
+   "https://www.haber7.com/guncel/haber/3680267-skydagger-dronlari-aselsan-radar-verisiyle-sahada-gorev-basinda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2207,9 +2207,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda 4 lastik değişmeli diyerek tüketiciyi yanıltan otomotiv servisi denetlendi",
-  "körfezde enerji dengesi değişti iranın gelirleri yüzde 75 eridi",
-  "bm geçen yıl dünyada her saat 5 kadın partneri veya aile üyesi tarafından öldürüldü",
   "trump zelenskiyin barış takvimi iddialarına kahkahayla yanıt verdi",
   "beşiktaş israil ekibine karşı uefa avrupa liginde 5 haftanın programı",
   "abdde dev dalgalar adamı ve köpeğini denize sürükledi ikisi de son anda kurtuldu",
@@ -3706,6 +3703,9 @@
   "124 dönem ögg sınavı ne zaman yapılacak 2026 özel güvenlik görevlisi sınav takvimi",
   "şarkıcı gökselden yıllar sonra itiraf etti boşanmak kolay olmadı",
   "istanbulda drone destekli operasyon 12 kilo 840 gram uyuşturucu ele geçirildi",
-  "yasin özcan israilli oyuncunun üzerine yürüdü fotoğraf karesi gündem oldu"
+  "yasin özcan israilli oyuncunun üzerine yürüdü fotoğraf karesi gündem oldu",
+  "skydagger dronları aselsan radar verisiyle sahada görev başında",
+  "kura nehrinde şaşırtan manzara buz adacıkları ilginç görüntüler oluşturdu",
+  "trump iran israile ve orta doğudaki ülkelere nükleer silahlarla ateş açarsa nükleer bir soykırım yaşanır"
  ]
 }
