@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/muglada-seyir-halinde-alev-alan-beton-mikseri-kullanilamaz-hale-geldi-h1585563",
-   "https://www.ensonhaber.com/ingilterede-iha-tehdidi-savas-ucaklari-hangarlara-cekiliyor-h1585564",
    "https://www.ensonhaber.com/rafineri-onarimlari-rusyayi-akaryakit-ithalatina-yoneltti-h1585565",
    "https://www.ensonhaber.com/manisada-16-lise-ogrencisi-gida-zehirlenmesi-suphesiyle-hastaneye-gitti-h1585566",
    "https://www.ensonhaber.com/bilim-insanlarindan-sevindiren-haber-zirh-teknolojisi-otomobillere-geliyor-h1585567",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/erzincan-ergan-daginda-kurtarma-operasyonu-h1586055",
    "https://www.ensonhaber.com/hindistanda-bir-garip-dilek-ritueli-fil-heykelinin-altinda-sikisip-kaldi-h1586056",
    "https://www.ensonhaber.com/fon-sorusturmasi-kemal-akkaya-serbest-birakildi-3-kisi-tutuklandi-h1586057",
-   "https://www.ensonhaber.com/yerin-4-metre-altindaki-uretim-tesisi-her-gun-35-kilo-topluyor-h1586058"
+   "https://www.ensonhaber.com/yerin-4-metre-altindaki-uretim-tesisi-her-gun-35-kilo-topluyor-h1586058",
+   "https://www.ensonhaber.com/japonyadan-fatma-sahine-turkiye-japonya-dostluguna-katkilarindan-dolayi-nisan-h1586059",
+   "https://www.ensonhaber.com/amasyada-asirlik-cinar-gunlerini-namaz-kilarak-geciriyor-h1586060"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/ulkede-bugun/haber/3679750-batmanda-acilan-ahir-kapisi-besiciyi-kahretti-109-kesi-telef-oldu",
-   "https://www.haber7.com/yasam/haber/3679750-batmanda-acilan-ahir-kapisi-besiciyi-kahretti-109-kesi-telef-oldu",
-   "https://www.haber7.com/dunya/haber/3679752-mecliste-renkli-anlar-musluman-senatorun-bebegiyle-oynadilar",
-   "https://www.haber7.com/guncel/haber/3679754-istanbula-kar-ne-zaman-yagacak-akom-tarih-vererek-duyurdu",
    "https://www.haber7.com/medya/haber/3679756-gelinde-gulfem-koseye-sikisti-neyin-ortaya-cikmasindan-korkuyor",
    "https://www.haber7.com/dunya/haber/3679755-meghan-marklenin-babasina-cocuk-istismari-suclamasi",
    "https://spor.haber7.com/avrupa-ligleri/haber/3679758-dunya-devi-icin-mauro-icardi-onerisi",
@@ -1391,7 +1387,11 @@
    "https://www.haber7.com/guncel/haber/3680208-magarada-bircok-kafatasi-bulundu-inceleme-icin-istanbula-gonderildi",
    "https://www.haber7.com/guncel/haber/3680207-helal-yasamin-ticarilesmesi",
    "https://www.haber7.com/guncel/haber/3680210-meteorolojiden-bircok-kent-icin-uyari-hafta-sonuna-dikkat",
-   "https://www.haber7.com/guncel/haber/3680212-fon-sorusturmasinda-yeni-gelisme-kemal-akkaya-serbest-birakildi"
+   "https://www.haber7.com/guncel/haber/3680212-fon-sorusturmasinda-yeni-gelisme-kemal-akkaya-serbest-birakildi",
+   "https://www.haber7.com/guncel/haber/3680213-unlulere-uyusturucu-operasyonu-3-isim-tutuklandi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680214-enerjide-tarihi-gun-abdli-chevron-ile-dev-imza-avrupa-ile-5-yillik-mutabakat",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680215-serbest-piyasada-doviz-acilis-fiyatlari",
+   "https://www.haber7.com/saglik/haber/3680217-filmim-temiz-demek-akcigerlerin-saglam-oldugu-anlamina-gelmiyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2195,10 +2195,6 @@
   ]
  },
  "recent_titles": [
-  "polis aracına çarpıp kaçan sürücüye 650 bin tl ceza",
-  "masterchef güzide mertcandan yeni proje roman yazdı",
-  "doğum borçlanmasında kritik tarih 228 bin tl fark oluşabilir",
-  "ufuk beydemir baba oldu kızına bakın hangi ismi verdi",
   "petrol fiyatlarında yön değişti gözler opec toplantısında",
   "körfezde sıcak saatler devrim muhafızları duyurdu iki petrol tankeri alev aldı",
   "serenay sarıkaya hayvanseverlere seslendi satın alma sahiplen",
@@ -3694,6 +3690,10 @@
   "enerjide tarihi gün abdli chevron ile dev imza avrupa ile 5 yıllık mutabakat",
   "serbest piyasada döviz açılış fiyatları",
   "yerin 4 metre altındaki üretim tesisi her gün 35 kilo topluyor",
-  "japonyadan fatma şahine türkiyejaponya dostluğuna katkılarından dolayı nişan"
+  "japonyadan fatma şahine türkiyejaponya dostluğuna katkılarından dolayı nişan",
+  "filmim temiz demek akciğerlerin sağlam olduğu anlamına gelmiyor",
+  "gürcistanın derdi ne",
+  "amasyada asırlık çınar günlerini namaz kılarak geçiriyor",
+  "diyarbakırda mağarada bulunan birçok kafatası ve kemik incelenmek üzere istanbula gönderildi"
  ]
 }
