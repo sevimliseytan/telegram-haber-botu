@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-durdurulan-otomobilde-kalasnikof-cikti-3-gozalti-h1585684",
    "https://www.ensonhaber.com/ankarada-feto-operasyonu-3-firari-yakalandi-h1585685",
    "https://www.ensonhaber.com/motorin-fiyatlarinda-432-lira-dusus-pompaya-yansidi-h1585686",
    "https://www.ensonhaber.com/melisa-dongelden-evlilige-yesil-isik-aile-kursam-fena-olmaz-h1585687",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/motogpde-sezon-ispanyada-sona-erecek-h1586176",
    "https://www.ensonhaber.com/istanbul-2027-avrupa-oyunlari-gonullu-basvurusu-basladi-h1586177",
    "https://www.ensonhaber.com/sehit-volkan-demirhan-son-yolculuguna-ugurlandi-h1586178",
-   "https://www.ensonhaber.com/formula-1de-siradaki-durak-katar-h1586179"
+   "https://www.ensonhaber.com/formula-1de-siradaki-durak-katar-h1586179",
+   "https://www.ensonhaber.com/bursada-trafikte-mahsur-kalan-yavru-kediyi-kurtardilar-h1586180"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/siyaset/haber/3679874-iyi-partide-istifa-depremi-belediye-baskani-sait-korgan-bagimsiz-devam-edecek",
    "https://www.haber7.com/dunya/haber/3679875-abdden-netanyahuya-son-dakika-uyarisi",
    "https://www.haber7.com/dunya/haber/3679875-abdden-netanyahuya-son-dakika-uyarisi-plani-uygulayin",
    "https://spor.haber7.com/besiktas/haber/3679877-onder-ozen-ucakta-yasananlari-anlatti-bir-tehlike-atlattik",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/seyahat/haber/3680331-hz-musanin-diktigine-inaniliyor-hatayin-3-bin-600-yillik-musa-agacina-yogun-ilgi",
    "https://www.haber7.com/dunya/haber/3680330-eski-yunan-koramiral-egolfopulostan-turkiye-itirafi-seytanla-bile-ittifak-yaparim",
    "https://spor.haber7.com/besiktas/haber/3680332-besiktas-galatasaray-derbisinde-dusan-vlahovice-guveniyor",
-   "https://www.haber7.com/ulkede-bugun/haber/3680333-aydinda-cami-duvarina-yazilan-yazi-korkuttu-bir-cocuk-gozaltinda"
+   "https://www.haber7.com/ulkede-bugun/haber/3680333-aydinda-cami-duvarina-yazilan-yazi-korkuttu-bir-cocuk-gozaltinda",
+   "https://spor.haber7.com/besiktas/haber/3680319-resmi-aciklama-geldi-besiktasa-gurcistanda-bir-sikinti-daha"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2239,9 +2239,6 @@
   ]
  },
  "recent_titles": [
-  "kalbim sana emanette ayşenin kaçış yolu kendisini köprüden suya atıyor",
-  "vodafone business ve itü siber güvenlik akademesini hayata geçirdi",
-  "ilker aksum indirime karşı ben ücretimi düşürmem",
   "gta 6 playstation tarihine geçti 39 milyon oyuncuya ulaştı",
   "iran engelleyici hamle yapmazsa irak ya da suriye senaryosu devreye girer",
   "kremlinden batıya mesaj ukraynaya yabancı askerlerin konuşlandırılması kesinlikle kabul edilemez",
@@ -3738,6 +3735,9 @@
   "formula 1de sıradaki durak katar",
   "türkiyenin en soğuk yeri belli oldu termometreler eksi 18i gösterdi",
   "aydında cami duvarına yazılan yazı korkuttu bir çocuk gözaltında",
-  "mesam 40ıncı yıl dönümünü kutladı 35 ödül sahiplerini buldu"
+  "mesam 40ıncı yıl dönümünü kutladı 35 ödül sahiplerini buldu",
+  "resmi açıklama geldi beşiktaşa gürcistanda bir sıkıntı daha",
+  "bursada trafikte mahsur kalan yavru kediyi kurtardılar",
+  "bddknın yeni başkanı yusuf kenan bağır kimdir daha önce hangi görevlerde bulundu"
  ]
 }
