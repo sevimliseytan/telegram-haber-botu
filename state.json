@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi",
    "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti",
    "https://www.haber7.com/dunya/haber/3680016-son-dakika-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
    "https://ekonomi.haber7.com/ekonomi/haber/3680017-kuresel-firtinaya-ragmen-turk-lirasina-yabanci-ilgisi-suruyor",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/resmi-ilanlar/haber/3680003-erzurum-bolge-adliye-mahkemesi-4-hukuk-dairesi-baskanligi",
    "https://spor.haber7.com/super-lig/haber/3680448-ilhan-palut-artik-bir-seri-yakalamamiz-gerekiyor",
    "https://spor.haber7.com/super-lig/haber/3680449-recep-ucardan-zaferin-ardindan-galatasaray-sozleri",
-   "https://www.haber7.com/hayat/haber/3680450-12-gundur-hastanedeydi-yavuz-bingolun-saglik-durumuna-iliskin-esinden-aciklama"
+   "https://www.haber7.com/hayat/haber/3680450-12-gundur-hastanedeydi-yavuz-bingolun-saglik-durumuna-iliskin-esinden-aciklama",
+   "https://spor.haber7.com/super-lig/haber/3680451-alfred-schreuder-birazcik-sanssiziz"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2280,7 +2280,6 @@
   ]
  },
  "recent_titles": [
-  "vatandaşlara müjde izmirde suya dev indirim 30 büyükşehir arasında en ucuzu oldu",
   "türkiyeden riyada saldıran husilere sert tepki",
   "fenerbahçede divine ngah manga ameliyat edildi",
   "nagehan alçı fatma betül sayan kayanın tahliye edilme sebebini açıkladı",
@@ -3779,6 +3778,7 @@
   "ilhan palut artık bir seri yakalamamız gerekiyor",
   "recep uçardan zaferin ardından galatasaray sözleri",
   "12 gündür hastanedeydi yavuz bingölün sağlık durumuna ilişkin eşinden açıklama",
-  "istanbul küçükçekmecede evde yaşanan patlamada 1 kişi yaralandı"
+  "istanbul küçükçekmecede evde yaşanan patlamada 1 kişi yaralandı",
+  "alfred schreuder birazcık şanssızız"
  ]
 }
