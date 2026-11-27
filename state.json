@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/50-bin-ton-tahil-urunune-el-konuldu-kuf-fare-ve-kus-diskisi-cikti-h1585542",
    "https://www.ensonhaber.com/boluda-4-aracin-karistigi-kazada-yaralanan-kadin-kurtarilamadi-h1585543",
    "https://www.ensonhaber.com/avrupada-otomobil-satislari-ekimde-artti-iste-son-rakamlar-h1585544",
    "https://www.ensonhaber.com/marmarada-yeniden-ortaya-cikan-musilaj-canakkalede-de-goruldu-h1585545",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/erzincanda-9-kilo-600-gram-esrar-ele-gecirildi-h1586033",
    "https://www.ensonhaber.com/fransiz-haber-ajansi-afp-siber-saldiriya-ugradi-h1586034",
    "https://www.ensonhaber.com/israilin-gazzeye-yonelik-saldirilari-suruyor-65533-h1586035",
-   "https://www.ensonhaber.com/kayseride-kuaforde-nefes-borusuna-seker-kacti-hayat-kurtaran-hamle-kamerada-h1586036"
+   "https://www.ensonhaber.com/kayseride-kuaforde-nefes-borusuna-seker-kacti-hayat-kurtaran-hamle-kamerada-h1586036",
+   "https://www.ensonhaber.com/doktor-cakar-besiktasin-maci-batumda-oynanmasinin-gerekcelerini-anlatti-h1586037"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/super-lig/haber/3679736-samsunspordan-galatasaray-maci-aciklamasi-sikayet-ettik",
    "https://ekonomi.haber7.com/ekonomi/haber/3679737-tarim-desteklerinde-yeni-donem-ciftcilere-13-trilyon-liralik-kaynak",
    "https://www.haber7.com/ulkede-bugun/haber/3679738-adanada-cete-infazi-37-gunluk-savasi-kaybeden-cocuga-aci-veda",
    "https://spor.haber7.com/besiktas/haber/3679699-hapoel-beer-sheva-maci-oncesi-sok-gelisme-besiktasin-yildizi-kamp-kadrosuna-alinmadi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680190-tiktokta-insan-ticareti-skandali",
    "https://www.haber7.com/dunya/haber/3680191-abdden-surpriz-karar-resmen-dogrulandi-hava-birligini-lagvetti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680192-altin-icin-dikkat-ceken-tahmin-bankacilik-devi-tarih-verdi-fiyatlarda-son-durum",
-   "https://www.haber7.com/otomobil/haber/3680193-lpgli-arac-sahipleri-dikkat-sartlar-aciklandi-milyonlarca-kisiyi-ilgilendiren-duzenleme"
+   "https://www.haber7.com/otomobil/haber/3680193-lpgli-arac-sahipleri-dikkat-sartlar-aciklandi-milyonlarca-kisiyi-ilgilendiren-duzenleme",
+   "https://www.haber7.com/guncel/haber/3680194-resmi-gazetede-yayimlandi-18-yillik-anlasma-bitti-turkiye-de-vize-isteyecek"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2191,9 +2191,6 @@
   ]
  },
  "recent_titles": [
-  "natodan türkiyeye taziye mesajı müttefikimiz türkiyenin yanında duruyoruz",
-  "sinopta silahlı saldırıda 1 kişi yaralandı",
-  "boluda evde çıkan yangın söndürüldü",
   "natodan türkiyeye taziye mesajı",
   "gazzede 176 milyon filistinliye soğuk hava tehdidi",
   "kastamonuda kar yağışı etkili oldu",
@@ -3690,6 +3687,9 @@
   "erzincanda 9 kilo 600 gram esrar ele geçirildi",
   "lpgli araç sahipleri dikkat şartlar açıklandı milyonlarca kişiyi ilgilendiren düzenleme",
   "israilin gazzeye yönelik saldırıları sürüyor",
-  "kayseride kuaförde nefes borusuna şeker kaçtı hayat kurtaran hamle kamerada"
+  "kayseride kuaförde nefes borusuna şeker kaçtı hayat kurtaran hamle kamerada",
+  "resmi gazetede yayımlandı 18 yıllık anlaşma bitti türkiye de vize isteyecek",
+  "doktor çakar beşiktaşın maçı batumda oynanmasının gerekçelerini anlattı",
+  "kayseride polisten kaçan yoklama kaçağı sürücü bedavaya kaçtık"
  ]
 }
