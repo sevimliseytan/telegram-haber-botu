@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/burdurda-iki-otomobil-kafa-kafaya-carpisti-1-olu-2si-agir-6-yarali-h1585754",
    "https://www.ensonhaber.com/surgundeki-katalan-lider-puigdemont-ulkesine-donuyor-h1585755",
    "https://www.ensonhaber.com/ingilteredeki-38-milyon-sterlinlik-dolandiricilik-davasinda-prens-andrew-detayi-h1585756",
    "https://www.ensonhaber.com/fenerbahce-taraftarlari-ile-ingilterede-gorev-yapan-turk-polis-arasinda-gulumseten-diyalog-h1585757",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/girne-aciklarinda-batan-filojet-gemisi-davasinda-9-sanik-tutuklandi-h1586246",
    "https://www.ensonhaber.com/istanbulda-elleme-bozuk-de-diyen-otomotiv-servisi-muhurlendi-h1586247",
    "https://www.ensonhaber.com/istanbulda-3-cocugun-supheli-olumune-iliskin-sorusturmada-7-gozalti-h1586248",
-   "https://www.ensonhaber.com/samsunda-155-hayvan-uygunsuz-kosullarda-bulundu-mahkeme-karariyla-el-konuldu-h1586249"
+   "https://www.ensonhaber.com/samsunda-155-hayvan-uygunsuz-kosullarda-bulundu-mahkeme-karariyla-el-konuldu-h1586249",
+   "https://www.ensonhaber.com/filistinli-cocuklardan-besiktasa-tesekkur-mesaji-h1586250"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679949-ayni-noktada-ikinci-kaza-fedex-ucagi-pistten-cikti",
    "https://www.haber7.com/3sayfa/haber/3679951-22-milyar-tllik-operasyon-25-kisi-yakalandi",
    "https://www.haber7.com/dunya/haber/3679952-trump-ve-rutteden-onemli-toplanti",
    "https://spor.haber7.com/fenerbahce/haber/3679954-emre-belozoglu-tarihe-gecti",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/trabzonspor/haber/3680406-thomas-reis-35-yil-sonra-ilki-gerceklestirdi",
    "https://www.haber7.com/guncel/haber/3680405-interpol-kirmizi-bultenle-ariyordu-havalimaninda-yakalandi",
    "https://www.haber7.com/guncel/haber/3680407-istanbula-kis-geliyor-valilik-tarih-verdi-kar-uyarisi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680409-ev-almanin-en-uzun-surdugu-ulkeler-aciklandi-orada-bir-ev-almak-tam-388-yil-suruyor"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680409-ev-almanin-en-uzun-surdugu-ulkeler-aciklandi-orada-bir-ev-almak-tam-388-yil-suruyor",
+   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-perde-2-macla-aciliyor-ilk-11ler-belli-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2230,7 +2230,8 @@
    "https://anlatilaninotesi.com.tr/20261127/sosyal-medyada-gundem-olan-oto-lastikci-muhurlendi-1110646756.html",
    "https://anlatilaninotesi.com.tr/20261127/istanbul-valiliginden-soguk-hava-uyarisi-karla-karisik-yagmur-geliyor-1110646922.html",
    "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-abd-hava-kuvvetleri-hacklendi-ordunun-en-buyuk-veri-platformlarindan-biri-ele-gecirildi-1110647590.html",
-   "https://anlatilaninotesi.com.tr/20261127/putin-rusya-guclu-nukleer-denizaltilar-insa-edebilen-dunyadaki-az-sayidaki-ulkeden-biridir-1110647830.html"
+   "https://anlatilaninotesi.com.tr/20261127/putin-rusya-guclu-nukleer-denizaltilar-insa-edebilen-dunyadaki-az-sayidaki-ulkeden-biridir-1110647830.html",
+   "https://anlatilaninotesi.com.tr/20261127/mustafa-hos-fon-vurgunu-sorusturmasinda-uc-kez-gozaltina-alinip-serbest-birakilan-kemal-akkayanin-1110648129.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2262,9 +2263,6 @@
   ]
  },
  "recent_titles": [
-  "abdden vatandaşlarına iran uyarısı ülkeyi derhal terk edin",
-  "lastikçinin zaten her yıl bir olayı varmış biz yeni duymuşuz yarık lastik bile vermişler",
-  "çorumda hayvan pazarındaki kavgada kan döküldü",
   "gaziantepte tüm okullara kahve makinesi fatma şahinden öğretmenlere jest",
   "istanbulda otobüsler değişiyor işte yeni rengi",
   "galatasaray ara vermeden derbi hazırlıklarına başladı",
@@ -3761,6 +3759,9 @@
   "abd hava kuvvetleri hacklendi ordunun en büyük veri platformlarından biri ele geçirildi",
   "ev almanın en uzun sürdüğü ülkeler açıklandı orada bir ev almak tam 388 yıl sürüyor",
   "süper ligde perde 2 maçla açılıyor  ilk 11ler belli oldu",
-  "putin rusya güçlü nükleer denizaltılar inşa edebilen dünyadaki az sayıdaki ülkeden biridir"
+  "putin rusya güçlü nükleer denizaltılar inşa edebilen dünyadaki az sayıdaki ülkeden biridir",
+  "filistinli çocuklardan beşiktaşa teşekkür mesajı",
+  "mustafa hoş fon vurgunu soruşturmasında üç kez gözaltına alınıp serbest bırakılan kemal akkayanın portresini çıkardı",
+  "iranda yaşayan gazeteci demir anlattı iran savaş yeniden başlayacakmış gibi hazırlık yapıyor"
  ]
 }
