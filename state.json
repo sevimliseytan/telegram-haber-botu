@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/roma-jayden-oosterwoldeden-vazgecmiyor-h1585576",
-   "https://www.ensonhaber.com/corumda-esi-tarafindan-oldurulen-kadina-veda-h1585577",
    "https://www.ensonhaber.com/ensonhaber-sordu-karsina-aslan-ciksa-ne-yapardin-h1585578",
    "https://www.ensonhaber.com/bilim-insanlari-insan-kulaginin-sandigimizdan-cok-farkli-calistigini-kesfetti-h1585579",
    "https://www.ensonhaber.com/altinin-onsu-abd-enflasyon-verisi-sonrasi-3-bin-500-dolarin-altina-indi-h1585580",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/murat-kurumdan-muhalefete-cop31-cevabi-turkiye-kimsenin-piyonu-olmadi-h1586068",
    "https://www.ensonhaber.com/antalyada-alevlerin-sardigi-gecekondudan-esyalarini-kurtardi-h1586069",
    "https://www.ensonhaber.com/cevizlibagda-dolmus-duraginin-sevimli-sakinleri-ilgi-odagi-oldu-h1586070",
-   "https://www.ensonhaber.com/gurcu-polisinin-geri-kactigi-anlar-kameraya-yansidi-h1586071"
+   "https://www.ensonhaber.com/gurcu-polisinin-geri-kactigi-anlar-kameraya-yansidi-h1586071",
+   "https://www.ensonhaber.com/akin-gurlek-bir-cinayetin-daha-aydinlatildigini-duyurdu-h1586072",
+   "https://www.ensonhaber.com/cafer-mahiroglu-sorusturmasinda-yeni-dalga-h1586073"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679767-cemil-tugay-devrim-gibi-deyip-duyurdu-izmirlilere-pes-pese-mujdeler-yuzde-63-indirim",
-   "https://www.haber7.com/dunya/haber/3679769-israil-basini-eisenkot-liberman-ile-anlasti-onumuzdeki-hafta-hukumet-kurulabilir",
-   "https://spor.haber7.com/diger-branslar/haber/3679773-filenin-efelerinin-milletler-ligi-gruplari-belli-oldu",
    "https://www.haber7.com/guncel/haber/3679767-izmirlilere-pes-pese-mujdeler-yuzde-63-indirim-geliyor-cemil-tugay-devrim-dedi-duyurdu",
    "https://www.haber7.com/guncel/haber/3679761-cumhurbaskani-erdogandan-askeri-helikopter-kazalarina-iliskin-aciklama",
    "https://www.haber7.com/guncel/haber/3679761-erdogandan-muhalefete-terorsuz-turkiye-tepkisi-firsatin-heba-edilmesine-izin-vermeyiz",
@@ -1391,7 +1388,10 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680224-hsbcden-tcmbnin-faiz-kararina-iliskin-yeni-analiz",
    "https://www.haber7.com/hatay/3680221-hatayda-ogrenciler-zimem-defteri-gelenegiyle-mahallenin-borclarini-odedi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680225-2-ilac-daha-sgknin-geri-odeme-listesine-alindi",
-   "https://www.haber7.com/guncel/haber/3680226-ankarada-iki-bozayi-oldurulmustu-milli-park-muduru-gorevden-alindi"
+   "https://www.haber7.com/guncel/haber/3680226-ankarada-iki-bozayi-oldurulmustu-milli-park-muduru-gorevden-alindi",
+   "https://www.haber7.com/dunya/haber/3680227-yaptirimlardan-kuresel-guce-bbc-turkiyenin-yuzde-80-yerli-savunma-basarisini-anlatti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680228-gumus-yatirimcisina-kritik-uyari-45-dolar-asilirsa-hedef-50-dolar",
+   "https://www.haber7.com/dunya/haber/3680230-cazandaki-petrol-rafinerisine-saldiri-1-isci-hayatini-kaybetti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2168,7 +2168,8 @@
    "https://anlatilaninotesi.com.tr/20261127/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-1110630958.html",
    "https://anlatilaninotesi.com.tr/20261127/bakan-kurum-tarih-verdi-10-bin-liradan-baslayan-kiralik-sosyal-konutlar-hizmete-sunuluyor-1110631232.html",
    "https://anlatilaninotesi.com.tr/20261127/husiler-suudi-arabistandaki-petrol-tesislerini-hedef-aldi-karsilikli-saldirilar-tirmaniyor-1110632032.html",
-   "https://anlatilaninotesi.com.tr/20261127/oldugu-ilan-edilen-kadin-hastane-morgunda-gozlerini-acti-1110632343.html"
+   "https://anlatilaninotesi.com.tr/20261127/oldugu-ilan-edilen-kadin-hastane-morgunda-gozlerini-acti-1110632343.html",
+   "https://anlatilaninotesi.com.tr/20261127/ankarada-iki-bozayi-oldurulmustu-milli-park-muduru-gorevden-alindi-1110632808.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2198,9 +2199,6 @@
   ]
  },
  "recent_titles": [
-  "şampiyonlar liginde tarihi maç shakhtar donetskfenerbahçe muhtemel 11ler",
-  "hatayda elektrik direği otomobile ok gibi saplandı sürücü yaralandı",
-  "küresel ham çelik üretimi ekimde azalırken türkiyede arttı",
   "eskişehirde 5 askerimizin şehit olduğu bölge görüntülendi",
   "tabelalar bir kez daha değişecek motorine büyük indirim bekleniyor ne zaman geçerli olacak",
   "adanada kayıp kuran kursundan çıkan çocuktan 5 gündür haber yok",
@@ -3697,6 +3695,9 @@
   "gümüş yatırımcısına kritik uyarı 45 dolar aşılırsa hedef 50 dolar",
   "gürcü polisinin geri kaçtığı anlar kameraya yansıdı",
   "akın gürlek bir cinayetin daha aydınlatıldığını duyurdu",
-  "öldü sanılan 54 yaşındaki kadın hastane morgunda gözlerini açtı"
+  "öldü sanılan 54 yaşındaki kadın hastane morgunda gözlerini açtı",
+  "cazandaki petrol rafinerisine saldırı 1 işçi hayatını kaybetti",
+  "cafer mahiroğlu soruşturmasında yeni dalga",
+  "demet şener küçüklük halini paylaştı paylaşımı ilgi odağı oldu"
  ]
 }
