@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/uefa-avrupa-liginde-5-hafta-maclari-yapilacak-h1585591",
    "https://www.ensonhaber.com/yilancik-tasi-nedir-neye-iyi-gelir-dogurduguna-bile-inaniliyor-h1585592",
    "https://www.ensonhaber.com/celtics-tatumun-41-sayisiyla-wizardsi-yendi-h1585593",
    "https://www.ensonhaber.com/besiktas-avrupada-269-macina-cikacak-h1585594",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/burdurda-kubra-yapiciyi-olduren-2-saniga-agirlastirilmis-muebbet-talebi-h1586083",
    "https://www.ensonhaber.com/kpss-ortaogretim-sinavina-katilan-adaylarin-brans-bazinda-siralamalari-aciklandi-h1586084",
    "https://www.ensonhaber.com/beyaz-perdede-bir-koylu-yonetmen-ahmet-ulucay-h1586085",
-   "https://www.ensonhaber.com/ufuk-beydemirden-yogun-bakim-paylasimi-kiziyla-poz-verdi-h1586086"
+   "https://www.ensonhaber.com/ufuk-beydemirden-yogun-bakim-paylasimi-kiziyla-poz-verdi-h1586086",
+   "https://www.ensonhaber.com/abdde-cin-sermayeli-sirketlere-nvidianin-en-gelismis-ciplerinden-satis-iddiasi-h1586087"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/eskisehir/3679793-eskisehirde-parkta-urkuten-goruntu-isin-asli-ortaya-cikti",
    "https://spor.haber7.com/milli-takim/haber/3679794-bayern-munih-teknik-direktoru-vincent-kompanyden-romelu-lukaku-aciklamasi",
    "https://www.haber7.com/dunya/haber/3679796-son-dakika-turkiye-libya-deniz-yetki-anlasmasi-libya-resmi-gazetesinde-yayinlandi",
    "https://www.haber7.com/dunya/haber/3679797-ingiltere-75-yillik-dosyayi-aciyor-nukleer-radyasyon-bir-nesli-kurutmus",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680243-brent-petrol-fiyati-100-dolara-yaklasti",
    "https://www.haber7.com/medya/haber/3680242-dugun-hazirliklari-ailelerin-beklentileri-ve-evlilikte-uyum-ulkede-hayatta-ele-alinacak",
    "https://www.haber7.com/dunya/haber/3679952-trump-rutte-ile-gorustu-daha-once-gorulmemis-silahlar-uretecegiz",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680245-434-milyon-liralik-tasarruf-saglayacak-ulasimda-sure-4te-1e-dusuyor"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680245-434-milyon-liralik-tasarruf-saglayacak-ulasimda-sure-4te-1e-dusuyor",
+   "https://www.haber7.com/dunya/haber/3680246-israili-soykirimla-sucladi-diye-bm-yetkilisini-ulkeye-almadilar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2172,7 +2172,8 @@
    "https://anlatilaninotesi.com.tr/20261127/ankarada-iki-bozayi-oldurulmustu-milli-park-muduru-gorevden-alindi-1110632808.html",
    "https://anlatilaninotesi.com.tr/20261127/mahiroglu-sorusturmasinda-yeni-dalga-operasyon-spiker-ece-unerin-de-aralarinda-oldugu-12-kisi-1110633044.html",
    "https://anlatilaninotesi.com.tr/20261127/bakan-gurlek-acikladi-istanbulda-2004-ve-2005te-3-cocugun-olumune-iliskin-sorusturmada-7-gozalti-1110632259.html",
-   "https://anlatilaninotesi.com.tr/20261127/fsb-donetskte-ust-duzey-rus-askeri-yetkilisine-yonelik-suikast-girisimi-engellendi-1110633270.html"
+   "https://anlatilaninotesi.com.tr/20261127/fsb-donetskte-ust-duzey-rus-askeri-yetkilisine-yonelik-suikast-girisimi-engellendi-1110633270.html",
+   "https://anlatilaninotesi.com.tr/20261127/cildir-golu-hayalinden-cop31-klibine-kamera-arkasinda-neler-yasandi-suya-belki-50-kez-atladim-1110607031.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2202,10 +2203,6 @@
   ]
  },
  "recent_titles": [
-  "libya ulusal ordusu genelkurmay başkanı hafter türkiyede",
-  "ab hem kibirli hem ikiyüzlü hem de çevre düşmanı",
-  "güllü dosyasında gizemli sesin sırrı çözülüyor dikkat çeken ayrıntı ortaya çıktı",
-  "tekrar olsa yine yaparım milli sporcu ilk kez konuştu",
   "gaflet uykusu",
   "istanbullular dikkat bugün bazı yollar trafiğe kapatılacak",
   "nvidia ceosu huang trumpın müdahalesiyle göreve dönmedim",
@@ -3701,6 +3698,10 @@
   "bakan gürlek açıkladı istanbulda 2004 ve 2005te 3 çocuğun ölümüne ilişkin soruşturmada 7 gözaltı",
   "434 milyon liralık tasarruf sağlayacak ulaşımda süre 4te 1e düşüyor",
   "ufuk beydemirden yoğun bakım paylaşımı kızıyla poz verdi",
-  "fsb donetskte üst düzey rus askeri yetkilisine yönelik suikast girişimi engellendi"
+  "fsb donetskte üst düzey rus askeri yetkilisine yönelik suikast girişimi engellendi",
+  "israili soykırımla suçladı diye bm yetkilisini ülkeye almadılar",
+  "abdde çin sermayeli şirketlere nvidianın en gelişmiş çiplerinden satış iddiası",
+  "yılbaşında ünlüler antalya ve kktcde sahne alacak",
+  "çıldır gölü hayalinden cop31 klibine kamera arkasında neler yaşandı suya belki 50 kez atladım"
  ]
 }
