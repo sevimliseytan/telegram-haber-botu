@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/erzurumda-buz-pistine-donen-yollar-kazalari-beraberinde-getirdi-h1585625",
-   "https://www.ensonhaber.com/besiktas-yetkilileri-hayatimizda-yaptigimiz-en-gergin-ucustu-h1585626",
-   "https://www.ensonhaber.com/thomas-reisten-konferans-ligi-aciklamasi-h1585627",
    "https://www.ensonhaber.com/avrupa-sampiyonu-havvanur-kethuda-trabzona-dondu-h1585628",
    "https://www.ensonhaber.com/istanbulda-hafif-ticari-aracin-carptigi-genc-kiz-16-gunluk-yasam-savasini-kaybetti-h1585629",
    "https://www.ensonhaber.com/trabzonspor-cska-sofya-maci-hazirliklarini-tamamladi-h1585630",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/uydudan-tespit-edildi-kazinca-ortaya-cikti-2-bin-600-yil-sakli-kalmis-h1586117",
    "https://www.ensonhaber.com/palandokende-sezon-acilisina-gunler-kaldi-h1586118",
    "https://www.ensonhaber.com/gurcistanda-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-h1586119",
-   "https://www.ensonhaber.com/adanada-aranan-firari-cadirda-yakalandi-h1586120"
+   "https://www.ensonhaber.com/adanada-aranan-firari-cadirda-yakalandi-h1586120",
+   "https://www.ensonhaber.com/istanbulda-kaza-sonrasi-surucuyu-gizlemeye-calistilar-arbedeye-neden-olan-3-kisi-tutukland-h1586121",
+   "https://www.ensonhaber.com/istanbulda-park-halindeki-14-hafriyat-kamyonuna-tasli-saldiri-h1586122",
+   "https://www.ensonhaber.com/mustafa-sarigulun-dokunulmazlik-dosyasi-tbmmde-h1586123"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/futbol/haber/3679826-guardiola-reddettigi-takimi-ilk-kez-acikladi-yeni-hedefini-anlatti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679825-teracilar-ayri-pusulacilar-ayri-fonda-iki-farkli-orgut-var",
-   "https://www.haber7.com/siyaset/haber/3679827-mhp-izleme-komisyonu-uyelerini-belirledi",
-   "https://www.haber7.com/guncel/haber/3679828-bakan-memisoglu-cin-buyukelcisi-xuebin-ile-bir-araya-geldi",
    "https://spor.haber7.com/besiktas/haber/3679829-besiktasin-yildizina-premier-lig-kancasi-italiano-son-kararini-verdi",
    "https://spor.haber7.com/besiktas/haber/3679818-besiktas-kafilesini-tasiyan-ucak-batuma-inemedi-italianonun-toplantisi-iptal-edildi",
    "https://www.haber7.com/guncel/haber/3679830-cumhurbaskanligi-himayelerinde-2-palandoken-ekonomi-forumu-duzenlenecek",
@@ -1391,7 +1387,11 @@
    "https://spor.haber7.com/futbol/haber/3680275-gurcu-makamlardan-rezalete-skandal-savunma-butun-sucu-taraftarlarimiza-attilar",
    "https://www.haber7.com/yemek/haber/3680276-lezzet-tutkunlarinin-yeni-yol-haritasi-incili-gastronomi-rehberi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680277-kasim-ayi-dogum-yardimi-odemeleri-hesaplara-yatirildi",
-   "https://spor.haber7.com/besiktas/haber/3680278-son-dakika-cumhurbaskani-erdogan-devreye-girdi-besiktasli-16-taraftar-serbest-birakildi"
+   "https://spor.haber7.com/besiktas/haber/3680278-son-dakika-cumhurbaskani-erdogan-devreye-girdi-besiktasli-16-taraftar-serbest-birakildi",
+   "https://spor.haber7.com/besiktas/haber/3680278-cumhurbaskani-erdogan-devreye-girdi-besiktasli-16-taraftar-serbest-birakildi",
+   "https://www.haber7.com/ulkede-bugun/haber/3680280-adanada-20-yil-once-kasaplar-cope-atiyordu-simdi-fiyati-eti-solladi",
+   "https://www.haber7.com/guncel/haber/3680279-mit-ve-emniyetten-ortak-operasyon-tilki-selim-evindeki-saunada-yakalandi",
+   "https://www.haber7.com/ekonomi/haber/3680281-milli-teknoloji-uzmanlik-programlari-basliyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2210,8 +2210,6 @@
   ]
  },
  "recent_titles": [
-  "valilik alınan kararı duyurdu taksimde metro ve füniküler hattı kapatıldı",
-  "abdyi karıştıran itiraf çavuş gizli askeri bilgileri çine satmış",
   "abdde küçük uçak düştü 2si çocuk 6 kişi öldü",
   "iran savaşında kongre kıskacı trump ocak sonunu işaret etti",
   "sürücüler dikkat edevletten hemen bakın yoksa iptal ediliyor",
@@ -3709,6 +3707,8 @@
   "mit ve emniyetten ortak operasyon tilki selim evindeki saunada yakalandı",
   "adanada aranan firari çadırda yakalandı",
   "istanbulda kaza sonrası sürücüyü gizlemeye çalıştılar arbedeye neden olan 3 kişi tutuklandı",
-  "istanbulda park halindeki 14 hafriyat kamyonuna taşlı saldırı"
+  "istanbulda park halindeki 14 hafriyat kamyonuna taşlı saldırı",
+  "milli teknoloji uzmanlık programları başlıyor",
+  "mustafa sarıgülün dokunulmazlık dosyası tbmmde"
  ]
 }
