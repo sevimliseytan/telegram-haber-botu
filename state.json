@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/trabzonspor-kafilesi-bulgaristana-gitti-h1585529",
    "https://www.ensonhaber.com/samsunda-kenevir-yetistiren-sahsa-jandarma-baskini-h1585530",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-25-kasim-kadina-siddete-karsi-uluslararasi-mucadele-gunu-programinda-h1585531",
    "https://www.ensonhaber.com/izmirde-polisiz-yalaniyla-3-milyonluk-altin-dolandiriciligi-supheliler-yakalandi-h1585532",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/muglada-bicakli-kavgada-17-yasindaki-genc-oldu-h1586021",
    "https://www.ensonhaber.com/avrupa-birligi-liderleri-yeni-butcede-anlasma-saglayamadi-h1586022",
    "https://www.ensonhaber.com/istanbul-bagcilarda-silahli-saldirida-2-cocuk-yaralandi-h1586023",
-   "https://www.ensonhaber.com/abd-guney-koredeki-hava-birliginin-faaliyetlerine-son-verdi-h1586024"
+   "https://www.ensonhaber.com/abd-guney-koredeki-hava-birliginin-faaliyetlerine-son-verdi-h1586024",
+   "https://www.ensonhaber.com/nijeryada-silahli-saldirida-17-kisi-oldu-h1586025"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679729-tbmm-plan-ve-butce-komisyonu-2027-ulastirma-butcesini-onayladi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679730-paladyum-agustos-2024ten-beri-en-dusuk-seviyesinde",
    "https://www.haber7.com/guncel/haber/3679694-gundemdeki-lastikci-karsi-tarafa-sitem-etti-emeklerimiz-yok-oldu-kazancimiz-helaldir",
    "https://www.haber7.com/dunya/haber/3679732-turkiye-ile-macaristanin-ortak-mirasi-gul-baba-budapestede-anildi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680182-uefa-avrupa-ligi-ve-konferans-liginde-gecenin-sonuclari",
    "https://www.haber7.com/guncel/haber/3680183-atama-kararlari-resmi-gazetede",
    "https://www.haber7.com/dunya/haber/3680184-varsovadan-kritik-mesaj-turkiyenin-tecrubelerinden-yararlanacagiz",
-   "https://www.haber7.com/dunya/haber/3680185-4-aday-canli-yayinda-tartisti-secime-gunler-kala-dunyanin-gozu-onunde-yerin-dibine-soktu"
+   "https://www.haber7.com/dunya/haber/3680185-4-aday-canli-yayinda-tartisti-secime-gunler-kala-dunyanin-gozu-onunde-yerin-dibine-soktu",
+   "https://www.haber7.com/guncel/haber/3680186-bagcilarda-sokak-ortasinda-silahli-saldiri-2-cocuk-yarali"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2182,9 +2182,6 @@
   ]
  },
  "recent_titles": [
-  "endonezyadaki fabrika yangınında bilanço yükseldi en az 24 kişi hayatını kaybetti",
-  "nürnberg mahkemesi 81 yıl önce kuruldu nazi yöneticileri nasıl yargılandı hangi cezaları aldı",
-  "şehit polisin eşine okulda öğretmenler günü ziyareti",
   "polis  bir aslan kadar gündem olamadık",
   "yazın gurbetçilerin gelişiyle trafik ihlalleri artıyor",
   "bayrampaşada kaldırım işgali var denetim yok",
@@ -3681,6 +3678,9 @@
   "avrupa birliği liderleri yeni bütçede anlaşma sağlayamadı",
   "istanbul bağcılarda silahlı saldırıda 2 çocuk yaralandı",
   "abd güney koredeki hava birliğinin faaliyetlerine son verdi",
-  "4 aday canlı yayında tartıştı seçime günler kala dünyanın gözü önünde yerin dibine soktu"
+  "4 aday canlı yayında tartıştı seçime günler kala dünyanın gözü önünde yerin dibine soktu",
+  "bağcılarda sokak ortasında silahlı saldırı 2 çocuk yaralı",
+  "afaddan açıklama ege denizinde deprem",
+  "nijeryada silahlı saldırıda 17 kişi öldü"
  ]
 }
