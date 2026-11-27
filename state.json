@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/bilim-insanlarindan-sevindiren-haber-zirh-teknolojisi-otomobillere-geliyor-h1585567",
    "https://www.ensonhaber.com/gta-6ya-erisim-engeli-gerekcesi-aciklandi-h1585568",
    "https://www.ensonhaber.com/abdde-enflasyon-ekimde-yillik-yuzde-38-artti-h1585569",
    "https://www.ensonhaber.com/batmanda-ahirda-cikan-yanginda-109-keci-telef-oldu-h1585570",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/japonyadan-fatma-sahine-turkiye-japonya-dostluguna-katkilarindan-dolayi-nisan-h1586059",
    "https://www.ensonhaber.com/amasyada-asirlik-cinar-gunlerini-namaz-kilarak-geciriyor-h1586060",
    "https://www.ensonhaber.com/diyarbakirda-magarada-bulunan-bircok-kafatasi-ve-kemik-incelenmek-uzere-istanbula-gonderil-h1586061",
-   "https://www.ensonhaber.com/gurcu-polisinin-iki-yuzlulugu-israil-bayragini-gormezden-geldiler-h1586062"
+   "https://www.ensonhaber.com/gurcu-polisinin-iki-yuzlulugu-israil-bayragini-gormezden-geldiler-h1586062",
+   "https://www.ensonhaber.com/murat-kurumdan-tipli-vekile-tepki-istedigin-kadar-polemik-yap-onemi-yok-h1586063"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/avrupa-ligleri/haber/3679758-dunya-devi-icin-mauro-icardi-onerisi",
    "https://spor.haber7.com/diger-branslar/haber/3679757-transferde-yildiz-degil-dogru-planlama-kazandiriyor-esenlerde-futbol-zirvesi",
    "https://www.haber7.com/guncel/haber/3679759-haluk-levent-onu-degil-beni-tutuklayin",
    "https://ekonomi.haber7.com/ekonomi/haber/3679760-insansiz-hava-platformlarinda-dinamik-hedef-angajmani-tolun-l-ilk-atis-testinde",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680215-serbest-piyasada-doviz-acilis-fiyatlari",
    "https://www.haber7.com/saglik/haber/3680217-filmim-temiz-demek-akcigerlerin-saglam-oldugu-anlamina-gelmiyor",
    "https://www.haber7.com/guncel/haber/3680216-gurcistanin-derdi-ne",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680220-motorine-indirim-geldi-gozler-artik-benzin-fiyatlarinda"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680220-motorine-indirim-geldi-gozler-artik-benzin-fiyatlarinda",
+   "https://www.haber7.com/dunya/haber/3680219-nato-savas-ucaklari-havalandi-avrupa-ulkesinde-sabaha-karsi-alarm-verildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2166,7 +2166,8 @@
    "https://anlatilaninotesi.com.tr/20261127/lpgli-arac-sahipleri-dikkat-resmi-gazetede-yayimlandi-avm-otoparklarina-6-kritik-sart-geldi-1110630379.html",
    "https://anlatilaninotesi.com.tr/20261127/kamu-borclarinda-yeni-donem-gecikme-zammi-ve-tecil-faizi-dusuruldu-mevcut-borclarda-yeni-oran-nasil-1110630654.html",
    "https://anlatilaninotesi.com.tr/20261127/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-1110630958.html",
-   "https://anlatilaninotesi.com.tr/20261127/bakan-kurum-tarih-verdi-10-bin-liradan-baslayan-kiralik-sosyal-konutlar-hizmete-sunuluyor-1110631232.html"
+   "https://anlatilaninotesi.com.tr/20261127/bakan-kurum-tarih-verdi-10-bin-liradan-baslayan-kiralik-sosyal-konutlar-hizmete-sunuluyor-1110631232.html",
+   "https://anlatilaninotesi.com.tr/20261127/husiler-suudi-arabistandaki-petrol-tesislerini-hedef-aldi-karsilikli-saldirilar-tirmaniyor-1110632032.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2196,13 +2197,6 @@
   ]
  },
  "recent_titles": [
-  "altında yükseliş sevinci kısa sürebilir kritik seviyeler açıklandı",
-  "altın fiyatlarında düşüş sürüyor",
-  "yasak elmas dizisinde iki ünlü oyuncu kardeş olacak işte yeni başrol",
-  "polonyadan rusyaya hava sahası ihlali notası",
-  "hülya avşarın kızı zehra çilingiroğlu gelin oluyor isteme hazırlıkları başladı",
-  "altını düşüşe sürükleyebilecek 7 neden",
-  "israilin gazzede ateşkesi 6 bin 405 kez ihlal ettiği açıklandı",
   "edirnede 1200 dönümlük tarihi dönüşüm sarayda restorasyon heyecanı",
   "shakhtar donetsk  fenerbahçe muhtemel 11ler",
   "denizlide çarptığı ağaç ikiye bölündü genç sürücü hayatını kaybetti",
@@ -3695,6 +3689,13 @@
   "nato savaş uçakları havalandı avrupa ülkesi sınır içinde fark etti",
   "tarih kapıyı çalarken türk dünyası ne kadar duyuyor",
   "hatayda öğrenciler zimem defteri geleneğiyle mahallenin borçlarını ödedi",
-  "bakan kurum tarih verdi 10 bin liradan başlayan kiralık sosyal konutlar hizmete sunuluyor"
+  "bakan kurum tarih verdi 10 bin liradan başlayan kiralık sosyal konutlar hizmete sunuluyor",
+  "nato savaş uçakları havalandı avrupa ülkesinde sabaha karşı alarm verildi",
+  "yeni bddk başkanı yusuf kenan bağır kimdir",
+  "askerde tanıdığı meyveyi 30 yıl sonra bahçesine ekti bir fidanla başladı 80 ağaca ulaştı",
+  "hsbcden tcmbnin faiz kararına ilişkin yeni analiz",
+  "murat kurumdan tipli vekile tepki istediğin kadar polemik yap önemi yok",
+  "avm otoparklarında lpgli araç düzenlemesi 2028de yürürlüğe girecek",
+  "husiler suudi arabistandaki petrol tesislerini hedef aldı karşılıklı saldırılar tırmanıyor"
  ]
 }
