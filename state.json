@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kutahyada-jandarmadan-kacakcilik-operasyonu-h1585737",
    "https://www.ensonhaber.com/katlanabilir-motorola-razr-2027-ortaya-cikti-iste-ozellikleri-ve-tanitim-tarihi-h1585738",
    "https://www.ensonhaber.com/brent-petrolun-varili-9506-dolardan-islem-goruyor-h1585739",
    "https://www.ensonhaber.com/istanbulda-durdurulan-aracta-kalasnikof-cikti-h1585740",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/gaziantepte-gurultu-ihbari-icin-112yi-aradi-gelen-ceza-ile-hayatinin-sokunu-yasadi-h1586230",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-fatih-sultan-mehmet-han-turbesini-ziyaret-etti-h1586229",
    "https://www.ensonhaber.com/ikinci-el-otomobil-pazarinda-dengeler-degisti-turkiye-suv-tercih-ediyor-h1586231",
-   "https://www.ensonhaber.com/ormanin-derininde-3-dev-yapi-ortaya-cikti-80-yillik-gecmisi-var-h1586232"
+   "https://www.ensonhaber.com/ormanin-derininde-3-dev-yapi-ortaya-cikti-80-yillik-gecmisi-var-h1586232",
+   "https://www.ensonhaber.com/kardesiyle-baliga-cikti-1-milyon-dolar-kazandi-h1586233"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/seyahat/haber/3679922-erzurumda-kis-vakti-tarihi-mekanlar-beyaz-ortu-altinda-mest-etti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679924-cin-ve-taylanda-gecit-yok-ticaret-bakanliginin-5-yillik-vergi-karari",
    "https://www.haber7.com/guncel/haber/3679925-unlulere-sorusturmada-son-dakika-gelismesi-tutuklama-haberi-geldi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679926-2008-krizini-bilen-burryden-dikkat-ceken-nasdaq-hamlesi",
    "https://www.haber7.com/dunya/haber/3679528-prens-williamin-evine-hirsiz-girdi-calinan-esyalar-ortaya-cikti",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680371-uefa-besiktas-hapoel-beer-sheva-maci-icin-sorusturma-baslatti",
    "https://www.haber7.com/3sayfa/haber/3680385-ben-oldurdum-diyerek-kahkaha-atan-saniktan-akil-disi-savunma",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680386-fenerbahceden-ayrilan-dirk-kuyt-surpriz-bir-takimin-basina-geciyor",
-   "https://spor.haber7.com/besiktas/haber/3680319-israil-ekibini-deviren-besiktas-yurda-dondu-milli-meseleydi"
+   "https://spor.haber7.com/besiktas/haber/3680319-israil-ekibini-deviren-besiktas-yurda-dondu-milli-meseleydi",
+   "https://www.haber7.com/samsun/3680385-ben-oldurdum-diyerek-kahkaha-atan-saniktan-akil-disi-savunma",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680342-turkiyenin-caydirici-gucu-yukseliyor-3-adet-nukleer-denizalti-uretilecek"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2253,10 +2253,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda kar yağması en yüksek ihtimal olan ay belli oldu",
-  "eskişehirde parkta ürküten görüntü işin aslı ortaya çıktı",
-  "bayern münih teknik direktörü vincent kompanyden romelu lukaku açıklaması",
-  "ispartada 33 adrese eş zamanlı uyuşturucu operasyonu",
   "türk eximbank 740 milyon dolarlık kredi sağladı",
   "son dakika türkiyelibya deniz yetki anlaşması libya resmi gazetesinde yayınlandı",
   "6 şubatı bilmişti frank hoogerbeetstan istanbul paylaşımı yakında çok büyük",
@@ -3752,6 +3748,10 @@
   "cumhurbaşkanı erdoğan fatih sultan mehmet han türbesini ziyaret etti",
   "ikinci el otomobil pazarında dengeler değişti türkiye suv tercih ediyor",
   "israil ekibini deviren beşiktaş yurda döndü milli meseleydi",
-  "ormanın derininde 3 dev yapı ortaya çıktı 80 yıllık geçmişi var"
+  "ormanın derininde 3 dev yapı ortaya çıktı 80 yıllık geçmişi var",
+  "türkiyenin caydırıcı gücü yükseliyor 3 adet nükleer denizaltı üretilecek",
+  "istanbul ve ankara yolculuğu 2 saat 15 dakikaya düşüyor bursa için geri sayım başladı",
+  "kardeşiyle balığa çıktı 1 milyon dolar kazandı",
+  "dünyaca ünlü şefleri buluşturan gastromasa 11 kez istanbulda başladı"
  ]
 }
