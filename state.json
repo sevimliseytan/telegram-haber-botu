@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679896-kayseride-zehir-tacirlerine-operasyon-19-kisi-tutuklandi",
    "https://www.haber7.com/guncel/haber/3679897-misirda-tanker-yangini-faciasinda-can-kaybi-31e-yukseldi",
    "https://www.haber7.com/guncel/haber/3679898-yilin-son-mgk-toplantisi-bugun-yapilacak",
    "https://www.haber7.com/guncel/haber/3679899-artvin-ardanuc-yolunda-heyelan-surucu-olumden-dondu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680360-esenlerde-akilalmaz-goruntu-yon-tabelasina-tirmanip-karsiya-gecti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680361-gazprom-avrupada-dogal-gaz-fiyatlarinin-artmaya-devam-etmesini-bekliyor",
    "https://spor.haber7.com/besiktas/haber/3680316-batumda-yeni-kriz-350-turk-vatandasi-havalimaninda-bekletildi-sebebi-israilliler",
-   "https://spor.haber7.com/avrupa-ligleri/haber/3680362-fenerbahce-maci-sonrasi-ukraynada-arda-turana-buyuk-sok"
+   "https://spor.haber7.com/avrupa-ligleri/haber/3680362-fenerbahce-maci-sonrasi-ukraynada-arda-turana-buyuk-sok",
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680363-bravo-orkun-hapoelin-kaptani-her-seyi-anlatti-neden-tokalasmadi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2249,10 +2249,6 @@
   ]
  },
  "recent_titles": [
-  "haluk levent onu değil beni tutuklayın",
-  "insansız hava platformlarında dinamik hedef angajmanı tolunl ilk atış testinde",
-  "ehliyet alacakların bilmesi gerekiyor yeni kurallar netlik kazandı",
-  "cumhurbaşkanı erdoğandan önemli açıklamalar",
   "cumhurbaşkanı erdoğan 25 kasım kadına şiddete karşı uluslararası mücadele günü programında",
   "türkiyenin en zengin patronları bakın hangi otomobile biniyor işte milyarderlerin garajı",
   "merkez bankasından likidite adımı tl depo alım ihaleleri açıldı",
@@ -3748,6 +3744,10 @@
   "gazprom avrupada doğal gaz fiyatlarının artmaya devam etmesini bekliyor",
   "fenerbahçe maçı sonrası ukraynada arda turana büyük şok",
   "trump yönetiminde güvenlik önlemleri artırıldı kabine üyeleri askeri üslere taşınıyor",
-  "tuzlanın ilk spor kompleksinin temeli yarın atılıyor"
+  "tuzlanın ilk spor kompleksinin temeli yarın atılıyor",
+  "bravo orkun hapoelin kaptanı her şeyi anlattı neden tokalaşmadı",
+  "israil ekibini deviren beşiktaş yurda döndü",
+  "cumhurbaşkanı erdoğan unesco genel direktörü halid elenanyyi kabul etti",
+  "21 yaşındaki nazardan 27 gün sonra acı haber"
  ]
 }
