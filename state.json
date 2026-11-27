@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/mardin-1969-spor-nafican-yardimcinin-sakatligina-iliskin-aciklama-yapti-h1585641",
-   "https://www.ensonhaber.com/besiktastan-dsk-basketball-brandyse-48-sayilik-fark-h1585642",
    "https://www.ensonhaber.com/donald-trumptan-14-ticaret-ortagina-yuzde-20lik-yeni-gumruk-vergisi-onerisi-h1585643",
    "https://www.ensonhaber.com/galatasaray-pge-budowlani-deplasmaninda-kazandi-h1585644",
    "https://www.ensonhaber.com/emre-belozoglundan-guendouzi-sorusuna-yanit-h1585645",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/ritmik-86-milyon-kisinin-kisisel-saglik-asistani-olacak-h1586133",
    "https://www.ensonhaber.com/tarlada-goren-patates-sandi-altin-kulcesi-cikti-h1586134",
    "https://www.ensonhaber.com/saban-sevinc-ve-mustafa-balci-hakkinda-tahliye-karari-h1586135",
-   "https://www.ensonhaber.com/dsinin-2027-butcesinde-oncelik-su-ve-toprak-kaynaklarinin-yonetimi-olacak-h1586136"
+   "https://www.ensonhaber.com/dsinin-2027-butcesinde-oncelik-su-ve-toprak-kaynaklarinin-yonetimi-olacak-h1586136",
+   "https://www.ensonhaber.com/yapay-zeka-gogolun-yakilan-romanini-tamamladi-h1586137",
+   "https://www.ensonhaber.com/direksiyon-basinda-kalp-ritmi-dinlenme-seviyesine-donemiyor-h1586138"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/avrupa-ligleri/haber/3679844-bayernden-musiala-icin-sozlesme-aciklamasi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679845-sumer-varlik-yonetime-tmsf-kayyumu-atandi-yeni-yonetim-kurulu-belli-oldu",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679846-arda-guler-dunya-yildizlarini-solladi-devler-liginin-en-degerli-10-numarali-aciklandi",
    "https://www.haber7.com/guncel/haber/3679847-sariyerde-2-gun-aranan-aslan-olayinin-perde-arkasi-ortaya-cikti-her-sey-boyle-baslamis",
    "https://www.haber7.com/guncel/haber/3679848-ev-sahipleri-dikkat-danistaydan-emsal-karar-habersiz-yapilamaz",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/balikesir/3680295-milletvekili-canbey-5-milyar-tlyi-asan-3-projesi-yerinde-inceledi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680296-vakif-katilima-global-banking-and-markets-awardsdan-yilin-banka-sukuk-ihraci-odulu",
    "https://www.haber7.com/guncel/haber/3680297-kokorec-tezgahinda-uyusturucu-bulundu-is-yeri-sahibi-tutuklandi",
-   "https://www.haber7.com/medya/haber/3680298-kalbim-sana-emanet-66-bolum-rajanin-mucizevi-kurtulusu"
+   "https://www.haber7.com/medya/haber/3680298-kalbim-sana-emanet-66-bolum-rajanin-mucizevi-kurtulusu",
+   "https://www.haber7.com/guncel/haber/3680299-unutulan-miras-yillar-sonra-satiliyor-degeri-177-milyon-lira",
+   "https://www.haber7.com/medya/haber/3680301-bilmezler-ki-kalbimdesin-133-bolum-imlie-bebegini-kaybediyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2217,13 +2217,6 @@
   ]
  },
  "recent_titles": [
-  "final kararı alınan haysiyetin yayın günü değişti",
-  "byd vites yükseltti fabrikayı satın alıp dengeleri değiştirecek",
-  "turistler kapadokyanın saklı güzelliklerini foto safariyle keşfediyor",
-  "kahramanmaraştaki okul saldırısında yeni gelişme saldırganın otopsisi yenilenecek",
-  "abnin doğu sınırına güvenlik çemberi brükselden rusya hamlesi",
-  "avustralyada orman yangını 3 bin hektar kül oldu",
-  "emeklilik dilekçesinde 2026 mı 2027 mi avantajlı işte kritik detaylar",
   "77 yıllık tarım devinde kayyım dönemi yönetimin yetkileri tedbiren sınırlandırıldı",
   "abdülkadir uraloğlu araç muayenesinde kredi kartı komisyonu alınmayacak",
   "rizede tarihi dokuma geleneği kendir ipliğiyle yeniden canlanıyor",
@@ -3716,6 +3709,13 @@
   "kalbim sana emanet 66 bölüm rajanın mucizevi kurtuluşu",
   "unutulan miras yıllar sonra satılıyor değeri 177 milyon lira",
   "dsinin 2027 bütçesinde öncelik su ve toprak kaynaklarının yönetimi olacak",
-  "yapay zeka gogolün yakılan romanını tamamladı"
+  "yapay zeka gogolün yakılan romanını tamamladı",
+  "bilmezler ki kalbimdesin 133 bölüm imlie bebeğini kaybediyor",
+  "gazeteciler şaban sevinç ve mustafa balcı hakkında karar",
+  "beşiktaş  hapoel maçı dünyada gündem oldu israil basınında beşiktaşa skandal sözler",
+  "direksiyon başında kalp ritmi dinlenme seviyesine dönemiyor",
+  "mars meteoritinde daha önce rastlanmamış granat minerali bulundu",
+  "muhammed salah trabzonsporu sırtlamaya devam ediyor",
+  "bitliste gönüllü kadınlar köy çocukları için atkı örüyor"
  ]
 }
