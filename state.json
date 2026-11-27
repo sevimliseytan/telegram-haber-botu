@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/medya/haber/3679958-nisanlilikta-uyum-beklentiler-ve-gelenekler-ulkede-hayatta-ele-alinacak",
    "https://www.haber7.com/guncel/haber/3679960-unlu-dj-burak-yeter-gozaltina-alindi",
    "https://www.haber7.com/guncel/haber/3679961-cumhurbaskani-erdogandan-eskisehirde-sehit-olan-askerler-icin-taziye-mesaji",
    "https://spor.haber7.com/spor/haber/3679944-herkes-emre-belozoglunun-dans-vaadini-konusuyor",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-sevinci-gazzede-duvara-cizildi",
    "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-mesaji-gazzede-duvara-cizildi",
    "https://www.haber7.com/guncel/haber/3680415-ankarada-alihan-kuris-operasyonu-18-kisi-tutuklandi",
-   "https://www.haber7.com/teknoloji/haber/3680416-turk-deniz-kuvvetlerinin-amfibi-gucune-yeni-katki-zaha-gemiden-denize-indirildi"
+   "https://www.haber7.com/teknoloji/haber/3680416-turk-deniz-kuvvetlerinin-amfibi-gucune-yeni-katki-zaha-gemiden-denize-indirildi",
+   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-2-mac-birden-ilk-yarilar-oynaniyor-canli"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2268,7 +2268,6 @@
   ]
  },
  "recent_titles": [
-  "ardahanda kar yağışı etkisini sürdürüyor",
   "motosiklet sürücüsünün zor anları karton az kalsın kazaya neden oluyordu",
   "beşiktaşta uçak krizi batuma inemediler alternatif rota gündemde",
   "putin rusya enerji teknolojilerini brunei ile paylaşmaya hazır",
@@ -3767,6 +3766,7 @@
   "islamabadda mekke anlaşması toplantısı bakan fidan pakistanlı mevkidaşı dar ile görüştü",
   "ankarada alihan kuriş operasyonu 18 kişi tutuklandı",
   "türk deniz kuvvetlerinin amfibi gücüne yeni katkı zaha gemiden denize indirildi",
-  "iraktürkiye petrol boru hattı yeniden faaliyete geçecek"
+  "iraktürkiye petrol boru hattı yeniden faaliyete geçecek",
+  "süper ligde 2 maç birden ilk yarılar oynanıyor  canli"
  ]
 }
