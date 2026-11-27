@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/izmirde-sofbenin-icinden-uyusturucu-hap-cikti-h1585616",
    "https://www.ensonhaber.com/ran-kozuch-besiktas-cok-kaliteli-bir-takim-h1585617",
    "https://www.ensonhaber.com/turkiye-libya-deniz-yetki-anlasmasi-libya-resmi-gazetesinde-yayinlandi-h1585618",
    "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-9-supheli-icin-adli-kontrol-talebi-h1585619",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/trump-iran-israile-ve-orta-dogudaki-ulkelere-nukleer-silahlarla-ates-acarsa-nukleer-bir-so-h1586108",
    "https://www.ensonhaber.com/kasim-ayi-dogum-yardimlari-annelerin-hesaplarina-yatirildi-h1586109",
    "https://www.ensonhaber.com/hikmet-cetin-icin-tbmmde-toren-siyasi-parti-liderleri-yan-yana-h1586110",
-   "https://www.ensonhaber.com/ingilterede-savas-alarmi-usler-korumaya-alindi-eski-askerlere-cagri-yapildi-h1586111"
+   "https://www.ensonhaber.com/ingilterede-savas-alarmi-usler-korumaya-alindi-eski-askerlere-cagri-yapildi-h1586111",
+   "https://www.ensonhaber.com/zelenskyden-trumpa-tepki-putin-bir-katil-arkadas-olamaz-h1586112"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679817-motosiklet-surucusunun-zor-anlari-karton-az-kalsin-kazaya-neden-oluyordu",
-   "https://spor.haber7.com/besiktas/haber/3679818-besiktas-kafilesini-tasiyan-ucak-batuma-inemedi-alternatif-rota-gundemde",
    "https://www.haber7.com/dunya/haber/3679821-almanyada-asiri-sag-vakasi-3-cocuk-gozaltinda",
    "https://www.haber7.com/3sayfa/haber/3679820-kaza-sonrasi-kacan-surucuye-400-bin-tl-ceza",
    "https://www.haber7.com/gaziantep/3679819-buyuksehirden-gaziantepte-iz-birakanlar-sergisi-acildi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680267-skydagger-dronlari-aselsan-radar-verisiyle-sahada-gorev-basinda",
    "https://www.haber7.com/seyahat/haber/3680268-kura-nehrinde-sasirtan-manzara-buz-adaciklari-ilginc-goruntuler-olusturdu",
    "https://www.haber7.com/dunya/haber/3680269-irandan-abd-f-16sina-hurmuz-bogazinda-uyari-atesi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680270-tcmb-fon-krizinin-finansal-istikrara-etkilerini-izleyecegiz"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680270-tcmb-fon-krizinin-finansal-istikrara-etkilerini-izleyecegiz",
+   "https://www.haber7.com/dunya/haber/3680271-israil-turkiyenin-6-hamlesini-mercek-altina-aldi-turk-pencesi-kiyilarda",
+   "https://www.haber7.com/guncel/haber/3680272-tbmm-baskani-kurtulmus-mikta-12-parlamento-baskanlari-toplantisinda-konustu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2208,10 +2208,6 @@
   ]
  },
  "recent_titles": [
-  "sultangazide 5inci kattan düşen kardelen öldü kocası tutuklandı",
-  "ekrem imamoğlunun diploması iptal edildi",
-  "arda güler geceye topuk pasıyla damga vurdu real madrid 5 golle kazandı",
-  "1 ay önce evlenen kardelenin şüpheli ölümü kocası tutuklandı",
   "trabzonda şiddetli yağış sonrası istinat duvarı araçların üzerine çöktü",
   "istanbul havalimanında 2 iranlı kıyafetlere emdirilmiş şekilde 20 kilo uyuşturucuyla yakalandı",
   "emine erdoğan kadına yönelik şiddet bütün insanlığı yaralıyor",
@@ -3707,6 +3703,10 @@
   "ingilterede savaş alarmı üsler korumaya alındı eski askerlere çağrı yapıldı",
   "samsunda 100 köpeğin izinsiz tutulmasıyla ilgili soruşturma başlatıldı köpekler koruma altına alındı",
   "tcmb fon krizinin finansal istikrara etkilerini izleyeceğiz",
-  "israil türkiyenin 6 hamlesini mercek altına aldı türk pençesi kıyılarda"
+  "israil türkiyenin 6 hamlesini mercek altına aldı türk pençesi kıyılarda",
+  "tbmm başkanı kurtulmuş mikta 12 parlamento başkanları toplantısında konuştu",
+  "japonyadan fatma şahine büyük onur imparator onayladı nişan takıldı",
+  "zelenskyden trumpa tepki putin bir katil arkadaş olamaz",
+  "volvo otomobil üretiminde insansı robotları test etmeye başladı"
  ]
 }
