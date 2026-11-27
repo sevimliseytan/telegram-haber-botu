@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/byd-ineosun-fransadaki-fabrikasini-almak-icin-masaya-oturdu-h1585584",
-   "https://www.ensonhaber.com/fenerbahce-u19-shakhtar-u19a-farkli-maglup-oldu-h1585585",
    "https://www.ensonhaber.com/kepez-belediyesi-sorusturmasinda-24-supheli-adliyede-h1585586",
    "https://www.ensonhaber.com/gorenler-uyku-uyarisi-saniyor-iste-kisik-goze-benzeyen-trafik-levhasinin-anlami-h1585587",
    "https://www.ensonhaber.com/besiktasa-hava-engeli-h1585588",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/umit-ozdagin-corum-programi-husranla-sonuclandi-vatandaslar-katilmadi-h1586076",
    "https://www.ensonhaber.com/kizilcik-serbetinde-omere-yeni-partner-idil-geliyor-h1586077",
    "https://www.ensonhaber.com/krem-kutularindaki-kavanoz-isareti-bakin-ne-anlama-geliyor-3m-6m-12m-yaziyorsa-h1586078",
-   "https://www.ensonhaber.com/kasim-ayinda-ekonomik-guven-endeksi-984-oldu-h1586079"
+   "https://www.ensonhaber.com/kasim-ayinda-ekonomik-guven-endeksi-984-oldu-h1586079",
+   "https://www.ensonhaber.com/xe-ebeveyn-denetimi-geldi-iste-genc-hesaplar-icin-6-yeni-ozellik-h1586080",
+   "https://www.ensonhaber.com/yeni-kilis-valisi-yusuf-alperen-ayar-basarili-bir-ogrenim-hayati-11-yil-devlet-tecrubesi-h1586081"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679789-turkcellin-zeka-gucu-siniflarinda-yapay-zeka-donemi-basliyor-1-milyon-ogrenciye-ulasti",
-   "https://www.haber7.com/guncel/haber/3679790-siddetli-yagis-yolu-vurdu-karayolunda-kopmalar-meydana-geldi",
    "https://www.haber7.com/yasam/haber/3669618-bobrek-ve-karacigerin-gizli-dusmani-cikti-fazlasi-tehlikeye-sokuyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679791-bakan-bolat-duyurdu-iit-ulkeleriyle-ticaret-10-ayda-1228-milyar-dolara-ulasti",
    "https://www.haber7.com/teknoloji/haber/3679792-kizilelma-israil-basinini-sarsti-abd-ve-cin-detayi-one-cikti",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/dunya/haber/3680235-cinde-keci-yuklu-kamyon-devrildi-trafik-kilitlendi",
    "https://www.haber7.com/dunya/haber/3680239-israil-ve-hindistandan-ortak-seytani-akil-filistin-ve-pakistan-nasil-siliniyor",
    "https://spor.haber7.com/spor/haber/3680238-besiktasin-ilk-golu-sonrasi-trt-spikerinin-coskusu-gundem-oldu",
-   "https://www.haber7.com/dunya/haber/3680240-ab-liderleri-12-saat-muzakere-etti-yine-uzlasamadi"
+   "https://www.haber7.com/dunya/haber/3680240-ab-liderleri-12-saat-muzakere-etti-yine-uzlasamadi",
+   "https://www.haber7.com/guncel/haber/3680241-ayni-apartmandaki-3-cocugun-supheli-olumu-yillar-sonra-aydinlatildi-7-gozalti",
+   "https://www.haber7.com/guncel/haber/3680244-15-bin-ogretmen-atamasi-icin-kritik-aciklama-atama-dagilimi-belli-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2170,7 +2170,8 @@
    "https://anlatilaninotesi.com.tr/20261127/husiler-suudi-arabistandaki-petrol-tesislerini-hedef-aldi-karsilikli-saldirilar-tirmaniyor-1110632032.html",
    "https://anlatilaninotesi.com.tr/20261127/oldugu-ilan-edilen-kadin-hastane-morgunda-gozlerini-acti-1110632343.html",
    "https://anlatilaninotesi.com.tr/20261127/ankarada-iki-bozayi-oldurulmustu-milli-park-muduru-gorevden-alindi-1110632808.html",
-   "https://anlatilaninotesi.com.tr/20261127/mahiroglu-sorusturmasinda-yeni-dalga-operasyon-spiker-ece-unerin-de-aralarinda-oldugu-12-kisi-1110633044.html"
+   "https://anlatilaninotesi.com.tr/20261127/mahiroglu-sorusturmasinda-yeni-dalga-operasyon-spiker-ece-unerin-de-aralarinda-oldugu-12-kisi-1110633044.html",
+   "https://anlatilaninotesi.com.tr/20261127/bakan-gurlek-acikladi-istanbulda-2004-ve-2005te-3-cocugun-olumune-iliskin-sorusturmada-7-gozalti-1110632259.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2200,16 +2201,6 @@
   ]
  },
  "recent_titles": [
-  "koreliler boşuna tüketmiyor vücudu güçlü bir kalkan gibi koruyor",
-  "9 süper lig ekibi pfdkye sevk edildi 3 dev de içlerinde",
-  "evliya çelebi kalemiyle biz objektifimizle nakşettik",
-  "yargıtaydan iban sahiplerini ilgilendiren karar atm ve ip kayıtları incelenecek",
-  "türkiye ile umman arasında 5 milyar dolarlık ticaret hedefi",
-  "avcılarda yeraltı elektrik kablolarında patlama sonrası yangın",
-  "israilin galatasaray hakkındaki şikayeti uluslararası medyada",
-  "mezarlıktan geçerken fark etti toprağın altında milyonlarcası yaşıyormuş",
-  "yasal zorbalığa son verilmelidir ihtarsız ve süresiz iicra ve unuttuğumuz merhamet",
-  "izmirde bir evden 187 tarihi eser çıktı",
   "eskişehirde helikopter kazasında şehit olan askerlerin evlerine türk bayrakları asıldı",
   "huangın skandal dönüşü ve nvidianın ikiyüzlüğü",
   "israile kötü haber birçok silah anlaşması yapmışlardı ticareti kesiyorlar",
@@ -3699,6 +3690,16 @@
   "ab liderleri 12 saat müzakere etti yine uzlaşamadı",
   "aynı apartmandaki 3 çocuğun şüpheli ölümü yıllar sonra aydınlatıldı 7 gözaltı",
   "kasım ayında ekonomik güven endeksi 984 oldu",
-  "xe ebeveyn denetimi geldi işte genç hesaplar için 6 yeni özellik"
+  "xe ebeveyn denetimi geldi işte genç hesaplar için 6 yeni özellik",
+  "15 bin öğretmen ataması için kritik açıklama atama dağılımı belli oldu",
+  "brent petrol fiyatı 100 dolara yaklaştı",
+  "düğün hazırlıkları ailelerin beklentileri ve evlilikte uyum ülkede hayatta ele alınacak",
+  "trump rutte ile görüştü daha önce görülmemiş silahlar üreteceğiz",
+  "yeni kilis valisi yusuf alperen ayar başarılı bir öğrenim hayatı 11 yıl devlet tecrübesi",
+  "meb 15 bin öğretmen adayı için alan bazında kontenjan dağılımı belli oldu",
+  "burdurda kübra yapıcıyı öldüren 2 sanığa ağırlaştırılmış müebbet talebi",
+  "kpss ortaöğretim sınavına katılan adayların branş bazında sıralamaları açıklandı",
+  "beyaz perdede bir köylü yönetmen ahmet uluçay",
+  "bakan gürlek açıkladı istanbulda 2004 ve 2005te 3 çocuğun ölümüne ilişkin soruşturmada 7 gözaltı"
  ]
 }
