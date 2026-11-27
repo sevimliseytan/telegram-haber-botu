@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/melisa-dongelden-evlilige-yesil-isik-aile-kursam-fena-olmaz-h1585687",
-   "https://www.ensonhaber.com/erzincan-daglarinda-kar-hava-sicakligi-sifirin-altina-dustu-h1585688",
    "https://www.ensonhaber.com/iklim-krizi-tehlikesi-suruyor-felaketlere-karsi-en-savunmasiz-sehirler-69129-h1585689",
    "https://www.ensonhaber.com/spkden-9-sirketin-borclanma-araci-ihracina-onay-h1585690",
    "https://www.ensonhaber.com/manisada-35-milyon-tllik-telefon-dolandiriciligi-1-tutuklama-h1585691",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/formula-1de-siradaki-durak-katar-h1586179",
    "https://www.ensonhaber.com/bursada-trafikte-mahsur-kalan-yavru-kediyi-kurtardilar-h1586180",
    "https://www.ensonhaber.com/bddknin-yeni-baskani-yusuf-kenan-bagir-kimdir-daha-once-hangi-gorevlerde-bulundu-h1586181",
-   "https://www.ensonhaber.com/sifanur-gulden-29-yas-pozlari-dogum-gunu-pozlari-begeni-topladi-h1586182"
+   "https://www.ensonhaber.com/sifanur-gulden-29-yas-pozlari-dogum-gunu-pozlari-begeni-topladi-h1586182",
+   "https://www.ensonhaber.com/yasli-kadinin-47-milyon-lirasini-aldilar-doktor-ve-iki-bakimevi-calisanina-hapis-cezasi-h1586183",
+   "https://www.ensonhaber.com/emlak-katilim-birevim-ve-katilimevimi-bunyesine-dahil-etti-h1586184"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3679877-onder-ozen-ucakta-yasananlari-anlatti-bir-tehlike-atlattik",
-   "https://www.haber7.com/guncel/haber/3679879-6si-cocuk-7-kisilik-ailenin-drami-yurek-burktu-istanbul-valiligi-harekete-gecti",
    "https://www.haber7.com/dunya/haber/3679878-abdnin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679766-tarsus-belediye-bsk",
    "https://www.haber7.com/resmi-ilanlar/haber/3679762-kutahya-belediye-baskanligi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/ulkede-bugun/haber/3680333-aydinda-cami-duvarina-yazilan-yazi-korkuttu-bir-cocuk-gozaltinda",
    "https://spor.haber7.com/besiktas/haber/3680319-resmi-aciklama-geldi-besiktasa-gurcistanda-bir-sikinti-daha",
    "https://www.haber7.com/aydin/3680333-aydinda-cami-duvarina-yazilan-yazi-korkuttu-bir-cocuk-gozaltinda",
-   "https://spor.haber7.com/spor/haber/3680335-helal-olsun-orkun-filistin-bayragina-set-oldugu-anlar-viral-oldu"
+   "https://spor.haber7.com/spor/haber/3680335-helal-olsun-orkun-filistin-bayragina-set-oldugu-anlar-viral-oldu",
+   "https://www.haber7.com/ulkede-bugun/haber/3680336-yer-sakarya-tum-koye-musallat-oldu-gece-ortaya-cikiyor",
+   "https://spor.haber7.com/besiktas/haber/3680337-uefadan-skandal-aciklama-besiktas-taraftarlarini-suclamaya-kalkti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2239,11 +2239,6 @@
   ]
  },
  "recent_titles": [
-  "refah devleti krizde avrupa genelinde protestolar büyüyor",
-  "bir ayda yüzde 96 indirim 20 liraya resmen kapışılıyor",
-  "sarıyerdeki olmayan aslanın hatırlattıkları ünlülerin evcil olmayan hayvanları",
-  "uyuşturucu soruşturmasında ünlüler adliyede",
-  "hayden panettierenin mirası ortaya çıktı 6 milyon doları aşıyor",
   "bilmezler ki kalbimdesinde malini geri dönüyor imlieye neler yaşatacak",
   "tbmm plan ve bütçe komisyonu 2027 ulaştırma bütçesini onayladı",
   "balkona koyup prize takıyorlar elektrik masrafını azaltıyor",
@@ -3738,6 +3733,11 @@
   "helal olsun orkun filistin bayrağına set olduğu anlar viral oldu",
   "yer sakarya tüm köye musallat oldu gece ortaya çıkıyor",
   "şifanur gülden 29 yaş pozları doğum günü pozları beğeni topladı",
-  "yaşlı kadının 47 milyon lirasını aldılar doktor ve iki bakımevi çalışanına hapis cezası"
+  "yaşlı kadının 47 milyon lirasını aldılar doktor ve iki bakımevi çalışanına hapis cezası",
+  "uefadan skandal açıklama beşiktaş taraftarlarını suçlamaya kalktı",
+  "alex 2 ligde 1 puanla kümede kalan takıma teknik direktör oldu",
+  "emlak katılım birevim ve katılımevimi bünyesine dahil etti",
+  "islamabad sokakları türk pakistan ve suudi arabistan bayraklarıyla süslendi",
+  "hurda teşviki çıkacak mı eski araçlara 2027 teşviki"
  ]
 }
