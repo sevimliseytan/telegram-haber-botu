@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679732-turkiye-ile-macaristanin-ortak-mirasi-gul-baba-budapestede-anildi",
    "https://www.haber7.com/guncel/haber/3679731-daltonlar-cetesine-operasyon-verdikleri-roportajin-onunde-diz-cokturduler",
    "https://spor.haber7.com/super-lig/haber/3679733-milli-yildizin-annesinden-takim-arkadaslari-icin-sok-iddia-bilerek-pas-atmiyorlar",
    "https://ekonomi.haber7.com/ekonomi/haber/3679734-turk-telekom-gelecegi-genclerle-birlikte-insa-ediyor",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680185-4-aday-canli-yayinda-tartisti-secime-gunler-kala-dunyanin-gozu-onunde-yerin-dibine-soktu",
    "https://www.haber7.com/guncel/haber/3680186-bagcilarda-sokak-ortasinda-silahli-saldiri-2-cocuk-yarali",
    "https://www.haber7.com/guncel/haber/3680187-afaddan-aciklama-ege-denizinde-deprem",
-   "https://www.haber7.com/siyaset/haber/3680188-bakan-kurumdan-bela-diyen-vekile-tepki-14-milyon-vatandasimizin-gonlu-kirilmistir"
+   "https://www.haber7.com/siyaset/haber/3680188-bakan-kurumdan-bela-diyen-vekile-tepki-14-milyon-vatandasimizin-gonlu-kirilmistir",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680189-emekliler-icin-kritik-zirve-calismalarda-sona-gelindi-iste-masadaki-rakam"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2188,7 +2188,6 @@
   ]
  },
  "recent_titles": [
-  "emekli polis güray savaş son yolculuğuna uğurlandı",
   "kural tanımayan iett şoförleri otobüs içi kameralarla tespit edilsin",
   "kâğıthanenin sevilen isimlerinden kemal dirice son yolculuğuna uğurlandı",
   "yaşlı ve engelli vatandaşlara evde fizik tedavi desteği",
@@ -3687,6 +3686,7 @@
   "fransız haber ajansı afpye siber saldırı platform kapatıldı",
   "almanyada tedavi görüyordu killa hakandan sağlık durumuyla ilgili açıklama geldi",
   "resmi gazetede yayımlandı kamu kurumlarında yeni atamalar",
-  "abdyi vuran şiddetli fırtına tarihte bir ilke imza attı 1 milyona yakın abone elektriksiz kaldı yüzlerce uçuş iptal"
+  "abdyi vuran şiddetli fırtına tarihte bir ilke imza attı 1 milyona yakın abone elektriksiz kaldı yüzlerce uçuş iptal",
+  "emekliler için kritik zirve çalışmalarda sona gelindi işte masadaki rakam"
  ]
 }
