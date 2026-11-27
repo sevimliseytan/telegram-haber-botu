@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sampiyonlar-liginde-sonuclar-ve-gorunum-h1585663",
-   "https://www.ensonhaber.com/ergin-atamandan-italya-maci-yorumu-h1585664",
-   "https://www.ensonhaber.com/arda-turan-fenerbahceyi-tebrik-ediyorum-h1585665",
    "https://www.ensonhaber.com/ismail-yuksek-galibiyeti-taraftarimiza-armagan-ediyorum-h1585666",
    "https://www.ensonhaber.com/vedat-muriqi-macin-oyuncusu-odulunu-esi-icin-aldi-h1585667",
    "https://www.ensonhaber.com/milan-skriniar-evimizde-gibi-hissettik-h1585668",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/unlu-markanin-kahveleri-toksik-cikti-ucreti-iade-edilecek-h1586155",
    "https://www.ensonhaber.com/boluda-domuz-avinda-kazara-vuruldugu-iddiasi-5-kisi-gozaltinda-h1586156",
    "https://www.ensonhaber.com/donald-trump-irak-basbakaninin-devlet-otoritesini-koruma-cabasini-destekliyorum-h1586157",
-   "https://www.ensonhaber.com/eskisehirde-aracta-sikisan-surucu-kurtarildi-h1586158"
+   "https://www.ensonhaber.com/eskisehirde-aracta-sikisan-surucu-kurtarildi-h1586158",
+   "https://www.ensonhaber.com/2026-steam-odulleri-adayliklari-basladi-son-10-yilin-en-iyi-oyunu-da-secilecek-h1586159",
+   "https://www.ensonhaber.com/emlak-katilim-katilimevim-birevim-ve-iktisat-katilim-bankasini-bunyesine-katti-h1586160",
+   "https://www.ensonhaber.com/aydinda-cami-duvarina-tehditler-yazan-15-yasindaki-supheli-gozaltinda-h1586161"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679860-mossadin-eski-baskani-almanyada-protesto-edildi-savas-suclususun-diye-bagirdi",
    "https://www.haber7.com/dunya/haber/3679861-israilin-yeni-meclisinden-ezan-karari-ben-gvir-salondan-atildi-cilgina-donduler",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-shakhtar-donetsk-fenerbahce-ilk-11ler",
    "https://www.haber7.com/guncel/haber/3679863-yenidogan-cetesi-savcisi-yavuz-enginin-yeni-adresi-belli-oldu-iste-atandigi-gorev-yeri",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680311-turk-rus-20-donem-kek-protokolu-imzalandi",
    "https://spor.haber7.com/trabzonspor/haber/3680312-bulgar-basini-trabzonsporu-konusuyor-salah-ve-arkadaslari-mahvetti",
    "https://www.haber7.com/guncel/haber/3680313-5-arkadasin-domuz-avi-kotu-sonla-bitti-1-olu",
-   "https://www.haber7.com/siyaset/haber/3680314-hikmet-cetinin-cenazesinde-dikkat-ceken-anlar-parti-liderleri-yan-yana"
+   "https://www.haber7.com/siyaset/haber/3680314-hikmet-cetinin-cenazesinde-dikkat-ceken-anlar-parti-liderleri-yan-yana",
+   "https://www.haber7.com/dunya/haber/3680315-trumptan-son-dakika-irak-aciklamasi-destekliyorum"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1864,7 +1864,8 @@
    "https://www.mynet.com/magazin/halk-tv-operasyonunda-yeni-dalga-ece-uner-deniz-bayramoglu-ve-kursat-oguz-icin-gozalti-karari-130100607789",
    "https://www.mynet.com/magazin/canli-yayina-baglandi-blok3-sandilar-gercek-baska-cikti-130100607795",
    "https://www.mynet.com/magazin/tuzlu-kahve-ye-mike-tyson-konuk-oluyor-130100607804",
-   "https://www.mynet.com/magazin/sener-usumezsoy-esra-ezmeci-nin-ayak-bileklerini-inceledi-sosyal-medya-onlari-konusuyor-130100607807"
+   "https://www.mynet.com/magazin/sener-usumezsoy-esra-ezmeci-nin-ayak-bileklerini-inceledi-sosyal-medya-onlari-konusuyor-130100607807",
+   "https://www.mynet.com/magazin/ufuk-beydemir-den-yogun-bakim-paylasimi-kizi-ruby-ile-ilk-kare-130100607810"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2196,7 +2197,8 @@
    "https://anlatilaninotesi.com.tr/20261127/tilki-selim-lakapli-selim-isik-yakalandi-saunanin-icindeki-gizli-bolumde-bulundu--1110637826.html",
    "https://anlatilaninotesi.com.tr/20261127/petrol-fiyatlarinda-abd-iran-gerilimi-opec-piyasaya-yon-verebilecek-mi-1110637974.html",
    "https://anlatilaninotesi.com.tr/20261127/tur-sirketlerinden-tepki-gurcistan-turlari-iptal-ediliyor-1110638198.html",
-   "https://anlatilaninotesi.com.tr/20261127/evrensel-muhabiri-nisa-sude-demirel-14-yasindaki-mahmutun-oldugu-otoparkin-fisi-hl-ismailagaya-1110638929.html"
+   "https://anlatilaninotesi.com.tr/20261127/evrensel-muhabiri-nisa-sude-demirel-14-yasindaki-mahmutun-oldugu-otoparkin-fisi-hl-ismailagaya-1110638929.html",
+   "https://anlatilaninotesi.com.tr/20261127/trumpin-51-eyalet-soylemini-desteklemisti-kanada-abd-buyukelcisinin-sinir-disi-edilmesi-icin-290-1110639623.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2228,9 +2230,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda trafik magandası dehşeti hem suçlu hem güçlü",
-  "kredi kartı sahipleri dikkat 1 ay sonra hepsi sıfırlanacak",
-  "istanbulda yabancı basına silahlı röportaj veren çeteye operasyon 9 gözaltı",
   "arda gülerle ispanyol muhabirin gülümseten anları röportajı abi diyerek bitirdi",
   "yargıtay üyeliğine 5 isim seçildi",
   "yeni partide myk belli oldu",
@@ -3727,6 +3726,9 @@
   "emlak katılım katılımevim birevim ve iktisat katılım bankasını bünyesine kattı",
   "şener üşümezsoy esra ezmecinin ayak bileklerini inceledi sosyal medya onları konuşuyor",
   "ufuk beydemirden yoğun bakım paylaşımı kızı ruby ile ilk kare",
-  "narkotik öyküler kitabı için teşekkür"
+  "narkotik öyküler kitabı için teşekkür",
+  "trumptan son dakika irak açıklaması destekliyorum",
+  "aydında cami duvarına tehditler yazan 15 yaşındaki şüpheli gözaltında",
+  "trumpın 51 eyalet söylemini desteklemişti kanada abd büyükelçisinin sınır dışı edilmesi için 290 bin imza topladı"
  ]
 }
