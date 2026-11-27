@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679942-kokusmus-zihniyet",
-   "https://spor.haber7.com/spor/haber/3679944-herkez-emre-belezoglunun-dans-vaadini-konusuyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679945-silah-ruhsati-harclari-belli-oldu-iste-bulundurma-ve-tasima-ucretleri",
    "https://www.haber7.com/guncel/haber/3679946-gencligin-en-buyuk-eksikligi-sabir",
    "https://ekonomi.haber7.com/ekonomi/haber/3679947-borsa-gune-yukselisle-basladi",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/galatasaray/haber/3680399-galatasarayda-besiktas-hazirliklari-devam-etti",
    "https://www.haber7.com/dunya/haber/3680400-iran-operasyon-vakti-geldi",
    "https://www.haber7.com/kultur/haber/3680401-yedi-guzel-adamin-mirasi-yeniden-hayat-buluyor-50-bin-kitaplik-kutuphane",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680403-sislide-musterisini-dolandiran-oto-lastikci-muhurlendi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680403-sislide-musterisini-dolandiran-oto-lastikci-muhurlendi",
+   "https://www.haber7.com/guncel/haber/3680402-cumhurbaskani-basdanismani-orhandan-begeni-toplayan-kurtce-turku-performansi",
+   "https://spor.haber7.com/spor/haber/3680404-mourinho-gazeteciyi-anlindan-optu-gercek-ortaya-cikti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2260,7 +2260,6 @@
   ]
  },
  "recent_titles": [
-  "fenerbahçenin gençleri avrupada dağıldı shakhtar donetske 6 golle yenildiler",
   "manisada 16 lise öğrencisi gıda zehirlenmesi şüphesiyle hastaneye gitti",
   "bilim insanlarından sevindiren haber zırh teknolojisi otomobillere geliyor",
   "gta 6ya erişim engeli gerekçesi açıklandı",
@@ -3759,6 +3758,7 @@
   "şişlide müşterisini dolandıran oto lastikçi mühürlendi",
   "cumhurbaşkanı başdanışmanı orhandan beğeni toplayan kürtçe türkü performansı",
   "istanbulda elleme bozuk de diyen otomotiv servisi mühürlendi",
-  "istanbul valiliğinden soğuk hava uyarısı karla karışık yağmur geliyor"
+  "istanbul valiliğinden soğuk hava uyarısı karla karışık yağmur geliyor",
+  "mourinho gazeteciyi anlından öptü gerçek ortaya çıktı"
  ]
 }
