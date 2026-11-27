@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/abdde-federal-yargic-trumpin-dogustan-vatandasligi-kisitlamaya-yonelik-yeni-kararnamelerin-h1585766",
    "https://www.ensonhaber.com/istanbulda-aracini-onune-kirdi-tepki-gosteren-sofore-saldirdi-h1585767",
    "https://www.ensonhaber.com/yeni-katlanabilir-telefon-huawei-mate-x8-tanitildi-iste-fiyati-ve-ozellikleri-h1585768",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-maci-trt-1de-mi-saat-kacta-baslayacak-iste-canli-yayin-bilgiler-h1585769",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/4-ibb-meclis-uyesi-daha-ak-partiye-katildi-h1586258",
    "https://www.ensonhaber.com/2027-butcesi-tbmmde-komisyondan-gecti-h1586259",
    "https://www.ensonhaber.com/ozgur-ozel-cumhurbaskani-adayligina-iliskin-4-araliki-isaret-etti-h1586260",
-   "https://www.ensonhaber.com/edirnede-kapikule-karsisindaki-gumruk-kapisinda-tirda-34-bin-sterlin-ele-gecirildi-h1586261"
+   "https://www.ensonhaber.com/edirnede-kapikule-karsisindaki-gumruk-kapisinda-tirda-34-bin-sterlin-ele-gecirildi-h1586261",
+   "https://www.ensonhaber.com/pfdkdan-fenerbahce-kocaelispor-ve-besiktasa-para-cezasi-h1586262"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679982-cezayirde-korkunc-kaza-12-kisi-hayatini-kaybetti",
-   "https://spor.haber7.com/galatasaray/haber/3679970-olcumu-amerikalilar-yapti-rams-parkin-desibeli-agizlari-acik-biraktirdi",
    "https://www.haber7.com/seyahat/haber/3679983-yukaridan-bakan-goz-saniyor-tokatin-doga-harikasi-adali-gol-sonbaharda-da-ilgi-goruyor",
    "https://spor.haber7.com/basketbol/haber/3679984-alperen-sengunun-double-doublei-houston-rocketse-galibiyeti-getirdi",
    "https://www.haber7.com/guncel/haber/3679986-bakan-tekinden-son-dakika-ogretmen-atamasi-aciklamasi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680434-erdoganin-hocasi-kemal-efendi-vefat-etti-sagliginda-anlattigi-kissa-yeniden-gundem-oldu",
    "https://www.haber7.com/guncel/haber/3680435-unesconun-edebiyat-sehri-kahramanmaras-16-ulkeyi-kultur-ve-edebiyatla-bulusturdu",
    "https://www.haber7.com/guncel/haber/3680434-erdoganin-hocasi-kemal-hut-efendinin-sagliginda-anlattigi-kissa-yeniden-gundem-oldu",
-   "https://www.haber7.com/guncel/haber/3680436-alman-kanalina-roportaj-verenler-icin-hesap-vakti-sovlari-ellerinde-patladi"
+   "https://www.haber7.com/guncel/haber/3680436-alman-kanalina-roportaj-verenler-icin-hesap-vakti-sovlari-ellerinde-patladi",
+   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-nefes-kesen-mac-5-gollu-duelloda-902de-muhtesem-geri-donus",
+   "https://spor.haber7.com/super-lig/haber/3680437-dusme-hattindaki-kritik-macta-907de-muhtesem-zafer"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2276,8 +2276,6 @@
   ]
  },
  "recent_titles": [
-  "gaziantep basketbolda sistem şampiyonluğa kuruldu",
-  "trabzonspor avrupa kupalarında 161 maçına çıkacak",
   "beşiktaş hapoel beersheva maçına hazır",
   "afonso sousa üst sıralarda olmak istiyoruz",
   "terörsüz türkiye sürecine seçim atmosferi uyarısı",
@@ -3775,6 +3773,8 @@
   "berlinde amazon deposu önünde eylem filistin destekçileri girişi kapattı",
   "alman kanalına röportaj verenler için hesap vakti şovları ellerinde patladı",
   "süper ligde nefes kesen düello 5 gollü düelloda 902de muhteşem geri dönüş",
-  "edirnede kapıkule karşısındaki gümrük kapısında tırda 34 bin sterlin ele geçirildi"
+  "edirnede kapıkule karşısındaki gümrük kapısında tırda 34 bin sterlin ele geçirildi",
+  "düşme hattındaki kritik maçta 907de muhteşem zafer",
+  "pfdkdan fenerbahçe kocaelispor ve beşiktaşa para cezası"
  ]
 }
