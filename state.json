@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/paladyum-agustos-2024ten-bu-yana-en-dusuk-seviyesinde-h1585582",
-   "https://www.ensonhaber.com/avustralyada-senator-kanun-teklifi-gorusmesi-sirasinda-bebekle-saklambac-oynadi-h1585583",
    "https://www.ensonhaber.com/byd-ineosun-fransadaki-fabrikasini-almak-icin-masaya-oturdu-h1585584",
    "https://www.ensonhaber.com/fenerbahce-u19-shakhtar-u19a-farkli-maglup-oldu-h1585585",
    "https://www.ensonhaber.com/kepez-belediyesi-sorusturmasinda-24-supheli-adliyede-h1585586",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/demet-sener-kucukluk-halini-paylasti-paylasimi-ilgi-odagi-oldu-h1586074",
    "https://www.ensonhaber.com/ankarada-oldurulen-ayilara-iliskin-soguksu-milli-park-muduru-gorevden-alindi-h1586075",
    "https://www.ensonhaber.com/umit-ozdagin-corum-programi-husranla-sonuclandi-vatandaslar-katilmadi-h1586076",
-   "https://www.ensonhaber.com/kizilcik-serbetinde-omere-yeni-partner-idil-geliyor-h1586077"
+   "https://www.ensonhaber.com/kizilcik-serbetinde-omere-yeni-partner-idil-geliyor-h1586077",
+   "https://www.ensonhaber.com/krem-kutularindaki-kavanoz-isareti-bakin-ne-anlama-geliyor-3m-6m-12m-yaziyorsa-h1586078",
+   "https://www.ensonhaber.com/kasim-ayinda-ekonomik-guven-endeksi-984-oldu-h1586079"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,14 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679776-atinanin-silahlanma-sovu-elinde-patladi-yunan-ordusunda-istifa-depremi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679779-avrupanin-devi-borc-batagina-saplandi-almanyanin-iflas-riski-var-mi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679780-vize-serbestisi-gelirse-turk-vatandaslarinin-gidebilecegi-ulkeler",
-   "https://spor.haber7.com/avrupa-ligleri/haber/3679781-erling-haaland-bu-cok-aci-verici",
-   "https://www.haber7.com/kitap/haber/3679783-istanbul-ticaret-universitesi-yayinlarinin-yeni-donem-hedefleri-aciklandi",
-   "https://spor.haber7.com/galatasaray/haber/3679787-gsaray-tum-kayitlarin-pesinde-okan-buruk-icin-derbi-iddiasi-ve-ali-sansalan-karari",
-   "https://www.haber7.com/guncel/haber/3679759-tanik-olarak-dinlenen-haluk-leventten-ilginc-sozler-onu-degil-beni-tutuklayin",
-   "https://www.haber7.com/izmir/3679788-izmirde-baba-ogulun-cesedi-ormanda-bulunmustu-3-tutuklu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679789-turkcellin-zeka-gucu-siniflarinda-yapay-zeka-donemi-basliyor-1-milyon-ogrenciye-ulasti",
    "https://www.haber7.com/guncel/haber/3679790-siddetli-yagis-yolu-vurdu-karayolunda-kopmalar-meydana-geldi",
    "https://www.haber7.com/yasam/haber/3669618-bobrek-ve-karacigerin-gizli-dusmani-cikti-fazlasi-tehlikeye-sokuyor",
@@ -1391,7 +1383,15 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680229-borsa-gune-dususle-basladi",
    "https://www.haber7.com/dunya/haber/3680231-trump-iran-bunu-yaparsa-soykirim-yasanir",
    "https://www.haber7.com/guncel/haber/3680234-hirsiz-muhtar-omerin-hikayesini-duydunuz-mu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680233-elektrikli-arac-sahipleri-dikkat-sarjda-yeni-kural-geldi-artik-resmen-yasaklandi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680233-elektrikli-arac-sahipleri-dikkat-sarjda-yeni-kural-geldi-artik-resmen-yasaklandi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680233-elektrikli-arac-sahipleri-dikkat-sarja-yeni-kural-geldi-artik-resmen-yasaklandi",
+   "https://www.haber7.com/guncel/haber/3680232-son-dakika-halk-tv-sorusturmasinda-2-unlu-spiker-dahil-9-kisi-gozaltinda",
+   "https://www.haber7.com/yasam/haber/3680237-22-milyon-sutu-tarlalara-dokmek-icin-izin-istediler-nedeni-soke-etti",
+   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680236-ulke-puaninda-44luk-hafta-yunanistan-0-cekti-turkiye-costu-en-iyi-2nci-ulkeyiz",
+   "https://www.haber7.com/dunya/haber/3680235-cinde-keci-yuklu-kamyon-devrildi-trafik-kilitlendi",
+   "https://www.haber7.com/dunya/haber/3680239-israil-ve-hindistandan-ortak-seytani-akil-filistin-ve-pakistan-nasil-siliniyor",
+   "https://spor.haber7.com/spor/haber/3680238-besiktasin-ilk-golu-sonrasi-trt-spikerinin-coskusu-gundem-oldu",
+   "https://www.haber7.com/dunya/haber/3680240-ab-liderleri-12-saat-muzakere-etti-yine-uzlasamadi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2200,10 +2200,6 @@
   ]
  },
  "recent_titles": [
-  "türk mobilya devi devrediyor bütün hisseleri satışa çıkarıldı",
-  "apple watchtan daha ince huawei watch air tanıtıldı",
-  "susuz yaz için geri sayım başladı 1 aralıkta ekranda",
-  "emekliye de mi muhalifsiniz",
   "koreliler boşuna tüketmiyor vücudu güçlü bir kalkan gibi koruyor",
   "9 süper lig ekibi pfdkye sevk edildi 3 dev de içlerinde",
   "evliya çelebi kalemiyle biz objektifimizle nakşettik",
@@ -3699,6 +3695,10 @@
   "israil ve hindistandan ortak şeytani akıl filistin ve pakistan nasıl siliniyor",
   "beşiktaşın ilk golü sonrası trt spikerinin coşkusu gündem oldu",
   "kızılcık şerbetinde ömere yeni partner idil geliyor",
-  "krem kutularındaki kavanoz işareti bakın ne anlama geliyor 3m 6m 12m yazıyorsa"
+  "krem kutularındaki kavanoz işareti bakın ne anlama geliyor 3m 6m 12m yazıyorsa",
+  "ab liderleri 12 saat müzakere etti yine uzlaşamadı",
+  "aynı apartmandaki 3 çocuğun şüpheli ölümü yıllar sonra aydınlatıldı 7 gözaltı",
+  "kasım ayında ekonomik güven endeksi 984 oldu",
+  "xe ebeveyn denetimi geldi işte genç hesaplar için 6 yeni özellik"
  ]
 }
