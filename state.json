@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kastamonuda-dev-dalgalarin-dovdugu-sahilde-tahkimat-duvari-ve-kaldirim-yikildi-h1585722",
-   "https://www.ensonhaber.com/abnin-hibrit-otomobil-kotasina-osdden-tepki-turkiyeye-126-bin-320-adet-sinir-h1585723",
-   "https://www.ensonhaber.com/devlet-bahceli-dem-parti-imrali-heyetiyle-gorusecek-h1585724",
    "https://www.ensonhaber.com/ozgu-kayadan-derya-ulugun-dugununde-iddiali-elbisesiyle-dikkat-cekti-h1585725",
    "https://www.ensonhaber.com/shakhtar-donetsk-galibiyeti-fenerbahcenin-kasasini-doldurdu-h1585726",
    "https://www.ensonhaber.com/mersinde-sari-lacivert-renklere-boyanan-ev-dikkat-cekiyor-h1585727",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/sakaryada-atilan-gizemli-taslar-koyde-korkuya-neden-oluyor-h1586214",
    "https://www.ensonhaber.com/corumun-tandir-kebabi-tescillendi-h1586215",
    "https://www.ensonhaber.com/orkun-kokcu-uefa-sorusturma-acarsa-sonuclarina-katlaniriz-hicbir-sikinti-yok-h1586216",
-   "https://www.ensonhaber.com/ingilterede-yapay-zeka-kaynakli-hukuki-hatalar-mahkeme-dosyalarina-yansidi-h1586217"
+   "https://www.ensonhaber.com/ingilterede-yapay-zeka-kaynakli-hukuki-hatalar-mahkeme-dosyalarina-yansidi-h1586217",
+   "https://www.ensonhaber.com/istanbulda-donus-yapmak-isterken-kaza-yapti-h1586218",
+   "https://www.ensonhaber.com/2-saatlik-yolu-2-dakikaya-indirdi-33-milyon-kisi-kopruyu-gormeye-geldi-h1586219",
+   "https://www.ensonhaber.com/cumhurbaskani-erdogan-unesco-genel-direktoru-el-enanyyi-kabul-etti-h1586220"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679909-milyonlarca-kisinin-borcu-siliniyor-tbmmdeki-gorusmeler-basladi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679910-kopru-ve-otoyollar-konusunda-kritik-rakam-bakan-uraloglu-10-milyar-dolari-isaret-etti",
    "https://www.haber7.com/dunya/haber/3679911-abd-basini-duyurdu-new-jerseyde-olaganustu-hal-ilan-edildi",
    "https://www.haber7.com/guncel/haber/3679901-baskentte-feto-operasyonu-3-firari-yakalandi",
    "https://www.haber7.com/guncel/haber/3679913-son-dakika-sahap-kavcioglu-hakkinda-sorusturma-izni-verildi",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680373-dunya-ekonomisinin-nabzi-palandokende-atacak",
    "https://www.haber7.com/guncel/haber/3680375-tbmm-baskani-kurtulmus-avustralya-senatosu-baskani-lines-ile-gorustu",
    "https://www.haber7.com/kultur/haber/3680377-hatayin-tarihi-ve-manevi-mirasi-yeniden-yukseliyor-bakan-ersoy-20-eserin-acilisini-yapti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680373-dunya-ekonomisinin-kalbi-palandokende-atacak-dev-zirveye-ust-duzey-isimler-katilacak"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680373-dunya-ekonomisinin-kalbi-palandokende-atacak-dev-zirveye-ust-duzey-isimler-katilacak",
+   "https://spor.haber7.com/besiktas/haber/3680378-onder-ozenden-galatasaray-derbisi-hakkinda-aciklama-erteleme-talebi-olacak-mi",
+   "https://spor.haber7.com/besiktas/haber/3680319-israil-ekibini-deviren-besiktas-yurda-dondu-turkiye-arkamizdaydi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
