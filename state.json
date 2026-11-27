@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679974-120-ay-vade-yuzde-5-pesinat-ile-ev-alma-firsati-emlak-konut-kampanyayi-duyurdu",
    "https://www.haber7.com/seyahat/haber/3679975-balikesirin-altin-lezzeti-bin-yildir-ayni-yontemle-hazirlaniyor",
    "https://www.haber7.com/guncel/haber/3679976-sehitlerimiz-icin-son-gorev-memleketlerine-ugurlaniyorlar",
    "https://ekonomi.haber7.com/ekonomi/haber/3679977-halka-arzlarda-da-vurgun-yapmislar-tera-ceosu-birer-birer-acikladi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680424-turkiye-besiktas-icin-tek-yumruk-oldu-senegalli-komedyen-mustinin-sozleri-gundem-oldu",
    "https://www.haber7.com/kultur/haber/3680426-mevlevi-sema-mukabelesi-ve-turk-tasavvuf-musikisi-ingilterede",
    "https://www.haber7.com/siyaset/haber/3680427-imamoglu-taca-cikti-ozel-deme-dirsek-cevirdi-siyasette-yeni-ittifak-hazirligi-mi",
-   "https://www.haber7.com/dunya/haber/3680428-abdden-umman-korfezinde-dikkat-ceken-saldiri-ablukayi-asmaya-calisan-gemiyi-vurdu"
+   "https://www.haber7.com/dunya/haber/3680428-abdden-umman-korfezinde-dikkat-ceken-saldiri-ablukayi-asmaya-calisan-gemiyi-vurdu",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680429-2027-butcesi-komisyonda-kabul-edildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2241,7 +2241,8 @@
    "https://anlatilaninotesi.com.tr/20261127/abd-ordusu-abluka-yasagini-delmeye-calisan-ticari-gemiyi-umman-korfezinde-vurduk-1110649646.html",
    "https://anlatilaninotesi.com.tr/20261127/iletisim-baskanligi-duyurdu-fonda-ara-odeme-tamamlandi-1110649806.html",
    "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-kuzey-kibrista-batan-yolcu-gemisi-davasinda-9-supheli-tutuklu-yargilanmak-uzere-cezaevine-1110650452.html",
-   "https://anlatilaninotesi.com.tr/20261127/turkiye-kupasinda-kura-heyecani-devlerin-rakipleri-belli-oluyor-1110650592.html"
+   "https://anlatilaninotesi.com.tr/20261127/turkiye-kupasinda-kura-heyecani-devlerin-rakipleri-belli-oluyor-1110650592.html",
+   "https://anlatilaninotesi.com.tr/20261127/cumhurbaskani-erdogan-yarin-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek-1110650713.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2273,8 +2274,6 @@
   ]
  },
  "recent_titles": [
-  "uefa konferans liginde 4 hafta maçları oynanacak",
-  "guardiola reddettiği takımı ilk kez açıkladı yeni hedefini anlattı",
   "teracılar ayrı pusulacılar ayrı fonda iki farklı örgüt var",
   "uefa avrupa liginde 5 hafta maçları yapılacak",
   "yılancık taşı nedir neye iyi gelir doğurduğuna bile inanılıyor",
@@ -3772,6 +3771,8 @@
   "ünlülere uyuşturucu soruşturması test sonuçları belli oldu",
   "türkiye kupasında kura heyecanı devlerin rakipleri belli oluyor",
   "imamoğlu taca çıktı özel deme dirsek çevirdi siyasette yeni ittifak hazırlığı mı",
-  "abdden umman körfezinde dikkat çeken saldırı ablukayı aşmaya çalışan gemiyi vurdu"
+  "abdden umman körfezinde dikkat çeken saldırı ablukayı aşmaya çalışan gemiyi vurdu",
+  "2027 bütçesi komisyonda kabul edildi",
+  "cumhurbaşkanı erdoğan yarın yunanistan cumhurbaşkanı tasulas ile istanbulda görüşecek"
  ]
 }
