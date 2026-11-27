@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/fenerbahce-taraftarlari-ile-ingilterede-gorev-yapan-turk-polis-arasinda-gulumseten-diyalog-h1585757",
    "https://www.ensonhaber.com/istanbulda-yabanci-uyruklu-kisilerin-bicakli-kavgasi-kanli-bitti-h1585758",
    "https://www.ensonhaber.com/7-bin-plastik-siseyi-bir-araya-getirip-karavan-yaptilar-icinde-yok-yok-h1585759",
    "https://www.ensonhaber.com/tokatin-39-tarihi-igne-oyasi-cografi-isaretle-koruma-altina-alindi-h1585760",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/samsunda-155-hayvan-uygunsuz-kosullarda-bulundu-mahkeme-karariyla-el-konuldu-h1586249",
    "https://www.ensonhaber.com/filistinli-cocuklardan-besiktasa-tesekkur-mesaji-h1586250",
    "https://www.ensonhaber.com/tamir-hizmetlerinde-yaniltici-reklam-yapan-firmaya-1-milyon-tlyi-askin-ceza-h1586251",
-   "https://www.ensonhaber.com/alihan-kuris-suc-orgutune-yonelik-operasyonda-18-kisi-tutuklandi-h1586252"
+   "https://www.ensonhaber.com/alihan-kuris-suc-orgutune-yonelik-operasyonda-18-kisi-tutuklandi-h1586252",
+   "https://www.ensonhaber.com/mekke-ortak-savunma-anlasmasi-komitesi-islamabadda-toplandi-h1586253"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -1870,7 +1870,8 @@
    "https://www.mynet.com/magazin/mesam-40-inci-yil-donumunu-kutladi-35-odul-sahiplerini-buldu-130100607816",
    "https://www.mynet.com/magazin/ahmet-kaya-nin-ailesi-dava-acmisti-iki-gozum-ahmet-filmi-icin-mahkemeden-karar-cikti-130100607822",
    "https://www.mynet.com/magazin/cocuktan-al-haberi-nin-kutu-bebek-ebrar-i-sete-cikmaktan-vazgecmisti-now-tv-ile-anlasti-130100607819",
-   "https://www.mynet.com/magazin/derya-ulug-un-ozel-tasarim-gelinligi-hic-begenilmemisti-fiyati-dudak-ucuklatti-130100607825"
+   "https://www.mynet.com/magazin/derya-ulug-un-ozel-tasarim-gelinligi-hic-begenilmemisti-fiyati-dudak-ucuklatti-130100607825",
+   "https://www.mynet.com/magazin/unlulere-uyusturucu-sorusturmasi-3-ismin-testi-pozitif-cikti-130100607828"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2234,7 +2235,8 @@
    "https://anlatilaninotesi.com.tr/20261127/mustafa-hos-fon-vurgunu-sorusturmasinda-uc-kez-gozaltina-alinip-serbest-birakilan-kemal-akkayanin-1110648129.html",
    "https://anlatilaninotesi.com.tr/20261127/iranda-yasayan-gazeteci-demir-anlatti-iran-savas-yeniden-baslayacakmis-gibi-hazirlik-yapiyor-1110647938.html",
    "https://anlatilaninotesi.com.tr/20261127/kucukcekmecede-dairede-patlama-1-yarali-1110648532.html",
-   "https://anlatilaninotesi.com.tr/20261127/zaharova-letonya-ukrayna-ordusuna-on-binlerce-iha-verdi-1110648679.html"
+   "https://anlatilaninotesi.com.tr/20261127/zaharova-letonya-ukrayna-ordusuna-on-binlerce-iha-verdi-1110648679.html",
+   "https://anlatilaninotesi.com.tr/20261127/islamabadda-mekke-anlasmasi-toplantisi-bakan-fidan-pakistanli-mevkidasi-dar-ile-gorustu-1110649331.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2266,9 +2268,6 @@
   ]
  },
  "recent_titles": [
-  "belçikada 82 belediyeye eş zamanlı siber saldırı",
-  "roma jayden oosterwoldeden vazgeçmiyor",
-  "çorumda eşi tarafından öldürülen kadına veda",
   "ensonhaber sordu karşına aslan çıksa ne yapardın",
   "bilim insanları insan kulağının sandığımızdan çok farklı çalıştığını keşfetti",
   "altının onsu abd enflasyon verisi sonrası 3 bin 500 doların altına indi",
@@ -3765,6 +3764,9 @@
   "uefa fenerbahçeden özür diledi",
   "mekke ortak savunma ittifakı toplandı türkiye pakistan ve suudi arabistan aynı masada",
   "zaharova letonya ukrayna ordusuna on binlerce iha verdi",
-  "beşiktaşın yıldızının sevinci gazzede duvara çizildi"
+  "beşiktaşın yıldızının sevinci gazzede duvara çizildi",
+  "mekke ortak savunma anlaşması komitesi islamabadda toplandı",
+  "ünlülere uyuşturucu soruşturması 3 ismin testi pozitif çıktı",
+  "islamabadda mekke anlaşması toplantısı bakan fidan pakistanlı mevkidaşı dar ile görüştü"
  ]
 }
