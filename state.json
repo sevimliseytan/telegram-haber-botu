@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/emre-belozoglunun-esprili-sampiyonlar-ligi-vaadi-turk-usulu-dans-ederim-h1585708",
    "https://www.ensonhaber.com/israilin-gazzede-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti-h1585709",
    "https://www.ensonhaber.com/ulke-genelinde-hafta-sonu-sicakliklar-dusecek-yeni-haftayla-yagislar-artacak-h1585710",
    "https://www.ensonhaber.com/lastiklerdeki-4-rakami-kontrol-edin-ozelligi-o-kodda-gizliymis-h1585711",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/bakan-yumakli-tarimsal-hasilada-90-milyar-dolar-tavanina-yaklastik-h1586200",
    "https://www.ensonhaber.com/rus-gazindan-vazgecen-ab-abdye-bagimli-olabilir-h1586201",
    "https://www.ensonhaber.com/samsung-galaxy-s27-pro-ve-s27-ultra-maketleri-ortaya-cikti-iste-yeni-tasarim-h1586202",
-   "https://www.ensonhaber.com/adanada-cigere-talep-artti-h1586203"
+   "https://www.ensonhaber.com/adanada-cigere-talep-artti-h1586203",
+   "https://www.ensonhaber.com/abd-hava-kuvvetlerine-siber-saldiri-saldirganlar-bulut-bilisim-platformuna-sizdi-h1586204"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679892-istanbula-saganak-geliyor-meteoroloji-gun-gun-acikladi",
    "https://www.haber7.com/guncel/haber/3679893-ters-yonden-giden-otomobil-faciaya-yol-acti-1-olu-2si-agir-5-yarali",
    "https://www.haber7.com/guncel/haber/3679894-avcilar-e-5te-elektrikli-cip-alev-alev-yandi",
    "https://www.haber7.com/dunya/haber/3679895-fransada-lise-eylemlerinde-yaklasik-500-ogrenci-yaralandi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680357-gulistan-doku-sorusturmasinda-iki-supheli-birbirini-tanimadigini-soyledi-tanik-yalanladi",
    "https://www.haber7.com/guncel/haber/3674980-tum-dunyanin-hayran-kaldigi-turk-koyleri-tas-evleri-goz-kamastiran-dogasiyla-listede",
    "https://spor.haber7.com/futbol/haber/3680358-74-bin-mac-incelendi-turkiyeden-4-kulup-avrupanin-zirvesinde-yer-aldi",
-   "https://www.haber7.com/dunya/haber/3680359-gazzedeki-gonullu-doktorlardan-besiktasa-selam-acinin-kalbinden-tesekkur-ediyoruz"
+   "https://www.haber7.com/dunya/haber/3680359-gazzedeki-gonullu-doktorlardan-besiktasa-selam-acinin-kalbinden-tesekkur-ediyoruz",
+   "https://www.haber7.com/guncel/haber/3680360-esenlerde-akilalmaz-goruntu-yon-tabelasina-tirmanip-karsiya-gecti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2215,7 +2215,8 @@
    "https://anlatilaninotesi.com.tr/20261127/emekli-tumamiral-ali-deniz-kutluk-anlatti-atinanin-turkiye-libya-itirazi-ne-anlama-geliyor-1110641596.html",
    "https://anlatilaninotesi.com.tr/20261127/rusyanin-askeri-harekati-devam-ediyor-son-bir-haftanin-bilancosu-aciklandi-1110642058.html",
    "https://anlatilaninotesi.com.tr/20261127/ege-universitesinde-kadin-profesore-delici-aletle-saldiri-saldirgan-ogrenci-cikti-1110642429.html",
-   "https://anlatilaninotesi.com.tr/20261127/meteorolojiden-yeni-uyari-kar-istanbulun-yani-basina-geliyor-1110642818.html"
+   "https://anlatilaninotesi.com.tr/20261127/meteorolojiden-yeni-uyari-kar-istanbulun-yani-basina-geliyor-1110642818.html",
+   "https://anlatilaninotesi.com.tr/20261127/turkiyenin-2040-enerji-vizyonu-turkiye-70-yil-sonra-nukleer-hayaline-kavusmus-olacak-1110643163.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2247,9 +2248,6 @@
   ]
  },
  "recent_titles": [
-  "sofia vergaranın güzellik sırları bakın papatya çayına ne katıyor",
-  "mecliste renkli anlar müslüman senatörün bebeğiyle oynadılar",
-  "trabzonspor kafilesi bulgaristana gitti",
   "istanbula kar ne zaman yağacak akom tarih vererek duyurdu",
   "gelinde gülfem köşeye sıkıştı neyin ortaya çıkmasından korkuyor",
   "meghan marklenin babasına çocuk istismarı suçlaması",
@@ -3746,6 +3744,9 @@
   "samsung galaxy s27 pro ve s27 ultra maketleri ortaya çıktı işte yeni tasarım",
   "adanada ciğere talep arttı",
   "derya uluğun özel tasarım gelinliği hiç beğenilmemişti fiyatı dudak uçuklattı",
-  "gazzedeki gönüllü doktorlardan beşiktaşa selam acının kalbinden teşekkür ediyoruz"
+  "gazzedeki gönüllü doktorlardan beşiktaşa selam acının kalbinden teşekkür ediyoruz",
+  "esenlerde akılalmaz görüntü yön tabelasına tırmanıp karşıya geçti",
+  "abd hava kuvvetlerine siber saldırı saldırganlar bulut bilişim platformuna sızdı",
+  "türkiyenin 2040 enerji vizyonu türkiye 70 yıl sonra nükleer hayaline kavuşmuş olacak"
  ]
 }
