@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/rafet-el-roman-yeni-sevgilisini-anlatti-dogru-kisiyi-buldum-h1585763",
    "https://www.ensonhaber.com/izmirde-uyusturucu-imalathanesine-baskin-on-binlerce-hap-ele-gecirildi-h1585764",
    "https://www.ensonhaber.com/isvicre-turkiye-ekonomi-forumu-20nci-yilinda-h1585765",
    "https://www.ensonhaber.com/abdde-federal-yargic-trumpin-dogustan-vatandasligi-kisitlamaya-yonelik-yeni-kararnamelerin-h1585766",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/afrikada-catlak-iyice-buyudu-kita-ikiye-bolunuyor-42290-h1586255",
    "https://www.ensonhaber.com/fon-tasfiye-surecinde-odemeler-tamamlandi-h1586256",
    "https://www.ensonhaber.com/unlulere-uyusturucu-sorusturmasi-test-sonuclari-belli-oldu-h1586257",
-   "https://www.ensonhaber.com/4-ibb-meclis-uyesi-daha-ak-partiye-katildi-h1586258"
+   "https://www.ensonhaber.com/4-ibb-meclis-uyesi-daha-ak-partiye-katildi-h1586258",
+   "https://www.ensonhaber.com/2027-butcesi-tbmmde-komisyondan-gecti-h1586259"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679978-acili-babadan-kan-donduran-miras-iddiasi-yanginda-2-cocuk-hayatini-kaybetmisti",
    "https://www.haber7.com/guncel/haber/3679979-son-dakika-turkiyenin-savunma-kalkanina-sizma-girisimi-mit-casusluk-sebekesini-cokertti",
    "https://www.haber7.com/dunya/haber/3679980-polonya-cumhurbaskanligi-sarayi-karsisinda-korkunc-olay-kendini-yakti",
    "https://www.haber7.com/teknoloji/haber/3679981-ankaranin-sifir-taviz-politikasi-nakis-gibi-isledi-discord-sessiz-sedasiz-geri-adim-atti",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680429-2027-butcesi-komisyonda-kabul-edildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680431-turk-savunma-sanayisinden-ingilterede-milyonlarca-dolarlik-hamle-hedef-4-katina-cikti",
    "https://spor.haber7.com/basketbol/haber/3680432-ergin-atamandan-fransizlarin-irkcilik-iddiasina-cok-sert-cevap",
-   "https://www.haber7.com/guncel/haber/3680433-siz-evdeyken-yildirim-duserse-oncesinde-ve-sonrasinda-ne-yapilmali"
+   "https://www.haber7.com/guncel/haber/3680433-siz-evdeyken-yildirim-duserse-oncesinde-ve-sonrasinda-ne-yapilmali",
+   "https://www.haber7.com/guncel/haber/3680434-erdoganin-hocasi-kemal-efendi-vefat-etti-sagliginda-anlattigi-kissa-yeniden-gundem-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2275,7 +2275,6 @@
   ]
  },
  "recent_titles": [
-  "adanada 9 yıl sonra gelen acı tesadüf",
   "eskişehirde elinde silahla kovaladı ateş açtığını beyan etti",
   "beşiktaş israil ekipleriyle 8 kez karşılaşacak",
   "mhp izleme komisyonu üyelerini belirledi",
@@ -3774,6 +3773,7 @@
   "4 ibb meclis üyesi daha ak partiye katıldı",
   "siz evdeyken yıldırım düşerse öncesinde ve sonrasında ne yapılmalı",
   "erdoğanın hocası kemal efendi vefat etti sağlığında anlattığı kıssa yeniden gündem oldu",
-  "2027 yılı bütçesi tbmm plan ve bütçe komisyonunda kabul edildi"
+  "2027 yılı bütçesi tbmm plan ve bütçe komisyonunda kabul edildi",
+  "2027 bütçesi tbmmde komisyondan geçti"
  ]
 }
