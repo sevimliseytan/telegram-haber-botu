@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/israilin-gazzedeki-saldirisinda-3-filistinli-hayatini-kaybetti-h1585679",
-   "https://www.ensonhaber.com/israil-meclisinden-ezan-yasagina-ret-ben-gvir-salondan-atildi-h1585680",
-   "https://www.ensonhaber.com/manisada-94-yasindaki-yasli-adam-yangindan-son-anda-kurtarildi-h1585681",
-   "https://www.ensonhaber.com/burdurda-ters-yonden-giden-arac-kazaya-yol-acti-1-olu-2si-agir-5-yarali-h1585682",
    "https://www.ensonhaber.com/sarkici-derya-ulug-sevgilisi-asil-gok-ile-evlendi-h1585683",
    "https://www.ensonhaber.com/istanbulda-durdurulan-otomobilde-kalasnikof-cikti-3-gozalti-h1585684",
    "https://www.ensonhaber.com/ankarada-feto-operasyonu-3-firari-yakalandi-h1585685",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/ahmet-necdet-sezer-uzun-bir-aranin-ardindan-goruntulendi-h1586171",
    "https://www.ensonhaber.com/muhtesem-yuzyilin-aybigesini-bir-de-simdi-gorun-aradan-15-yil-gecti-h1586172",
    "https://www.ensonhaber.com/tolga-akistan-aile-pozu-geldi-basarisiz-h1586173",
-   "https://www.ensonhaber.com/yayin-ihalesi-icin-tarih-belli-oldu-h1586174"
+   "https://www.ensonhaber.com/yayin-ihalesi-icin-tarih-belli-oldu-h1586174",
+   "https://www.ensonhaber.com/narin-gurana-iliskin-sucluyu-kayirma-davasinda-12-sanigin-yargilanmasi-surdu-h1586175",
+   "https://www.ensonhaber.com/motogpde-sezon-ispanyada-sona-erecek-h1586176",
+   "https://www.ensonhaber.com/istanbul-2027-avrupa-oyunlari-gonullu-basvurusu-basladi-h1586177",
+   "https://www.ensonhaber.com/sehit-volkan-demirhan-son-yolculuguna-ugurlandi-h1586178"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-shakhtar-donetsk-fenerbahce-canli",
-   "https://www.haber7.com/dunya/haber/3679872-misirda-tanker-yangini-faciasi-30-kisi-hayatini-kaybetti",
    "https://www.haber7.com/guncel/haber/3679873-rapor-icin-gittikleri-doktoru-dovduler",
    "https://www.haber7.com/siyaset/haber/3679874-iyi-partide-istifa-depremi-belediye-baskani-sait-korgan-bagimsiz-devam-edecek",
    "https://www.haber7.com/dunya/haber/3679875-abdden-netanyahuya-son-dakika-uyarisi",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680327-tarimda-tarihi-zirve-hasila-90-milyar-dolara-dayandi-ihracat-30-milyar-dolari-asti",
    "https://spor.haber7.com/spor/haber/3680328-fransada-buyuk-vahset-rakip-tribunleri-bastilar-kadin-taraftari-bile-dovduler",
    "https://ekonomi.haber7.com/ekonomi/haber/3680329-ailelere-9-ayda-dev-destek-tam-15-milyar-258-milyon-lira-analik-odenegi-odendi",
-   "https://www.haber7.com/seyahat/haber/3680331-hz-musanin-diktigine-inaniliyor-hatayin-3-bin-600-yillik-musa-agacina-yogun-ilgi"
+   "https://www.haber7.com/seyahat/haber/3680331-hz-musanin-diktigine-inaniliyor-hatayin-3-bin-600-yillik-musa-agacina-yogun-ilgi",
+   "https://www.haber7.com/dunya/haber/3680330-eski-yunan-koramiral-egolfopulostan-turkiye-itirafi-seytanla-bile-ittifak-yaparim",
+   "https://spor.haber7.com/besiktas/haber/3680332-besiktas-galatasaray-derbisinde-dusan-vlahovice-guveniyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2205,7 +2205,8 @@
    "https://anlatilaninotesi.com.tr/20261127/novak-turkiye-spief-2027de-konuk-ulke-olacak-1110640042.html",
    "https://anlatilaninotesi.com.tr/20261127/turkiyede-otomotiv-sektoru-icin-jant-ureten-dev-sirket-iflas-etti-1110640158.html",
    "https://anlatilaninotesi.com.tr/20261127/fedden-piyasalari-hareketlendirecek-sinyal-turkiye-nasil-etkilenecek-1110640009.html",
-   "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-ingilterenin-en-buyuk-bankalarindan-lloydsta-buyuk-kesinti-mobil-uygulama-coktu-1110640727.html"
+   "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-ingilterenin-en-buyuk-bankalarindan-lloydsta-buyuk-kesinti-mobil-uygulama-coktu-1110640727.html",
+   "https://anlatilaninotesi.com.tr/20261127/turkiyenin-en-soguk-yeri-belli-oldu-termometreler-eksi-18i-gosterdi-1110641151.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2237,9 +2238,6 @@
   ]
  },
  "recent_titles": [
-  "türk f16larından ara inişsiz 11 bin kilometrelik uçuş",
-  "torpile karşı ezber bozan uygulama başkan gülpınar sözünü tuttu bizzat başkanlık etti",
-  "yunan basınından türkiye itirafı sida hayali ankara duvarına çarptı",
   "areda survey araştırdı türk halkının yüzde 743ü slot oyunlarına karşı",
   "deniz gül attı galatasaray milyonları kazandı şampiyonlar ligi geliri güncellendi",
   "kalbim sana emanette ayşenin kaçış yolu kendisini köprüden suya atıyor",
@@ -3736,6 +3734,9 @@
   "yayın ihalesi için tarih belli oldu",
   "narin gürana ilişkin suçluyu kayırma davasında 12 sanığın yargılanması sürdü",
   "motogpde sezon ispanyada sona erecek",
-  "istanbul 2027 avrupa oyunları gönüllü başvurusu başladı"
+  "istanbul 2027 avrupa oyunları gönüllü başvurusu başladı",
+  "şehit volkan demirhan son yolculuğuna uğurlandı",
+  "formula 1de sıradaki durak katar",
+  "türkiyenin en soğuk yeri belli oldu termometreler eksi 18i gösterdi"
  ]
 }
