@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sanliurfada-kontrolden-cikan-otomobil-elektrik-diregini-yerinden-soktu-h1585718",
    "https://www.ensonhaber.com/kepez-belediyesine-rusvet-operasyonu-eski-belediye-baskani-dahil-21-kisi-tutuklandi-h1585719",
    "https://www.ensonhaber.com/erzincanda-ayaz-etkisini-artirdi-h1585720",
    "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-ceylan-kaya-tutuklandi-h1585721",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/mersindeki-uyusturucu-operasyonlarinda-23-supheli-tutuklandi-h1586210",
    "https://www.ensonhaber.com/uefa-besiktas-macinda-yasananlarla-ilgili-sorusturma-baslatti-h1586211",
    "https://www.ensonhaber.com/hikmet-cetin-son-yolculuguna-ugurlandi-h1586212",
-   "https://www.ensonhaber.com/isgal-altindaki-bati-seriada-beytullahim-kenti-noele-hazirlaniyor-h1586213"
+   "https://www.ensonhaber.com/isgal-altindaki-bati-seriada-beytullahim-kenti-noele-hazirlaniyor-h1586213",
+   "https://www.ensonhaber.com/sakaryada-atilan-gizemli-taslar-koyde-korkuya-neden-oluyor-h1586214"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679903-spk-kararlari-aciklandi-iki-fona-tasfiye-66-kisi-hakkinda-suc-duyurusu",
    "https://www.haber7.com/guncel/haber/3679904-polislerin-20-dakika-kovaladigi-aractan-ak-47-cikti",
    "https://www.haber7.com/guncel/haber/3679905-10-yilda-8-helikopter-kazasi-47-sehit-emekli-korgeneral-karakustan-kritik-degerlendirme",
    "https://ekonomi.haber7.com/ekonomi/haber/3679906-binance-kurucusu-cz-uyardi-sifreleri-degistirin-bilgileriniz-ele-gecirildi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680366-sosyal-medyada-sehitlere-kufreden-supheli-ters-kelepceyle-alindi",
    "https://www.haber7.com/teknoloji/haber/3680368-turkcell-ortak-internet-paketi-donemini-baslatti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680369-teknosa-is-ortaklariyla-birlikte-guclu-mottosuyla-bulustu",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680371-son-dakika-uefa-besiktas-hapoel-beer-sheva-maci-icin-sorusturma-baslatti"
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680371-son-dakika-uefa-besiktas-hapoel-beer-sheva-maci-icin-sorusturma-baslatti",
+   "https://www.haber7.com/otomobil/haber/3679401-bursada-uretildi-renault-boreal-hibrit-4x4-turkiyede-satisa-cikti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2249,11 +2249,6 @@
   ]
  },
  "recent_titles": [
-  "filenin efelerinin milletler ligi grupları belli oldu",
-  "yeraltı behram sahnede bozo ve rüzgarın yeni düşmanı geldi",
-  "pakistanda inşaat halindeki binanın çökmesi sonucu iki kişi hayatını kaybetti",
-  "karabük safranboluda kar yağışı",
-  "erdoğan kadına yönelik şiddet vicdansızlıktır insafsızlıktır insanlıktan nasibini almamışlara mahsus bir alçaklıktır",
   "izmirlilere peş peşe müjdeler yüzde 63 indirim geliyor cemil tugay devrim dedi duyurdu",
   "türkiyenin saklı buz hazinesi cop31 için gelenler hayran kaldı",
   "atinanın silahlanma şovu elinde patladı yunan ordusunda istifa depremi",
@@ -3748,6 +3743,11 @@
   "uefa beşiktaş maçında yaşananlarla ilgili soruşturma başlattı",
   "hikmet çetin son yolculuğuna uğurlandı",
   "işgal altındaki batı şeriada beytüllahim kenti noele hazırlanıyor",
-  "son dakika uefa beşiktaş  hapoel beer sheva maçı için soruşturma başlattı"
+  "son dakika uefa beşiktaş  hapoel beer sheva maçı için soruşturma başlattı",
+  "bursada üretildi renault boreal hibrit 4x4 türkiyede satışa çıktı",
+  "yürüyen merdivenlerde kahreden olay yaşlı kadın hayatını kaybetti",
+  "dünya ekonomisinin nabzı palandökende atacak",
+  "tbmm başkanı kurtulmuş avustralya senatosu başkanı lines ile görüştü",
+  "sakaryada atılan gizemli taşlar köyde korkuya neden oluyor"
  ]
 }
