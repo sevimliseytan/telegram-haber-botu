@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679861-israilin-yeni-meclisinden-ezan-karari-ben-gvir-salondan-atildi-cilgina-donduler",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-shakhtar-donetsk-fenerbahce-ilk-11ler",
    "https://www.haber7.com/guncel/haber/3679863-yenidogan-cetesi-savcisi-yavuz-enginin-yeni-adresi-belli-oldu-iste-atandigi-gorev-yeri",
    "https://ekonomi.haber7.com/ekonomi/haber/3679864-ureticilere-hasada-ara-verin-cagrisi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/trabzonspor/haber/3680312-bulgar-basini-trabzonsporu-konusuyor-salah-ve-arkadaslari-mahvetti",
    "https://www.haber7.com/guncel/haber/3680313-5-arkadasin-domuz-avi-kotu-sonla-bitti-1-olu",
    "https://www.haber7.com/siyaset/haber/3680314-hikmet-cetinin-cenazesinde-dikkat-ceken-anlar-parti-liderleri-yan-yana",
-   "https://www.haber7.com/dunya/haber/3680315-trumptan-son-dakika-irak-aciklamasi-destekliyorum"
+   "https://www.haber7.com/dunya/haber/3680315-trumptan-son-dakika-irak-aciklamasi-destekliyorum",
+   "https://spor.haber7.com/besiktas/haber/3680316-batumda-yeni-kriz-350-turk-vatandasi-havalimaninda-bekletiliyor-sebebi-israilliler"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2230,7 +2230,6 @@
   ]
  },
  "recent_titles": [
-  "arda gülerle ispanyol muhabirin gülümseten anları röportajı abi diyerek bitirdi",
   "yargıtay üyeliğine 5 isim seçildi",
   "yeni partide myk belli oldu",
   "büyük britanyada enerji fiyatları yükseliyor enerjiye yüzde 26lık zam",
@@ -3729,6 +3728,7 @@
   "narkotik öyküler kitabı için teşekkür",
   "trumptan son dakika irak açıklaması destekliyorum",
   "aydında cami duvarına tehditler yazan 15 yaşındaki şüpheli gözaltında",
-  "trumpın 51 eyalet söylemini desteklemişti kanada abd büyükelçisinin sınır dışı edilmesi için 290 bin imza topladı"
+  "trumpın 51 eyalet söylemini desteklemişti kanada abd büyükelçisinin sınır dışı edilmesi için 290 bin imza topladı",
+  "batumda yeni kriz 350 türk vatandaşı havalimanında bekletiliyor sebebi israilliler"
  ]
 }
