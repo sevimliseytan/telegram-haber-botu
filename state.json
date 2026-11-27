@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/neuralinkin-beyin-cipi-teknolojisine-klinik-deneyler-icin-fda-onayi-h1585775",
    "https://www.ensonhaber.com/besiktasin-8-saat-suren-cileli-yolculugu-simdi-de-batum-stadinin-zemini-sorun-cikardi-h1585776",
    "https://www.ensonhaber.com/amerikan-futbolu-oyuncusu-al-shaair-maclarda-taktigi-bantlara-filistinli-cocuklarin-adlari-h1585777",
    "https://www.ensonhaber.com/playstation-plus-aralik-2026-oyunlari-belli-oldu-3-bin-tl-degerindeki-oyunlar-ucretsiz-h1585778",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ankara-sebze-ve-meyve-halindeki-yagma-operasyonunda-13-kisi-tutuklandi-h1586267",
    "https://www.ensonhaber.com/konyaspor-alanyasporu-son-dakika-penaltisiyla-yendi-h1586268",
    "https://www.ensonhaber.com/adanada-tavuk-doner-yiyen-25-ogrenci-hastanelik-oldu-h1586269",
-   "https://www.ensonhaber.com/galatasarayin-milli-yildizi-yunus-akgun-evlendi-h1586270"
+   "https://www.ensonhaber.com/galatasarayin-milli-yildizi-yunus-akgun-evlendi-h1586270",
+   "https://www.ensonhaber.com/istanbul-kucukcekmecede-evde-yasanan-patlamada-1-kisi-yaralandi-h1586271"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680011-aymden-imamoglu-karari-tutukluluguna-itiraz-edilmisti",
    "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi",
    "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti",
    "https://www.haber7.com/dunya/haber/3680016-son-dakika-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/resmi-ilanlar/haber/3680004-kahramanmaras-10-asliye-hukuk-mahkemesi-hakimligi",
    "https://www.haber7.com/resmi-ilanlar/haber/3680003-erzurum-bolge-adliye-mahkemesi-4-hukuk-dairesi-baskanligi",
    "https://spor.haber7.com/super-lig/haber/3680448-ilhan-palut-artik-bir-seri-yakalamamiz-gerekiyor",
-   "https://spor.haber7.com/super-lig/haber/3680449-recep-ucardan-zaferin-ardindan-galatasaray-sozleri"
+   "https://spor.haber7.com/super-lig/haber/3680449-recep-ucardan-zaferin-ardindan-galatasaray-sozleri",
+   "https://www.haber7.com/hayat/haber/3680450-12-gundur-hastanedeydi-yavuz-bingolun-saglik-durumuna-iliskin-esinden-aciklama"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2280,8 +2280,6 @@
   ]
  },
  "recent_titles": [
-  "ünlülere yönelik uyuşturucu soruşturmasında 9 şüpheli için adli kontrol talebi",
-  "ünlülere yönelik uyuşturucu soruşturmasında ceylan kaya tutuklama talebiyle hakimliğe sevk edildi",
   "vatandaşlara müjde izmirde suya dev indirim 30 büyükşehir arasında en ucuzu oldu",
   "türkiyeden riyada saldıran husilere sert tepki",
   "fenerbahçede divine ngah manga ameliyat edildi",
@@ -3779,6 +3777,8 @@
   "tuzluca asliye hukuk mahkemesi",
   "kahramanmaraş 10 asliye hukuk mahkemesi hakimliği",
   "ilhan palut artık bir seri yakalamamız gerekiyor",
-  "recep uçardan zaferin ardından galatasaray sözleri"
+  "recep uçardan zaferin ardından galatasaray sözleri",
+  "12 gündür hastanedeydi yavuz bingölün sağlık durumuna ilişkin eşinden açıklama",
+  "istanbul küçükçekmecede evde yaşanan patlamada 1 kişi yaralandı"
  ]
 }
