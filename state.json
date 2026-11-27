@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/tuna-tuner-anlatti-cinsellik-evliligi-etkiler-mi-h1585556",
-   "https://www.ensonhaber.com/samsunda-kamyon-otomobile-carpti-1-yarali-h1585557",
    "https://www.ensonhaber.com/istanbul-havalimani-avrupanin-zirvesinde-95940-h1585558",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-maresal-halife-hafteri-kabul-etti-h1585559",
    "https://www.ensonhaber.com/mhpnin-terorsuz-turkiye-izleme-komisyonu-uyeleri-belli-oldu-h1585560",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/yazarlar/mustafa-armagan/bati-icinden-batiya-itiraz-guenon-ve-celine",
    "https://www.ensonhaber.com/galibiyetin-ardindan-salih-ozcan-allahu-ekber-h1586049",
    "https://www.ensonhaber.com/sicakliklar-dusecek-sibiryadan-soguk-hava-geliyor-h1586050",
-   "https://www.ensonhaber.com/google-ceosundan-turkiye-aciklamasi-100-milyar-dolar-katki-saglayabilir-h1586051"
+   "https://www.ensonhaber.com/google-ceosundan-turkiye-aciklamasi-100-milyar-dolar-katki-saglayabilir-h1586051",
+   "https://www.ensonhaber.com/besiktasi-destekleyen-galatasarayli-ve-fenerbahceli-taraftarlar-gurcu-polisine-direndi-h1586052",
+   "https://www.ensonhaber.com/once-yalanci-bahar-sonra-balkanlar-hava-iki-gun-icinde-degisecek-h1586053"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679744-mersinde-yabani-ot-faciasi-iki-kuzenden-biri-oldu-digeri-yogun-bakimda",
    "https://www.haber7.com/3sayfa/haber/3679746-konyada-fuhus-operasyonu11-tutuklama",
    "https://www.haber7.com/guncel/haber/3679745-topladiklari-otlari-yiyen-kuzenlerden-aci-haber-biri-oldu-digeri-yogun-bakimda",
    "https://spor.haber7.com/diger-branslar/haber/3679747-bursanin-gururu-umut-eren-gundogdan-dunya-ikinciligi-cinde-gumus-madalya",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680203-ozgur-ozel-terorsuz-turkiye-meselesinde-neden-surekli-zikzak-ciziyor-sorusunun-cevabi",
    "https://www.haber7.com/guncel/haber/3680202-oto-elektrik-dukkaninda-yangin-5-arac-alevlere-teslim-oldu",
    "https://www.haber7.com/seyahat/haber/3680204-onceden-gezmek-imkansizdi-sakaryanin-doga-harikasi-ziyarete-acildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680205-ev-ve-arsa-alacaklar-dikkat-guvenli-odeme-sistemi-icin-tarih-belli-oldu"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680205-ev-ve-arsa-alacaklar-dikkat-guvenli-odeme-sistemi-icin-tarih-belli-oldu",
+   "https://www.haber7.com/saglik/haber/3680206-uzman-isim-acikladi-fibromiyaljide-tedavi-sabir-ve-is-birligi-istiyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2164,7 +2164,8 @@
    "https://anlatilaninotesi.com.tr/20261127/kasim-indirimindeki-alisveris-sepeti-aliskanliklari-degisti-yeni-trend-ne-1110629806.html",
    "https://anlatilaninotesi.com.tr/20261127/rusya-savunma-bakanligi-ukraynada-vurulan-hedefleri-acikladi-1110630224.html",
    "https://anlatilaninotesi.com.tr/20261127/lpgli-arac-sahipleri-dikkat-resmi-gazetede-yayimlandi-avm-otoparklarina-6-kritik-sart-geldi-1110630379.html",
-   "https://anlatilaninotesi.com.tr/20261127/kamu-borclarinda-yeni-donem-gecikme-zammi-ve-tecil-faizi-dusuruldu-mevcut-borclarda-yeni-oran-nasil-1110630654.html"
+   "https://anlatilaninotesi.com.tr/20261127/kamu-borclarinda-yeni-donem-gecikme-zammi-ve-tecil-faizi-dusuruldu-mevcut-borclarda-yeni-oran-nasil-1110630654.html",
+   "https://anlatilaninotesi.com.tr/20261127/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-1110630958.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2194,15 +2195,6 @@
   ]
  },
  "recent_titles": [
-  "netanyahu şikayet etmişti galatasaraydan uefanın ceza uyarısına filistin pankartlı cevap",
-  "feyza civelekten yeraltı dizisi sorusuna yanıt sürpriz olsun",
-  "araç muayenesinde yeni dönem başlıyor kredi kartı komisyonu ne zaman kalkacak",
-  "ingilterede aşırı sıcaklar 5 bin 258 can aldı",
-  "uçurumdan yuvarlanan atv sürücüsü 6 saatlik çalışmayla kurtarıldı",
-  "kaza yaptılar otomobili yol ortasında bırakıp gittiler",
-  "fransada sarkoyu kurtar operasyonu eski cumhurbaşkanı sarkozy ve eşi tekrar yargılanacak",
-  "prens williamın evinde hırsızlık alarmı gözaltına alındılar",
-  "ufuk beydemir baba oldu işte bebeğin adı",
   "israilde 7 ekim hesaplaşması netanyahu köşeye sıkışıyor istemediği soruşturma için ilk engel aşıldı",
   "prens william ve prenses katein evine hırsızlık girişimi",
   "yapay zeka şampiyonlar liginde tarihe geçecek maçın sonucunu açıkladı fbahçe kazanır",
@@ -3693,6 +3685,15 @@
   "ev ve arsa alacaklar dikkat güvenli ödeme sistemi için tarih belli oldu",
   "google ceosundan türkiye açıklaması 100 milyar dolar katkı sağlayabilir",
   "beşiktaşı destekleyen galatasaraylı ve fenerbahçeli taraftarlar gürcü polisine direndi",
-  "kamu borçlarında yeni dönem gecikme zammı ve tecil faizi düşürüldü mevcut borçlarda yeni oran nasıl uygulanacak"
+  "kamu borçlarında yeni dönem gecikme zammı ve tecil faizi düşürüldü mevcut borçlarda yeni oran nasıl uygulanacak",
+  "uzman isim açıkladı fibromiyaljide tedavi sabır ve iş birliği istiyor",
+  "mağarada birçok kafatası bulundu inceleme için istanbula gönderildi",
+  "helal yaşamın ticarileşmesi",
+  "meteorolojiden birçok kent için uyarı hafta sonuna dikkat",
+  "önce yalancı bahar sonra balkanlar hava iki gün içinde değişecek",
+  "israile petrol sevkiyatının kritik durağı gürcistan ilk tanıyan ülkelerden",
+  "erzincan ergan dağında kurtarma operasyonu",
+  "hindistanda bir garip dilek ritüeli fil heykelinin altında sıkışıp kaldı",
+  "fon soruşturması kemal akkaya serbest bırakıldı 3 kişi tutuklandı"
  ]
 }
