@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680016-son-dakika-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
    "https://ekonomi.haber7.com/ekonomi/haber/3680017-kuresel-firtinaya-ragmen-turk-lirasina-yabanci-ilgisi-suruyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680018-komsuya-turkiyeden-kesintisiz-elektrik-hamlesi-500-megavatlik-kapasiteye-cikilacak",
    "https://www.haber7.com/medya/haber/3680019-kalbim-sana-emanet-65-bolum-raja-kurtulamiyor",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/super-lig/haber/3680449-recep-ucardan-zaferin-ardindan-galatasaray-sozleri",
    "https://www.haber7.com/hayat/haber/3680450-12-gundur-hastanedeydi-yavuz-bingolun-saglik-durumuna-iliskin-esinden-aciklama",
    "https://spor.haber7.com/super-lig/haber/3680451-alfred-schreuder-birazcik-sanssiziz",
-   "https://www.haber7.com/guncel/haber/3680452-kartal-belediyesine-yonelik-sorusturmada-yeni-gelisme-10-tutuklama"
+   "https://www.haber7.com/guncel/haber/3680452-kartal-belediyesine-yonelik-sorusturmada-yeni-gelisme-10-tutuklama",
+   "https://www.haber7.com/dunya/haber/3680453-batumda-besiktasli-turk-ogrenciye-bicakli-saldiri"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2281,7 +2281,6 @@
   ]
  },
  "recent_titles": [
-  "ünlülere uyuşturucu operasyonu özcan deniz burcu özberk murat başoğlu ve deniz çakır da dahil 9 kişiye adli kontrol talebi",
   "25 kasım kadına yönelik şiddete karşı uluslararası mücadele gününde kadınlar taksim tünelde yürüyor",
   "ramazan başaktan vurgun paraları ülke içinde diyen bakan şimşeke yanıt paralar yurtdışına uçaklarla kaçırıldı",
   "izmirde vatandaşlara müjde su tarifelerine yüzde 63 indirim yapıldı",
@@ -3780,6 +3779,7 @@
   "alfred schreuder birazcık şanssızız",
   "kartal belediyesine yönelik soruşturmada yeni gelişme 10 tutuklama",
   "fransada cumhurbaşkanı adayı melenchondan almanyaya çağrı rusyaya karşı tonu yumuşatın",
-  "orduda kız öğrencilere çarpıp kaçan alkollü sürücü tutuklandı"
+  "orduda kız öğrencilere çarpıp kaçan alkollü sürücü tutuklandı",
+  "batumda beşiktaşlı türk öğrenciye bıçaklı saldırı"
  ]
 }
