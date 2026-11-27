@@ -892,19 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679996-rezervlerdeki-hareketlilik-borsanin-seyrini-degistirebilir",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679997-ev-hayali-kuranlara-bakan-kurumdan-aciklama-6-bin-750-lira-taksit-240-ay-vade",
-   "https://www.haber7.com/guncel/haber/3679998-ankarada-uyusturucu-ve-fuhus-operasyonu-yeni-partili-ismin-oglu-gozaltina-alindi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679999-bakan-kurum-izmir-korfezinde-dip-camuru-temizligini-baslatiyoruz",
-   "https://www.haber7.com/bingol/3680000-donemin-kaymakami-simdinin-valisinden-gordugu-iyiligi-unutmadi",
-   "https://www.haber7.com/guncel/haber/3680001-msbden-israile-karsi-somut-adim-cagrisi-helikopterler-kazalari-aciklamasi",
-   "https://www.haber7.com/dunya/haber/3680002-mekke-ittifaki-islamabadda-bir-araya-gelecek",
-   "https://www.haber7.com/guncel/haber/3680007-esenyurtta-onune-kiran-otomobile-korna-caldi-aractan-inip-saldirdilar",
-   "https://www.haber7.com/guncel/haber/3680001-msbden-israile-karsi-somut-adim-cagrisi-helikopter-kazalari-aciklamasi",
-   "https://www.haber7.com/dunya/haber/3680006-bangkokta-petrol-tesisinde-patlama",
-   "https://www.haber7.com/guncel/haber/3680008-trabzonda-nefes-kesen-kurtarma-mahsur-kalan-kopege-akut-eli-uzandi",
-   "https://spor.haber7.com/super-lig/haber/3680009-besiktas-galatasaray-derbisinin-hakemi-belli-oldu",
-   "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-kaldirimdaki-yayalara-carpti",
    "https://www.haber7.com/guncel/haber/3680011-aymden-imamoglu-karari-tutukluluguna-itiraz-edilmisti",
    "https://www.haber7.com/guncel/haber/3680014-altin-karinca-odullerinde-umraniyenin-cifte-basarisi",
    "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti",
@@ -1391,7 +1378,20 @@
    "https://www.haber7.com/dunya/haber/3680447-gazzedeki-yetim-cocuklardan-besiktasa-tesekkur-mazlumlar-direniyorsa-zafer-yakindir",
    "https://spor.haber7.com/super-lig/haber/3680446-ugur-ucar-sistem-degisikliginin-acisini-yasiyoruz",
    "https://www.haber7.com/resmi-ilanlar/haber/3680072-urla-3-asliye-hukuk-mahkemesi-hakimligi",
-   "https://www.haber7.com/resmi-ilanlar/haber/3680071-kucukcekmece-2-icra-ceza-mahkemesi"
+   "https://www.haber7.com/resmi-ilanlar/haber/3680071-kucukcekmece-2-icra-ceza-mahkemesi",
+   "https://spor.haber7.com/super-lig/haber/3680444-rize-taraftarindan-besiktas-ve-filistine-destek-ayni-pankart-acildi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680069-istanbul-anadolu-22-icra-ceza-mahkemesi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680067-bakirkoy-18-asliye-ceza-mahkemesi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680066-izmir-7-aile-mahkemesi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680037-balikesir-kadastro-mahkemesi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680035-soke-3-asliye-hukuk-mahkemesi-hakimligi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680033-soke-3-asliye-hukuk-mahkemesi-hakimligi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680012-tuzluca-asliye-hukuk-mahkemesi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680005-istanbul-45-asliye-hukuk-mahkemesi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680004-kahramanmaras-10-asliye-hukuk-mahkemesi-hakimligi",
+   "https://www.haber7.com/resmi-ilanlar/haber/3680003-erzurum-bolge-adliye-mahkemesi-4-hukuk-dairesi-baskanligi",
+   "https://spor.haber7.com/super-lig/haber/3680448-ilhan-palut-artik-bir-seri-yakalamamiz-gerekiyor",
+   "https://spor.haber7.com/super-lig/haber/3680449-recep-ucardan-zaferin-ardindan-galatasaray-sozleri"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2280,7 +2280,6 @@
   ]
  },
  "recent_titles": [
-  "altında 14 ay sonra bir ilk kritik seviyeyi gördü piyasalarda büyük hareketlilik",
   "ünlülere yönelik uyuşturucu soruşturmasında 9 şüpheli için adli kontrol talebi",
   "ünlülere yönelik uyuşturucu soruşturmasında ceylan kaya tutuklama talebiyle hakimliğe sevk edildi",
   "vatandaşlara müjde izmirde suya dev indirim 30 büyükşehir arasında en ucuzu oldu",
@@ -3779,6 +3778,7 @@
   "balıkesir kadastro mahkemesi",
   "tuzluca asliye hukuk mahkemesi",
   "kahramanmaraş 10 asliye hukuk mahkemesi hakimliği",
-  "ilhan palut artık bir seri yakalamamız gerekiyor"
+  "ilhan palut artık bir seri yakalamamız gerekiyor",
+  "recep uçardan zaferin ardından galatasaray sözleri"
  ]
 }
