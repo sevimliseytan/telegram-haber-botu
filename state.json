@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macina-hazir-h1585602",
    "https://www.ensonhaber.com/afonso-sousa-ust-siralarda-olmak-istiyoruz-h1585603",
    "https://www.ensonhaber.com/samsunspordan-galatasaray-macindaki-ofsayt-pozisyonuna-tepki-h1585604",
    "https://www.ensonhaber.com/turkiye-boks-federasyonunun-mali-genel-kurulu-yapildi-h1585605",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/turkiyede-elektrikli-arac-sarj-istasyonu-sayisi-artiyor-h1586094",
    "https://www.ensonhaber.com/besiktas-macindaki-olaylar-dunya-basininin-gundeminde-polis-mudahalesi-kabul-edilemez-h1586095",
    "https://www.ensonhaber.com/japonyada-dunyada-bir-ilk-suni-dollenmeyle-penguen-yavrusu-dunyaya-geldi-h1586096",
-   "https://www.ensonhaber.com/peygamberimizin-en-guzel-cuma-duasi-ev-evlat-aile-ve-ahiret-icin-okunacak-dualar-h1586097"
+   "https://www.ensonhaber.com/peygamberimizin-en-guzel-cuma-duasi-ev-evlat-aile-ve-ahiret-icin-okunacak-dualar-h1586097",
+   "https://www.ensonhaber.com/israilde-zorunlu-askerlik-karsiti-harediler-ben-gurion-havalimaninin-girisini-kapatti-h1586098"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/yerel-yonetimler/haber/3679811-gaziantepte-tum-okullara-kahve-makinesi-fatma-sahinden-ogretmenlere-jest",
-   "https://spor.haber7.com/galatasaray/haber/3679812-galatasaray-ara-vermeden-derbi-hazirliklarina-basladi",
    "https://www.haber7.com/guncel/haber/3679809-bir-kez-ekiliyor-10-yil-kazandiriyor-yuzde-78i-gaziantepte-uretiliyor",
    "https://www.haber7.com/3sayfa/haber/3679813-mersinde-yanan-evde-cesetleri-bulunmustu-yeni-rapor-duzenlenecek",
    "https://www.haber7.com/siyaset/haber/3679814-destici-kadina-yonelen-siddetin-mazereti-asla-olamaz",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/otomobil/haber/3680259-hyundai-ioniq-3-topgearcom-odullerinde-yilin-kucuk-otomobili-secildi",
    "https://www.haber7.com/guncel/haber/3680260-73-ilde-uyusturucu-operasyonu-1017-supheli-tutuklandi",
    "https://www.haber7.com/guncel/haber/3680261-natonun-hava-nobetini-turk-hava-kuvvetleri-devralacak",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680262-ozellestirme-idaresi-6-ilde-tasinmaz-satisi-yapacak"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680262-ozellestirme-idaresi-6-ilde-tasinmaz-satisi-yapacak",
+   "https://www.haber7.com/dunya/haber/3680263-guncel-liste-belli-oldu-iste-filistin-ve-israili-destekleyen-unluler",
+   "https://spor.haber7.com/super-lig/haber/3680264-super-ligde-derbi-zamani-iste-haftanin-programi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2207,10 +2207,6 @@
   ]
  },
  "recent_titles": [
-  "yeni partili vekilin eşi kayyum atanan sözcünün spikeri oldu",
-  "yozgatta işçileri taşıyan kamyonet tarlaya uçtu 5 yaralı",
-  "kırıkkale valisi sahneye çıktı konseri bitirelim",
-  "hürmüzde mayına çarptıiran izinsiz geçen petrol tankeri alev aldı",
   "galatasarayın aston villa zaferini öven tümer metinden beşiktaşa uyarı",
   "koreliler boşuna tüketmiyor kalkan gibi koruyor şimdilerde yok satıyor",
   "israilli sporcuyu 1 saniyede yenen milli sporcu gazze için zulme direnç gösterdim",
@@ -3706,6 +3702,10 @@
   "özelleştirme idaresi 6 ilde taşınmaz satışı yapacak",
   "güncel liste belli oldu işte filistin ve israili destekleyen ünlüler",
   "peygamberimizin en güzel cuma duası ev evlat aile ve ahiret için okuyun",
-  "gürcistan içişleri bakanlığından skandal müdahaleye savunma açıklaması beşiktaş taraftarını suçladılar"
+  "gürcistan içişleri bakanlığından skandal müdahaleye savunma açıklaması beşiktaş taraftarını suçladılar",
+  "süper ligde derbi zamanı işte haftanın programı",
+  "israilde zorunlu askerlik karşıtı harediler ben gurion havalimanının girişini kapattı",
+  "türk f16ları romanyada nato hava sahasının güvenliğini sağlayacak",
+  "volkswagen id buzz beach tanıtıldı elektrikli minibüs kamp aracına dönüştü"
  ]
 }
