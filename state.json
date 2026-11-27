@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/iklim-krizi-tehlikesi-suruyor-felaketlere-karsi-en-savunmasiz-sehirler-69129-h1585689",
-   "https://www.ensonhaber.com/spkden-9-sirketin-borclanma-araci-ihracina-onay-h1585690",
-   "https://www.ensonhaber.com/manisada-35-milyon-tllik-telefon-dolandiriciligi-1-tutuklama-h1585691",
    "https://www.ensonhaber.com/nvidia-guneydogu-asyaya-cip-sevkiyatini-durdurdu-h1585692",
    "https://www.ensonhaber.com/new-jerseyde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi-h1585693",
    "https://www.ensonhaber.com/artvinde-heyelan-nedeniyle-yola-kaya-parcalari-dustu-bir-araca-isabet-etti-h1585694",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/bddknin-yeni-baskani-yusuf-kenan-bagir-kimdir-daha-once-hangi-gorevlerde-bulundu-h1586181",
    "https://www.ensonhaber.com/sifanur-gulden-29-yas-pozlari-dogum-gunu-pozlari-begeni-topladi-h1586182",
    "https://www.ensonhaber.com/yasli-kadinin-47-milyon-lirasini-aldilar-doktor-ve-iki-bakimevi-calisanina-hapis-cezasi-h1586183",
-   "https://www.ensonhaber.com/emlak-katilim-birevim-ve-katilimevimi-bunyesine-dahil-etti-h1586184"
+   "https://www.ensonhaber.com/emlak-katilim-birevim-ve-katilimevimi-bunyesine-dahil-etti-h1586184",
+   "https://www.ensonhaber.com/islamabad-sokaklari-turk-pakistan-ve-suudi-arabistan-bayraklariyla-suslendi-h1586185",
+   "https://www.ensonhaber.com/hurda-tesviki-cikacak-mi-eski-araclara-2027-tesviki-h1586186",
+   "https://www.ensonhaber.com/trabzonda-heyelan-kopruyu-kullanilamaz-hale-getirdi-yeniden-yapilacak-h1586187"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679878-abdnin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679766-tarsus-belediye-bsk",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679762-kutahya-belediye-baskanligi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679753-beykoz-belediyesi-iktisadi-ve-sosyal-tesis-isletmesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679751-hayrabolu-sulh-hukuk-mahkemesi-satis-memurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679749-alanya-7-asliye-hukuk-mahkemesi-hakimligi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/aydin/3680333-aydinda-cami-duvarina-yazilan-yazi-korkuttu-bir-cocuk-gozaltinda",
    "https://spor.haber7.com/spor/haber/3680335-helal-olsun-orkun-filistin-bayragina-set-oldugu-anlar-viral-oldu",
    "https://www.haber7.com/ulkede-bugun/haber/3680336-yer-sakarya-tum-koye-musallat-oldu-gece-ortaya-cikiyor",
-   "https://spor.haber7.com/besiktas/haber/3680337-uefadan-skandal-aciklama-besiktas-taraftarlarini-suclamaya-kalkti"
+   "https://spor.haber7.com/besiktas/haber/3680337-uefadan-skandal-aciklama-besiktas-taraftarlarini-suclamaya-kalkti",
+   "https://www.haber7.com/sakarya/3680336-yer-sakarya-tum-koye-musallat-oldu-gece-ortaya-cikiyor",
+   "https://spor.haber7.com/dunya-ligleri/haber/3680338-alex-2-ligde-1-puanla-kumede-kalan-takima-teknik-direktor-oldu",
+   "https://www.haber7.com/guncel/haber/3680339-tesetturlu-anneye-havuz-yasagi-skandalinda-karar-verildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2207,7 +2207,8 @@
    "https://anlatilaninotesi.com.tr/20261127/turkiyede-otomotiv-sektoru-icin-jant-ureten-dev-sirket-iflas-etti-1110640158.html",
    "https://anlatilaninotesi.com.tr/20261127/fedden-piyasalari-hareketlendirecek-sinyal-turkiye-nasil-etkilenecek-1110640009.html",
    "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-ingilterenin-en-buyuk-bankalarindan-lloydsta-buyuk-kesinti-mobil-uygulama-coktu-1110640727.html",
-   "https://anlatilaninotesi.com.tr/20261127/turkiyenin-en-soguk-yeri-belli-oldu-termometreler-eksi-18i-gosterdi-1110641151.html"
+   "https://anlatilaninotesi.com.tr/20261127/turkiyenin-en-soguk-yeri-belli-oldu-termometreler-eksi-18i-gosterdi-1110641151.html",
+   "https://anlatilaninotesi.com.tr/20261127/besiktas-kafilesini-tasiyan-ucak-batumdan-ayrildi-25-saat-gecikme-yasandi--1110641481.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2239,12 +2240,6 @@
   ]
  },
  "recent_titles": [
-  "bilmezler ki kalbimdesinde malini geri dönüyor imlieye neler yaşatacak",
-  "tbmm plan ve bütçe komisyonu 2027 ulaştırma bütçesini onayladı",
-  "balkona koyup prize takıyorlar elektrik masrafını azaltıyor",
-  "als ile mücadele eden bir dönemin ünlü mankeni murat mısırlıya dostlarından büyük destek",
-  "husiler suudi arabistanın en büyük petrol rafinerisi ras tanuraya saldırı düzenledi",
-  "okullarda öğrencilere trafik güvenliği bilinci kazandırılıyor",
   "paladyum ağustos 2024ten beri en düşük seviyesinde",
   "türkiye ile macaristanın ortak mirası gül baba budapeştede anıldı",
   "daltonlar çetesine operasyon verdikleri röportajın önünde diz çöktürdüler",
@@ -3738,6 +3733,12 @@
   "alex 2 ligde 1 puanla kümede kalan takıma teknik direktör oldu",
   "emlak katılım birevim ve katılımevimi bünyesine dahil etti",
   "islamabad sokakları türk pakistan ve suudi arabistan bayraklarıyla süslendi",
-  "hurda teşviki çıkacak mı eski araçlara 2027 teşviki"
+  "hurda teşviki çıkacak mı eski araçlara 2027 teşviki",
+  "tesettürlü anneye havuz yasağı skandalında karar verildi",
+  "türkiyenin en soğuk noktası senelerdir değişmedi",
+  "trabzonda heyelan köprüyü kullanılamaz hale getirdi yeniden yapılacak",
+  "batmanda bir öğretmenin 22 yıl önce çektiği okul vlogu gündem oldu",
+  "yazın pek olmuyor kışın sıklaşıyor kapı koluna dokununca neden çarpılıyoruz",
+  "beşiktaş kafilesini taşıyan uçak batumdan ayrıldı 25 saat gecikme yaşandı"
  ]
 }
