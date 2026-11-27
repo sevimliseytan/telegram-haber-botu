@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679694-gundemdeki-lastikci-karsi-tarafa-sitem-etti-emeklerimiz-yok-oldu-kazancimiz-helaldir",
    "https://www.haber7.com/dunya/haber/3679732-turkiye-ile-macaristanin-ortak-mirasi-gul-baba-budapestede-anildi",
    "https://www.haber7.com/guncel/haber/3679731-daltonlar-cetesine-operasyon-verdikleri-roportajin-onunde-diz-cokturduler",
    "https://spor.haber7.com/super-lig/haber/3679733-milli-yildizin-annesinden-takim-arkadaslari-icin-sok-iddia-bilerek-pas-atmiyorlar",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680184-varsovadan-kritik-mesaj-turkiyenin-tecrubelerinden-yararlanacagiz",
    "https://www.haber7.com/dunya/haber/3680185-4-aday-canli-yayinda-tartisti-secime-gunler-kala-dunyanin-gozu-onunde-yerin-dibine-soktu",
    "https://www.haber7.com/guncel/haber/3680186-bagcilarda-sokak-ortasinda-silahli-saldiri-2-cocuk-yarali",
-   "https://www.haber7.com/guncel/haber/3680187-afaddan-aciklama-ege-denizinde-deprem"
+   "https://www.haber7.com/guncel/haber/3680187-afaddan-aciklama-ege-denizinde-deprem",
+   "https://www.haber7.com/siyaset/haber/3680188-bakan-kurumdan-bela-diyen-vekile-tepki-14-milyon-vatandasimizin-gonlu-kirilmistir"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2182,7 +2182,6 @@
   ]
  },
  "recent_titles": [
-  "polis  bir aslan kadar gündem olamadık",
   "yazın gurbetçilerin gelişiyle trafik ihlalleri artıyor",
   "bayrampaşada kaldırım işgali var denetim yok",
   "pits kameralarıyla ikinci sıra park ihlalleri denetleniyor",
@@ -3681,6 +3680,7 @@
   "4 aday canlı yayında tartıştı seçime günler kala dünyanın gözü önünde yerin dibine soktu",
   "bağcılarda sokak ortasında silahlı saldırı 2 çocuk yaralı",
   "afaddan açıklama ege denizinde deprem",
-  "nijeryada silahlı saldırıda 17 kişi öldü"
+  "nijeryada silahlı saldırıda 17 kişi öldü",
+  "bakan kurumdan bela diyen vekile tepki 14 milyon vatandaşımızın gönlü kırılmıştır"
  ]
 }
