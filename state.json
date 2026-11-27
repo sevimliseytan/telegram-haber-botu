@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679939-libya",
    "https://www.haber7.com/guncel/haber/3679940-yurdun-dogusu-buz-kesti-termometreler-eksi-12-dereceyi-gosterdi",
    "https://www.haber7.com/dunya/haber/3679941-brezilyadaki-araba-yarislarini-takip-eden-basin-mensuplari-ruzgarin-azizligine-ugradi",
    "https://www.haber7.com/dunya/haber/3679943-parcalanmis-cografyanin-yeniden-insasi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/avrupa-ligleri/haber/3680395-galatasaray-ile-adi-aniliyordu-bruno-fernandes-imzayi-atti",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680396-super-lig-devleriyle-aniliyordu-real-madrid-brahim-diazin-sozlesmesini-uzatti",
    "https://www.haber7.com/guncel/haber/3680397-burhanettin-durandan-genclere-cagri-hakikat-hic-olmadigi-kadar-kusatma-altinda",
-   "https://spor.haber7.com/besiktas/haber/3680398-besiktas-sadece-israili-yenmemis-gurcu-polisinin-bir-skandal-goruntusu-daha-ortaya-cikti"
+   "https://spor.haber7.com/besiktas/haber/3680398-besiktas-sadece-israili-yenmemis-gurcu-polisinin-bir-skandal-goruntusu-daha-ortaya-cikti",
+   "https://spor.haber7.com/galatasaray/haber/3680399-galatasarayda-besiktas-hazirliklari-devam-etti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2258,8 +2258,6 @@
   ]
  },
  "recent_titles": [
-  "kolombiyada süpermarkette rehin alınan 20 kişi kurtarıldı",
-  "tolun l hedefi tam isabetle vurdu",
   "denizlide bir öğretmen adliye önünde bıçaklandı",
   "muğlada seyir halinde alev alan beton mikseri kullanılamaz hale geldi",
   "ingilterede iha tehdidi savaş uçakları hangarlara çekiliyor",
@@ -3757,6 +3755,8 @@
   "burhanettin durandan gençlere çağrı hakikat hiç olmadığı kadar kuşatma altında",
   "kuveyt iranın büyükelçisini dışişleri bakanlığına çağırdı iran saldırıyla ilgimiz yok",
   "beşiktaş sadece israili yenmemiş gürcü polisinin bir skandal görüntüsü daha ortaya çıktı",
-  "rost başkanı kurtuluş türkiye ve rusya ekonomik ilişkilerini ortak üretim ve stratejik yatırımlarla güçlendirmeli"
+  "rost başkanı kurtuluş türkiye ve rusya ekonomik ilişkilerini ortak üretim ve stratejik yatırımlarla güçlendirmeli",
+  "galatasarayda beşiktaş hazırlıkları devam etti",
+  "iran operasyon vakti geldi"
  ]
 }
