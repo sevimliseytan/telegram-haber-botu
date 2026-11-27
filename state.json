@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-9-supheli-icin-adli-kontrol-talebi-h1585619",
-   "https://www.ensonhaber.com/fenerbahcede-divine-ngah-manga-ameliyat-edildi-h1585620",
-   "https://www.ensonhaber.com/nagehan-alci-fatma-betul-sayan-kayanin-tahliye-edilme-sebebini-acikladi-h1585621",
-   "https://www.ensonhaber.com/disisleri-bakanligi-husilerin-riyaddaki-finans-merkezine-saldirisini-kinadi-h1585622",
    "https://www.ensonhaber.com/izmirde-su-tarifelerine-indirim-h1585623",
    "https://www.ensonhaber.com/957-hakim-ve-savcinin-gorev-yerinde-degisiklige-gidildi-h1585624",
    "https://www.ensonhaber.com/erzurumda-buz-pistine-donen-yollar-kazalari-beraberinde-getirdi-h1585625",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/ingilterede-savas-alarmi-usler-korumaya-alindi-eski-askerlere-cagri-yapildi-h1586111",
    "https://www.ensonhaber.com/zelenskyden-trumpa-tepki-putin-bir-katil-arkadas-olamaz-h1586112",
    "https://www.ensonhaber.com/volvo-otomobil-uretiminde-insansi-robotlari-test-etmeye-basladi-h1586113",
-   "https://www.ensonhaber.com/ermenistan-turkiye-sinirindaki-rus-muhafizlari-cekme-hazirliginda-h1586114"
+   "https://www.ensonhaber.com/ermenistan-turkiye-sinirindaki-rus-muhafizlari-cekme-hazirliginda-h1586114",
+   "https://www.ensonhaber.com/hatayda-zimem-defteri-gelenegini-yasatan-ogrenciler-harcliklariyla-mahallenin-borclarini-o-h1586115",
+   "https://www.ensonhaber.com/emekli-ayliklarinin-iyilestirilmesine-yonelik-duzenleme-yolda-h1586116",
+   "https://www.ensonhaber.com/uydudan-tespit-edildi-kazinca-ortaya-cikti-2-bin-600-yil-sakli-kalmis-h1586117",
+   "https://www.ensonhaber.com/palandokende-sezon-acilisina-gunler-kaldi-h1586118"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/gaziantep/3679819-buyuksehirden-gaziantepte-iz-birakanlar-sergisi-acildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679822-shein-abddeki-dava-icin-100-milyon-dolar-verecek",
    "https://www.haber7.com/bursa/3679823-bursada-ogretmenler-ayni-sofrada-bulustu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679824-kadinlara-en-az-yuzde-30-daha-ucuz-emeklilik-firsati-yilbasindan-once-son-viraj",
    "https://spor.haber7.com/futbol/haber/3679826-guardiola-reddettigi-takimi-ilk-kez-acikladi-yeni-hedefini-anlatti",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/dunya/haber/3680271-israil-turkiyenin-6-hamlesini-mercek-altina-aldi-turk-pencesi-kiyilarda",
    "https://www.haber7.com/guncel/haber/3680272-tbmm-baskani-kurtulmus-mikta-12-parlamento-baskanlari-toplantisinda-konustu",
    "https://www.haber7.com/guncel/haber/3680273-japonyadan-fatma-sahine-buyuk-onur-imparator-onayladi-nisan-takildi",
-   "https://www.haber7.com/guncel/haber/3680274-internette-gordugu-videoyla-basladi-16-yilda-3-bin-eser-ortaya-cikardi"
+   "https://www.haber7.com/guncel/haber/3680274-internette-gordugu-videoyla-basladi-16-yilda-3-bin-eser-ortaya-cikardi",
+   "https://spor.haber7.com/futbol/haber/3680275-gurcu-makamlardan-rezalete-skandal-savunma-butun-sucu-taraftarlarimiza-attilar",
+   "https://www.haber7.com/yemek/haber/3680276-lezzet-tutkunlarinin-yeni-yol-haritasi-incili-gastronomi-rehberi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2178,7 +2178,8 @@
    "https://anlatilaninotesi.com.tr/20261127/yeni-zelandada-hukumeti-kurmak-icin-cogunluk-saglanamadi-gozler-7-sandalye-kazanan-partide-1110634228.html",
    "https://anlatilaninotesi.com.tr/20261127/akom-tarih-verdi-istanbula-sibirya-soguklari-geliyor-sicakliklar-10-derece-birden-dusecek-1110634544.html",
    "https://anlatilaninotesi.com.tr/20261127/gurcistan-icisleri-bakanligindan-skandal-mudahaleye-savunma-aciklamasi-besiktas-taraftarini-1110634780.html",
-   "https://anlatilaninotesi.com.tr/20261127/samsunda-100-kopegin-izinsiz-tutulmasiyla-ilgili-sorusturma-baslatildi-kopekler-koruma-altina-1110635478.html"
+   "https://anlatilaninotesi.com.tr/20261127/samsunda-100-kopegin-izinsiz-tutulmasiyla-ilgili-sorusturma-baslatildi-kopekler-koruma-altina-1110635478.html",
+   "https://anlatilaninotesi.com.tr/20261127/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-1110635749.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2208,10 +2209,6 @@
   ]
  },
  "recent_titles": [
-  "dizisi erken final yapmıştı ayça bingöl ekrana dönüyor",
-  "denizlide kavga ihbarı üzerine gidilen evde bir kişi ölü bulundu",
-  "herkes arda güleri konuşuyor maç biter bitmez açıklama geldi",
-  "trumptan yeni vergi hamlesi 16 ülke ve ab hedefte",
   "imamoğlunun diploması hakkında flaş karar",
   "hatayda lokantada uğradığı muştalı saldırıda kör olan adamın aracı ve iş yeri kurşunlandı",
   "okul otobüsüydü yeni yuvaları oldu evden daha konforlu",
@@ -3707,6 +3704,10 @@
   "ermenistan türkiye sınırındaki rus muhafızları çekme hazırlığında",
   "hatayda zimem defteri geleneğini yaşatan öğrenciler harçlıklarıyla mahallenin borçlarını ödediler",
   "emekli aylıklarının iyileştirilmesine yönelik düzenleme yolda",
-  "uydudan tespit edildi kazınca ortaya çıktı 2 bin 600 yıl saklı kalmış"
+  "uydudan tespit edildi kazınca ortaya çıktı 2 bin 600 yıl saklı kalmış",
+  "lezzet tutkunlarının yeni yol haritası incili gastronomi rehberi",
+  "palandökende sezon açılışına günler kaldı",
+  "gürcistanda gözaltına alınan 16 beşiktaş taraftarı serbest bırakıldı",
+  "yoğun bakımda tedavi görüyordu killa hakandan sevindiren haber"
  ]
 }
