@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sehitlerimiz-son-yolculuklarina-ugurlaniyor-h1585750",
    "https://www.ensonhaber.com/burcu-ozberk-ve-deniz-cakirin-ifadesi-ortaya-cikti-h1585751",
    "https://www.ensonhaber.com/abdnin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi-h1585752",
    "https://www.ensonhaber.com/istanbulda-kadinlari-taciz-ettigi-suclamasiyla-gozaltina-alindi-5-kadin-tarafindan-teshis-h1585753",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/boluda-polis-denetiminde-kacak-gocmen-yakalandi-h1586242",
    "https://www.ensonhaber.com/belcikali-yayincilardan-kitaplara-yapay-zekasiz-etiketi-onerisi-h1586243",
    "https://www.ensonhaber.com/adiyamanda-konteyner-kentler-kaldiriliyor-h1586244",
-   "https://www.ensonhaber.com/mersinde-interpol-tarafindan-kirmizi-bultenle-aranan-sahis-havalimaninda-yakalandi-h1586245"
+   "https://www.ensonhaber.com/mersinde-interpol-tarafindan-kirmizi-bultenle-aranan-sahis-havalimaninda-yakalandi-h1586245",
+   "https://www.ensonhaber.com/girne-aciklarinda-batan-filojet-gemisi-davasinda-9-sanik-tutuklandi-h1586246"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679941-brezilyadaki-araba-yarislarini-takip-eden-basin-mensuplari-ruzgarin-azizligine-ugradi",
    "https://www.haber7.com/dunya/haber/3679943-parcalanmis-cografyanin-yeniden-insasi",
    "https://www.haber7.com/guncel/haber/3679942-kokusmus-zihniyet",
    "https://spor.haber7.com/spor/haber/3679944-herkez-emre-belezoglunun-dans-vaadini-konusuyor",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680397-burhanettin-durandan-genclere-cagri-hakikat-hic-olmadigi-kadar-kusatma-altinda",
    "https://spor.haber7.com/besiktas/haber/3680398-besiktas-sadece-israili-yenmemis-gurcu-polisinin-bir-skandal-goruntusu-daha-ortaya-cikti",
    "https://spor.haber7.com/galatasaray/haber/3680399-galatasarayda-besiktas-hazirliklari-devam-etti",
-   "https://www.haber7.com/dunya/haber/3680400-iran-operasyon-vakti-geldi"
+   "https://www.haber7.com/dunya/haber/3680400-iran-operasyon-vakti-geldi",
+   "https://www.haber7.com/kultur/haber/3680401-yedi-guzel-adamin-mirasi-yeniden-hayat-buluyor-50-bin-kitaplik-kutuphane"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2259,8 +2259,6 @@
   ]
  },
  "recent_titles": [
-  "ingilterede iha tehdidi savaş uçakları hangarlara çekiliyor",
-  "rafineri onarımları rusyayı akaryakıt ithalatına yöneltti",
   "abd ekonomisi yüzde 43 büyüdü",
   "hafterden ankaraya ilk resmi ziyaret cumhurbaşkanı erdoğan tarafından kabul edildi",
   "12 dünya helal zirvesi ve helal expo 2026 uluslararası ticaret fuarı başladı",
@@ -3758,6 +3756,8 @@
   "galatasarayda beşiktaş hazırlıkları devam etti",
   "iran operasyon vakti geldi",
   "mersinde interpol tarafından kırmızı bültenle aranan şahıs havalimanında yakalandı",
-  "sosyal medyada gündem olan oto lastikçi mühürlendi"
+  "sosyal medyada gündem olan oto lastikçi mühürlendi",
+  "yedi güzel adamın mirası yeniden hayat buluyor 50 bin kitaplık kütüphane",
+  "girne açıklarında batan filojet gemisi davasında 9 sanık tutuklandı"
  ]
 }
