@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktas-avrupada-269-macina-cikacak-h1585594",
-   "https://www.ensonhaber.com/a-milli-erkek-basketbol-takimi-1068-macina-cikacak-h1585595",
    "https://www.ensonhaber.com/adanada-9-yil-sonra-gelen-aci-tesaduf-h1585596",
    "https://www.ensonhaber.com/eskisehirde-elinde-silahla-kovaladi-ates-actigini-beyan-etti-h1585597",
    "https://www.ensonhaber.com/besiktas-israil-ekipleriyle-8-kez-karsilasacak-h1585598",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/ufuk-beydemirden-yogun-bakim-paylasimi-kiziyla-poz-verdi-h1586086",
    "https://www.ensonhaber.com/abdde-cin-sermayeli-sirketlere-nvidianin-en-gelismis-ciplerinden-satis-iddiasi-h1586087",
    "https://www.ensonhaber.com/yilbasinda-unluler-antalya-ve-kktcde-sahne-alacak-h1586088",
-   "https://www.ensonhaber.com/ford-gt41-tanitildi-ford-le-mansa-zafer-icin-geri-donuyor-h1586089"
+   "https://www.ensonhaber.com/ford-gt41-tanitildi-ford-le-mansa-zafer-icin-geri-donuyor-h1586089",
+   "https://www.ensonhaber.com/donald-trump-iranla-savas-benim-istedigim-zamanda-bitecek-h1586090",
+   "https://www.ensonhaber.com/izmirde-uyusturucu-saticilarina-sucustu-2-gozalti-h1586091"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679796-son-dakika-turkiye-libya-deniz-yetki-anlasmasi-libya-resmi-gazetesinde-yayinlandi",
-   "https://www.haber7.com/dunya/haber/3679797-ingiltere-75-yillik-dosyayi-aciyor-nukleer-radyasyon-bir-nesli-kurutmus",
    "https://ekonomi.haber7.com/ekonomi/haber/3679798-turk-eximbank-740-milyon-dolarlik-sendikasyon-kredisi-sagladi",
    "https://www.haber7.com/memur/haber/3679799-9-bin-uzman-erbas-alinacak-sartlari-ve-maasi-belli-oldu",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-galatasaraydan-sampiyonlar-liginde-buyuk-sicrama-puan-durumunda-ilk-15e-girdi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/dunya/haber/3679952-trump-rutte-ile-gorustu-daha-once-gorulmemis-silahlar-uretecegiz",
    "https://ekonomi.haber7.com/ekonomi/haber/3680245-434-milyon-liralik-tasarruf-saglayacak-ulasimda-sure-4te-1e-dusuyor",
    "https://www.haber7.com/dunya/haber/3680246-israili-soykirimla-sucladi-diye-bm-yetkilisini-ulkeye-almadilar",
-   "https://www.haber7.com/guncel/haber/3680248-kpss-ortaogretimin-brans-bazinda-siralamalari-yayimlandi"
+   "https://www.haber7.com/guncel/haber/3680248-kpss-ortaogretimin-brans-bazinda-siralamalari-yayimlandi",
+   "https://spor.haber7.com/besiktas/haber/3680247-besiktas-israil-takimini-devirdi-mac-sonu-arda-gulerden-de-destek-geldi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680251-bakan-uraloglu-tarih-verdi-bursanin-ulasiminda-yeni-donem"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2204,10 +2204,6 @@
   ]
  },
  "recent_titles": [
-  "meteorolojiden kuvvetli yağış uyarısı sıcaklıklar düşüyor",
-  "beşiktaş gürcistanda hapoel beer shevayı konuk edecek",
-  "bankada parası olanlar dikkat devlet garantisinde o detayı bilmeyen kaybeder",
-  "erdoğanın kaptanlığında fırtınalı yıllar türkiye nasıl ayakta kaldı",
   "serap belovacıklı sözcü tv ekranlarında ana haberi sunacak",
   "tek tapu tarla nasıl bölünür 1 kişi hayır derse ne olur mahkeme bakın ne yapıyor",
   "vanda yakalanan afganistanlı düzensiz göçmenler ülkelerine geri gönderildi",
@@ -3703,6 +3699,10 @@
   "beşiktaş israil takımını devirdi maç sonu arda gülerden de destek geldi",
   "ford gt41 tanıtıldı ford zafer için le mansa geri dönüyor",
   "donald trump iranla savaş benim istediğim zamanda bitecek",
-  "15 bin öğretmen adayı için kontenjanlar ve başvuru takvimi açıklandı"
+  "15 bin öğretmen adayı için kontenjanlar ve başvuru takvimi açıklandı",
+  "bakan uraloğlu tarih verdi bursanın ulaşımında yeni dönem",
+  "aynı apartmanda 3 çocuğun şüpheli ölümü 20 yıllık sır dosya açıldı 7 gözaltı",
+  "ekonomik güven kasım ayında yükseldi",
+  "izmirde uyuşturucu satıcılarına suçüstü 2 gözaltı"
  ]
 }
