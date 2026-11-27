@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-dj-burak-yeter-gozaltinda-h1585741",
    "https://www.ensonhaber.com/hatayda-konteyner-kentten-sebeke-dagitim-kablosu-caldi-h1585742",
    "https://www.ensonhaber.com/ankara-merkezli-yasa-disi-bahis-operasyonu-25-supheli-yakalandi-h1585743",
    "https://www.ensonhaber.com/turkiyenin-dogalgaz-sebekesi-250-bin-kilometreyi-asacak-h1585744",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/kardesiyle-baliga-cikti-1-milyon-dolar-kazandi-h1586233",
    "https://www.ensonhaber.com/dunyaca-unlu-sefleri-bulusturan-gastromasa-11-kez-istanbulda-basladi-h1586234",
    "https://www.ensonhaber.com/ak-partiye-gecen-busra-ozdemir-vicdanim-gayet-rahat-h1586235",
-   "https://www.ensonhaber.com/gurcistan-elcisi-disislerine-cagrildi-h1586236"
+   "https://www.ensonhaber.com/gurcistan-elcisi-disislerine-cagrildi-h1586236",
+   "https://www.ensonhaber.com/elektrikli-bmw-m3-ces-2027de-tanitilabilir-1200-nm-tork-ve-650-km-menzil-h1586237"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679872-misirda-tanker-yangini-faciasi-cok-sayida-can-kaybi-var",
-   "https://www.haber7.com/guncel/haber/3679927-ankarada-feto-firarisi-3-hukumlu-yakalandi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679931-elon-musktan-72-milyon-cocuga-buyuk-mujde-her-birine-2-spacex-hissesi-verecek",
    "https://www.haber7.com/guncel/haber/3679930-bahceli-dem-heyeti-ile-gorusecek",
    "https://www.haber7.com/mersin/3679934-mersinde-takim-sevdasi-26-yildir-boyle",
    "https://ekonomi.haber7.com/ekonomi/haber/3679933-gumuste-buyuk-cokusun-ardindan-nefes-molasi-90-gunluk-kayip-yuzde-33u-asti",
@@ -1391,7 +1388,10 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680342-turkiyenin-caydirici-gucu-yukseliyor-3-adet-nukleer-denizalti-uretilecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3680387-istanbul-ve-ankara-yolculugu-2-saat-15-dakikaya-dusuyor-bursa-icin-geri-sayim-basladi",
    "https://www.haber7.com/siyaset/haber/3680388-son-dakika-haberi-turkiyeden-gurcistana-nota-disislerine-cagrildi",
-   "https://www.haber7.com/guncel/haber/3680389-egede-kritik-rafale-hamlesi-yunanistan-neyin-pesinde"
+   "https://www.haber7.com/guncel/haber/3680389-egede-kritik-rafale-hamlesi-yunanistan-neyin-pesinde",
+   "https://spor.haber7.com/spor/haber/3680390-sinirlenen-hakem-futbolcuya-yumruk-atti",
+   "https://www.haber7.com/guncel/haber/3680391-bik-acikladi-resmi-ilan-fiyat-tarifesine-yapilacak-artis-oranlari-belirlendi",
+   "https://www.haber7.com/guncel/haber/3680392-is-vaadiyle-17-kisiyi-dolandiran-sahte-avukat-tutuklandi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2222,7 +2222,8 @@
    "https://anlatilaninotesi.com.tr/20261127/50-metrelik-bir-canavar-godzilla-nasil-bir-atmosferde-dogdu--1110644586.html",
    "https://anlatilaninotesi.com.tr/20261127/okan-aslan-besiktas-taraftarina-yonelik-siddet-kabul-edilemez-1110644744.html",
    "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-altinda-sert-toparlanma-ons-yuzde-3-yukseldi-gram-altin-6-bin-lirayi-asti-1110644927.html",
-   "https://anlatilaninotesi.com.tr/20261127/turk-disisleri-gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-1110645490.html"
+   "https://anlatilaninotesi.com.tr/20261127/turk-disisleri-gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-1110645490.html",
+   "https://anlatilaninotesi.com.tr/20261127/sgk-uzmani-melis-elmen-emekli-maaslari-arasindaki-adaletsizlik-nasil-giderilecek-1110645523.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2254,10 +2255,6 @@
   ]
  },
  "recent_titles": [
-  "sakarya 10 ayda 120 bin 237 taşıt ihraç etti",
-  "9 bin uzman erbaş alınacak şartları ve maaşı belli oldu",
-  "abdulkadir uraloğlu kalkınma yolunun ekonomimize 10 yılda 615 milyar dolar katkı sağlamasını öngörüyoruz",
-  "abdulkadir uraloğlu demiryolunda 9 milyon engelli yolcumuza ücretsiz hizmet verdik",
   "yapay zekalardan 2027 asgari ücret tahmini chatgpt gemini grok claude",
   "derya uluğ 10 yıllık aşkıyla evleniyor düğün öncesi ilk görüntüler geldi",
   "yapay zeka animasyon sanatçısının yaratıcılığına alan açıyor",
@@ -3753,6 +3750,10 @@
   "sinirlenen hakem futbolcuya yumruk attı",
   "bik açıkladı resmî ilan fiyat tarifesine yapılacak artış oranları belirlendi",
   "iş vaadiyle 17 kişiyi dolandıran sahte avukat tutuklandı",
-  "türk dışişleri gürcistanın ankara büyükelçisi dışişleri bakanlığına çağrıldı"
+  "türk dışişleri gürcistanın ankara büyükelçisi dışişleri bakanlığına çağrıldı",
+  "elektrikli bmw m3 ces 2027de tanıtılabilir 1200 nm tork ve 650 km menzil",
+  "izmirde tombala baskını 63 kişiye 731 bin tl ceza",
+  "sgk uzmanı melis elmen emekli maaşları arasındaki adaletsizlik nasıl giderilecek",
+  "çekya başbakanı babiş ab zirvesinde tansiyon yükseldi uzlaşma çıkmadı"
  ]
 }
