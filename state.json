@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/corumda-iki-is-yerine-tufekli-saldiri-h1585674",
    "https://www.ensonhaber.com/20-yilda-57-rahip-cinsel-istismardan-hapis-cezasi-aldi-h1585675",
    "https://www.ensonhaber.com/kayseride-trafikte-biber-gazli-saldiriya-180-bin-tl-ceza-h1585676",
    "https://www.ensonhaber.com/bursada-evin-deposunda-cikan-yangin-sonduruldu-h1585677",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/marsilya-taraftarlari-rakip-tribunu-basip-kemerlerle-saldirdi-kadin-cocuk-ayirmadilar-h1586166",
    "https://www.ensonhaber.com/the-economist-insansi-robotlar-dunyayi-degistirecek-h1586167",
    "https://www.ensonhaber.com/cumhurbaskani-erdogandan-kurra-hafiz-ali-kemal-huta-veda-h1586168",
-   "https://www.ensonhaber.com/erzurumda-buzlanma-nedeniyle-zincirleme-kaza-2-yarali-h1586169"
+   "https://www.ensonhaber.com/erzurumda-buzlanma-nedeniyle-zincirleme-kaza-2-yarali-h1586169",
+   "https://www.ensonhaber.com/blok3-kesenin-agzini-acti-mercedes-maybach-aldi-h1586170"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679866-fon-krizinde-kritik-gelisme-gozler-cevdet-yilmaz-mehmet-simsek-ve-akin-gurleke-cevrildi",
-   "https://www.haber7.com/guncel/haber/3679867-bartinda-polisin-parmagini-isiran-sahis-tutuklandi",
    "https://www.haber7.com/dunya/haber/3679868-abdden-cinli-teknoloji-devi-huaweiye-casusluk-suclamasi-10-suctan-mahkum-edildi",
    "https://www.haber7.com/dunya/haber/3679869-arap-koalisyonu-duyurdu-husilere-ait-bir-iha-imha-edildi",
    "https://www.haber7.com/dunya/haber/3679870-abddeki-askeri-tesiste-alarm-45-ton-patlayici-kontrollu-sekilde-imha-edildi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/teknoloji/haber/3680320-200-mp-kamerali-oppo-find-x10-turkiyede-satisa-cikti-iste-one-cikan-ozellikleri",
    "https://spor.haber7.com/besiktas/haber/3680319-resmi-aciklama-geldi-besiktasin-ucagi-kalkamiyor",
    "https://www.haber7.com/guncel/haber/3680321-kurra-hafiz-ali-kemal-huta-veda-cumhurbaskani-erdogan-cenaze-toreninde",
-   "https://www.haber7.com/3sayfa/haber/3680323-ayni-apartmanda-3-cocuk-olmustu-cinayetlerin-arkasindan-seri-katil-cikti"
+   "https://www.haber7.com/3sayfa/haber/3680323-ayni-apartmanda-3-cocuk-olmustu-cinayetlerin-arkasindan-seri-katil-cikti",
+   "https://www.haber7.com/istanbul/3680323-ayni-apartmanda-3-cocuk-olmustu-cinayetlerin-arkasindan-seri-katil-cikti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680324-rusyadan-turkiyeye-dogal-gaz-aciklamasi-gazprom-ve-botas-el-sikisti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1865,7 +1865,8 @@
    "https://www.mynet.com/magazin/canli-yayina-baglandi-blok3-sandilar-gercek-baska-cikti-130100607795",
    "https://www.mynet.com/magazin/tuzlu-kahve-ye-mike-tyson-konuk-oluyor-130100607804",
    "https://www.mynet.com/magazin/sener-usumezsoy-esra-ezmeci-nin-ayak-bileklerini-inceledi-sosyal-medya-onlari-konusuyor-130100607807",
-   "https://www.mynet.com/magazin/ufuk-beydemir-den-yogun-bakim-paylasimi-kizi-ruby-ile-ilk-kare-130100607810"
+   "https://www.mynet.com/magazin/ufuk-beydemir-den-yogun-bakim-paylasimi-kizi-ruby-ile-ilk-kare-130100607810",
+   "https://www.mynet.com/magazin/demet-ozdemir-in-dugun-tarzi-cok-begenildi-arkasini-donunce-mest-etti-130100607813"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2203,7 +2204,8 @@
    "https://anlatilaninotesi.com.tr/20261127/emlak-katilim-katilimevim-birevim-ve-iktisat-katilim-bankasini-bunyesine-dahil-etti-1110639490.html",
    "https://anlatilaninotesi.com.tr/20261127/novak-turkiye-spief-2027de-konuk-ulke-olacak-1110640042.html",
    "https://anlatilaninotesi.com.tr/20261127/turkiyede-otomotiv-sektoru-icin-jant-ureten-dev-sirket-iflas-etti-1110640158.html",
-   "https://anlatilaninotesi.com.tr/20261127/fedden-piyasalari-hareketlendirecek-sinyal-turkiye-nasil-etkilenecek-1110640009.html"
+   "https://anlatilaninotesi.com.tr/20261127/fedden-piyasalari-hareketlendirecek-sinyal-turkiye-nasil-etkilenecek-1110640009.html",
+   "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-ingilterenin-en-buyuk-bankalarindan-lloydsta-buyuk-kesinti-mobil-uygulama-coktu-1110640727.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2235,9 +2237,6 @@
   ]
  },
  "recent_titles": [
-  "bir aylık evli kadın beşinci kattan düşerek hayatını kaybetti eşi tutuklandı",
-  "binadakiler deprem oluyor sandı yalovada panik anları tahliye edildiler",
-  "kazak gazetecilerin çikolata ikramı sonrası yaşananlar viral oldu",
   "trabzonspor cska sofya maçının kamp kadrosunu açıkladı",
   "bursada tır dorsesinden uçan karton motosikletlinin kaskına yapıştı",
   "ankara toptancı halinde esnafı tehdit eden 27 şüpheli yakalandı",
@@ -3734,6 +3733,9 @@
   "aynı apartmanda 3 çocuk ölmüştü cinayetlerin arkasından seri katil çıktı",
   "erzurumda buzlanma nedeniyle zincirleme kaza 2 yaralı",
   "fedden piyasaları hareketlendirecek sinyal türkiye nasıl etkilenecek",
-  "ingilterenin en büyük bankalarından lloydsta büyük kesinti mobil uygulama çöktü"
+  "ingilterenin en büyük bankalarından lloydsta büyük kesinti mobil uygulama çöktü",
+  "rusyadan türkiyeye doğal gaz açıklaması gazprom ve botaş el sıkıştı",
+  "blok3 kesenin ağzını açtı mercedesmaybach aldı",
+  "demet özdemirin düğün tarzı çok beğenildi arkasını dönünce mest etti"
  ]
 }
