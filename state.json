@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679528-prens-williamin-evine-hirsiz-girdi-calinan-esyalar-ortaya-cikti",
    "https://www.haber7.com/dunya/haber/3679872-misirda-tanker-yangini-faciasi-cok-sayida-can-kaybi-var",
    "https://www.haber7.com/guncel/haber/3679927-ankarada-feto-firarisi-3-hukumlu-yakalandi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679931-elon-musktan-72-milyon-cocuga-buyuk-mujde-her-birine-2-spacex-hissesi-verecek",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/samsun/3680385-ben-oldurdum-diyerek-kahkaha-atan-saniktan-akil-disi-savunma",
    "https://ekonomi.haber7.com/ekonomi/haber/3680342-turkiyenin-caydirici-gucu-yukseliyor-3-adet-nukleer-denizalti-uretilecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3680387-istanbul-ve-ankara-yolculugu-2-saat-15-dakikaya-dusuyor-bursa-icin-geri-sayim-basladi",
-   "https://www.haber7.com/siyaset/haber/3680388-son-dakika-haberi-turkiyeden-gurcistana-nota-disislerine-cagrildi"
+   "https://www.haber7.com/siyaset/haber/3680388-son-dakika-haberi-turkiyeden-gurcistana-nota-disislerine-cagrildi",
+   "https://www.haber7.com/guncel/haber/3680389-egede-kritik-rafale-hamlesi-yunanistan-neyin-pesinde"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2221,7 +2221,8 @@
    "https://anlatilaninotesi.com.tr/20261127/uefa-acikladi-besiktas-hapoel-beer-sheva-maci-icin-sorusturma-karari-1110644340.html",
    "https://anlatilaninotesi.com.tr/20261127/50-metrelik-bir-canavar-godzilla-nasil-bir-atmosferde-dogdu--1110644586.html",
    "https://anlatilaninotesi.com.tr/20261127/okan-aslan-besiktas-taraftarina-yonelik-siddet-kabul-edilemez-1110644744.html",
-   "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-altinda-sert-toparlanma-ons-yuzde-3-yukseldi-gram-altin-6-bin-lirayi-asti-1110644927.html"
+   "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-altinda-sert-toparlanma-ons-yuzde-3-yukseldi-gram-altin-6-bin-lirayi-asti-1110644927.html",
+   "https://anlatilaninotesi.com.tr/20261127/turk-disisleri-gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-1110645490.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2253,11 +2254,6 @@
   ]
  },
  "recent_titles": [
-  "6 şubatı bilmişti frank hoogerbeetstan istanbul paylaşımı yakında çok büyük",
-  "cristiano ronaldo saymaya devam ediyor 13 gol kaldı",
-  "eskişehirde parktaki mezar görünümlü yapı belediye ekiplerince kaldırıldı",
-  "ingiltere 75 yıllık dosyayı açıyor nükleer radyasyon bir nesli kurutmuş",
-  "avrupalı finans kuruluşlarından israil bağlantılı şirketlere 21 trilyon dolar finansman",
   "sakarya 10 ayda 120 bin 237 taşıt ihraç etti",
   "9 bin uzman erbaş alınacak şartları ve maaşı belli oldu",
   "abdulkadir uraloğlu kalkınma yolunun ekonomimize 10 yılda 615 milyar dolar katkı sağlamasını öngörüyoruz",
@@ -3752,6 +3748,11 @@
   "kardeşiyle balığa çıktı 1 milyon dolar kazandı",
   "dünyaca ünlü şefleri buluşturan gastromasa 11 kez istanbulda başladı",
   "son dakika haberi türkiyeden gürcistana nota dışişlerine çağrıldı",
-  "gürcistan elçisi dışişlerine çağrıldı"
+  "gürcistan elçisi dışişlerine çağrıldı",
+  "egede kritik rafale hamlesi yunanistan neyin peşinde",
+  "sinirlenen hakem futbolcuya yumruk attı",
+  "bik açıkladı resmî ilan fiyat tarifesine yapılacak artış oranları belirlendi",
+  "iş vaadiyle 17 kişiyi dolandıran sahte avukat tutuklandı",
+  "türk dışişleri gürcistanın ankara büyükelçisi dışişleri bakanlığına çağrıldı"
  ]
 }
