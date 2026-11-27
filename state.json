@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/eskisehirde-parktaki-mezar-gorunumlu-yapi-belediye-ekiplerince-kaldirildi-h1585551",
-   "https://www.ensonhaber.com/avrupali-finans-kuruluslarindan-israil-baglantili-sirketlere-21-trilyon-dolar-finansman-h1585552",
-   "https://www.ensonhaber.com/sakarya-10-ayda-120-bin-237-tasit-ihrac-etti-h1585553",
-   "https://www.ensonhaber.com/abdulkadir-uraloglu-kalkinma-yolunun-ekonomimize-10-yilda-615-milyar-dolar-katki-saglamasi-h1585190",
    "https://www.ensonhaber.com/abdulkadir-uraloglu-demiryolunda-9-milyon-engelli-yolcumuza-ucretsiz-hizmet-verdik-h1533357",
    "https://www.ensonhaber.com/yapay-zekalardan-2027-asgari-ucret-tahmini-chatgpt-gemini-grok-claude-h1585554",
    "https://www.ensonhaber.com/ucuncu-ceyrekte-buyume-beklentisi-yuzde-270-h1585555",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/cuma-hutbesi-paylasildi-27-kasim-2026-hutbe-konusu-ve-metni-h1586042",
    "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-3-tutuklama-h1586043",
    "https://www.ensonhaber.com/erzincanda-15-bin-adet-kacak-makaron-ele-gecirildi-h1586044",
-   "https://www.ensonhaber.com/bursada-yem-fabrikasinda-buyuk-yangin-h1586045"
+   "https://www.ensonhaber.com/bursada-yem-fabrikasinda-buyuk-yangin-h1586045",
+   "https://www.ensonhaber.com/orduda-alkollu-surucunun-carptigi-2-lise-ogrencisi-yaralandi-h1586046",
+   "https://www.ensonhaber.com/kamu-alacaklarinda-gecikme-zammi-orani-ve-tecil-faizi-dusuruldu-h1586047",
+   "https://www.ensonhaber.com/zigana-daginda-gun-batimi-kar-ve-sis-gorsel-solen-olusturdu-h1586048",
+   "https://www.ensonhaber.com/yazarlar/mustafa-armagan/bati-icinden-batiya-itiraz-guenon-ve-celine"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3679699-hapoel-beer-sheva-maci-oncesi-sok-gelisme-besiktasin-yildizi-kamp-kadrosuna-alinmadi",
-   "https://www.haber7.com/guncel/haber/3679741-gozaltindaki-unlu-isimler-adliyeye-sevk-edilirken-goruntulendi",
    "https://www.haber7.com/3sayfa/haber/3679743-esini-oldurdugu-olaydan-yarim-saat-once-kayinpederinin-evini-atese-vermis",
    "https://www.haber7.com/guncel/haber/3679744-mersinde-yabani-ot-faciasi-iki-kuzenden-biri-oldu-digeri-yogun-bakimda",
    "https://www.haber7.com/3sayfa/haber/3679746-konyada-fuhus-operasyonu11-tutuklama",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/otomobil/haber/3680193-lpgli-arac-sahipleri-dikkat-sartlar-aciklandi-milyonlarca-kisiyi-ilgilendiren-duzenleme",
    "https://www.haber7.com/guncel/haber/3680194-resmi-gazetede-yayimlandi-18-yillik-anlasma-bitti-turkiye-de-vize-isteyecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3680201-kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu",
-   "https://www.haber7.com/guncel/haber/3680203-ozgur-ozel-terorsuz-turkiye-meselesinde-neden-surekli-zikzak-ciziyor-sorusunun-cevabi"
+   "https://www.haber7.com/guncel/haber/3680203-ozgur-ozel-terorsuz-turkiye-meselesinde-neden-surekli-zikzak-ciziyor-sorusunun-cevabi",
+   "https://www.haber7.com/guncel/haber/3680202-oto-elektrik-dukkaninda-yangin-5-arac-alevlere-teslim-oldu",
+   "https://www.haber7.com/seyahat/haber/3680204-onceden-gezmek-imkansizdi-sakaryanin-doga-harikasi-ziyarete-acildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2193,10 +2193,6 @@
   ]
  },
  "recent_titles": [
-  "antalyada traktör şarampole devrildi 1 ölü",
-  "murat başoğlu gözaltına alındı yunanistanda yaptığı iş ortaya çıktı",
-  "kurtulmuş detayları paylaştı terörsüz türkiye izleme komisyonu nasıl işleyecek",
-  "trabzonda sel ve heyelan zarha deresi taştı",
   "eylül öztürk estetik sonrası amerikaya döndü uçaktan yaptığı paylaşım şaşırttı",
   "kurtulmuş terörsüz türkiye sürecinde izleme komisyonu 19 üyeden oluşacak",
   "nvidiada u dönüşü huangın dönüşü küresel piyasaları uçurdu",
@@ -3692,6 +3688,10 @@
   "bursada yem fabrikasında büyük yangın",
   "orduda alkollü sürücünün çarptığı 2 lise öğrencisi yaralandı",
   "kamu alacaklarında gecikme zammı oranı ve tecil faizi düşürüldü",
-  "zigana dağında gün batımı kar ve sis görsel şölen oluşturdu"
+  "zigana dağında gün batımı kar ve sis görsel şölen oluşturdu",
+  "önceden gezmek imkansızdı sakaryanın doğa harikası ziyarete açıldı",
+  "batı içinden batıya itiraz guénon ve céline",
+  "galibiyetin ardından salih özcanın sevinci gündem oldu allahu ekber",
+  "sıcaklıklar düşecek sibiryadan soğuk hava geliyor"
  ]
 }
