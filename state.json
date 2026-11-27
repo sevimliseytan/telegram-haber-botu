@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/avrupa-sampiyonu-havvanur-kethuda-trabzona-dondu-h1585628",
    "https://www.ensonhaber.com/istanbulda-hafif-ticari-aracin-carptigi-genc-kiz-16-gunluk-yasam-savasini-kaybetti-h1585629",
    "https://www.ensonhaber.com/trabzonspor-cska-sofya-maci-hazirliklarini-tamamladi-h1585630",
    "https://www.ensonhaber.com/agrida-tiner-dokulen-soba-patladi-3-yarali-h1585631",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/adanada-aranan-firari-cadirda-yakalandi-h1586120",
    "https://www.ensonhaber.com/istanbulda-kaza-sonrasi-surucuyu-gizlemeye-calistilar-arbedeye-neden-olan-3-kisi-tutukland-h1586121",
    "https://www.ensonhaber.com/istanbulda-park-halindeki-14-hafriyat-kamyonuna-tasli-saldiri-h1586122",
-   "https://www.ensonhaber.com/mustafa-sarigulun-dokunulmazlik-dosyasi-tbmmde-h1586123"
+   "https://www.ensonhaber.com/mustafa-sarigulun-dokunulmazlik-dosyasi-tbmmde-h1586123",
+   "https://www.ensonhaber.com/yasa-disi-bahis-mesajlarinin-perde-arkasindaki-kazanc-agi-desifre-edildi-h1586124"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3679829-besiktasin-yildizina-premier-lig-kancasi-italiano-son-kararini-verdi",
    "https://spor.haber7.com/besiktas/haber/3679818-besiktas-kafilesini-tasiyan-ucak-batuma-inemedi-italianonun-toplantisi-iptal-edildi",
    "https://www.haber7.com/guncel/haber/3679830-cumhurbaskanligi-himayelerinde-2-palandoken-ekonomi-forumu-duzenlenecek",
    "https://www.haber7.com/egitim/haber/3679831-mebin-yapay-zeka-calismalarina-odul",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680278-cumhurbaskani-erdogan-devreye-girdi-besiktasli-16-taraftar-serbest-birakildi",
    "https://www.haber7.com/ulkede-bugun/haber/3680280-adanada-20-yil-once-kasaplar-cope-atiyordu-simdi-fiyati-eti-solladi",
    "https://www.haber7.com/guncel/haber/3680279-mit-ve-emniyetten-ortak-operasyon-tilki-selim-evindeki-saunada-yakalandi",
-   "https://www.haber7.com/ekonomi/haber/3680281-milli-teknoloji-uzmanlik-programlari-basliyor"
+   "https://www.haber7.com/ekonomi/haber/3680281-milli-teknoloji-uzmanlik-programlari-basliyor",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680283-bitcoin-ethereum-ve-solana-yukseliste-iste-27-kasim-guncel-fiyatlari"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2180,7 +2180,8 @@
    "https://anlatilaninotesi.com.tr/20261127/gurcistan-icisleri-bakanligindan-skandal-mudahaleye-savunma-aciklamasi-besiktas-taraftarini-1110634780.html",
    "https://anlatilaninotesi.com.tr/20261127/samsunda-100-kopegin-izinsiz-tutulmasiyla-ilgili-sorusturma-baslatildi-kopekler-koruma-altina-1110635478.html",
    "https://anlatilaninotesi.com.tr/20261127/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-1110635749.html",
-   "https://anlatilaninotesi.com.tr/20261127/batumda-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-1110635872.html"
+   "https://anlatilaninotesi.com.tr/20261127/batumda-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-1110635872.html",
+   "https://anlatilaninotesi.com.tr/20261127/emekliye-ek-zam-icin-kritik-toplanti-masada-3-formul-var-1110635675.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2210,10 +2211,6 @@
   ]
  },
  "recent_titles": [
-  "abdde küçük uçak düştü 2si çocuk 6 kişi öldü",
-  "iran savaşında kongre kıskacı trump ocak sonunu işaret etti",
-  "sürücüler dikkat edevletten hemen bakın yoksa iptal ediliyor",
-  "unai emery istanbula baklavayla veda etti",
   "danıştay onadı ekrem imamoğlunun diplomasının iptali kesinleşti",
   "bnp paribastan fon skandalı değerlendirmesi",
   "deniz gülün kanlı golü jacksonın tartışılan tekmesi hakem avrupada yankı uyandırdı",
@@ -3709,6 +3706,10 @@
   "istanbulda kaza sonrası sürücüyü gizlemeye çalıştılar arbedeye neden olan 3 kişi tutuklandı",
   "istanbulda park halindeki 14 hafriyat kamyonuna taşlı saldırı",
   "milli teknoloji uzmanlık programları başlıyor",
-  "mustafa sarıgülün dokunulmazlık dosyası tbmmde"
+  "mustafa sarıgülün dokunulmazlık dosyası tbmmde",
+  "bitcoin ethereum ve solana yükselişte işte 27 kasım güncel fiyatları",
+  "yasa dışı bahis mesajlarının perde arkasındaki kazanç ağı deşifre edildi",
+  "istanbulda 7 yıl hapis cezasıyla aranan şahıs gizli bölmede yakalandı",
+  "emekliye ek zam için kritik toplantı masada 3 formül var"
  ]
 }
