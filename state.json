@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kayseride-trafikte-biber-gazli-saldiriya-180-bin-tl-ceza-h1585676",
-   "https://www.ensonhaber.com/bursada-evin-deposunda-cikan-yangin-sonduruldu-h1585677",
    "https://www.ensonhaber.com/istanbulda-e-5te-elektrikli-cip-alev-alev-yandi-h1585678",
    "https://www.ensonhaber.com/israilin-gazzedeki-saldirisinda-3-filistinli-hayatini-kaybetti-h1585679",
    "https://www.ensonhaber.com/israil-meclisinden-ezan-yasagina-ret-ben-gvir-salondan-atildi-h1585680",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/cumhurbaskani-erdogandan-kurra-hafiz-ali-kemal-huta-veda-h1586168",
    "https://www.ensonhaber.com/erzurumda-buzlanma-nedeniyle-zincirleme-kaza-2-yarali-h1586169",
    "https://www.ensonhaber.com/blok3-kesenin-agzini-acti-mercedes-maybach-aldi-h1586170",
-   "https://www.ensonhaber.com/ahmet-necdet-sezer-uzun-bir-aranin-ardindan-goruntulendi-h1586171"
+   "https://www.ensonhaber.com/ahmet-necdet-sezer-uzun-bir-aranin-ardindan-goruntulendi-h1586171",
+   "https://www.ensonhaber.com/muhtesem-yuzyilin-aybigesini-bir-de-simdi-gorun-aradan-15-yil-gecti-h1586172",
+   "https://www.ensonhaber.com/tolga-akistan-aile-pozu-geldi-basarisiz-h1586173"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679869-arap-koalisyonu-duyurdu-husilere-ait-bir-iha-imha-edildi",
    "https://www.haber7.com/dunya/haber/3679870-abddeki-askeri-tesiste-alarm-45-ton-patlayici-kontrollu-sekilde-imha-edildi",
    "https://www.haber7.com/dunya/haber/3679871-tel-avivde-ejderha-korkusu-israilin-musterileri-ayaklandi",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-shakhtar-donetsk-fenerbahce-canli",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/3sayfa/haber/3680323-ayni-apartmanda-3-cocuk-olmustu-cinayetlerin-arkasindan-seri-katil-cikti",
    "https://www.haber7.com/istanbul/3680323-ayni-apartmanda-3-cocuk-olmustu-cinayetlerin-arkasindan-seri-katil-cikti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680324-rusyadan-turkiyeye-dogal-gaz-aciklamasi-gazprom-ve-botas-el-sikisti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680327-tarimda-tarihi-zirve-hasila-90-milyar-dolara-dayandi-ihracat-30-milyar-dolari-asti"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680327-tarimda-tarihi-zirve-hasila-90-milyar-dolara-dayandi-ihracat-30-milyar-dolari-asti",
+   "https://spor.haber7.com/spor/haber/3680328-fransada-buyuk-vahset-rakip-tribunleri-bastilar-kadin-taraftari-bile-dovduler"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2237,9 +2237,6 @@
   ]
  },
  "recent_titles": [
-  "trump ülkenin ilk müslüman senatörü sayed ile sağlık hizmeti planını görüşecek",
-  "abdde tatil sezonu satışlarına trilyon dolarlık tahmin",
-  "yeni partinin yeni yönetim kadrosu açıklandı",
   "cop31de milletvekili sena nur çelik kanattan üç programda iklim diplomasisi",
   "kalkınma yolunda ezber bozan formül demir yolu inşaatı petrol karşılığı yapılacak",
   "bakan yumaklıdan müjde cumhuriyet tarihinin rekoru geliyor",
@@ -3736,6 +3733,9 @@
   "demet özdemirin düğün tarzı çok beğenildi arkasını dönünce mest etti",
   "tarımda tarihi zirve hasıla 90 milyar dolara dayandı ihracat 30 milyar doları aştı",
   "ahmet necdet sezer uzun bir aranın ardından görüntülendi",
-  "muhteşem yüzyılın aybigesini bir de şimdi görün aradan 15 yıl geçti"
+  "muhteşem yüzyılın aybigesini bir de şimdi görün aradan 15 yıl geçti",
+  "fransada büyük vahşet rakip tribünleri bastılar kadın taraftarı bile dövdüler",
+  "ailelere 9 ayda dev destek tam 15 milyar 258 milyon lira analık ödeneği ödendi",
+  "tolga akıştan aile pozu geldi başarısız"
  ]
 }
