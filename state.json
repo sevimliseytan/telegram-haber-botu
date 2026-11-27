@@ -253,11 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbul-havalimani-avrupanin-zirvesinde-95940-h1585558",
-   "https://www.ensonhaber.com/cumhurbaskani-erdogan-maresal-halife-hafteri-kabul-etti-h1585559",
-   "https://www.ensonhaber.com/mhpnin-terorsuz-turkiye-izleme-komisyonu-uyeleri-belli-oldu-h1585560",
-   "https://www.ensonhaber.com/kolombiyada-supermarkette-rehin-alinan-20-kisi-kurtarildi-h1585561",
-   "https://www.ensonhaber.com/tolun-l-hedefi-tam-isabetle-vurdu-h1585562",
    "https://www.ensonhaber.com/muglada-seyir-halinde-alev-alan-beton-mikseri-kullanilamaz-hale-geldi-h1585563",
    "https://www.ensonhaber.com/ingilterede-iha-tehdidi-savas-ucaklari-hangarlara-cekiliyor-h1585564",
    "https://www.ensonhaber.com/rafineri-onarimlari-rusyayi-akaryakit-ithalatina-yoneltti-h1585565",
@@ -752,7 +747,12 @@
    "https://www.ensonhaber.com/sicakliklar-dusecek-sibiryadan-soguk-hava-geliyor-h1586050",
    "https://www.ensonhaber.com/google-ceosundan-turkiye-aciklamasi-100-milyar-dolar-katki-saglayabilir-h1586051",
    "https://www.ensonhaber.com/besiktasi-destekleyen-galatasarayli-ve-fenerbahceli-taraftarlar-gurcu-polisine-direndi-h1586052",
-   "https://www.ensonhaber.com/once-yalanci-bahar-sonra-balkanlar-hava-iki-gun-icinde-degisecek-h1586053"
+   "https://www.ensonhaber.com/once-yalanci-bahar-sonra-balkanlar-hava-iki-gun-icinde-degisecek-h1586053",
+   "https://www.ensonhaber.com/israile-petrol-sevkiyatinin-kritik-duragi-gurcistan-ilk-taniyan-ulkelerden-h1586054",
+   "https://www.ensonhaber.com/erzincan-ergan-daginda-kurtarma-operasyonu-h1586055",
+   "https://www.ensonhaber.com/hindistanda-bir-garip-dilek-ritueli-fil-heykelinin-altinda-sikisip-kaldi-h1586056",
+   "https://www.ensonhaber.com/fon-sorusturmasi-kemal-akkaya-serbest-birakildi-3-kisi-tutuklandi-h1586057",
+   "https://www.ensonhaber.com/yerin-4-metre-altindaki-uretim-tesisi-her-gun-35-kilo-topluyor-h1586058"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679746-konyada-fuhus-operasyonu11-tutuklama",
-   "https://www.haber7.com/guncel/haber/3679745-topladiklari-otlari-yiyen-kuzenlerden-aci-haber-biri-oldu-digeri-yogun-bakimda",
-   "https://spor.haber7.com/diger-branslar/haber/3679747-bursanin-gururu-umut-eren-gundogdan-dunya-ikinciligi-cinde-gumus-madalya",
-   "https://www.haber7.com/3sayfa/haber/3679748-manisada-iki-ayri-evde-137-bin-858-sentetik-hap-ele-gecirildi",
    "https://www.haber7.com/ulkede-bugun/haber/3679750-batmanda-acilan-ahir-kapisi-besiciyi-kahretti-109-kesi-telef-oldu",
    "https://www.haber7.com/yasam/haber/3679750-batmanda-acilan-ahir-kapisi-besiciyi-kahretti-109-kesi-telef-oldu",
    "https://www.haber7.com/dunya/haber/3679752-mecliste-renkli-anlar-musluman-senatorun-bebegiyle-oynadilar",
@@ -1391,7 +1387,11 @@
    "https://www.haber7.com/guncel/haber/3680202-oto-elektrik-dukkaninda-yangin-5-arac-alevlere-teslim-oldu",
    "https://www.haber7.com/seyahat/haber/3680204-onceden-gezmek-imkansizdi-sakaryanin-doga-harikasi-ziyarete-acildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680205-ev-ve-arsa-alacaklar-dikkat-guvenli-odeme-sistemi-icin-tarih-belli-oldu",
-   "https://www.haber7.com/saglik/haber/3680206-uzman-isim-acikladi-fibromiyaljide-tedavi-sabir-ve-is-birligi-istiyor"
+   "https://www.haber7.com/saglik/haber/3680206-uzman-isim-acikladi-fibromiyaljide-tedavi-sabir-ve-is-birligi-istiyor",
+   "https://www.haber7.com/guncel/haber/3680208-magarada-bircok-kafatasi-bulundu-inceleme-icin-istanbula-gonderildi",
+   "https://www.haber7.com/guncel/haber/3680207-helal-yasamin-ticarilesmesi",
+   "https://www.haber7.com/guncel/haber/3680210-meteorolojiden-bircok-kent-icin-uyari-hafta-sonuna-dikkat",
+   "https://www.haber7.com/guncel/haber/3680212-fon-sorusturmasinda-yeni-gelisme-kemal-akkaya-serbest-birakildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2195,12 +2195,6 @@
   ]
  },
  "recent_titles": [
-  "israilde 7 ekim hesaplaşması netanyahu köşeye sıkışıyor istemediği soruşturma için ilk engel aşıldı",
-  "prens william ve prenses katein evine hırsızlık girişimi",
-  "yapay zeka şampiyonlar liginde tarihe geçecek maçın sonucunu açıkladı fbahçe kazanır",
-  "freni boşalan kiremit yüklü tır bahçe duvarını yıkarak durabildi",
-  "istanbulda freni boşalan tır gecekondunun bahçesine girdi",
-  "son dakika fon soruşturmasında 1 kişi daha tutuklandı",
   "polis aracına çarpıp kaçan sürücüye 650 bin tl ceza",
   "masterchef güzide mertcandan yeni proje roman yazdı",
   "doğum borçlanmasında kritik tarih 228 bin tl fark oluşabilir",
@@ -3694,6 +3688,12 @@
   "israile petrol sevkiyatının kritik durağı gürcistan ilk tanıyan ülkelerden",
   "erzincan ergan dağında kurtarma operasyonu",
   "hindistanda bir garip dilek ritüeli fil heykelinin altında sıkışıp kaldı",
-  "fon soruşturması kemal akkaya serbest bırakıldı 3 kişi tutuklandı"
+  "fon soruşturması kemal akkaya serbest bırakıldı 3 kişi tutuklandı",
+  "fon soruşturmasında yeni gelişme kemal akkaya serbest bırakıldı",
+  "ünlülere uyuşturucu operasyonu 3 isim tutuklandı",
+  "enerjide tarihi gün abdli chevron ile dev imza avrupa ile 5 yıllık mutabakat",
+  "serbest piyasada döviz açılış fiyatları",
+  "yerin 4 metre altındaki üretim tesisi her gün 35 kilo topluyor",
+  "japonyadan fatma şahine türkiyejaponya dostluğuna katkılarından dolayı nişan"
  ]
 }
