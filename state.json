@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ispartada-33-adrese-es-zamanli-uyusturucu-operasyonu-h1585547",
-   "https://www.ensonhaber.com/turk-eximbank-740-milyon-dolarlik-kredi-sagladi-h1585548",
-   "https://www.ensonhaber.com/6-subati-bilmisti-frank-hoogerbeetsin-yeni-tahmini-istanbul-cikti-h1585549",
-   "https://www.ensonhaber.com/cristiano-ronaldo-saymaya-devam-ediyor-13-gol-kaldi-h1585550",
    "https://www.ensonhaber.com/eskisehirde-parktaki-mezar-gorunumlu-yapi-belediye-ekiplerince-kaldirildi-h1585551",
    "https://www.ensonhaber.com/avrupali-finans-kuruluslarindan-israil-baglantili-sirketlere-21-trilyon-dolar-finansman-h1585552",
    "https://www.ensonhaber.com/sakarya-10-ayda-120-bin-237-tasit-ihrac-etti-h1585553",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/kayseride-polisten-kacan-yoklama-kacagi-surucu-bedavaya-kactik-h1586038",
    "https://www.ensonhaber.com/altin-fiyatlari-sert-yukseldi-gram-6-bin-lira-sinirina-dayandi-h1586039",
    "https://www.ensonhaber.com/kirikkalede-oto-elektrik-dukkaninda-yangin-5-arac-alevlere-teslim-oldu-h1586040",
-   "https://www.ensonhaber.com/berfu-yenenler-hastanelik-oldu-serumlu-paylasim-yapti-h1586041"
+   "https://www.ensonhaber.com/berfu-yenenler-hastanelik-oldu-serumlu-paylasim-yapti-h1586041",
+   "https://www.ensonhaber.com/cuma-hutbesi-paylasildi-27-kasim-2026-hutbe-konusu-ve-metni-h1586042",
+   "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-3-tutuklama-h1586043",
+   "https://www.ensonhaber.com/erzincanda-15-bin-adet-kacak-makaron-ele-gecirildi-h1586044",
+   "https://www.ensonhaber.com/bursada-yem-fabrikasinda-buyuk-yangin-h1586045"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/ulkede-bugun/haber/3679738-adanada-cete-infazi-37-gunluk-savasi-kaybeden-cocuga-aci-veda",
    "https://spor.haber7.com/besiktas/haber/3679699-hapoel-beer-sheva-maci-oncesi-sok-gelisme-besiktasin-yildizi-kamp-kadrosuna-alinmadi",
    "https://www.haber7.com/guncel/haber/3679741-gozaltindaki-unlu-isimler-adliyeye-sevk-edilirken-goruntulendi",
    "https://www.haber7.com/3sayfa/haber/3679743-esini-oldurdugu-olaydan-yarim-saat-once-kayinpederinin-evini-atese-vermis",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680192-altin-icin-dikkat-ceken-tahmin-bankacilik-devi-tarih-verdi-fiyatlarda-son-durum",
    "https://www.haber7.com/otomobil/haber/3680193-lpgli-arac-sahipleri-dikkat-sartlar-aciklandi-milyonlarca-kisiyi-ilgilendiren-duzenleme",
    "https://www.haber7.com/guncel/haber/3680194-resmi-gazetede-yayimlandi-18-yillik-anlasma-bitti-turkiye-de-vize-isteyecek",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680201-kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680201-kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu",
+   "https://www.haber7.com/guncel/haber/3680203-ozgur-ozel-terorsuz-turkiye-meselesinde-neden-surekli-zikzak-ciziyor-sorusunun-cevabi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2193,11 +2193,6 @@
   ]
  },
  "recent_titles": [
-  "eşini öldürdü 9 saat teslim olmayan şahıs evde kendisini vurdu",
-  "trabzonda sel ve heyelan dere taştı evleri su bastı yollar kapandı",
-  "kış geldi meteorolojiden 20 ile peş peşe uyarı",
-  "abdde korkutan bekleyiş zehirli bulut endişesi nedeniyle nasa devrede halka tahliye çağrısı yapıldı",
-  "sarıyerin aslanı",
   "antalyada traktör şarampole devrildi 1 ölü",
   "murat başoğlu gözaltına alındı yunanistanda yaptığı iş ortaya çıktı",
   "kurtulmuş detayları paylaştı terörsüz türkiye izleme komisyonu nasıl işleyecek",
@@ -3692,6 +3687,11 @@
   "kamu alacakları için gecikme zammı oranı düşürüldü",
   "berfu yenenler hastanelik oldu serumlu paylaşım yaptı",
   "cuma hutbesi paylaşıldı 27 kasım 2026 hutbe konusu ve metni",
-  "erzincanda 15 bin adet kaçak makaron ele geçirildi"
+  "erzincanda 15 bin adet kaçak makaron ele geçirildi",
+  "özgür özel terörsüz türkiye meselesinde neden sürekli zikzak çiziyor sorusunun cevabı",
+  "bursada yem fabrikasında büyük yangın",
+  "orduda alkollü sürücünün çarptığı 2 lise öğrencisi yaralandı",
+  "kamu alacaklarında gecikme zammı oranı ve tecil faizi düşürüldü",
+  "zigana dağında gün batımı kar ve sis görsel şölen oluşturdu"
  ]
 }
