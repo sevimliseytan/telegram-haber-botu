@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/izmirde-sifa-vaadiyle-dolandiriciliga-4-tutuklama-h1585661",
-   "https://www.ensonhaber.com/anadolu-efes-baskoniaya-maglup-oldu-34088-h1585662",
    "https://www.ensonhaber.com/sampiyonlar-liginde-sonuclar-ve-gorunum-h1585663",
    "https://www.ensonhaber.com/ergin-atamandan-italya-maci-yorumu-h1585664",
    "https://www.ensonhaber.com/arda-turan-fenerbahceyi-tebrik-ediyorum-h1585665",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/hatayda-devlet-benim-dedi-sehitlere-kufretti-ters-kelepceyle-gozaltina-alindi-h1586153",
    "https://www.ensonhaber.com/cinde-duzenlenen-universite-giris-sinavindan-goruntuler-viral-oldu-h1586154",
    "https://www.ensonhaber.com/unlu-markanin-kahveleri-toksik-cikti-ucreti-iade-edilecek-h1586155",
-   "https://www.ensonhaber.com/boluda-domuz-avinda-kazara-vuruldugu-iddiasi-5-kisi-gozaltinda-h1586156"
+   "https://www.ensonhaber.com/boluda-domuz-avinda-kazara-vuruldugu-iddiasi-5-kisi-gozaltinda-h1586156",
+   "https://www.ensonhaber.com/donald-trump-irak-basbakaninin-devlet-otoritesini-koruma-cabasini-destekliyorum-h1586157",
+   "https://www.ensonhaber.com/eskisehirde-aracta-sikisan-surucu-kurtarildi-h1586158"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679859-bu-kermes-cok-farkli-eski-bagimlilar-kurtulus-arayan-bagimlilar-icin-gonullu-calisiyor",
    "https://www.haber7.com/dunya/haber/3679860-mossadin-eski-baskani-almanyada-protesto-edildi-savas-suclususun-diye-bagirdi",
    "https://www.haber7.com/dunya/haber/3679861-israilin-yeni-meclisinden-ezan-karari-ben-gvir-salondan-atildi-cilgina-donduler",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-shakhtar-donetsk-fenerbahce-ilk-11ler",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/3sayfa/haber/3680309-istanbulda-173-kilo-metamfetamin-ele-gecirildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680311-turk-rus-20-donem-kek-protokolu-imzalandi",
    "https://spor.haber7.com/trabzonspor/haber/3680312-bulgar-basini-trabzonsporu-konusuyor-salah-ve-arkadaslari-mahvetti",
-   "https://www.haber7.com/guncel/haber/3680313-5-arkadasin-domuz-avi-kotu-sonla-bitti-1-olu"
+   "https://www.haber7.com/guncel/haber/3680313-5-arkadasin-domuz-avi-kotu-sonla-bitti-1-olu",
+   "https://www.haber7.com/siyaset/haber/3680314-hikmet-cetinin-cenazesinde-dikkat-ceken-anlar-parti-liderleri-yan-yana"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1863,7 +1863,8 @@
    "https://www.mynet.com/magazin/adli-kontrolle-serbest-kaldi-ozcan-deniz-den-ilk-aciklama-geldi-130100607783",
    "https://www.mynet.com/magazin/halk-tv-operasyonunda-yeni-dalga-ece-uner-deniz-bayramoglu-ve-kursat-oguz-icin-gozalti-karari-130100607789",
    "https://www.mynet.com/magazin/canli-yayina-baglandi-blok3-sandilar-gercek-baska-cikti-130100607795",
-   "https://www.mynet.com/magazin/tuzlu-kahve-ye-mike-tyson-konuk-oluyor-130100607804"
+   "https://www.mynet.com/magazin/tuzlu-kahve-ye-mike-tyson-konuk-oluyor-130100607804",
+   "https://www.mynet.com/magazin/sener-usumezsoy-esra-ezmeci-nin-ayak-bileklerini-inceledi-sosyal-medya-onlari-konusuyor-130100607807"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2222,17 +2223,11 @@
    "https://www.turkiyehaberajansi.com/sayin-valim-edirne-sizi-unutmayacak/131944/",
    "https://www.turkiyehaberajansi.com/vali-simsek-onceligimiz-can-ve-mal-guvenligi-ile-guvenli-ulasim/131945/",
    "https://www.turkiyehaberajansi.com/emekli-polislere-evlerinde-vefa-ziyareti/131946/",
-   "https://www.turkiyehaberajansi.com/bir-kitap-bir-umut-bir-sehide-vefa/131947/"
+   "https://www.turkiyehaberajansi.com/bir-kitap-bir-umut-bir-sehide-vefa/131947/",
+   "https://www.turkiyehaberajansi.com/narkotik-oykuler-kitabi-icin-tesekkur/131948/"
   ]
  },
  "recent_titles": [
-  "antalyada yine yaşlılar hedef alındı tek yalanla 2 milyon tl vurgun 5 gözaltı",
-  "ankarada metro istasyonunda",
-  "tbmm başkanı kurtulmuş fonla alakası olmayıp borsada para kaybeden var",
-  "zonguldakın tarihi varagel tüneli sanayi mirasını doğal güzelliklerle buluşturuyor",
-  "özgür özel parti meclisi ve ydk üyeleriyle anıtkabiri ziyaret etti",
-  "kadına şiddete hayir mesajları 2026 kadına şiddetle mücadele günü sözleri",
-  "akın gürlek imralı heyeti üyeleriyle görüştü",
   "istanbulda trafik magandası dehşeti hem suçlu hem güçlü",
   "kredi kartı sahipleri dikkat 1 ay sonra hepsi sıfırlanacak",
   "istanbulda yabancı basına silahlı röportaj veren çeteye operasyon 9 gözaltı",
@@ -3725,6 +3720,13 @@
   "çinde düzenlenen üniversite giriş sınavından görüntüler viral oldu",
   "ünlü markanın kahveleri toksik çıktı ücreti iade edilecek",
   "boluda domuz avında kazara vurulduğu iddiası 5 kişi gözaltında",
-  "donald trump irak başbakanının devlet otoritesini koruma çabasını destekliyorum"
+  "donald trump irak başbakanının devlet otoritesini koruma çabasını destekliyorum",
+  "hikmet çetinin cenazesinde dikkat çeken anlar parti liderleri yan yana",
+  "eskişehirde araçta sıkışan sürücü kurtarıldı",
+  "2026 steam ödülleri adaylıkları başladı son 10 yılın en iyi oyunu da seçilecek",
+  "emlak katılım katılımevim birevim ve iktisat katılım bankasını bünyesine kattı",
+  "şener üşümezsoy esra ezmecinin ayak bileklerini inceledi sosyal medya onları konuşuyor",
+  "ufuk beydemirden yoğun bakım paylaşımı kızı ruby ile ilk kare",
+  "narkotik öyküler kitabı için teşekkür"
  ]
 }
