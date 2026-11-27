@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ran-kozuch-besiktas-cok-kaliteli-bir-takim-h1585617",
-   "https://www.ensonhaber.com/turkiye-libya-deniz-yetki-anlasmasi-libya-resmi-gazetesinde-yayinlandi-h1585618",
    "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-9-supheli-icin-adli-kontrol-talebi-h1585619",
    "https://www.ensonhaber.com/fenerbahcede-divine-ngah-manga-ameliyat-edildi-h1585620",
    "https://www.ensonhaber.com/nagehan-alci-fatma-betul-sayan-kayanin-tahliye-edilme-sebebini-acikladi-h1585621",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kasim-ayi-dogum-yardimlari-annelerin-hesaplarina-yatirildi-h1586109",
    "https://www.ensonhaber.com/hikmet-cetin-icin-tbmmde-toren-siyasi-parti-liderleri-yan-yana-h1586110",
    "https://www.ensonhaber.com/ingilterede-savas-alarmi-usler-korumaya-alindi-eski-askerlere-cagri-yapildi-h1586111",
-   "https://www.ensonhaber.com/zelenskyden-trumpa-tepki-putin-bir-katil-arkadas-olamaz-h1586112"
+   "https://www.ensonhaber.com/zelenskyden-trumpa-tepki-putin-bir-katil-arkadas-olamaz-h1586112",
+   "https://www.ensonhaber.com/volvo-otomobil-uretiminde-insansi-robotlari-test-etmeye-basladi-h1586113",
+   "https://www.ensonhaber.com/ermenistan-turkiye-sinirindaki-rus-muhafizlari-cekme-hazirliginda-h1586114"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679821-almanyada-asiri-sag-vakasi-3-cocuk-gozaltinda",
-   "https://www.haber7.com/3sayfa/haber/3679820-kaza-sonrasi-kacan-surucuye-400-bin-tl-ceza",
    "https://www.haber7.com/gaziantep/3679819-buyuksehirden-gaziantepte-iz-birakanlar-sergisi-acildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679822-shein-abddeki-dava-icin-100-milyon-dolar-verecek",
    "https://www.haber7.com/bursa/3679823-bursada-ogretmenler-ayni-sofrada-bulustu",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/dunya/haber/3680269-irandan-abd-f-16sina-hurmuz-bogazinda-uyari-atesi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680270-tcmb-fon-krizinin-finansal-istikrara-etkilerini-izleyecegiz",
    "https://www.haber7.com/dunya/haber/3680271-israil-turkiyenin-6-hamlesini-mercek-altina-aldi-turk-pencesi-kiyilarda",
-   "https://www.haber7.com/guncel/haber/3680272-tbmm-baskani-kurtulmus-mikta-12-parlamento-baskanlari-toplantisinda-konustu"
+   "https://www.haber7.com/guncel/haber/3680272-tbmm-baskani-kurtulmus-mikta-12-parlamento-baskanlari-toplantisinda-konustu",
+   "https://www.haber7.com/guncel/haber/3680273-japonyadan-fatma-sahine-buyuk-onur-imparator-onayladi-nisan-takildi",
+   "https://www.haber7.com/guncel/haber/3680274-internette-gordugu-videoyla-basladi-16-yilda-3-bin-eser-ortaya-cikardi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2208,12 +2208,6 @@
   ]
  },
  "recent_titles": [
-  "trabzonda şiddetli yağış sonrası istinat duvarı araçların üzerine çöktü",
-  "istanbul havalimanında 2 iranlı kıyafetlere emdirilmiş şekilde 20 kilo uyuşturucuyla yakalandı",
-  "emine erdoğan kadına yönelik şiddet bütün insanlığı yaralıyor",
-  "ardahanda kar ve buzlanma iki kara yolu ağır tonajlı araçlara kapatıldı",
-  "elazığda 20 dakikada satıldı 180200 bin tl değerinde",
-  "konyada karşı şeride geçen araç ortalığı savaş alanına çevirdi",
   "dizisi erken final yapmıştı ayça bingöl ekrana dönüyor",
   "denizlide kavga ihbarı üzerine gidilen evde bir kişi ölü bulundu",
   "herkes arda güleri konuşuyor maç biter bitmez açıklama geldi",
@@ -3707,6 +3701,12 @@
   "tbmm başkanı kurtulmuş mikta 12 parlamento başkanları toplantısında konuştu",
   "japonyadan fatma şahine büyük onur imparator onayladı nişan takıldı",
   "zelenskyden trumpa tepki putin bir katil arkadaş olamaz",
-  "volvo otomobil üretiminde insansı robotları test etmeye başladı"
+  "volvo otomobil üretiminde insansı robotları test etmeye başladı",
+  "internette gördüğü videoyla başladı 16 yılda 3 bin eser ortaya çıkardı",
+  "gürcü makamlardan rezalete skandal savunma bütün suçu taraftarlarımıza attılar",
+  "ermenistan türkiye sınırındaki rus muhafızları çekme hazırlığında",
+  "hatayda zimem defteri geleneğini yaşatan öğrenciler harçlıklarıyla mahallenin borçlarını ödediler",
+  "emekli aylıklarının iyileştirilmesine yönelik düzenleme yolda",
+  "uydudan tespit edildi kazınca ortaya çıktı 2 bin 600 yıl saklı kalmış"
  ]
 }
