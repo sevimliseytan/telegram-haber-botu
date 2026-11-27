@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/erzurumda-etkili-olan-kar-kartpostallik-goruntu-olusturdu-h1585747",
-   "https://www.ensonhaber.com/istanbuldaki-feminist-yuruyusunde-kahrolsun-seriat-yasasin-laiklik-slogani-atildi-h1585748",
    "https://www.ensonhaber.com/sampiyonlar-liginde-tarihi-derbi-ihtimali-galatasaray-ile-fenerbahce-eslesebilir-h1585749",
    "https://www.ensonhaber.com/sehitlerimiz-son-yolculuklarina-ugurlaniyor-h1585750",
    "https://www.ensonhaber.com/burcu-ozberk-ve-deniz-cakirin-ifadesi-ortaya-cikti-h1585751",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/samsunda-gazetecilere-gulerek-ben-oldurdum-diyen-saniktan-mahkemede-ilginc-savunma-h1586239",
    "https://www.ensonhaber.com/noel-babanin-sehri-antalyada-9-ulkeli-festival-h1586240",
    "https://www.ensonhaber.com/mustafa-sarigule-yeni-cinsel-saldiri-sorusturmasi-dosya-ankaraya-gonderildi-h1586241",
-   "https://www.ensonhaber.com/boluda-polis-denetiminde-kacak-gocmen-yakalandi-h1586242"
+   "https://www.ensonhaber.com/boluda-polis-denetiminde-kacak-gocmen-yakalandi-h1586242",
+   "https://www.ensonhaber.com/belcikali-yayincilardan-kitaplara-yapay-zekasiz-etiketi-onerisi-h1586243",
+   "https://www.ensonhaber.com/adiyamanda-konteyner-kentler-kaldiriliyor-h1586244"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2256,7 +2256,6 @@
   ]
  },
  "recent_titles": [
-  "istanbul havalimanı avrupanın zirvesinde",
   "avrupa sanayisinde alarm 37 milyon kişinin işi tehlikede",
   "16 öğrenci gıda zehirlenmesi nedeniyle hastaneye kaldırıldı",
   "cumhurbaşkanı erdoğan mareşal halife hafteri kabul etti",
@@ -3755,6 +3754,7 @@
   "süper lig devleriyle anılıyordu real madrid brahim diazın sözleşmesini uzattı",
   "mustafa sarıgüle yeni cinsel saldırı soruşturması dosya ankaraya gönderildi",
   "boluda polis denetiminde kaçak göçmen yakalandı",
-  "belçikalı yayıncılardan kitaplara yapay zekasız etiketi önerisi"
+  "belçikalı yayıncılardan kitaplara yapay zekasız etiketi önerisi",
+  "adıyamanda konteyner kentler kaldırılıyor"
  ]
 }
