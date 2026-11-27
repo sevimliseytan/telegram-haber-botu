@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/emre-belozoglu-oyunculara-guvenmeliyiz-h1585669",
-   "https://www.ensonhaber.com/istanbulda-villaya-operasyon-536-kok-hint-keneviri-ele-gecirildi-h1585670",
-   "https://www.ensonhaber.com/fenerbahce-devler-liginde-22-yil-sonra-deplasmanda-kazandi-h1585671",
    "https://www.ensonhaber.com/aydinda-uyusturucu-operasyonu-5-tutuklama-h1585672",
    "https://www.ensonhaber.com/israil-basinindan-celik-kubbe-itirafi-demir-kubbeden-daha-ustun-h1585673",
    "https://www.ensonhaber.com/corumda-iki-is-yerine-tufekli-saldiri-h1585674",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/aydinda-cami-duvarina-tehditler-yazan-15-yasindaki-supheli-gozaltinda-h1586161",
    "https://www.ensonhaber.com/kibrit-kutularini-biriktirmeye-baslayin-evde-cok-isinize-yarayacak-h1586162",
    "https://www.ensonhaber.com/erzurumda-internette-gordugu-videoyla-basladigi-sanatin-miras-tasiyicisi-oldu-h1586163",
-   "https://www.ensonhaber.com/edirnede-kokorec-tezgahinda-uyusturucu-ele-gecirildi-h1586164"
+   "https://www.ensonhaber.com/edirnede-kokorec-tezgahinda-uyusturucu-ele-gecirildi-h1586164",
+   "https://www.ensonhaber.com/batmanda-22-yasindaki-genc-parkta-olu-bulundu-h1586165",
+   "https://www.ensonhaber.com/marsilya-taraftarlari-rakip-tribunu-basip-kemerlerle-saldirdi-kadin-cocuk-ayirmadilar-h1586166",
+   "https://www.ensonhaber.com/the-economist-insansi-robotlar-dunyayi-degistirecek-h1586167"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679863-yenidogan-cetesi-savcisi-yavuz-enginin-yeni-adresi-belli-oldu-iste-atandigi-gorev-yeri",
    "https://ekonomi.haber7.com/ekonomi/haber/3679864-ureticilere-hasada-ara-verin-cagrisi",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679846-arda-guler-dunya-yildizlarini-solladi-devler-liginin-en-degerli-10-numaralari-aciklandi",
    "https://spor.haber7.com/trabzonspor/haber/3679865-thomas-reis-konferans-ligindeki-hedeflerini-acikladi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/siyaset/haber/3680314-hikmet-cetinin-cenazesinde-dikkat-ceken-anlar-parti-liderleri-yan-yana",
    "https://www.haber7.com/dunya/haber/3680315-trumptan-son-dakika-irak-aciklamasi-destekliyorum",
    "https://spor.haber7.com/besiktas/haber/3680316-batumda-yeni-kriz-350-turk-vatandasi-havalimaninda-bekletiliyor-sebebi-israilliler",
-   "https://www.haber7.com/guncel/haber/3680317-izmirde-depremi-buyuten-tehlike-uzman-isim-4-ilceyi-tek-tek-uyardi"
+   "https://www.haber7.com/guncel/haber/3680317-izmirde-depremi-buyuten-tehlike-uzman-isim-4-ilceyi-tek-tek-uyardi",
+   "https://www.haber7.com/teknoloji/haber/3680320-200-mp-kamerali-oppo-find-x10-turkiyede-satisa-cikti-iste-one-cikan-ozellikleri"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2199,7 +2199,8 @@
    "https://anlatilaninotesi.com.tr/20261127/tur-sirketlerinden-tepki-gurcistan-turlari-iptal-ediliyor-1110638198.html",
    "https://anlatilaninotesi.com.tr/20261127/evrensel-muhabiri-nisa-sude-demirel-14-yasindaki-mahmutun-oldugu-otoparkin-fisi-hl-ismailagaya-1110638929.html",
    "https://anlatilaninotesi.com.tr/20261127/trumpin-51-eyalet-soylemini-desteklemisti-kanada-abd-buyukelcisinin-sinir-disi-edilmesi-icin-290-1110639623.html",
-   "https://anlatilaninotesi.com.tr/20261127/yapay-zekada-baslayan-soguk-savasin-uc-ayagi-var-en-buyuk-acmaz-enerjide-1110639813.html"
+   "https://anlatilaninotesi.com.tr/20261127/yapay-zekada-baslayan-soguk-savasin-uc-ayagi-var-en-buyuk-acmaz-enerjide-1110639813.html",
+   "https://anlatilaninotesi.com.tr/20261127/emlak-katilim-katilimevim-birevim-ve-iktisat-katilim-bankasini-bunyesine-dahil-etti-1110639490.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2231,9 +2232,6 @@
   ]
  },
  "recent_titles": [
-  "özgür özelin a takımı belli oldu işte yeni partinin 28 kişilik kadrosu",
-  "11 bin kilometre ötede türk imzası ankarayı önemli bir güç olarak tanıma zamanı geldi",
-  "gol vuruşunda burnuna darbe almıştı galatasaraydan deniz gül açıklaması",
   "libyadaki kritik karar sonrası hafterden ankaraya ilk resmi ziyaret",
   "fenerbahçe şampiyonlar liginde son 3 maça 3 farklı hocayla çıkacak",
   "rusya savunma bakanlığı son 24 saatte 863 ukrayna ihası düşürüldü",
@@ -3730,6 +3728,9 @@
   "edirnede kokoreç tezgahında uyuşturucu ele geçirildi",
   "batmanda 22 yaşındaki genç parkta ölü bulundu",
   "marsilya taraftarları rakip tribünü basıp kemerlerle saldırdı kadın çocuk ayırmadılar",
-  "yapay zekada başlayan soğuk savaşın üç ayağı var en büyük açmaz enerjide"
+  "yapay zekada başlayan soğuk savaşın üç ayağı var en büyük açmaz enerjide",
+  "200 mp kameralı oppo find x10 türkiyede satışa çıktı işte öne çıkan özellikleri",
+  "resmi açıklama geldi beşiktaşın uçağı kalkamıyor",
+  "the economist insansı robotlar dünyayı değiştirecek"
  ]
 }
