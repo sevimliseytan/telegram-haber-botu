@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3680015-besiktaslilari-uzecek-gelisme-dusan-vlahovice-aklini-celecek-talip-cikti",
    "https://www.haber7.com/dunya/haber/3680016-son-dakika-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
    "https://ekonomi.haber7.com/ekonomi/haber/3680017-kuresel-firtinaya-ragmen-turk-lirasina-yabanci-ilgisi-suruyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680018-komsuya-turkiyeden-kesintisiz-elektrik-hamlesi-500-megavatlik-kapasiteye-cikilacak",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/super-lig/haber/3680448-ilhan-palut-artik-bir-seri-yakalamamiz-gerekiyor",
    "https://spor.haber7.com/super-lig/haber/3680449-recep-ucardan-zaferin-ardindan-galatasaray-sozleri",
    "https://www.haber7.com/hayat/haber/3680450-12-gundur-hastanedeydi-yavuz-bingolun-saglik-durumuna-iliskin-esinden-aciklama",
-   "https://spor.haber7.com/super-lig/haber/3680451-alfred-schreuder-birazcik-sanssiziz"
+   "https://spor.haber7.com/super-lig/haber/3680451-alfred-schreuder-birazcik-sanssiziz",
+   "https://www.haber7.com/guncel/haber/3680452-kartal-belediyesine-yonelik-sorusturmada-yeni-gelisme-10-tutuklama"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2248,7 +2248,8 @@
    "https://anlatilaninotesi.com.tr/20261127/yeni-parti-genel-baskani-ozelden-cumhurbaskani-adayi-aciklamasi-1110651778.html",
    "https://anlatilaninotesi.com.tr/20261127/ingiliz-general-carter-rusyaya-karsi-baltik-ulkeleri-askeri-kirpiye-donusturulmeli-1110652040.html",
    "https://anlatilaninotesi.com.tr/20261127/denizlide-evinde-bagli-halde-olu-bulunmustu-darp-edilip-boguldugu-ortaya-cikti-3-kisi-tutuklandi-1110652370.html",
-   "https://anlatilaninotesi.com.tr/20261127/boluda-10-cocuk-ve-3-personeli-tasiyan-aracla-irtibat-kesildi-1110652544.html"
+   "https://anlatilaninotesi.com.tr/20261127/boluda-10-cocuk-ve-3-personeli-tasiyan-aracla-irtibat-kesildi-1110652544.html",
+   "https://anlatilaninotesi.com.tr/20261128/fransada-cumhurbaskani-adayi-melenchondan-almanyaya-cagri-rusyaya-karsi-tonu-yumusatin-1110653367.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2280,8 +2281,6 @@
   ]
  },
  "recent_titles": [
-  "türkiyeden riyada saldıran husilere sert tepki",
-  "fenerbahçede divine ngah manga ameliyat edildi",
   "nagehan alçı fatma betül sayan kayanın tahliye edilme sebebini açıkladı",
   "ünlülere uyuşturucu operasyonu özcan deniz burcu özberk murat başoğlu ve deniz çakır da dahil 9 kişiye adli kontrol talebi",
   "25 kasım kadına yönelik şiddete karşı uluslararası mücadele gününde kadınlar taksim tünelde yürüyor",
@@ -3779,6 +3778,8 @@
   "recep uçardan zaferin ardından galatasaray sözleri",
   "12 gündür hastanedeydi yavuz bingölün sağlık durumuna ilişkin eşinden açıklama",
   "istanbul küçükçekmecede evde yaşanan patlamada 1 kişi yaralandı",
-  "alfred schreuder birazcık şanssızız"
+  "alfred schreuder birazcık şanssızız",
+  "kartal belediyesine yönelik soruşturmada yeni gelişme 10 tutuklama",
+  "fransada cumhurbaşkanı adayı melenchondan almanyaya çağrı rusyaya karşı tonu yumuşatın"
  ]
 }
