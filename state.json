@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/isvicre-turkiye-ekonomi-forumu-20nci-yilinda-h1585765",
    "https://www.ensonhaber.com/abdde-federal-yargic-trumpin-dogustan-vatandasligi-kisitlamaya-yonelik-yeni-kararnamelerin-h1585766",
    "https://www.ensonhaber.com/istanbulda-aracini-onune-kirdi-tepki-gosteren-sofore-saldirdi-h1585767",
    "https://www.ensonhaber.com/yeni-katlanabilir-telefon-huawei-mate-x8-tanitildi-iste-fiyati-ve-ozellikleri-h1585768",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/unlulere-uyusturucu-sorusturmasi-test-sonuclari-belli-oldu-h1586257",
    "https://www.ensonhaber.com/4-ibb-meclis-uyesi-daha-ak-partiye-katildi-h1586258",
    "https://www.ensonhaber.com/2027-butcesi-tbmmde-komisyondan-gecti-h1586259",
-   "https://www.ensonhaber.com/ozgur-ozel-cumhurbaskani-adayligina-iliskin-4-araliki-isaret-etti-h1586260"
+   "https://www.ensonhaber.com/ozgur-ozel-cumhurbaskani-adayligina-iliskin-4-araliki-isaret-etti-h1586260",
+   "https://www.ensonhaber.com/edirnede-kapikule-karsisindaki-gumruk-kapisinda-tirda-34-bin-sterlin-ele-gecirildi-h1586261"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679980-polonya-cumhurbaskanligi-sarayi-karsisinda-korkunc-olay-kendini-yakti",
-   "https://www.haber7.com/teknoloji/haber/3679981-ankaranin-sifir-taviz-politikasi-nakis-gibi-isledi-discord-sessiz-sedasiz-geri-adim-atti",
    "https://www.haber7.com/dunya/haber/3679982-cezayirde-korkunc-kaza-12-kisi-hayatini-kaybetti",
    "https://spor.haber7.com/galatasaray/haber/3679970-olcumu-amerikalilar-yapti-rams-parkin-desibeli-agizlari-acik-biraktirdi",
    "https://www.haber7.com/seyahat/haber/3679983-yukaridan-bakan-goz-saniyor-tokatin-doga-harikasi-adali-gol-sonbaharda-da-ilgi-goruyor",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/basketbol/haber/3680432-ergin-atamandan-fransizlarin-irkcilik-iddiasina-cok-sert-cevap",
    "https://www.haber7.com/guncel/haber/3680433-siz-evdeyken-yildirim-duserse-oncesinde-ve-sonrasinda-ne-yapilmali",
    "https://www.haber7.com/guncel/haber/3680434-erdoganin-hocasi-kemal-efendi-vefat-etti-sagliginda-anlattigi-kissa-yeniden-gundem-oldu",
-   "https://www.haber7.com/guncel/haber/3680435-unesconun-edebiyat-sehri-kahramanmaras-16-ulkeyi-kultur-ve-edebiyatla-bulusturdu"
+   "https://www.haber7.com/guncel/haber/3680435-unesconun-edebiyat-sehri-kahramanmaras-16-ulkeyi-kultur-ve-edebiyatla-bulusturdu",
+   "https://www.haber7.com/guncel/haber/3680434-erdoganin-hocasi-kemal-hut-efendinin-sagliginda-anlattigi-kissa-yeniden-gundem-oldu",
+   "https://www.haber7.com/guncel/haber/3680436-alman-kanalina-roportaj-verenler-icin-hesap-vakti-sovlari-ellerinde-patladi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2276,9 +2276,6 @@
   ]
  },
  "recent_titles": [
-  "bakan memişoğlu çin büyükelçisi xuebin ile bir araya geldi",
-  "eskişehirde 9 yıl sonra gelen acı tesadüf",
-  "a milli basketbol takımı italya karşısında resmi maçlardaki 3 galibiyeti istiyor",
   "gaziantep basketbolda sistem şampiyonluğa kuruldu",
   "trabzonspor avrupa kupalarında 161 maçına çıkacak",
   "beşiktaş hapoel beersheva maçına hazır",
@@ -3775,6 +3772,9 @@
   "2027 bütçesi tbmmde komisyondan geçti",
   "unesconun edebiyat şehri kahramanmaraş 16 ülkeyi kültür ve edebiyatla buluşturdu",
   "özgür özel cumhurbaşkanı adaylığına ilişkin 4 aralıkı işaret etti",
-  "berlinde amazon deposu önünde eylem filistin destekçileri girişi kapattı"
+  "berlinde amazon deposu önünde eylem filistin destekçileri girişi kapattı",
+  "alman kanalına röportaj verenler için hesap vakti şovları ellerinde patladı",
+  "süper ligde nefes kesen düello 5 gollü düelloda 902de muhteşem geri dönüş",
+  "edirnede kapıkule karşısındaki gümrük kapısında tırda 34 bin sterlin ele geçirildi"
  ]
 }
