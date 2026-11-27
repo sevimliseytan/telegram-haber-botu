@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktasin-hapoel-beer-sheva-maci-kamp-kadrosu-belli-oldu-h1585522",
    "https://www.ensonhaber.com/baligin-cope-atilan-kismini-kurutup-satiyorlar-ayda-55-milyon-tl-ciro-yapiyorlar-h1585523",
    "https://www.ensonhaber.com/galatasaray-ali-sansalani-etik-kuruluna-sikayet-edecek-h1585524",
    "https://www.ensonhaber.com/bursada-minibus-ile-kamyonet-carpisti-1i-hamile-4-yarali-h1585525",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/mekke-anlasmasi-onaylandi-resmi-gazetede-yayimlandi-h1586014",
    "https://www.ensonhaber.com/kayseride-haber-alinamayan-adam-olu-bulundu-h1586015",
    "https://www.ensonhaber.com/corumda-ayni-is-yeri-ikinci-kez-kursunlandi-1-yarali-h1586016",
-   "https://www.ensonhaber.com/zonguldakta-maden-ocaginda-is-kazasi-2-yarali-h1586017"
+   "https://www.ensonhaber.com/zonguldakta-maden-ocaginda-is-kazasi-2-yarali-h1586017",
+   "https://www.ensonhaber.com/igdirda-iki-aile-arasinda-kavga-5-yarali-h1586018"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2180,7 +2180,6 @@
   ]
  },
  "recent_titles": [
-  "libya uluslararası adalet divanında ukraynaya dava açmaya hazırlanıyor",
   "ankara büyükşehir belediyesinin 2027 bütçesi 278 milyar lira olarak kabul edildi",
   "bertuğ yıldırım maç sonrası aslan itirafında bulundu ben jandarmalarla konuştum",
   "emre mor futbola ara verdiğini açıkladı",
@@ -3679,6 +3678,7 @@
   "kayseride haber alınamayan adam ölü bulundu",
   "gürcistan içişleri bakanlığı filistin bayrağı açtıkları için taraftara müdahale edildiğine dair bilgileri reddediyoruz",
   "çorumda aynı iş yeri ikinci kez kurşunlandı 1 yaralı",
-  "zonguldakta maden ocağında iş kazası 2 yaralı"
+  "zonguldakta maden ocağında iş kazası 2 yaralı",
+  "iğdırda iki aile arasında kavga 5 yaralı"
  ]
 }
