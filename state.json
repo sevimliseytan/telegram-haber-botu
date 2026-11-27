@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-yabanci-uyruklu-kisilerin-bicakli-kavgasi-kanli-bitti-h1585758",
    "https://www.ensonhaber.com/7-bin-plastik-siseyi-bir-araya-getirip-karavan-yaptilar-icinde-yok-yok-h1585759",
    "https://www.ensonhaber.com/tokatin-39-tarihi-igne-oyasi-cografi-isaretle-koruma-altina-alindi-h1585760",
    "https://www.ensonhaber.com/avrupa-birligi-2-trilyon-euroluk-butce-gorusmelerine-basliyor-h1585761",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/filistinli-cocuklardan-besiktasa-tesekkur-mesaji-h1586250",
    "https://www.ensonhaber.com/tamir-hizmetlerinde-yaniltici-reklam-yapan-firmaya-1-milyon-tlyi-askin-ceza-h1586251",
    "https://www.ensonhaber.com/alihan-kuris-suc-orgutune-yonelik-operasyonda-18-kisi-tutuklandi-h1586252",
-   "https://www.ensonhaber.com/mekke-ortak-savunma-anlasmasi-komitesi-islamabadda-toplandi-h1586253"
+   "https://www.ensonhaber.com/mekke-ortak-savunma-anlasmasi-komitesi-islamabadda-toplandi-h1586253",
+   "https://www.ensonhaber.com/irak-turkiye-petrol-boru-hatti-yeniden-faaliyete-gececek-h1586254"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679959-uefanin-cifte-standardi-besiktas-kafilesine-kabusu-yasatti",
    "https://www.haber7.com/medya/haber/3679958-nisanlilikta-uyum-beklentiler-ve-gelenekler-ulkede-hayatta-ele-alinacak",
    "https://www.haber7.com/guncel/haber/3679960-unlu-dj-burak-yeter-gozaltina-alindi",
    "https://www.haber7.com/guncel/haber/3679961-cumhurbaskani-erdogandan-eskisehirde-sehit-olan-askerler-icin-taziye-mesaji",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680413-mekke-ortak-savunma-ittifaki-toplandi-turkiye-pakistan-ve-suudi-arabistan-ayni-masada",
    "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-sevinci-gazzede-duvara-cizildi",
    "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-mesaji-gazzede-duvara-cizildi",
-   "https://www.haber7.com/guncel/haber/3680415-ankarada-alihan-kuris-operasyonu-18-kisi-tutuklandi"
+   "https://www.haber7.com/guncel/haber/3680415-ankarada-alihan-kuris-operasyonu-18-kisi-tutuklandi",
+   "https://www.haber7.com/teknoloji/haber/3680416-turk-deniz-kuvvetlerinin-amfibi-gucune-yeni-katki-zaha-gemiden-denize-indirildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2268,8 +2268,6 @@
   ]
  },
  "recent_titles": [
-  "bilim insanları insan kulağının sandığımızdan çok farklı çalıştığını keşfetti",
-  "altının onsu abd enflasyon verisi sonrası 3 bin 500 doların altına indi",
   "ardahanda kar yağışı etkisini sürdürüyor",
   "motosiklet sürücüsünün zor anları karton az kalsın kazaya neden oluyordu",
   "beşiktaşta uçak krizi batuma inemediler alternatif rota gündemde",
@@ -3767,6 +3765,8 @@
   "mekke ortak savunma anlaşması komitesi islamabadda toplandı",
   "ünlülere uyuşturucu soruşturması 3 ismin testi pozitif çıktı",
   "islamabadda mekke anlaşması toplantısı bakan fidan pakistanlı mevkidaşı dar ile görüştü",
-  "ankarada alihan kuriş operasyonu 18 kişi tutuklandı"
+  "ankarada alihan kuriş operasyonu 18 kişi tutuklandı",
+  "türk deniz kuvvetlerinin amfibi gücüne yeni katkı zaha gemiden denize indirildi",
+  "iraktürkiye petrol boru hattı yeniden faaliyete geçecek"
  ]
 }
