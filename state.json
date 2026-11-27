@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/futbol/haber/3679880-hakem-maca-alkollu-cikti-iddiasi-milli-yildiza-gosterdigi-kart-gundem-oldu",
-   "https://www.haber7.com/guncel/haber/3679881-kayseride-torbacilara-dron-destekli-operasyon-20-gozalti",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-londrada-zafer-fenerin-arda-turanin-shakhtarini-devirdi",
    "https://www.haber7.com/guncel/haber/3679882-sifa-vaadiyle-dolandiriciliga-4-tutuklama",
    "https://www.haber7.com/dunya/haber/3679883-99-yillik-market-kapaniyor-unlu-musterileri-bile-kurtaramadi",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680344-yaptigi-dedektiflik-degil-kamuoyunu-yaniltmak-goruntuler-eski-cikti",
    "https://spor.haber7.com/besiktas/haber/3680345-besiktas-derbisi-oncesi-galatasaraya-osimhen-mujdesi",
    "https://www.haber7.com/teknoloji/haber/3680318-trumptan-muska-dev-yetki-uzaya-kurulacak-1-milyon-uydu-icin-yesil-isik",
-   "https://www.haber7.com/guncel/haber/3680346-engelli-onuru-olduren-17-yasindaki-sanigin-cezasi-belli"
+   "https://www.haber7.com/guncel/haber/3680346-engelli-onuru-olduren-17-yasindaki-sanigin-cezasi-belli",
+   "https://www.haber7.com/guncel/haber/3680347-abdde-tarihi-kirilma-nbcnin-yayinladigi-israil-karsiti-reklam-dunya-gundemine-oturdu",
+   "https://www.haber7.com/biyografi/haber/3680349-kurra-hafiz-ali-kemal-hut-kimdir-nereli-kasimpasali-kemal-efendi-hayatini-kaybetti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1868,7 +1868,8 @@
    "https://www.mynet.com/magazin/ufuk-beydemir-den-yogun-bakim-paylasimi-kizi-ruby-ile-ilk-kare-130100607810",
    "https://www.mynet.com/magazin/demet-ozdemir-in-dugun-tarzi-cok-begenildi-arkasini-donunce-mest-etti-130100607813",
    "https://www.mynet.com/magazin/mesam-40-inci-yil-donumunu-kutladi-35-odul-sahiplerini-buldu-130100607816",
-   "https://www.mynet.com/magazin/ahmet-kaya-nin-ailesi-dava-acmisti-iki-gozum-ahmet-filmi-icin-mahkemeden-karar-cikti-130100607822"
+   "https://www.mynet.com/magazin/ahmet-kaya-nin-ailesi-dava-acmisti-iki-gozum-ahmet-filmi-icin-mahkemeden-karar-cikti-130100607822",
+   "https://www.mynet.com/magazin/cocuktan-al-haberi-nin-kutu-bebek-ebrar-i-sete-cikmaktan-vazgecmisti-now-tv-ile-anlasti-130100607819"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2244,9 +2245,6 @@
   ]
  },
  "recent_titles": [
-  "hapoel beersheva maçı öncesi şok gelişme beşiktaşın yıldızı kamp kadrosuna alınmadı",
-  "ne trabzon ne rize koçarinin vurulduğu yer bakın neresi çıktı",
-  "vanda evlilik başvurusu için sağlık raporu almaya gittikleri asmde doktor ve hemşire döven çift tutuklandı",
   "beşiktaşın hapoel beersheva maçı kamp kadrosu belli oldu",
   "balığın çöpe atılan kısmını kurutup satıyorlar ayda 55 milyon tl ciro yapıyorlar",
   "galatasaray ali şansalanı etik kuruluna şikayet edecek",
@@ -3743,6 +3741,9 @@
   "bursa ankara ve istanbula hızlı trenle bağlanıyor",
   "ahmet kayanın ailesi dava açmıştı iki gözüm ahmet filmi için mahkemeden karar çıktı",
   "çocuktan al haberinin kutu bebek ebrarı sete çıkmaktan vazgeçmişti now tv ile anlaştı",
-  "ege üniversitesinde kadın profesöre delici aletle saldırı saldırgan öğrenci çıktı"
+  "ege üniversitesinde kadın profesöre delici aletle saldırı saldırgan öğrenci çıktı",
+  "kurra hafız ali kemal hut kimdir nereli kasımpaşalı kemal efendi hayatını kaybetti",
+  "haliliyede 400 aileye ücretsiz kombi desteği sayı 1232ye ulaştı",
+  "sırbistanda öğrenci listesinin cumhurbaşkanı adayı belli oldu"
  ]
 }
