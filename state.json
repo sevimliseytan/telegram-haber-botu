@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktas-israil-ekipleriyle-8-kez-karsilasacak-h1585598",
-   "https://www.ensonhaber.com/a-milli-basketbol-takimi-italya-karsisinda-resmi-maclardaki-3-galibiyeti-istiyor-h1585599",
    "https://www.ensonhaber.com/gaziantep-basketbolda-sistem-sampiyonluga-kuruldu-h1585600",
    "https://www.ensonhaber.com/trabzonspor-avrupa-kupalarinda-161-macina-cikacak-h1585601",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macina-hazir-h1585602",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/donald-trump-iranla-savas-benim-istedigim-zamanda-bitecek-h1586090",
    "https://www.ensonhaber.com/izmirde-uyusturucu-saticilarina-sucustu-2-gozalti-h1586091",
    "https://www.ensonhaber.com/eskisehirde-parkta-pompali-tufekle-saldiri-7-kisi-gozaltinda-h1586092",
-   "https://www.ensonhaber.com/batmanda-suca-ozendirici-paylasimlara-operasyon-6-gozalti-h1586093"
+   "https://www.ensonhaber.com/batmanda-suca-ozendirici-paylasimlara-operasyon-6-gozalti-h1586093",
+   "https://www.ensonhaber.com/turkiyede-elektrikli-arac-sarj-istasyonu-sayisi-artiyor-h1586094",
+   "https://www.ensonhaber.com/besiktas-macindaki-olaylar-dunya-basininin-gundeminde-polis-mudahalesi-kabul-edilemez-h1586095"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679801-avrupa-sanayisinde-alarm-37-milyon-kisinin-isi-tehlikede",
    "https://www.haber7.com/guncel/haber/3679802-16-ogrenci-gida-zehirlenmesi-nedeniyle-hastaneye-kaldirildi",
    "https://www.haber7.com/denizli/3679803-denizlide-bir-ogretmen-adliye-onunde-bicaklandi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679804-abd-ekonomisi-yuzde-43-buyudu",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680251-bakan-uraloglu-tarih-verdi-bursanin-ulasiminda-yeni-donem",
    "https://www.haber7.com/3sayfa/haber/3680252-ayni-apartmanda-3-cocugun-supheli-olumu-20-yillik-sir-dosya-acildi-7-gozalti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680253-ekonomik-guven-kasim-ayinda-yukseldi",
-   "https://www.haber7.com/3sayfa/haber/3680252-adanada-sazan-sarmaliyla-35-milyon-tllik-vurgun-16-tutuklama"
+   "https://www.haber7.com/3sayfa/haber/3680252-adanada-sazan-sarmaliyla-35-milyon-tllik-vurgun-16-tutuklama",
+   "https://www.haber7.com/guncel/haber/3680232-son-dakika-halk-tv-sorusturmasinda-ece-uner-ve-deniz-bayramoglu-dahil-9-kisi-gozaltinda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2206,13 +2206,6 @@
   ]
  },
  "recent_titles": [
-  "borsa güne düşüşle başladı",
-  "kandil hakurk metina zap gara avaşinbasyan sinathaftanin",
-  "adanada eşi katledildi tehditler bitmedi",
-  "yoğun kar yağışı iki kara yolu bazı araçlara kapatıldı",
-  "iran yolcu uçağının vurulma anı ortaya çıktı",
-  "avrupa birliği hibrit otomobillere kota getirdi türkiye de listede",
-  "kar bastırdı türkiyenin dört bir yanı beyaza büründü",
   "1500 rakımda görsel şölen huzurlu yaylası sonbahar renklerine büründü",
   "bakan işıkhandan emekli maaşı açıklaması iyileştirme için çalışma yapıyoruz",
   "husilerden son dakika açıklaması petrol tesisi ve ekonomi şehrini hedef aldık",
@@ -3705,6 +3698,13 @@
   "her şeyden önce insanlık diyen ouattaradan filistin mesajı sözünü sakınmadı",
   "batmanda suça özendirici paylaşımlara operasyon 6 gözaltı",
   "türkiyede elektrikli araç şarj istasyonu sayısı artıyor",
-  "akom tarih verdi istanbula sibirya soğukları geliyor sıcaklıklar 10 derece birden düşecek"
+  "akom tarih verdi istanbula sibirya soğukları geliyor sıcaklıklar 10 derece birden düşecek",
+  "son dakika halk tv soruşturmasında ece üner ve deniz bayramoğlu dahil 9 kişi gözaltında",
+  "bitliste dereye devrilen otomobildeki 4 kişi yaralandı",
+  "eskişehirde pompalı tüfekli saldırı 7 şüpheli gözaltına alındı",
+  "son dakika süper lig ve 1 ligde yeni dönem tff yayın ihalesinin tarihini açıkladı",
+  "giresunun özel misafirlere sunulan lezzeti tavşan içi",
+  "hyundai ioniq 3 topgearcom ödüllerinde yılın küçük otomobili seçildi",
+  "beşiktaş maçındaki olaylar dünya basınının gündeminde polis müdahalesi kabul edilemez"
  ]
 }
