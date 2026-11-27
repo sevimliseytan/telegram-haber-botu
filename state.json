@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/arda-turan-ile-emre-belozoglunun-mucadelesi-tarihe-gecti-h1585649",
-   "https://www.ensonhaber.com/onder-ozenden-galatasaray-derbisi-aciklamasi-dezavantajimiz-var-h1585650",
    "https://www.ensonhaber.com/bati-avrupada-grev-fransa-ve-ingiltere-arasinda-hizli-tren-seferleri-iptal-edildi-h1585651",
    "https://www.ensonhaber.com/adanada-tartistigi-kisiyi-sokak-ortasinda-vurdu-h1585652",
    "https://www.ensonhaber.com/misirda-petrol-urunleri-tasiyan-tankerde-yangin-30-olu-h1585653",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/bitliste-gonullu-kadinlar-koy-cocuklari-icin-atki-oruyor-h1586141",
    "https://www.ensonhaber.com/kocaelide-izinsiz-hafriyat-doken-2-firmaya-46-milyon-lira-ceza-h1586142",
    "https://www.ensonhaber.com/gurcu-hamsisi-nasil-anlasilir-iste-yerli-hamsiden-ayiran-ozellik-h1586143",
-   "https://www.ensonhaber.com/hatayda-devlet-benim-diyerek-sanal-medyada-sehitlere-hakaret-eden-supheli-gozaltina-alindi-h1586144"
+   "https://www.ensonhaber.com/hatayda-devlet-benim-diyerek-sanal-medyada-sehitlere-hakaret-eden-supheli-gozaltina-alindi-h1586144",
+   "https://www.ensonhaber.com/besiktas-donus-yoluna-gecti-h1586145",
+   "https://www.ensonhaber.com/yataga-corapla-girenler-bunu-bilmiyor-vucut-tam-tersini-yapiyor-h1586146"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679852-osmanli-arsivinden-120-yillik-petrol-sirri-erzurumun-bilinmeyen-ticaret-gecmisi",
    "https://www.haber7.com/dunya/haber/3679853-abde-coca-colaya-rekabet-sorusturmasi",
    "https://www.haber7.com/medya/haber/3679854-basin-ilan-kurumundan-basina-67-milyar-tl-destek-baskan-cay-1-yillik-tabloyu-acikladi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679855-titanik-faciasindan-114-yil-sonra-rekor-satis-olen-yolcunun-cebinden-cikmisti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/medya/haber/3680303-gelin-523-bolum-cihanin-ofkesi-diniyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680304-ito-baskani-sekib-avdagic-86-milyon-turkiye-seninle-gurur-duyuyor-kara-kartal",
    "https://www.haber7.com/guncel/haber/3680305-narin-guran-davasinda-4uncu-durusma-15-sanik-yargilandi",
-   "https://www.haber7.com/saglik/haber/3680306-araba-kullanmanin-bilinmeyen-etkisi-ortaya-cikti-kalp-ritmi-alarm-veriyor"
+   "https://www.haber7.com/saglik/haber/3680306-araba-kullanmanin-bilinmeyen-etkisi-ortaya-cikti-kalp-ritmi-alarm-veriyor",
+   "https://www.haber7.com/guncel/haber/3680305-narin-guran-sorusturmasinda-yeni-gelisme-15-sanik-yargilandi-dava-ertelendi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2217,9 +2217,6 @@
   ]
  },
  "recent_titles": [
-  "türkiyenin bitki genetik mirası eksi 196 derecede geleceğe taşınacak",
-  "galatasarayda 25 yıl sonra bir ilk",
-  "erzincan ergan dağında kar ve tipi etkili oldu",
   "trt1den ramazan dizisi geliyor başrolü şükrü özyıldız aldı",
   "akdeniz foku kuşadasını mesken tuttu",
   "elektrikli porsche 718 boxster geliyor 0100 kms 3 saniyenin altında",
@@ -3716,6 +3713,9 @@
   "gürcü hamsisi nasıl anlaşılır işte yerli hamsiden ayıran özellik",
   "araba kullanmanın bilinmeyen etkisi ortaya çıktı kalp ritmi alarm veriyor",
   "hatayda devlet benim diyerek sanal medyada şehitlere hakaret eden şüpheli gözaltına alındı",
-  "beşiktaş dönüş yoluna geçti"
+  "beşiktaş dönüş yoluna geçti",
+  "narin güran soruşturmasında yeni gelişme 15 sanık yargılandı dava ertelendi",
+  "hastaneye kaldırılan emirhan topçunun durumu belli oldu gsaray maçında oynayacak mı",
+  "yatağa çorapla girenler bunu bilmiyor vücut tam tersini yapıyor"
  ]
 }
