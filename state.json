@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679960-unlu-dj-burak-yeter-gozaltina-alindi",
    "https://www.haber7.com/guncel/haber/3679961-cumhurbaskani-erdogandan-eskisehirde-sehit-olan-askerler-icin-taziye-mesaji",
    "https://spor.haber7.com/spor/haber/3679944-herkes-emre-belozoglunun-dans-vaadini-konusuyor",
    "https://www.haber7.com/denizli/3679962-denizlide-ekstrem-vaka-kalin-bagirsaginda-dev-tumor-goruldu",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-mesaji-gazzede-duvara-cizildi",
    "https://www.haber7.com/guncel/haber/3680415-ankarada-alihan-kuris-operasyonu-18-kisi-tutuklandi",
    "https://www.haber7.com/teknoloji/haber/3680416-turk-deniz-kuvvetlerinin-amfibi-gucune-yeni-katki-zaha-gemiden-denize-indirildi",
-   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-2-mac-birden-ilk-yarilar-oynaniyor-canli"
+   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-2-mac-birden-ilk-yarilar-oynaniyor-canli",
+   "https://spor.haber7.com/diger-branslar/haber/3680417-milli-guresci-avrupa-sampiyonu-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2268,8 +2268,6 @@
   ]
  },
  "recent_titles": [
-  "beşiktaşta uçak krizi batuma inemediler alternatif rota gündemde",
-  "putin rusya enerji teknolojilerini brunei ile paylaşmaya hazır",
   "yunan savunma bakanı casus belli ile karşı karşıyayız dedi yunanistan 150 bin kişilik yedek kuvvet kurmayı planlıyor",
   "beşiktaş kafilesini taşıyan uçak batuma inemedi alternatif rota gündemde",
   "almanyada aşırı sağ vakası 3 çocuk gözaltında",
@@ -3767,6 +3765,8 @@
   "türk deniz kuvvetlerinin amfibi gücüne yeni katkı zaha gemiden denize indirildi",
   "iraktürkiye petrol boru hattı yeniden faaliyete geçecek",
   "süper ligde 2 maç birden ilk yarılar oynanıyor  canli",
-  "afrikada çatlak iyice büyüdü kıta ikiye bölünüyor"
+  "afrikada çatlak iyice büyüdü kıta ikiye bölünüyor",
+  "milli güreşçi avrupa şampiyonu oldu",
+  "fon tasfiyesinde 1995 milyar tl ödeme yapıldı iletişim başkanlığından açıklama"
  ]
 }
