@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/fenerbahce/haber/3679954-emre-belozoglu-tarihe-gecti",
    "https://ekonomi.haber7.com/ekonomi/haber/3679955-zafer-partili-eryilmazin-suizan-itham-ve-iftiralari-karsisinda-gercekler",
    "https://www.haber7.com/guncel/haber/3679956-uyusturucu-sorusturmasinda-gozaltina-alinmislardi-unlu-isimlerin-ifadeleri-ortaya-cikti",
    "https://spor.haber7.com/spor/haber/3679957-asya-sampiyonlar-liginde-hakem-maca-alkollu-cikti-iddiasi",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680409-ev-almanin-en-uzun-surdugu-ulkeler-aciklandi-orada-bir-ev-almak-tam-388-yil-suruyor",
    "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-perde-2-macla-aciliyor-ilk-11ler-belli-oldu",
    "https://www.haber7.com/dunya/haber/3680410-atinadan-istanbula-kritik-ziyaret-tasulas-cumhurbaskani-erdogan-ile-gorusecek",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680411-omur-boyu-garanti-tuzagina-1-milyon-tlyi-asan-ceza"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680411-omur-boyu-garanti-tuzagina-1-milyon-tlyi-asan-ceza",
+   "https://spor.haber7.com/fenerbahce/haber/3680412-uefa-fenerbahceden-ozur-diledi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2233,7 +2233,8 @@
    "https://anlatilaninotesi.com.tr/20261127/putin-rusya-guclu-nukleer-denizaltilar-insa-edebilen-dunyadaki-az-sayidaki-ulkeden-biridir-1110647830.html",
    "https://anlatilaninotesi.com.tr/20261127/mustafa-hos-fon-vurgunu-sorusturmasinda-uc-kez-gozaltina-alinip-serbest-birakilan-kemal-akkayanin-1110648129.html",
    "https://anlatilaninotesi.com.tr/20261127/iranda-yasayan-gazeteci-demir-anlatti-iran-savas-yeniden-baslayacakmis-gibi-hazirlik-yapiyor-1110647938.html",
-   "https://anlatilaninotesi.com.tr/20261127/kucukcekmecede-dairede-patlama-1-yarali-1110648532.html"
+   "https://anlatilaninotesi.com.tr/20261127/kucukcekmecede-dairede-patlama-1-yarali-1110648532.html",
+   "https://anlatilaninotesi.com.tr/20261127/zaharova-letonya-ukrayna-ordusuna-on-binlerce-iha-verdi-1110648679.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2265,9 +2266,6 @@
   ]
  },
  "recent_titles": [
-  "mersinde yanan evde cesetleri bulunan çiftin ölümüne ilişkin yeni rapor düzenlenecek",
-  "destici kadına yönelen şiddetin mazereti asla olamaz",
-  "fiyatı bir ayda dibi gördü 400 tlden 20 tlye düştü",
   "the athletic galatasarayın aston villa maçında ses seviyesini ölçtü",
   "belçikada 82 belediyeye eş zamanlı siber saldırı",
   "roma jayden oosterwoldeden vazgeçmiyor",
@@ -3764,6 +3762,9 @@
   "atinadan istanbula kritik ziyaret tasulas cumhurbaşkanı erdoğan ile görüşecek",
   "tamir hizmetlerinde yanıltıcı reklam yapan firmaya 1 milyon tlyi aşkın ceza",
   "ömür boyu garanti tuzağına 1 milyon tlyi aşan ceza",
-  "alihan kuriş suç örgütüne yönelik operasyonda 18 kişi tutuklandı"
+  "alihan kuriş suç örgütüne yönelik operasyonda 18 kişi tutuklandı",
+  "uefa fenerbahçeden özür diledi",
+  "mekke ortak savunma ittifakı toplandı türkiye pakistan ve suudi arabistan aynı masada",
+  "zaharova letonya ukrayna ordusuna on binlerce iha verdi"
  ]
 }
