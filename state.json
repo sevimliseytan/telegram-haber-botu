@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ne-trabzon-ne-rize-kocarinin-vuruldugu-yer-bakin-neresi-cikti-h1585520",
    "https://www.ensonhaber.com/vanda-evlilik-basvurusu-icin-saglik-raporu-almaya-gittikleri-asmde-doktor-ve-hemsire-doven-h1585521",
    "https://www.ensonhaber.com/besiktasin-hapoel-beer-sheva-maci-kamp-kadrosu-belli-oldu-h1585522",
    "https://www.ensonhaber.com/baligin-cope-atilan-kismini-kurutup-satiyorlar-ayda-55-milyon-tl-ciro-yapiyorlar-h1585523",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/bddk-baskanligina-yusuf-kenan-bagir-atandi-h1586012",
    "https://www.ensonhaber.com/findik-diyarinda-onun-mesaisi-basladi-kilosu-50-liradan-satiliyor-500-ton-bekleniyor-h1586013",
    "https://www.ensonhaber.com/mekke-anlasmasi-onaylandi-resmi-gazetede-yayimlandi-h1586014",
-   "https://www.ensonhaber.com/kayseride-haber-alinamayan-adam-olu-bulundu-h1586015"
+   "https://www.ensonhaber.com/kayseride-haber-alinamayan-adam-olu-bulundu-h1586015",
+   "https://www.ensonhaber.com/corumda-ayni-is-yeri-ikinci-kez-kursunlandi-1-yarali-h1586016"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2180,7 +2180,6 @@
   ]
  },
  "recent_titles": [
-  "yeniden değerleme oranı 2026 için belli oldu yüzde 2783",
   "fon soruşturması kapsamında gözaltına alınan 4 şüpheli tutuklandı",
   "libya uluslararası adalet divanında ukraynaya dava açmaya hazırlanıyor",
   "ankara büyükşehir belediyesinin 2027 bütçesi 278 milyar lira olarak kabul edildi",
@@ -3679,6 +3678,7 @@
   "mekke anlaşması onaylandı resmi gazetede yayımlandı",
   "thomas reis devre arasında çevirebileceğimizi söyledim",
   "kayseride haber alınamayan adam ölü bulundu",
-  "gürcistan içişleri bakanlığı filistin bayrağı açtıkları için taraftara müdahale edildiğine dair bilgileri reddediyoruz"
+  "gürcistan içişleri bakanlığı filistin bayrağı açtıkları için taraftara müdahale edildiğine dair bilgileri reddediyoruz",
+  "çorumda aynı iş yeri ikinci kez kurşunlandı 1 yaralı"
  ]
 }
