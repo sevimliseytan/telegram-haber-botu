@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/afonso-sousa-ust-siralarda-olmak-istiyoruz-h1585603",
-   "https://www.ensonhaber.com/samsunspordan-galatasaray-macindaki-ofsayt-pozisyonuna-tepki-h1585604",
-   "https://www.ensonhaber.com/turkiye-boks-federasyonunun-mali-genel-kurulu-yapildi-h1585605",
-   "https://www.ensonhaber.com/a-milli-kadin-voleybol-takiminin-2027-milletler-ligindeki-rakipleri-belirlendi-h1585606",
    "https://www.ensonhaber.com/halkbank-jeffrey-jendryki-renklerine-bagladi-h1585607",
    "https://www.ensonhaber.com/a-milli-erkek-voleybol-takiminin-milletler-ligindeki-gruplari-belli-oldu-h1585608",
    "https://www.ensonhaber.com/markus-gisdoldan-trabzonspor-maci-oncesi-aciklama-h1585609",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/besiktas-macindaki-olaylar-dunya-basininin-gundeminde-polis-mudahalesi-kabul-edilemez-h1586095",
    "https://www.ensonhaber.com/japonyada-dunyada-bir-ilk-suni-dollenmeyle-penguen-yavrusu-dunyaya-geldi-h1586096",
    "https://www.ensonhaber.com/peygamberimizin-en-guzel-cuma-duasi-ev-evlat-aile-ve-ahiret-icin-okunacak-dualar-h1586097",
-   "https://www.ensonhaber.com/israilde-zorunlu-askerlik-karsiti-harediler-ben-gurion-havalimaninin-girisini-kapatti-h1586098"
+   "https://www.ensonhaber.com/israilde-zorunlu-askerlik-karsiti-harediler-ben-gurion-havalimaninin-girisini-kapatti-h1586098",
+   "https://www.ensonhaber.com/turk-f-16lari-romanyada-nato-hava-sahasinin-guvenligini-saglayacak-h1586099",
+   "https://www.ensonhaber.com/73-ilde-uyusturucu-operasyonu-bin-17-kisi-tutuklandi-h1586100",
+   "https://www.ensonhaber.com/volkswagen-id-buzz-beach-tanitildi-elektrikli-minibus-kamp-aracina-donustu-h1586101",
+   "https://www.ensonhaber.com/antalyada-asla-sollamam-diyen-surucu-facianin-esiginden-dondu-h1586102"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679809-bir-kez-ekiliyor-10-yil-kazandiriyor-yuzde-78i-gaziantepte-uretiliyor",
    "https://www.haber7.com/3sayfa/haber/3679813-mersinde-yanan-evde-cesetleri-bulunmustu-yeni-rapor-duzenlenecek",
    "https://www.haber7.com/siyaset/haber/3679814-destici-kadina-yonelen-siddetin-mazereti-asla-olamaz",
    "https://ekonomi.haber7.com/ekonomi/haber/3679809-bir-kez-ekiliyor-10-yil-kazandiriyor-yuzde-78i-gaziantepte-uretiliyor",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680261-natonun-hava-nobetini-turk-hava-kuvvetleri-devralacak",
    "https://ekonomi.haber7.com/ekonomi/haber/3680262-ozellestirme-idaresi-6-ilde-tasinmaz-satisi-yapacak",
    "https://www.haber7.com/dunya/haber/3680263-guncel-liste-belli-oldu-iste-filistin-ve-israili-destekleyen-unluler",
-   "https://spor.haber7.com/super-lig/haber/3680264-super-ligde-derbi-zamani-iste-haftanin-programi"
+   "https://spor.haber7.com/super-lig/haber/3680264-super-ligde-derbi-zamani-iste-haftanin-programi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680265-avrupali-ureticiler-turkiyedeki-tesislerinin-made-in-eu-kapsamina-alinmasini-istiyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2207,14 +2207,6 @@
   ]
  },
  "recent_titles": [
-  "galatasarayın aston villa zaferini öven tümer metinden beşiktaşa uyarı",
-  "koreliler boşuna tüketmiyor kalkan gibi koruyor şimdilerde yok satıyor",
-  "israilli sporcuyu 1 saniyede yenen milli sporcu gazze için zulme direnç gösterdim",
-  "şükrü özyıldız ramazan ayı için çekilen yahya efendi kalbin aynası ile anlaştı",
-  "balığa rakip çıktı omega3 şampiyonu oldu kapış kapış gidiyor",
-  "abd istihbarat teşkilatında yeni sızıntı",
-  "kefil mağdurlarına yargıtaydan emsal karar bu şartlar yoksa borçtan sorumlu değilsiniz",
-  "81 ile resmen çökecek çarşamba geliyor pazar gidiyor",
   "istanbulda 4 lastik değişmeli diyerek tüketiciyi yanıltan otomotiv servisi denetlendi",
   "körfezde enerji dengesi değişti iranın gelirleri yüzde 75 eridi",
   "bm geçen yıl dünyada her saat 5 kadın partneri veya aile üyesi tarafından öldürüldü",
@@ -3706,6 +3698,14 @@
   "süper ligde derbi zamanı işte haftanın programı",
   "israilde zorunlu askerlik karşıtı harediler ben gurion havalimanının girişini kapattı",
   "türk f16ları romanyada nato hava sahasının güvenliğini sağlayacak",
-  "volkswagen id buzz beach tanıtıldı elektrikli minibüs kamp aracına dönüştü"
+  "volkswagen id buzz beach tanıtıldı elektrikli minibüs kamp aracına dönüştü",
+  "avrupalı üreticiler türkiyedeki tesislerinin made in eu kapsamına alınmasını istiyor",
+  "karamanda kayıp olarak aranan mehmet ali ölü bulunmuştu yeni gelişme",
+  "antalyada asla sollamam diyen sürücü facianın eşiğinden döndü",
+  "izmir karşıyakada çöp yığınlarına karşı sandalyeli protesto",
+  "124 dönem ögg sınavı ne zaman yapılacak 2026 özel güvenlik görevlisi sınav takvimi",
+  "şarkıcı gökselden yıllar sonra itiraf etti boşanmak kolay olmadı",
+  "istanbulda drone destekli operasyon 12 kilo 840 gram uyuşturucu ele geçirildi",
+  "yasin özcan israilli oyuncunun üzerine yürüdü fotoğraf karesi gündem oldu"
  ]
 }
