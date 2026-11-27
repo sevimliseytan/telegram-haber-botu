@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/avrupa-birligi-2-trilyon-euroluk-butce-gorusmelerine-basliyor-h1585761",
    "https://www.ensonhaber.com/suriyeli-hakem-maca-alkollu-cikti-iddiasi-ikinci-yariyi-baskasi-yonetti-h1585762",
    "https://www.ensonhaber.com/rafet-el-roman-yeni-sevgilisini-anlatti-dogru-kisiyi-buldum-h1585763",
    "https://www.ensonhaber.com/izmirde-uyusturucu-imalathanesine-baskin-on-binlerce-hap-ele-gecirildi-h1585764",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/mekke-ortak-savunma-anlasmasi-komitesi-islamabadda-toplandi-h1586253",
    "https://www.ensonhaber.com/irak-turkiye-petrol-boru-hatti-yeniden-faaliyete-gececek-h1586254",
    "https://www.ensonhaber.com/afrikada-catlak-iyice-buyudu-kita-ikiye-bolunuyor-42290-h1586255",
-   "https://www.ensonhaber.com/fon-tasfiye-surecinde-odemeler-tamamlandi-h1586256"
+   "https://www.ensonhaber.com/fon-tasfiye-surecinde-odemeler-tamamlandi-h1586256",
+   "https://www.ensonhaber.com/unlulere-uyusturucu-sorusturmasi-test-sonuclari-belli-oldu-h1586257"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2240,7 +2240,8 @@
    "https://anlatilaninotesi.com.tr/20261127/islamabadda-mekke-anlasmasi-toplantisi-bakan-fidan-pakistanli-mevkidasi-dar-ile-gorustu-1110649331.html",
    "https://anlatilaninotesi.com.tr/20261127/abd-ordusu-abluka-yasagini-delmeye-calisan-ticari-gemiyi-umman-korfezinde-vurduk-1110649646.html",
    "https://anlatilaninotesi.com.tr/20261127/iletisim-baskanligi-duyurdu-fonda-ara-odeme-tamamlandi-1110649806.html",
-   "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-kuzey-kibrista-batan-yolcu-gemisi-davasinda-9-supheli-tutuklu-yargilanmak-uzere-cezaevine-1110650452.html"
+   "https://anlatilaninotesi.com.tr/20261127/son-dakika-haberleri-kuzey-kibrista-batan-yolcu-gemisi-davasinda-9-supheli-tutuklu-yargilanmak-uzere-cezaevine-1110650452.html",
+   "https://anlatilaninotesi.com.tr/20261127/turkiye-kupasinda-kura-heyecani-devlerin-rakipleri-belli-oluyor-1110650592.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2272,8 +2273,6 @@
   ]
  },
  "recent_titles": [
-  "bursada öğretmenler aynı sofrada buluştu",
-  "kadınlara en az yüzde 30 daha ucuz emeklilik fırsatı yılbaşından önce son viraj",
   "beşiktaşa hava engeli",
   "bilim insanları vampir deve adını verdikleri gizemli bir fosil türü tanımladı",
   "uefa konferans liginde 4 hafta maçları oynanacak",
@@ -3771,6 +3770,8 @@
   "gündüz gece izmir ve ispartadan renkli görüntülerle kanal 7de",
   "türkiye beşiktaş için tek yumruk oldu senegalli komedyen mustinin sözleri gündem oldu",
   "mevlevi sema mukabelesi ve türk tasavvuf musikisi ingilterede",
-  "kuzey kıbrısta batan yolcu gemisi davasında 9 şüpheli tutuklu yargılanmak üzere cezaevine gönderildi"
+  "kuzey kıbrısta batan yolcu gemisi davasında 9 şüpheli tutuklu yargılanmak üzere cezaevine gönderildi",
+  "ünlülere uyuşturucu soruşturması test sonuçları belli oldu",
+  "türkiye kupasında kura heyecanı devlerin rakipleri belli oluyor"
  ]
 }
