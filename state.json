@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/donald-trump-nato-genel-sekreteri-rutte-ile-rusya-ukrayna-savasini-gorustu-h1585714",
-   "https://www.ensonhaber.com/galatasaray-ve-fenerbahce-kazandi-ulke-puani-degisti-h1585715",
-   "https://www.ensonhaber.com/kizilcik-serbetinde-cimenin-ardindan-bir-rol-daha-el-degistiriyor-iste-yeni-oyuncu-h1585716",
-   "https://www.ensonhaber.com/altinda-14-ayin-dibinden-toparlanma-h1585717",
    "https://www.ensonhaber.com/sanliurfada-kontrolden-cikan-otomobil-elektrik-diregini-yerinden-soktu-h1585718",
    "https://www.ensonhaber.com/kepez-belediyesine-rusvet-operasyonu-eski-belediye-baskani-dahil-21-kisi-tutuklandi-h1585719",
    "https://www.ensonhaber.com/erzincanda-ayaz-etkisini-artirdi-h1585720",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/katy-perry-ve-justin-trudeau-cifti-macron-ile-bir-araya-geldi-h1586206",
    "https://www.ensonhaber.com/trump-yonetiminde-guvenlik-onlemleri-artirildi-kabine-uyeleri-askeri-uslere-tasiniyor-h1586207",
    "https://www.ensonhaber.com/tuzlanin-ilk-spor-kompleksinin-temeli-yarin-atiliyor-h1586208",
-   "https://www.ensonhaber.com/bebegi-beklerken-gokce-bahadir-ve-emir-ersoydan-romantik-poz-h1586209"
+   "https://www.ensonhaber.com/bebegi-beklerken-gokce-bahadir-ve-emir-ersoydan-romantik-poz-h1586209",
+   "https://www.ensonhaber.com/mersindeki-uyusturucu-operasyonlarinda-23-supheli-tutuklandi-h1586210",
+   "https://www.ensonhaber.com/uefa-besiktas-macinda-yasananlarla-ilgili-sorusturma-baslatti-h1586211",
+   "https://www.ensonhaber.com/hikmet-cetin-son-yolculuguna-ugurlandi-h1586212",
+   "https://www.ensonhaber.com/isgal-altindaki-bati-seriada-beytullahim-kenti-noele-hazirlaniyor-h1586213"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679901-baskentteki-feto-operasyonu-3-firari-yakalandi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679900-altin-fiyatlari-dip-seviyeden-dondu-yatirimcilar-dikkat",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679902-akaryakita-indirim-geldi-bir-depoda-545-tl-fark-edecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3679903-spk-kararlari-aciklandi-iki-fona-tasfiye-66-kisi-hakkinda-suc-duyurusu",
    "https://www.haber7.com/guncel/haber/3679904-polislerin-20-dakika-kovaladigi-aractan-ak-47-cikti",
    "https://www.haber7.com/guncel/haber/3679905-10-yilda-8-helikopter-kazasi-47-sehit-emekli-korgeneral-karakustan-kritik-degerlendirme",
@@ -1391,7 +1388,10 @@
    "https://spor.haber7.com/besiktas/haber/3680319-israil-ekibini-deviren-besiktas-yurda-dondu",
    "https://www.haber7.com/guncel/haber/3680364-cumhurbaskani-erdogan-unesco-genel-direktoru-halid-el-enanyyi-kabul-etti",
    "https://www.haber7.com/3sayfa/haber/3680365-21-yasindaki-nazardan-27-gun-sonra-aci-haber",
-   "https://www.haber7.com/guncel/haber/3680366-sosyal-medyada-sehitlere-kufreden-supheli-ters-kelepceyle-alindi"
+   "https://www.haber7.com/guncel/haber/3680366-sosyal-medyada-sehitlere-kufreden-supheli-ters-kelepceyle-alindi",
+   "https://www.haber7.com/teknoloji/haber/3680368-turkcell-ortak-internet-paketi-donemini-baslatti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680369-teknosa-is-ortaklariyla-birlikte-guclu-mottosuyla-bulustu",
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680371-son-dakika-uefa-besiktas-hapoel-beer-sheva-maci-icin-sorusturma-baslatti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2249,7 +2249,6 @@
   ]
  },
  "recent_titles": [
-  "israil basını eisenkot liberman ile anlaştı önümüzdeki hafta hükümet kurulabilir",
   "filenin efelerinin milletler ligi grupları belli oldu",
   "yeraltı behram sahnede bozo ve rüzgarın yeni düşmanı geldi",
   "pakistanda inşaat halindeki binanın çökmesi sonucu iki kişi hayatını kaybetti",
@@ -3748,6 +3747,7 @@
   "mersindeki uyuşturucu operasyonlarında 23 şüpheli tutuklandı",
   "uefa beşiktaş maçında yaşananlarla ilgili soruşturma başlattı",
   "hikmet çetin son yolculuğuna uğurlandı",
-  "işgal altındaki batı şeriada beytüllahim kenti noele hazırlanıyor"
+  "işgal altındaki batı şeriada beytüllahim kenti noele hazırlanıyor",
+  "son dakika uefa beşiktaş  hapoel beer sheva maçı için soruşturma başlattı"
  ]
 }
