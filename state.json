@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679955-zafer-partili-eryilmazin-suizan-itham-ve-iftiralari-karsisinda-gercekler",
-   "https://www.haber7.com/guncel/haber/3679956-uyusturucu-sorusturmasinda-gozaltina-alinmislardi-unlu-isimlerin-ifadeleri-ortaya-cikti",
    "https://spor.haber7.com/spor/haber/3679957-asya-sampiyonlar-liginde-hakem-maca-alkollu-cikti-iddiasi",
    "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-heyeti-ile-gorusecek",
    "https://www.haber7.com/guncel/haber/3679959-uefanin-cifte-standardi-besiktas-kafilesine-kabusu-yasatti",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-perde-2-macla-aciliyor-ilk-11ler-belli-oldu",
    "https://www.haber7.com/dunya/haber/3680410-atinadan-istanbula-kritik-ziyaret-tasulas-cumhurbaskani-erdogan-ile-gorusecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3680411-omur-boyu-garanti-tuzagina-1-milyon-tlyi-asan-ceza",
-   "https://spor.haber7.com/fenerbahce/haber/3680412-uefa-fenerbahceden-ozur-diledi"
+   "https://spor.haber7.com/fenerbahce/haber/3680412-uefa-fenerbahceden-ozur-diledi",
+   "https://www.haber7.com/guncel/haber/3680413-mekke-ortak-savunma-ittifaki-toplandi-turkiye-pakistan-ve-suudi-arabistan-ayni-masada",
+   "https://spor.haber7.com/besiktas/haber/3680414-besiktasin-yildizinin-sevinci-gazzede-duvara-cizildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2266,7 +2266,6 @@
   ]
  },
  "recent_titles": [
-  "the athletic galatasarayın aston villa maçında ses seviyesini ölçtü",
   "belçikada 82 belediyeye eş zamanlı siber saldırı",
   "roma jayden oosterwoldeden vazgeçmiyor",
   "çorumda eşi tarafından öldürülen kadına veda",
@@ -3765,6 +3764,7 @@
   "alihan kuriş suç örgütüne yönelik operasyonda 18 kişi tutuklandı",
   "uefa fenerbahçeden özür diledi",
   "mekke ortak savunma ittifakı toplandı türkiye pakistan ve suudi arabistan aynı masada",
-  "zaharova letonya ukrayna ordusuna on binlerce iha verdi"
+  "zaharova letonya ukrayna ordusuna on binlerce iha verdi",
+  "beşiktaşın yıldızının sevinci gazzede duvara çizildi"
  ]
 }
