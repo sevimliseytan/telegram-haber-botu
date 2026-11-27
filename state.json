@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kahramanmarasta-uyusturucu-operasyonu-43297-h1585772",
    "https://www.ensonhaber.com/rusyadan-kieve-saldiri-iha-uretim-tesisleri-vuruldu-h1585773",
    "https://www.ensonhaber.com/dolabinda-sakladigi-battaniye-servet-degerinde-cikti-90-milyon-tlye-satildi-h1585774",
    "https://www.ensonhaber.com/neuralinkin-beyin-cipi-teknolojisine-klinik-deneyler-icin-fda-onayi-h1585775",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-yarin-istanbulda-gorusecek-h1586264",
    "https://www.ensonhaber.com/boluda-cocuklarin-bulundugu-aractan-haber-alinamiyor-arama-calismasi-baslatildi-h1586265",
    "https://www.ensonhaber.com/rizespor-kasimpasayi-901de-yikti-h1586266",
-   "https://www.ensonhaber.com/ankara-sebze-ve-meyve-halindeki-yagma-operasyonunda-13-kisi-tutuklandi-h1586267"
+   "https://www.ensonhaber.com/ankara-sebze-ve-meyve-halindeki-yagma-operasyonunda-13-kisi-tutuklandi-h1586267",
+   "https://www.ensonhaber.com/konyaspor-alanyasporu-son-dakika-penaltisiyla-yendi-h1586268"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2247,7 +2247,8 @@
    "https://anlatilaninotesi.com.tr/20261127/berlinde-amazon-deposu-onunde-eylem-filistin-destekcileri-girisi-kapatti-1110651507.html",
    "https://anlatilaninotesi.com.tr/20261127/yeni-parti-genel-baskani-ozelden-cumhurbaskani-adayi-aciklamasi-1110651778.html",
    "https://anlatilaninotesi.com.tr/20261127/ingiliz-general-carter-rusyaya-karsi-baltik-ulkeleri-askeri-kirpiye-donusturulmeli-1110652040.html",
-   "https://anlatilaninotesi.com.tr/20261127/denizlide-evinde-bagli-halde-olu-bulunmustu-darp-edilip-boguldugu-ortaya-cikti-3-kisi-tutuklandi-1110652370.html"
+   "https://anlatilaninotesi.com.tr/20261127/denizlide-evinde-bagli-halde-olu-bulunmustu-darp-edilip-boguldugu-ortaya-cikti-3-kisi-tutuklandi-1110652370.html",
+   "https://anlatilaninotesi.com.tr/20261127/boluda-10-cocuk-ve-3-personeli-tasiyan-aracla-irtibat-kesildi-1110652544.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2279,8 +2280,6 @@
   ]
  },
  "recent_titles": [
-  "nba avrupa için 10 milyar euroluk girişim planı",
-  "aras kargonun ligdeki maçlarında değişiklik",
   "yılın son mgksı cumhurbaşkanı erdoğan başkanlığında toplanıyor",
   "trabzonda sağanak yağış sel ve heyelana neden oldu kara yolu kapandı evler yıkıldı",
   "mebin yapay zeka çalışmalarına ödül",
@@ -3778,6 +3777,8 @@
   "denizlide evinde bağlı halde ölü bulunmuştu darp edilip boğulduğu ortaya çıktı 3 kişi tutuklandı",
   "bakanlık açıkladı boluya geziye giden 10 kız çocuğu ile 3 personel kayıp",
   "rizespor kasımpaşayı 901de yıktı",
-  "ankara sebze ve meyve halindeki yağma operasyonunda 13 kişi tutuklandı"
+  "ankara sebze ve meyve halindeki yağma operasyonunda 13 kişi tutuklandı",
+  "konyaspor alanyasporu son dakika penaltısıyla yendi",
+  "boluda 10 çocuk ve 3 personeli taşıyan araçla irtibat kesildi arama kurtarma çalışması başlatıldı"
  ]
 }
