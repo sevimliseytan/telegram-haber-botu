@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/dogukan-gungorden-sasirtan-itirafi-ilk-basrolunu-alinca-benden-ayrildi-h1585704",
-   "https://www.ensonhaber.com/iranda-hayatini-kaybeden-turk-vatandaslarinin-cenazeleri-turkiyeye-getirildi-h1585705",
    "https://www.ensonhaber.com/sahap-kavcioglu-hakkinda-sorusturma-izni-verildi-h1585706",
    "https://www.ensonhaber.com/cin-ve-taylanddan-ithal-bebek-urunlerine-damping-onlemi-devam-edecek-h1585707",
    "https://www.ensonhaber.com/emre-belozoglunun-esprili-sampiyonlar-ligi-vaadi-turk-usulu-dans-ederim-h1585708",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/avrupada-kar-ve-buzlanma-isvicrede-37-arac-carpisti-almanyada-400den-fazla-kaza-yasandi-h1586196",
    "https://www.ensonhaber.com/bursa-ankara-ve-istanbula-hizli-trenle-baglaniyor-h1586197",
    "https://www.ensonhaber.com/evi-arabayi-sattirdi-suleymani-kandiran-kadinin-gercek-hali-ortaya-cikti-h1586198",
-   "https://www.ensonhaber.com/kocaelide-namaza-gelen-vatandas-darbedilmisti-cuma-namazi-icin-akin-ettiler-h1586199"
+   "https://www.ensonhaber.com/kocaelide-namaza-gelen-vatandas-darbedilmisti-cuma-namazi-icin-akin-ettiler-h1586199",
+   "https://www.ensonhaber.com/bakan-yumakli-tarimsal-hasilada-90-milyar-dolar-tavanina-yaklastik-h1586200",
+   "https://www.ensonhaber.com/rus-gazindan-vazgecen-ab-abdye-bagimli-olabilir-h1586201"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679885-bayern-munihten-sok-maglubiyet-iste-gecenin-sonuclari",
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679886-emre-belozoglu-kazanarak-devam-edersek-neden-olmasin",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679887-arda-turan-aci-verici-bir-tecrube-oldu",
    "https://www.haber7.com/dunya/haber/3679888-iraktan-askeri-hamle-tum-birlikler-sahaya-iniyor",
    "https://www.haber7.com/guncel/haber/3679889-oto-servisinde-dolandiricilik-iddiasi-3-supheli-yakalandi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680351-haliliyede-400-aileye-ucretsiz-kombi-destegi-sayi-1232ye-ulasti",
    "https://www.haber7.com/dunya/haber/3680350-sirbistanda-ogrenci-listesinin-cumhurbaskani-adayi-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680352-kubra-yapici-cinayetinin-nedeni-ortaya-cikti-kan-donduran-itiraf-balyozla-parcalamislar",
-   "https://spor.haber7.com/trabzonspor/haber/3680353-mohamed-salah-trabzonsporu-sirtinda-tasiyor"
+   "https://spor.haber7.com/trabzonspor/haber/3680353-mohamed-salah-trabzonsporu-sirtinda-tasiyor",
+   "https://www.haber7.com/biyografi/haber/3680349-kurra-hafiz-ali-kemal-hut-kimdir-kasimpasali-kemal-efendi-hayatini-kaybetti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680355-turkiyenin-savunma-ihracati-10-milyar-dolara-ulasti-dunyada-11inci-siraya-yukseldi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2246,9 +2246,6 @@
   ]
  },
  "recent_titles": [
-  "mersinde yabani ot faciası iki kuzenden biri öldü diğeri yoğun bakımda",
-  "konyada fuhuş operasyonu11 tutuklama",
-  "topladıkları otları yiyen kuzenlerden acı haber biri öldü diğeri yoğun bakımda",
   "bursanın gururu umut eren gündoğdan dünya ikinciliği çinde gümüş madalya",
   "manisada iki ayrı evde 137 bin 858 sentetik hap ele geçirildi",
   "istanbulda inşaattaki vinçten çelik bloklar park halindeki 3 aracın üzerine düştü",
@@ -3745,6 +3742,9 @@
   "mohamed salah trabzonsporu sırtında taşıyor",
   "kocaelide namaza gelen vatandaş darbedilmişti cuma namazı için akın ettiler",
   "bakan yumaklı tarımsal hasılada 90 milyar dolar tavanına yaklaştık",
-  "rus gazından vazgeçen ab abdye bağımlı olabilir"
+  "rus gazından vazgeçen ab abdye bağımlı olabilir",
+  "türkiyenin savunma ihracatı 10 milyar dolara ulaştı dünyada 11inci sıraya yükseldi",
+  "dünyanın en uzun ömürlü insanları hangi ülkede türkiyede zirvedeki il belli oldu",
+  "gülistan doku soruşturmasında iki şüpheli birbirini tanımadığını söyledi tanık yalanladı"
  ]
 }
