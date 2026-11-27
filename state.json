@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/katlanabilir-motorola-razr-2027-ortaya-cikti-iste-ozellikleri-ve-tanitim-tarihi-h1585738",
-   "https://www.ensonhaber.com/brent-petrolun-varili-9506-dolardan-islem-goruyor-h1585739",
-   "https://www.ensonhaber.com/istanbulda-durdurulan-aracta-kalasnikof-cikti-h1585740",
    "https://www.ensonhaber.com/unlulere-yonelik-uyusturucu-sorusturmasinda-dj-burak-yeter-gozaltinda-h1585741",
    "https://www.ensonhaber.com/hatayda-konteyner-kentten-sebeke-dagitim-kablosu-caldi-h1585742",
    "https://www.ensonhaber.com/ankara-merkezli-yasa-disi-bahis-operasyonu-25-supheli-yakalandi-h1585743",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-fatih-sultan-mehmet-han-turbesini-ziyaret-etti-h1586229",
    "https://www.ensonhaber.com/ikinci-el-otomobil-pazarinda-dengeler-degisti-turkiye-suv-tercih-ediyor-h1586231",
    "https://www.ensonhaber.com/ormanin-derininde-3-dev-yapi-ortaya-cikti-80-yillik-gecmisi-var-h1586232",
-   "https://www.ensonhaber.com/kardesiyle-baliga-cikti-1-milyon-dolar-kazandi-h1586233"
+   "https://www.ensonhaber.com/kardesiyle-baliga-cikti-1-milyon-dolar-kazandi-h1586233",
+   "https://www.ensonhaber.com/dunyaca-unlu-sefleri-bulusturan-gastromasa-11-kez-istanbulda-basladi-h1586234",
+   "https://www.ensonhaber.com/ak-partiye-gecen-busra-ozdemir-vicdanim-gayet-rahat-h1586235",
+   "https://www.ensonhaber.com/gurcistan-elcisi-disislerine-cagrildi-h1586236"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679925-unlulere-sorusturmada-son-dakika-gelismesi-tutuklama-haberi-geldi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679926-2008-krizini-bilen-burryden-dikkat-ceken-nasdaq-hamlesi",
    "https://www.haber7.com/dunya/haber/3679528-prens-williamin-evine-hirsiz-girdi-calinan-esyalar-ortaya-cikti",
    "https://www.haber7.com/dunya/haber/3679872-misirda-tanker-yangini-faciasi-cok-sayida-can-kaybi-var",
    "https://www.haber7.com/guncel/haber/3679927-ankarada-feto-firarisi-3-hukumlu-yakalandi",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/avrupa-ligleri/haber/3680386-fenerbahceden-ayrilan-dirk-kuyt-surpriz-bir-takimin-basina-geciyor",
    "https://spor.haber7.com/besiktas/haber/3680319-israil-ekibini-deviren-besiktas-yurda-dondu-milli-meseleydi",
    "https://www.haber7.com/samsun/3680385-ben-oldurdum-diyerek-kahkaha-atan-saniktan-akil-disi-savunma",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680342-turkiyenin-caydirici-gucu-yukseliyor-3-adet-nukleer-denizalti-uretilecek"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680342-turkiyenin-caydirici-gucu-yukseliyor-3-adet-nukleer-denizalti-uretilecek",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680387-istanbul-ve-ankara-yolculugu-2-saat-15-dakikaya-dusuyor-bursa-icin-geri-sayim-basladi",
+   "https://www.haber7.com/siyaset/haber/3680388-son-dakika-haberi-turkiyeden-gurcistana-nota-disislerine-cagrildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2253,8 +2253,6 @@
   ]
  },
  "recent_titles": [
-  "türk eximbank 740 milyon dolarlık kredi sağladı",
-  "son dakika türkiyelibya deniz yetki anlaşması libya resmi gazetesinde yayınlandı",
   "6 şubatı bilmişti frank hoogerbeetstan istanbul paylaşımı yakında çok büyük",
   "cristiano ronaldo saymaya devam ediyor 13 gol kaldı",
   "eskişehirde parktaki mezar görünümlü yapı belediye ekiplerince kaldırıldı",
@@ -3752,6 +3750,8 @@
   "türkiyenin caydırıcı gücü yükseliyor 3 adet nükleer denizaltı üretilecek",
   "istanbul ve ankara yolculuğu 2 saat 15 dakikaya düşüyor bursa için geri sayım başladı",
   "kardeşiyle balığa çıktı 1 milyon dolar kazandı",
-  "dünyaca ünlü şefleri buluşturan gastromasa 11 kez istanbulda başladı"
+  "dünyaca ünlü şefleri buluşturan gastromasa 11 kez istanbulda başladı",
+  "son dakika haberi türkiyeden gürcistana nota dışişlerine çağrıldı",
+  "gürcistan elçisi dışişlerine çağrıldı"
  ]
 }
