@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/surgundeki-katalan-lider-puigdemont-ulkesine-donuyor-h1585755",
    "https://www.ensonhaber.com/ingilteredeki-38-milyon-sterlinlik-dolandiricilik-davasinda-prens-andrew-detayi-h1585756",
    "https://www.ensonhaber.com/fenerbahce-taraftarlari-ile-ingilterede-gorev-yapan-turk-polis-arasinda-gulumseten-diyalog-h1585757",
    "https://www.ensonhaber.com/istanbulda-yabanci-uyruklu-kisilerin-bicakli-kavgasi-kanli-bitti-h1585758",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/istanbulda-elleme-bozuk-de-diyen-otomotiv-servisi-muhurlendi-h1586247",
    "https://www.ensonhaber.com/istanbulda-3-cocugun-supheli-olumune-iliskin-sorusturmada-7-gozalti-h1586248",
    "https://www.ensonhaber.com/samsunda-155-hayvan-uygunsuz-kosullarda-bulundu-mahkeme-karariyla-el-konuldu-h1586249",
-   "https://www.ensonhaber.com/filistinli-cocuklardan-besiktasa-tesekkur-mesaji-h1586250"
+   "https://www.ensonhaber.com/filistinli-cocuklardan-besiktasa-tesekkur-mesaji-h1586250",
+   "https://www.ensonhaber.com/tamir-hizmetlerinde-yaniltici-reklam-yapan-firmaya-1-milyon-tlyi-askin-ceza-h1586251"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/3sayfa/haber/3679951-22-milyar-tllik-operasyon-25-kisi-yakalandi",
    "https://www.haber7.com/dunya/haber/3679952-trump-ve-rutteden-onemli-toplanti",
    "https://spor.haber7.com/fenerbahce/haber/3679954-emre-belozoglu-tarihe-gecti",
    "https://ekonomi.haber7.com/ekonomi/haber/3679955-zafer-partili-eryilmazin-suizan-itham-ve-iftiralari-karsisinda-gercekler",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680405-interpol-kirmizi-bultenle-ariyordu-havalimaninda-yakalandi",
    "https://www.haber7.com/guncel/haber/3680407-istanbula-kis-geliyor-valilik-tarih-verdi-kar-uyarisi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680409-ev-almanin-en-uzun-surdugu-ulkeler-aciklandi-orada-bir-ev-almak-tam-388-yil-suruyor",
-   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-perde-2-macla-aciliyor-ilk-11ler-belli-oldu"
+   "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-perde-2-macla-aciliyor-ilk-11ler-belli-oldu",
+   "https://www.haber7.com/dunya/haber/3680410-atinadan-istanbula-kritik-ziyaret-tasulas-cumhurbaskani-erdogan-ile-gorusecek"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2265,8 +2265,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda otobüsler değişiyor işte yeni rengi",
-  "galatasaray ara vermeden derbi hazırlıklarına başladı",
   "mersinde yanan evde cesetleri bulunmuştu yeni rapor düzenlenecek",
   "antalyada kendilerini polis olarak tanıtarak aradıkları kadını 2 milyon lira dolandıranlar yakalandı",
   "mersinde yanan evde cesetleri bulunan çiftin ölümüne ilişkin yeni rapor düzenlenecek",
@@ -3764,6 +3762,8 @@
   "filistinli çocuklardan beşiktaşa teşekkür mesajı",
   "mustafa hoş fon vurgunu soruşturmasında üç kez gözaltına alınıp serbest bırakılan kemal akkayanın portresini çıkardı",
   "iranda yaşayan gazeteci demir anlattı iran savaş yeniden başlayacakmış gibi hazırlık yapıyor",
-  "küçükçekmecede dairede patlama 1 yaralı"
+  "küçükçekmecede dairede patlama 1 yaralı",
+  "atinadan istanbula kritik ziyaret tasulas cumhurbaşkanı erdoğan ile görüşecek",
+  "tamir hizmetlerinde yanıltıcı reklam yapan firmaya 1 milyon tlyi aşkın ceza"
  ]
 }
