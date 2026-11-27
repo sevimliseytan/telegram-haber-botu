@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679964-dolar-ve-euroda-son-durum-iste-guncel-rakamlar",
    "https://ekonomi.haber7.com/ekonomi/haber/3679967-dogal-gaz-sebekesinde-yeni-esik-erisim-orani-yuzde-97ye-firliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3679966-gidada-kasim-ayinin-zam-sampiyonlari-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679968-isvicre-ve-turkiye-is-dunyasi-20-ekonomi-forumunda-bulustu",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680419-bakan-bolat-5inci-ulusal-bahcelievler-kitap-fuarinin-acilis-torenine-katildi",
    "https://spor.haber7.com/super-lig/haber/3680408-super-ligde-2-mac-birden-canli",
    "https://ekonomi.haber7.com/ekonomi/haber/3680418-fon-tasfiyesinde-yeni-donem-odeme-bekleyenleri-ilgilendiren-gelisme",
-   "https://www.haber7.com/guncel/haber/3680420-27-kisiye-mezar-olmustu-girnedeki-gemi-faciasinda-ilk-karar"
+   "https://www.haber7.com/guncel/haber/3680420-27-kisiye-mezar-olmustu-girnedeki-gemi-faciasinda-ilk-karar",
+   "https://www.haber7.com/medya/haber/3680421-dugun-hazirliginda-gerilim-ve-evliligin-ilk-sinavlari-ulkede-hayatta"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2271,7 +2271,6 @@
   ]
  },
  "recent_titles": [
-  "fenerbahçe u19 shakhtar u19a farklı mağlup oldu",
   "kepez belediyesi soruşturmasında 24 şüpheli adliyede",
   "görenler uyku uyarısı sanıyor işte kısık göze benzeyen trafik levhasının anlamı",
   "ispanyaya yeni göç dalgası kanarya adalarına bir günde rekor sayıda göçmen",
@@ -3770,6 +3769,7 @@
   "süper ligde 2 maç birden  canli",
   "fon tasfiyesinde yeni dönem ödeme bekleyenleri ilgilendiren gelişme",
   "27 kişiye mezar olmuştu girnedeki gemi faciasında ilk karar",
-  "ünlülere yönelik uyuşturucu soruşturması deniz çakır özcan deniz ve burcu özberkin uyuşturucu testleri negatif çıktı"
+  "ünlülere yönelik uyuşturucu soruşturması deniz çakır özcan deniz ve burcu özberkin uyuşturucu testleri negatif çıktı",
+  "düğün hazırlığında gerilim ve evliliğin ilk sınavları ülkede hayatta"
  ]
 }
