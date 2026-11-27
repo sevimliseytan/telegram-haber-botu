@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/emlak-konut-bourges-baskete-fark-atti-h1585634",
-   "https://www.ensonhaber.com/besiktas-sakatligi-bulunan-oyunculara-iliskin-aciklama-yapti-h1585635",
-   "https://www.ensonhaber.com/trump-destekcilerinin-yuzde-78i-israile-destek-azalsin-istiyor-h1585636",
    "https://www.ensonhaber.com/anderson-taliscadan-al-jazirada-harika-gol-h1585637",
    "https://www.ensonhaber.com/arda-gulerin-kazak-muhabirle-diyalogu-gundem-oldu-h1585638",
    "https://www.ensonhaber.com/bakanlar-fon-meselesine-iliskin-ortak-basin-toplantisi-duzenleyecek-h1585639",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/elektrikli-arac-sahiplerine-uyari-uzatma-kablosu-ve-ev-priziyle-sarj-yasaklandi-h1586126",
    "https://www.ensonhaber.com/kayseride-dort-kez-olumun-kiyisindan-donen-taksici-akciger-kanserini-de-yendi-h1586127",
    "https://www.ensonhaber.com/besiktas-taraftari-israil-basinini-kudurttu-uefa-kurallarina-karsi-duzenlenen-protesto-h1586128",
-   "https://www.ensonhaber.com/konya-kapali-havzasinda-su-krizi-tuzlanma-tehlikesini-buyutuyor-h1586129"
+   "https://www.ensonhaber.com/konya-kapali-havzasinda-su-krizi-tuzlanma-tehlikesini-buyutuyor-h1586129",
+   "https://www.ensonhaber.com/iphone-18e-iphone-18-ve-iphone-air-2nin-tasarimi-ortaya-cikti-h1586130",
+   "https://www.ensonhaber.com/iran-abdnin-el-koydugu-iki-petrol-tankerini-geri-aldik-h1586131",
+   "https://www.ensonhaber.com/istanbulda-uyusturucu-operasyonu-173-kilo-metamfetamin-ele-gecirildi-h1586132"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679836-fransada-namazla-alay-eden-memur-hakkinda-karar-verildi",
-   "https://www.haber7.com/guncel/haber/3679837-ozcan-deniz-burcu-ozberk-ve-deniz-cakir-hakkinda-karar-1-isim-icin-tutuklama-talebi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679838-altinda-14-ay-sonra-bir-ilk-kritik-seviyeyi-gordu-piyasalarda-buyuk-hareketlilik",
    "https://ekonomi.haber7.com/ekonomi/haber/3679839-vatandaslara-mujde-izmirde-suya-dev-indirim-30-buyuksehir-arasinda-en-ucuzu-oldu",
    "https://www.haber7.com/guncel/haber/3679840-turkiyeden-riyada-saldiran-husilere-sert-tepki",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/otomobil/haber/3680288-1-milyon-599-bin-liraya-satisa-cikti-iste-fiatin-yeni-goz-bebekleri",
    "https://www.haber7.com/teknoloji/haber/3680287-nvidianin-en-guclu-cipleri-cine-mi-gidiyor-abdde-gundem-olan-satis-iddiasi",
    "https://spor.haber7.com/spor/haber/3680289-besiktas-macinin-ardindan-israil-medyasindan-hazimsizlik-dolu-yayin",
-   "https://www.haber7.com/guncel/haber/3680291-konyadan-ornek-olacak-teknoloji-hamlesi-havelsan-da-devrede"
+   "https://www.haber7.com/guncel/haber/3680291-konyadan-ornek-olacak-teknoloji-hamlesi-havelsan-da-devrede",
+   "https://www.haber7.com/guncel/haber/3680290-sehitlere-hakaret-eden-supheli-gozaltina-alindi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680293-bitcoinde-tepki-yukselisi-mi-kalici-toparlanma-mi-o-seviyeye-dikkat"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2215,11 +2215,6 @@
   ]
  },
  "recent_titles": [
-  "melis sezen amerikada pozları beğeni yağmuruna tutuldu",
-  "son dakika 60 ilde dev operasyon 280 kişi yakalandı",
-  "israilin şikayeti sonrası uefa konuştu filistin pankartları için karar belli oldu",
-  "fenerbahçe maçına saatler kala arda turan için ayrılık iddiası",
-  "yeni konutlarda dikkat çeken artış iskan alan daire sayısı yüzde 21 yükseldi",
   "abdülkadir uraloğlu türkiyenin demir yolu ağı son 25 yılda yüzde 30 büyüdü",
   "fon soruşturmasında adı geçti fatih erkoçtan açıklama geldi",
   "nihat kahveci unai emeryin maç sonu sözlerine ispanyolca cevap verdi adios hocam",
@@ -3714,6 +3709,11 @@
   "konya kapalı havzasında su krizi tuzlanma tehlikesini büyütüyor",
   "iphone 18e iphone 18 ve iphone air 2nin tasarımı ortaya çıktı",
   "iran abdnin el koyduğu iki petrol tankerini geri aldık",
-  "ticaret bakanı bolat putin ve erdoğanın ikili ticareti 100 milyar dolara çıkarma hedefine bağlıyız"
+  "ticaret bakanı bolat putin ve erdoğanın ikili ticareti 100 milyar dolara çıkarma hedefine bağlıyız",
+  "bitcoinde tepki yükselişi mi kalıcı toparlanma mı o seviyeye dikkat",
+  "israil kanalı seçim öncesi avrupalı lideri hedef aldı",
+  "vakıfbank kadın girişimciliği finansmanında avrupanın en iyisi seçildi",
+  "istanbulda uyuşturucu operasyonu 173 kilo metamfetamin ele geçirildi",
+  "ritmik 86 milyon kişinin kişisel sağlık asistanı olacak"
  ]
 }
