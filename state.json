@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/anderson-taliscadan-al-jazirada-harika-gol-h1585637",
-   "https://www.ensonhaber.com/arda-gulerin-kazak-muhabirle-diyalogu-gundem-oldu-h1585638",
    "https://www.ensonhaber.com/bakanlar-fon-meselesine-iliskin-ortak-basin-toplantisi-duzenleyecek-h1585639",
    "https://www.ensonhaber.com/shakhtar-donetsk-fenerbahce-macinin-ilk-11leri-h1585640",
    "https://www.ensonhaber.com/mardin-1969-spor-nafican-yardimcinin-sakatligina-iliskin-aciklama-yapti-h1585641",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/konya-kapali-havzasinda-su-krizi-tuzlanma-tehlikesini-buyutuyor-h1586129",
    "https://www.ensonhaber.com/iphone-18e-iphone-18-ve-iphone-air-2nin-tasarimi-ortaya-cikti-h1586130",
    "https://www.ensonhaber.com/iran-abdnin-el-koydugu-iki-petrol-tankerini-geri-aldik-h1586131",
-   "https://www.ensonhaber.com/istanbulda-uyusturucu-operasyonu-173-kilo-metamfetamin-ele-gecirildi-h1586132"
+   "https://www.ensonhaber.com/istanbulda-uyusturucu-operasyonu-173-kilo-metamfetamin-ele-gecirildi-h1586132",
+   "https://www.ensonhaber.com/ritmik-86-milyon-kisinin-kisisel-saglik-asistani-olacak-h1586133",
+   "https://www.ensonhaber.com/tarlada-goren-patates-sandi-altin-kulcesi-cikti-h1586134"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3679838-altinda-14-ay-sonra-bir-ilk-kritik-seviyeyi-gordu-piyasalarda-buyuk-hareketlilik",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679839-vatandaslara-mujde-izmirde-suya-dev-indirim-30-buyuksehir-arasinda-en-ucuzu-oldu",
-   "https://www.haber7.com/guncel/haber/3679840-turkiyeden-riyada-saldiran-husilere-sert-tepki",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679839-izmirde-vatandaslara-mujde-su-tarifelerine-yuzde-63-indirim-yapildi",
    "https://www.haber7.com/guncel/haber/3679841-kararname-cikti-957-hakim-ve-savcinin-yeri-degisti-9-ilin-bassavciliginda-degisiklik",
    "https://ekonomi.haber7.com/ekonomi/haber/3679842-asgari-ucrette-4-farkli-zam-senaryosu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679843-ticaret-bakanligindan-cicek-satis-platformuna-863-bin-lira-ceza",
@@ -1391,7 +1387,11 @@
    "https://spor.haber7.com/spor/haber/3680289-besiktas-macinin-ardindan-israil-medyasindan-hazimsizlik-dolu-yayin",
    "https://www.haber7.com/guncel/haber/3680291-konyadan-ornek-olacak-teknoloji-hamlesi-havelsan-da-devrede",
    "https://www.haber7.com/guncel/haber/3680290-sehitlere-hakaret-eden-supheli-gozaltina-alindi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680293-bitcoinde-tepki-yukselisi-mi-kalici-toparlanma-mi-o-seviyeye-dikkat"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680293-bitcoinde-tepki-yukselisi-mi-kalici-toparlanma-mi-o-seviyeye-dikkat",
+   "https://www.haber7.com/guncel/haber/3680276-lezzet-tutkunlarinin-yeni-yol-haritasi-incili-gastronomi-rehberi",
+   "https://www.haber7.com/dunya/haber/3680292-israil-kanali-secim-oncesi-avrupali-lideri-hedef-aldi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680294-vakifbank-kadin-girisimciligi-finansmaninda-avrupanin-en-iyisi-secildi",
+   "https://www.haber7.com/balikesir/3680295-milletvekili-canbey-5-milyar-tlyi-asan-3-projesi-yerinde-inceledi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2184,7 +2184,8 @@
    "https://anlatilaninotesi.com.tr/20261127/emekliye-ek-zam-icin-kritik-toplanti-masada-3-formul-var-1110635675.html",
    "https://anlatilaninotesi.com.tr/20261127/mustafa-sarigulun-dokunulmazlik-dosyasi-mecliste-1110636689.html",
    "https://anlatilaninotesi.com.tr/20261127/havalimaninda-feci-kaza-ucak-pervanesine-carpan-kadin-oldu-1110636982.html",
-   "https://anlatilaninotesi.com.tr/20261127/ticaret-bakani-bolat-putin-ve-erdoganin-ikili-ticareti-100-milyar-dolara-cikarma-hedefine-bagliyiz-1110637209.html"
+   "https://anlatilaninotesi.com.tr/20261127/ticaret-bakani-bolat-putin-ve-erdoganin-ikili-ticareti-100-milyar-dolara-cikarma-hedefine-bagliyiz-1110637209.html",
+   "https://anlatilaninotesi.com.tr/20261127/tilki-selim-lakapli-selim-isik-yakalandi-saunanin-icindeki-gizli-bolumde-bulundu--1110637826.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2215,13 +2216,6 @@
   ]
  },
  "recent_titles": [
-  "abdülkadir uraloğlu türkiyenin demir yolu ağı son 25 yılda yüzde 30 büyüdü",
-  "fon soruşturmasında adı geçti fatih erkoçtan açıklama geldi",
-  "nihat kahveci unai emeryin maç sonu sözlerine ispanyolca cevap verdi adios hocam",
-  "adanada 15 yaşındaki tetikçi tarafından öldürdü ölüm tehdidi iddiası",
-  "kuzey koreden düşmanca sinyal sonrası net talimat",
-  "ambargo uygulansa da geri adım atmıyor kazancını gazzeye yolluyor",
-  "ak parti sözcüsü çelik kadına yönelik şiddet ortak değerlerimize saldırıdır",
   "uzmanlar uyardı ekran bağımlılığı cildin yaşlanmasını ve lekelenmeyi hızlandırabiliyor",
   "eski tff başkanı mehmet büyükekşi galatasaray maçında görüntülendi",
   "kombideki es geçilen ayar herkes aynı dereceye getiriyor",
@@ -3714,6 +3708,13 @@
   "israil kanalı seçim öncesi avrupalı lideri hedef aldı",
   "vakıfbank kadın girişimciliği finansmanında avrupanın en iyisi seçildi",
   "istanbulda uyuşturucu operasyonu 173 kilo metamfetamin ele geçirildi",
-  "ritmik 86 milyon kişinin kişisel sağlık asistanı olacak"
+  "ritmik 86 milyon kişinin kişisel sağlık asistanı olacak",
+  "milletvekili canbey 5 milyar tlyi aşan 3 projesi yerinde inceledi",
+  "vakıf katılıma global banking and markets awardsdan yılın banka sukuk ihracı ödülü",
+  "kokoreç tezgahında uyuşturucu bulundu iş yeri sahibi tutuklandı",
+  "tarlada gören patates sandı altın külçesi çıktı",
+  "şaban sevinç ve mustafa balcı hakkında tahliye kararı",
+  "tilki selim lakaplı selim işık yakalandı saunanın içindeki gizli bölümde bulundu",
+  "petrol fiyatlarında abdiran gerilimi opec piyasaya yön verebilecek mi"
  ]
 }
