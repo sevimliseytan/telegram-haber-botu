@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/donald-trumptan-14-ticaret-ortagina-yuzde-20lik-yeni-gumruk-vergisi-onerisi-h1585643",
-   "https://www.ensonhaber.com/galatasaray-pge-budowlani-deplasmaninda-kazandi-h1585644",
-   "https://www.ensonhaber.com/emre-belozoglundan-guendouzi-sorusuna-yanit-h1585645",
-   "https://www.ensonhaber.com/galatasaray-kangoeroes-basket-mecheleni-rahat-gecti-h1585646",
    "https://www.ensonhaber.com/fenerbahce-rapid-bukrese-sans-tanimadi-h1585647",
    "https://www.ensonhaber.com/istanbulda-otomotiv-servisinde-12-bin-liralik-dolandiricilik-3-gozalti-h1585648",
    "https://www.ensonhaber.com/arda-turan-ile-emre-belozoglunun-mucadelesi-tarihe-gecti-h1585649",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/saban-sevinc-ve-mustafa-balci-hakkinda-tahliye-karari-h1586135",
    "https://www.ensonhaber.com/dsinin-2027-butcesinde-oncelik-su-ve-toprak-kaynaklarinin-yonetimi-olacak-h1586136",
    "https://www.ensonhaber.com/yapay-zeka-gogolun-yakilan-romanini-tamamladi-h1586137",
-   "https://www.ensonhaber.com/direksiyon-basinda-kalp-ritmi-dinlenme-seviyesine-donemiyor-h1586138"
+   "https://www.ensonhaber.com/direksiyon-basinda-kalp-ritmi-dinlenme-seviyesine-donemiyor-h1586138",
+   "https://www.ensonhaber.com/mars-meteoritinde-daha-once-rastlanmamis-granat-minerali-bulundu-h1586139",
+   "https://www.ensonhaber.com/muhammed-salah-trabzonsporu-sirtlamaya-devam-ediyor-h1586140",
+   "https://www.ensonhaber.com/bitliste-gonullu-kadinlar-koy-cocuklari-icin-atki-oruyor-h1586141",
+   "https://www.ensonhaber.com/kocaelide-izinsiz-hafriyat-doken-2-firmaya-46-milyon-lira-ceza-h1586142"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679846-arda-guler-dunya-yildizlarini-solladi-devler-liginin-en-degerli-10-numarali-aciklandi",
-   "https://www.haber7.com/guncel/haber/3679847-sariyerde-2-gun-aranan-aslan-olayinin-perde-arkasi-ortaya-cikti-her-sey-boyle-baslamis",
-   "https://www.haber7.com/guncel/haber/3679848-ev-sahipleri-dikkat-danistaydan-emsal-karar-habersiz-yapilamaz",
    "https://ekonomi.haber7.com/ekonomi/haber/3679849-dunya-ekonomi-ve-finans-cevreleri-palandokende-bulusacak-tarih-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3679850-tarimda-yeni-sezon-yagis-bereketiyle-basladi-son-16-yilin-rekoru-kirildi",
    "https://spor.haber7.com/besiktas/haber/3679851-korku-dolu-anlar-besiktas-rizeye-zorunlu-inis-yapti-hayatimdaki-en-kotu-ucustu",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/guncel/haber/3680297-kokorec-tezgahinda-uyusturucu-bulundu-is-yeri-sahibi-tutuklandi",
    "https://www.haber7.com/medya/haber/3680298-kalbim-sana-emanet-66-bolum-rajanin-mucizevi-kurtulusu",
    "https://www.haber7.com/guncel/haber/3680299-unutulan-miras-yillar-sonra-satiliyor-degeri-177-milyon-lira",
-   "https://www.haber7.com/medya/haber/3680301-bilmezler-ki-kalbimdesin-133-bolum-imlie-bebegini-kaybediyor"
+   "https://www.haber7.com/medya/haber/3680301-bilmezler-ki-kalbimdesin-133-bolum-imlie-bebegini-kaybediyor",
+   "https://www.haber7.com/guncel/haber/3680300-gazeteciler-saban-sevinc-ve-mustafa-balci-hakkinda-karar",
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680302-besiktas-hapoel-maci-dunyada-gundem-oldu-israil-basininda-besiktasa-skandal-sozler",
+   "https://www.haber7.com/medya/haber/3680303-gelin-523-bolum-cihanin-ofkesi-diniyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2217,11 +2217,6 @@
   ]
  },
  "recent_titles": [
-  "77 yıllık tarım devinde kayyım dönemi yönetimin yetkileri tedbiren sınırlandırıldı",
-  "abdülkadir uraloğlu araç muayenesinde kredi kartı komisyonu alınmayacak",
-  "rizede tarihi dokuma geleneği kendir ipliğiyle yeniden canlanıyor",
-  "karadenizde palamut bereketi balıkçılar 80 yılın rekor sezonunu yaşıyor",
-  "dani dyer babası danny dyerın müstehcen sahneleri sorulunca utandı",
   "bakanlık duyurdu sosyal medyada tetikçi arayan yeni nesil suç örgütlerine darbe",
   "iran abdyi ölümcül saldırılarda yapay zeka kullanmakla suçladı",
   "gündemdeki lastikçi karşı tarafı suçladı 20 yıllık emeğimiz yok oldu kazancımız helaldir",
@@ -3716,6 +3711,11 @@
   "direksiyon başında kalp ritmi dinlenme seviyesine dönemiyor",
   "mars meteoritinde daha önce rastlanmamış granat minerali bulundu",
   "muhammed salah trabzonsporu sırtlamaya devam ediyor",
-  "bitliste gönüllü kadınlar köy çocukları için atkı örüyor"
+  "bitliste gönüllü kadınlar köy çocukları için atkı örüyor",
+  "gelin 523 bölüm cihanın öfkesi diniyor",
+  "ito başkanı şekib avdagiç 86 milyon türkiye seninle gurur duyuyor kara kartal",
+  "narin güran davasında 4üncü duruşma 15 sanık yargılandı",
+  "kocaelide izinsiz hafriyat döken 2 firmaya 46 milyon lira ceza",
+  "gürcü hamsisi nasıl anlaşılır işte yerli hamsiden ayıran özellik"
  ]
 }
