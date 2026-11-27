@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/guney-korede-borsadaki-dususu-yorumlayan-sunucu-gozyaslarini-tutamadi-h1585782",
    "https://www.ensonhaber.com/istanbulda-otomobilin-icinde-silahla-vurulmus-halde-olu-bulundu-elinde-uzun-namlulu-silah-h1585783",
    "https://www.ensonhaber.com/ali-sami-yenin-101-yillik-tarihi-cep-saati-muzayedeye-cikiyor-h1585784",
    "https://www.ensonhaber.com/gaziantepte-oldurdugu-arkadasinin-banka-hesabina-girerek-borclarini-odedi-h1585785",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/israilde-eisenkotun-hukumeti-kisa-surede-kurmasi-bekleniyor-h1586274",
    "https://www.ensonhaber.com/aydinda-motosikletin-yayalara-carptigi-anlar-kamerada-3-yarali-h1586275",
    "https://www.ensonhaber.com/istanbul-esenyurtta-korna-calan-surucuyu-darbeden-sahislara-371-bin-lira-ceza-kesildi-h1586276",
-   "https://www.ensonhaber.com/istanbul-beykozda-hatali-sollama-nedeniyle-otomobiller-carpisti-h1586277"
+   "https://www.ensonhaber.com/istanbul-beykozda-hatali-sollama-nedeniyle-otomobiller-carpisti-h1586277",
+   "https://www.ensonhaber.com/boluda-dustugu-traktorun-altinda-kalan-sahis-oldu-h1586278"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2252,7 +2252,8 @@
    "https://anlatilaninotesi.com.tr/20261128/fransada-cumhurbaskani-adayi-melenchondan-almanyaya-cagri-rusyaya-karsi-tonu-yumusatin-1110653367.html",
    "https://anlatilaninotesi.com.tr/20261128/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasi-18-kisi-tutuklandi-1110653507.html",
    "https://anlatilaninotesi.com.tr/20261128/spkden-553-milyon-liralik-idari-para-cezasi-1110653684.html",
-   "https://anlatilaninotesi.com.tr/20261128/merkez-bankasindan-elektronik-para-kurulusuna-faaliyet-yasagi-1110653820.html"
+   "https://anlatilaninotesi.com.tr/20261128/merkez-bankasindan-elektronik-para-kurulusuna-faaliyet-yasagi-1110653820.html",
+   "https://anlatilaninotesi.com.tr/20261128/yunus-akgunun-mutlu-gunu-nikahina-futbol-dunyasi-akin-etti-1110654204.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2284,8 +2285,6 @@
   ]
  },
  "recent_titles": [
-  "957 hakim ve savcının görev yeri değişti",
-  "bayernden musiala için sözleşme açıklaması",
   "957 hakim ve savcının görev yerinde değişikliğe gidildi",
   "sümer varlık yönetime tmsf kayyumu atandı yeni yönetim kurulu belli oldu",
   "arda güler dünya yıldızlarını solladı devler liginin en değerli 10 numaralı açıklandı",
@@ -3783,6 +3782,8 @@
   "aydında motosikletin yayalara çarptığı anlar kamerada 3 yaralı",
   "istanbul esenyurtta korna çalan sürücüyü darbeden şahıslara 371 bin lira ceza kesildi",
   "boludan güzel haber geldi bakan göktaş kayıp 13 kişi bulundu",
-  "istanbul beykozda hatalı sollama nedeniyle otomobiller çarpıştı"
+  "istanbul beykozda hatalı sollama nedeniyle otomobiller çarpıştı",
+  "boluda düştüğü traktörün altında kalan şahıs öldü",
+  "yunus akgünün mutlu günü nikahına futbol dünyası akın etti"
  ]
 }
