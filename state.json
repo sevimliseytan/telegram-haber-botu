@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/shakhtar-donetsk-galibiyeti-fenerbahcenin-kasasini-doldurdu-h1585726",
-   "https://www.ensonhaber.com/mersinde-sari-lacivert-renklere-boyanan-ev-dikkat-cekiyor-h1585727",
    "https://www.ensonhaber.com/abdde-piyangodan-1-milyon-dolar-kazanan-el-salvadorlu-duzensiz-gocmen-cikti-deport-edilmek-h1585728",
    "https://www.ensonhaber.com/turkiye-dogalgaz-sebekesinde-avrupada-ilk-3te-h1585729",
    "https://www.ensonhaber.com/cumhurbaskani-erdoganin-hafter-kabulu-yunan-basininda-gundem-oldu-h1585730",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/istanbulda-donus-yapmak-isterken-kaza-yapti-h1586218",
    "https://www.ensonhaber.com/2-saatlik-yolu-2-dakikaya-indirdi-33-milyon-kisi-kopruyu-gormeye-geldi-h1586219",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-unesco-genel-direktoru-el-enanyyi-kabul-etti-h1586220",
-   "https://www.ensonhaber.com/amasyada-insaatta-bulup-besledigi-kediyle-aralarinda-bag-olustu-h1586221"
+   "https://www.ensonhaber.com/amasyada-insaatta-bulup-besledigi-kediyle-aralarinda-bag-olustu-h1586221",
+   "https://www.ensonhaber.com/hatayda-otomobilin-uzerindeki-cantanin-calindigi-anlar-kamerada-h1586222",
+   "https://www.ensonhaber.com/fransada-polisin-gosterilerde-ses-bombasi-kullanmasi-yasaklandi-h1586223"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3679901-baskentte-feto-operasyonu-3-firari-yakalandi",
    "https://www.haber7.com/guncel/haber/3679913-son-dakika-sahap-kavcioglu-hakkinda-sorusturma-izni-verildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679912-son-dakika-bakan-simsek-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-verdi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679914-turkiyede-kripto-varliklara-yonelik-yillik-yeni-yatirim-tahmini-593-milyar-dolar",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680373-dunya-ekonomisinin-kalbi-palandokende-atacak-dev-zirveye-ust-duzey-isimler-katilacak",
    "https://spor.haber7.com/besiktas/haber/3680378-onder-ozenden-galatasaray-derbisi-hakkinda-aciklama-erteleme-talebi-olacak-mi",
    "https://spor.haber7.com/besiktas/haber/3680319-israil-ekibini-deviren-besiktas-yurda-dondu-turkiye-arkamizdaydi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680380-dunyada-145-ulke-arasinda-turkiye-ruzgari-turkiyeden-kiskandiran-hamle"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680380-dunyada-145-ulke-arasinda-turkiye-ruzgari-turkiyeden-kiskandiran-hamle",
+   "https://www.haber7.com/guncel/haber/3680382-konyaya-376-milyon-lira-bedelle-20-yeni-cevreci-otobus"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2251,10 +2251,6 @@
   ]
  },
  "recent_titles": [
-  "akom açıkladı istanbula ne zaman kar yağar",
-  "bollywood sendikasından pakistan dizisine hindistanda yasak talebi ekranlarımızda yer yok",
-  "gsaray tüm kayıtların peşinde okan buruk için derbi iddiası ve ali şansalan kararı",
-  "50 bin ton tahıl ürününe el konuldu küf fare ve kuş dışkısı çıktı",
   "boluda 4 aracın karıştığı kazada yaralanan kadın kurtarılamadı",
   "avrupada otomobil satışları ekimde arttı işte son rakamlar",
   "maneviyata yönelmişti yaşar alptekin ticarete atıldı",
@@ -3750,6 +3746,10 @@
   "dünyada 145 ülke arasında türkiye rüzgarı türkiyeden kıskandıran hamle",
   "amasyada inşaatta bulup beslediği kediyle aralarında bağ oluştu",
   "hatayda otomobilin üzerindeki çantanın çalındığı anlar kamerada",
-  "50 metrelik bir canavar godzilla nasıl bir atmosferde doğdu"
+  "50 metrelik bir canavar godzilla nasıl bir atmosferde doğdu",
+  "konyaya 376 milyon lira bedelle 20 yeni çevreci otobüs",
+  "paraya para demeyen meslekler belli oldu yapay zeka onları etkileyemedi",
+  "fransada polisin gösterilerde ses bombası kullanması yasaklandı",
+  "derbi ertelenecek mi beşiktaş cephesinden açıklama geldi"
  ]
 }
