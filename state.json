@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/gta-6ya-erisim-engeli-gerekcesi-aciklandi-h1585568",
-   "https://www.ensonhaber.com/abdde-enflasyon-ekimde-yillik-yuzde-38-artti-h1585569",
    "https://www.ensonhaber.com/batmanda-ahirda-cikan-yanginda-109-keci-telef-oldu-h1585570",
    "https://www.ensonhaber.com/corumda-hayvan-pazarindaki-kavgada-kan-dokuldu-h1585571",
    "https://www.ensonhaber.com/istanbulda-otobusler-degisiyor-iste-yeni-rengi-h1585572",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/amasyada-asirlik-cinar-gunlerini-namaz-kilarak-geciriyor-h1586060",
    "https://www.ensonhaber.com/diyarbakirda-magarada-bulunan-bircok-kafatasi-ve-kemik-incelenmek-uzere-istanbula-gonderil-h1586061",
    "https://www.ensonhaber.com/gurcu-polisinin-iki-yuzlulugu-israil-bayragini-gormezden-geldiler-h1586062",
-   "https://www.ensonhaber.com/murat-kurumdan-tipli-vekile-tepki-istedigin-kadar-polemik-yap-onemi-yok-h1586063"
+   "https://www.ensonhaber.com/murat-kurumdan-tipli-vekile-tepki-istedigin-kadar-polemik-yap-onemi-yok-h1586063",
+   "https://www.ensonhaber.com/avm-kapali-otoparklarinda-lpgli-arac-yasagi-belirli-sartlarla-kalkiyor-h1586064",
+   "https://www.ensonhaber.com/suriyede-feshedilen-sdg-mensubu-ilham-ahmed-meclise-atandi-h1586065"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,11 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/diger-branslar/haber/3679757-transferde-yildiz-degil-dogru-planlama-kazandiriyor-esenlerde-futbol-zirvesi",
-   "https://www.haber7.com/guncel/haber/3679759-haluk-levent-onu-degil-beni-tutuklayin",
-   "https://ekonomi.haber7.com/ekonomi/haber/3679760-insansiz-hava-platformlarinda-dinamik-hedef-angajmani-tolun-l-ilk-atis-testinde",
-   "https://www.haber7.com/yasam/haber/3663598-ehliyet-alacaklarin-bilmesi-gerekiyor-yeni-kurallar-netlik-kazandi",
-   "https://www.haber7.com/guncel/haber/3679761-cumhurbaskani-erdogandan-onemli-aciklamalar",
    "https://www.haber7.com/otomobil/haber/3679763-turkiyenin-en-zengin-patronlari-bakin-hangi-otomobile-biniyor-iste-milyarderlerin-garaji",
    "https://ekonomi.haber7.com/ekonomi/haber/3679765-merkez-bankasindan-likidite-adimi-tl-depo-alim-ihaleleri-acildi",
    "https://spor.haber7.com/voleybol/haber/3679764-son-sampiyon-filenin-sultanlari-yeniden-sahneye-cikiyor-rakipleri-belli-oldu",
@@ -1391,7 +1386,12 @@
    "https://www.haber7.com/saglik/haber/3680217-filmim-temiz-demek-akcigerlerin-saglam-oldugu-anlamina-gelmiyor",
    "https://www.haber7.com/guncel/haber/3680216-gurcistanin-derdi-ne",
    "https://ekonomi.haber7.com/ekonomi/haber/3680220-motorine-indirim-geldi-gozler-artik-benzin-fiyatlarinda",
-   "https://www.haber7.com/dunya/haber/3680219-nato-savas-ucaklari-havalandi-avrupa-ulkesinde-sabaha-karsi-alarm-verildi"
+   "https://www.haber7.com/dunya/haber/3680219-nato-savas-ucaklari-havalandi-avrupa-ulkesinde-sabaha-karsi-alarm-verildi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680218-tarih-kapiyi-calarken-turk-dunyasi-ne-kadar-duyuyor",
+   "https://www.haber7.com/ulkede-bugun/haber/3680221-hatayda-ogrenciler-zimem-defteri-gelenegiyle-mahallenin-borclarini-odedi",
+   "https://www.haber7.com/biyografi/haber/3680223-yeni-bddk-baskani-yusuf-kenan-bagir-kimdir",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680222-askerde-tanidigi-meyveyi-30-yil-sonra-bahcesine-ekti-bir-fidanla-basladi-80-agaca-ulasti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680224-hsbcden-tcmbnin-faiz-kararina-iliskin-yeni-analiz"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2197,10 +2197,6 @@
   ]
  },
  "recent_titles": [
-  "edirnede 1200 dönümlük tarihi dönüşüm sarayda restorasyon heyecanı",
-  "shakhtar donetsk  fenerbahçe muhtemel 11ler",
-  "denizlide çarptığı ağaç ikiye bölündü genç sürücü hayatını kaybetti",
-  "galatasaray ve okan burukun gurur gecesi",
   "sürücülerin cebini yakan o kesinti bitiyor bakan tarih verip noktayı koydu",
   "lucas torreira galibiyeti gece kulübünde kutladı",
   "abdülkadir uraloğlu hgsde usule uygun yapılmamış bütün ödemeleri iade ettireceğiz",
@@ -3696,6 +3692,10 @@
   "hsbcden tcmbnin faiz kararına ilişkin yeni analiz",
   "murat kurumdan tipli vekile tepki istediğin kadar polemik yap önemi yok",
   "avm otoparklarında lpgli araç düzenlemesi 2028de yürürlüğe girecek",
-  "husiler suudi arabistandaki petrol tesislerini hedef aldı karşılıklı saldırılar tırmanıyor"
+  "husiler suudi arabistandaki petrol tesislerini hedef aldı karşılıklı saldırılar tırmanıyor",
+  "suriyede feshedilen sdg mensubu ilham ahmed meclise atandı",
+  "bilecikte bacadan çıkan yangında iki katlı ev yandı",
+  "fiat fastback ve grizzly için opsiyon fiyatları açıklandı",
+  "murat kurumdan muhalefete cop31 cevabı türkiye kimsenin piyonu olmadı"
  ]
 }
