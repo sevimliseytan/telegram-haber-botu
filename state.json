@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sumer-varlik-yonetime-tmsf-kayyum-olarak-atandi-h1585633",
    "https://www.ensonhaber.com/emlak-konut-bourges-baskete-fark-atti-h1585634",
    "https://www.ensonhaber.com/besiktas-sakatligi-bulunan-oyunculara-iliskin-aciklama-yapti-h1585635",
    "https://www.ensonhaber.com/trump-destekcilerinin-yuzde-78i-israile-destek-azalsin-istiyor-h1585636",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/istanbulda-7-yil-hapis-cezasiyla-aranan-sahis-gizli-bolmede-yakalandi-h1586125",
    "https://www.ensonhaber.com/elektrikli-arac-sahiplerine-uyari-uzatma-kablosu-ve-ev-priziyle-sarj-yasaklandi-h1586126",
    "https://www.ensonhaber.com/kayseride-dort-kez-olumun-kiyisindan-donen-taksici-akciger-kanserini-de-yendi-h1586127",
-   "https://www.ensonhaber.com/besiktas-taraftari-israil-basinini-kudurttu-uefa-kurallarina-karsi-duzenlenen-protesto-h1586128"
+   "https://www.ensonhaber.com/besiktas-taraftari-israil-basinini-kudurttu-uefa-kurallarina-karsi-duzenlenen-protesto-h1586128",
+   "https://www.ensonhaber.com/konya-kapali-havzasinda-su-krizi-tuzlanma-tehlikesini-buyutuyor-h1586129"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3679833-houston-texans-oyuncusu-al-shaairden-sahada-filistin-protestosu",
-   "https://www.haber7.com/yerel-secim/haber/3679834-gaziantepte-tam-bugday-ekmegi-donemi-turkiyeye-ornek-olacak-proje-icin-imzalar-atildi",
-   "https://www.haber7.com/guncel/haber/3679835-2-balkan-turk-toplumu-bulusmasi-sonuc-raporu-yayinlandi",
    "https://www.haber7.com/dunya/haber/3679836-fransada-namazla-alay-eden-memur-hakkinda-karar-verildi",
    "https://www.haber7.com/guncel/haber/3679837-ozcan-deniz-burcu-ozberk-ve-deniz-cakir-hakkinda-karar-1-isim-icin-tutuklama-talebi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679838-altinda-14-ay-sonra-bir-ilk-kritik-seviyeyi-gordu-piyasalarda-buyuk-hareketlilik",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/siyaset/haber/3680282-mustafa-sarigulun-dokunulmazlik-dosyasi-mecliste",
    "https://spor.haber7.com/galatasaray/haber/3680284-lucas-torreira-besiktas-macinda-tarihe-gececek",
    "https://www.haber7.com/dunya/haber/3680286-meksika-devlet-baskani-trump-yonetimini-hedef-aldi",
-   "https://www.haber7.com/otomobil/haber/3680288-1-milyon-599-bin-liraya-satisa-cikti-iste-fiatin-yeni-goz-bebekleri"
+   "https://www.haber7.com/otomobil/haber/3680288-1-milyon-599-bin-liraya-satisa-cikti-iste-fiatin-yeni-goz-bebekleri",
+   "https://www.haber7.com/teknoloji/haber/3680287-nvidianin-en-guclu-cipleri-cine-mi-gidiyor-abdde-gundem-olan-satis-iddiasi",
+   "https://spor.haber7.com/spor/haber/3680289-besiktas-macinin-ardindan-israil-medyasindan-hazimsizlik-dolu-yayin",
+   "https://www.haber7.com/guncel/haber/3680291-konyadan-ornek-olacak-teknoloji-hamlesi-havelsan-da-devrede"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2183,7 +2183,8 @@
    "https://anlatilaninotesi.com.tr/20261127/batumda-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-1110635872.html",
    "https://anlatilaninotesi.com.tr/20261127/emekliye-ek-zam-icin-kritik-toplanti-masada-3-formul-var-1110635675.html",
    "https://anlatilaninotesi.com.tr/20261127/mustafa-sarigulun-dokunulmazlik-dosyasi-mecliste-1110636689.html",
-   "https://anlatilaninotesi.com.tr/20261127/havalimaninda-feci-kaza-ucak-pervanesine-carpan-kadin-oldu-1110636982.html"
+   "https://anlatilaninotesi.com.tr/20261127/havalimaninda-feci-kaza-ucak-pervanesine-carpan-kadin-oldu-1110636982.html",
+   "https://anlatilaninotesi.com.tr/20261127/ticaret-bakani-bolat-putin-ve-erdoganin-ikili-ticareti-100-milyar-dolara-cikarma-hedefine-bagliyiz-1110637209.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2214,12 +2215,6 @@
   ]
  },
  "recent_titles": [
-  "nihat kahveci unai emeryin maç sonu sözlerine çok sinirlendi",
-  "balığa rakip çıktı omega3ü zirveye taşıyor kapış kapış gidiyor",
-  "halka arzdan sonra ilk veriler geldi yaklaşık 200 milyar dolarlık değer kaybı yaşadı",
-  "zeytinyağının kalitesini düşüren 5 hata saklarken bu hataları yapmayın",
-  "şile belediyesi davasında tanıklığı dinlenen haluk levent yeliz kaya yerine benim tutuklanmam gerekiyor",
-  "tammy abrahamdan beşiktaş sözleri özlüyorum",
   "melis sezen amerikada pozları beğeni yağmuruna tutuldu",
   "son dakika 60 ilde dev operasyon 280 kişi yakalandı",
   "israilin şikayeti sonrası uefa konuştu filistin pankartları için karar belli oldu",
@@ -3713,6 +3708,12 @@
   "beşiktaş maçının ardından israil medyasından hazımsızlık dolu yayın",
   "beşiktaş taraftarı israil basınını kudurttu uefa kurallarına karşı düzenlenen protesto",
   "havalimanında feci kaza uçak pervanesine çarpan kadın öldü",
-  "bir kitap bir umut bir şehide vefa"
+  "bir kitap bir umut bir şehide vefa",
+  "konyadan örnek olacak teknoloji hamlesi havelsan da devrede",
+  "şehitlere hakaret eden şüpheli gözaltına alındı",
+  "konya kapalı havzasında su krizi tuzlanma tehlikesini büyütüyor",
+  "iphone 18e iphone 18 ve iphone air 2nin tasarımı ortaya çıktı",
+  "iran abdnin el koyduğu iki petrol tankerini geri aldık",
+  "ticaret bakanı bolat putin ve erdoğanın ikili ticareti 100 milyar dolara çıkarma hedefine bağlıyız"
  ]
 }
