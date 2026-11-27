@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kolombiyada-68-kisinin-kurtarildigi-rehine-operasyonunun-goruntuleri-h1585702",
    "https://www.ensonhaber.com/bankalar-devrede-starbucks-satiliyor-h1585703",
    "https://www.ensonhaber.com/dogukan-gungorden-sasirtan-itirafi-ilk-basrolunu-alinca-benden-ayrildi-h1585704",
    "https://www.ensonhaber.com/iranda-hayatini-kaybeden-turk-vatandaslarinin-cenazeleri-turkiyeye-getirildi-h1585705",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/uefanin-batumdaki-olaylara-iliskin-aciklamasi-pes-dedirtti-h1586194",
    "https://www.ensonhaber.com/kizilcik-serbetinde-baba-ogul-surprizi-abdullahin-dostu-geliyor-nursemaya-ortak-cikiyor-h1586195",
    "https://www.ensonhaber.com/avrupada-kar-ve-buzlanma-isvicrede-37-arac-carpisti-almanyada-400den-fazla-kaza-yasandi-h1586196",
-   "https://www.ensonhaber.com/bursa-ankara-ve-istanbula-hizli-trenle-baglaniyor-h1586197"
+   "https://www.ensonhaber.com/bursa-ankara-ve-istanbula-hizli-trenle-baglaniyor-h1586197",
+   "https://www.ensonhaber.com/evi-arabayi-sattirdi-suleymani-kandiran-kadinin-gercek-hali-ortaya-cikti-h1586198"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679862-londrada-zafer-fenerin-arda-turanin-shakhtarini-devirdi",
-   "https://www.haber7.com/guncel/haber/3679882-sifa-vaadiyle-dolandiriciliga-4-tutuklama",
-   "https://www.haber7.com/dunya/haber/3679883-99-yillik-market-kapaniyor-unlu-musterileri-bile-kurtaramadi",
    "https://www.haber7.com/dunya/haber/3679884-ingiltere-tum-savas-ucaklarini-hangarlara-tasidi-sebebi-soke-etti",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679885-bayern-munihten-sok-maglubiyet-iste-gecenin-sonuclari",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679886-emre-belozoglu-kazanarak-devam-edersek-neden-olmasin",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/teknoloji/haber/3680318-trumptan-muska-dev-yetki-uzaya-kurulacak-1-milyon-uydu-icin-yesil-isik",
    "https://www.haber7.com/guncel/haber/3680346-engelli-onuru-olduren-17-yasindaki-sanigin-cezasi-belli",
    "https://www.haber7.com/guncel/haber/3680347-abdde-tarihi-kirilma-nbcnin-yayinladigi-israil-karsiti-reklam-dunya-gundemine-oturdu",
-   "https://www.haber7.com/biyografi/haber/3680349-kurra-hafiz-ali-kemal-hut-kimdir-nereli-kasimpasali-kemal-efendi-hayatini-kaybetti"
+   "https://www.haber7.com/biyografi/haber/3680349-kurra-hafiz-ali-kemal-hut-kimdir-nereli-kasimpasali-kemal-efendi-hayatini-kaybetti",
+   "https://www.haber7.com/guncel/haber/3680351-haliliyede-400-aileye-ucretsiz-kombi-destegi-sayi-1232ye-ulasti",
+   "https://www.haber7.com/dunya/haber/3680350-sirbistanda-ogrenci-listesinin-cumhurbaskani-adayi-belli-oldu",
+   "https://www.haber7.com/guncel/haber/3680352-kubra-yapici-cinayetinin-nedeni-ortaya-cikti-kan-donduran-itiraf-balyozla-parcalamislar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2213,7 +2213,8 @@
    "https://anlatilaninotesi.com.tr/20261127/besiktas-kafilesini-tasiyan-ucak-batumdan-ayrildi-25-saat-gecikme-yasandi--1110641481.html",
    "https://anlatilaninotesi.com.tr/20261127/emekli-tumamiral-ali-deniz-kutluk-anlatti-atinanin-turkiye-libya-itirazi-ne-anlama-geliyor-1110641596.html",
    "https://anlatilaninotesi.com.tr/20261127/rusyanin-askeri-harekati-devam-ediyor-son-bir-haftanin-bilancosu-aciklandi-1110642058.html",
-   "https://anlatilaninotesi.com.tr/20261127/ege-universitesinde-kadin-profesore-delici-aletle-saldiri-saldirgan-ogrenci-cikti-1110642429.html"
+   "https://anlatilaninotesi.com.tr/20261127/ege-universitesinde-kadin-profesore-delici-aletle-saldiri-saldirgan-ogrenci-cikti-1110642429.html",
+   "https://anlatilaninotesi.com.tr/20261127/meteorolojiden-yeni-uyari-kar-istanbulun-yani-basina-geliyor-1110642818.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2245,9 +2246,6 @@
   ]
  },
  "recent_titles": [
-  "beşiktaşın hapoel beersheva maçı kamp kadrosu belli oldu",
-  "balığın çöpe atılan kısmını kurutup satıyorlar ayda 55 milyon tl ciro yapıyorlar",
-  "galatasaray ali şansalanı etik kuruluna şikayet edecek",
   "gözaltındaki ünlü isimler adliyeye sevk edilirken görüntülendi",
   "bursada minibüs ile kamyonet çarpıştı 1i hamile 4 yaralı",
   "hande erçel yeni yaşını kutladı hem pastası hem elbisesi beğenildi",
@@ -3744,6 +3742,9 @@
   "ege üniversitesinde kadın profesöre delici aletle saldırı saldırgan öğrenci çıktı",
   "kurra hafız ali kemal hut kimdir nereli kasımpaşalı kemal efendi hayatını kaybetti",
   "haliliyede 400 aileye ücretsiz kombi desteği sayı 1232ye ulaştı",
-  "sırbistanda öğrenci listesinin cumhurbaşkanı adayı belli oldu"
+  "sırbistanda öğrenci listesinin cumhurbaşkanı adayı belli oldu",
+  "kübra yapıcı cinayetinin nedeni ortaya çıktı kan donduran itiraf balyozla parçalamışlar",
+  "evi arabayı sattırdı süleymanı kandıran kadının gerçek hali ortaya çıktı",
+  "meteorolojiden yeni uyarı kar istanbulun yanı başına geliyor"
  ]
 }
