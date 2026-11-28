@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ankarada-kendilerini-polis-olarak-tanitip-yasli-adamin-810-bin-lirasini-almaya-calistilar-h1585894",
    "https://www.ensonhaber.com/bilgisayar-toplarken-asla-ucuza-kacmamaniz-gereken-5-parca-h1585895",
    "https://www.ensonhaber.com/samsunda-bebegini-cope-atan-anneye-muebbet-hapis-h1585896",
    "https://www.ensonhaber.com/ak-partiye-gecen-izmir-belediyesinde-yollar-birer-birer-yenileniyor-h1585897",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/hatayda-2-milyon-tllik-vurgun-yapan-maskeli-hirsizlarin-oyununu-polis-bozdu-h1586389",
    "https://www.ensonhaber.com/fenerbahcede-erzurumspor-fk-ilk-11i-sekilleniyor-h1586390",
    "https://www.ensonhaber.com/aselsanin-antidot-sistemi-10-bin-saatlik-ucus-suresini-geride-birakti-h1586391",
-   "https://www.ensonhaber.com/hatay-stadindaki-onarim-calismalarinda-sona-gelindi-h1586392"
+   "https://www.ensonhaber.com/hatay-stadindaki-onarim-calismalarinda-sona-gelindi-h1586392",
+   "https://www.ensonhaber.com/sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-h1586393"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680107-otobuste-kalbi-duran-yolcuya-soforden-hayat-kurtaran-mudahale-o-anlar-kamerada",
    "https://spor.haber7.com/spor/haber/3680110-besiktas-taraftari-batumu-inletti-isgale-isyan-filistine-ozgurluk",
    "https://www.haber7.com/guncel/haber/3680109-cumhurbaskani-erdoganin-hocasi-kemal-hut-efendi-hakka-yurudu",
    "https://www.haber7.com/siyaset/haber/3680111-mugla-buyuksehir-belediye-baskani-ahmet-aras-ak-partiye-mi-gececek-aciklama-yapti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680554-abdden-7-bin-personeline-siginin-talimati-avrupadaki-en-buyuk-ussunde-iha-panigi",
    "https://www.haber7.com/otomobil/haber/3680555-volkswagenden-50-yil-surprizi",
    "https://www.haber7.com/kultur/haber/3680556-4-milli-sinema-gunleri-icin-geri-sayim-necip-fazil-ve-ahmet-ulucay-bulusmasi",
-   "https://www.haber7.com/guncel/haber/3680557-sarigul-sorusturmasinda-ozgur-ozel-dahil-5-kisinin-dosyalari-ankaraya-gonderildi"
+   "https://www.haber7.com/guncel/haber/3680557-sarigul-sorusturmasinda-ozgur-ozel-dahil-5-kisinin-dosyalari-ankaraya-gonderildi",
+   "https://www.haber7.com/saglik/haber/3680559-uzun-sure-oturan-erkeklerde-pelvik-taban-sendromu-basliyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2278,7 +2278,8 @@
    "https://anlatilaninotesi.com.tr/20261128/istanbullular-yarina-dikkat-sicakliklar-dusuyor-kar-geliyor-mu-1110658638.html",
    "https://anlatilaninotesi.com.tr/20261128/rusya-savunma-bakanligi-ukrayna-ordusu-son-24-saatte-1100den-fazla-asker-kaybetti-1110658785.html",
    "https://anlatilaninotesi.com.tr/20261128/komsuya-birakilan-150-milyonluk-altin-dolu-canta-calindi-sorusturmada-ahbap-detayi-dikkat-cekti-1110658904.html",
-   "https://anlatilaninotesi.com.tr/20261128/afganistanda-ortaokul-yakininda-patlama-7-olu-97-yarali-1110659253.html"
+   "https://anlatilaninotesi.com.tr/20261128/afganistanda-ortaokul-yakininda-patlama-7-olu-97-yarali-1110659253.html",
+   "https://anlatilaninotesi.com.tr/20261128/sarigul-sorusturmasinda-yeni-gelisme-ozgur-ozel-ve-5-vekilin-dosyasi-ankaraya-gonderildi-1110659387.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2310,11 +2311,6 @@
   ]
  },
  "recent_titles": [
-  "başkentte ticari gayrimenkul yatırımları yeni bölgelere kayıyor",
-  "kara kartal israil ekibine karşı beşiktaşhapoel beer sheva muhtemel 11ler",
-  "sahte mehdi ile anne babası ve kız kardeşi tutuklandı",
-  "kahramanmaraşta uyuşturucu operasyonunda 16 kişi tutuklandı",
-  "japonyada enflasyon 36 yılın rekorunu kırdı faiz mesajı geldi",
   "donald trump nato genel sekreteri rutte ile rusyaukrayna savaşını görüştü",
   "galatasaray ve fenerbahçe kazandı ülke puanı değişti",
   "kızılcık şerbetinde çimenin ardından bir rol daha el değiştiriyor işte yeni oyuncu",
@@ -3809,6 +3805,11 @@
   "aselsanın antidot sistemi 10 bin saatlik uçuş süresini geride bıraktı",
   "sarıgül soruşturmasında özgür özel dahil 5 kişinin dosyaları ankaraya gönderildi",
   "hatay stadındaki onarım çalışmalarında sona gelindi",
-  "sarıgül soruşturmasında özgür özel ve 4 isim için fezleke düzenlemesi"
+  "sarıgül soruşturmasında özgür özel ve 4 isim için fezleke düzenlemesi",
+  "uzun süre oturan erkeklerde pelvik taban sendromu başlıyor",
+  "5 ülke peşindeydi antidot 2es göz doldurdu aselsandan 10 bin saatlik başarı",
+  "formula 1 türkiye grand prıxsi 24 yarış arasında ön kayıtla dünya takviminde ilk sırada",
+  "denizli merkezli 19 ilde suç örgütüne operasyonda 71 tutuklama",
+  "sarıgül soruşturmasında yeni gelişme özgür özel ve 5 vekilin dosyası ankaraya gönderildi"
  ]
 }
