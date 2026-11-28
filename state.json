@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sanliurfada-otobus-soforunden-kalbi-duran-yolcuya-kalp-masajiyla-mudahale-h1585921",
    "https://www.ensonhaber.com/istanbulda-feci-olum-yasli-kadin-beton-mikserin-altinda-kaldi-h1585922",
    "https://www.ensonhaber.com/eski-formula-1-sampiyonu-mika-hakkinen-istanbulda-hayranlariyla-bulustu-h1585923",
    "https://www.ensonhaber.com/supurgelikleri-surekli-silmekten-kurtaran-yontem-bir-kez-surun-farki-gorun-h1585924",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ay-yuzeyinin-altinda-devasa-yeralti-tunelleri-tespit-edildi-h1586416",
    "https://www.ensonhaber.com/gokceada-ve-bozcaada-hattinda-yarin-yapilacak-feribot-seferleri-iptal-edildi-h1586417",
    "https://www.ensonhaber.com/elazigda-kayip-olarak-aranan-adam-mezarlikta-olu-bulundu-h1586418",
-   "https://www.ensonhaber.com/abdulkadir-uraloglu-5-dakikaya-dusen-boyabat-gecisiyle-434-milyon-tl-tasarruf-edecegiz-h1586419"
+   "https://www.ensonhaber.com/abdulkadir-uraloglu-5-dakikaya-dusen-boyabat-gecisiyle-434-milyon-tl-tasarruf-edecegiz-h1586419",
+   "https://www.ensonhaber.com/hakan-fidan-filistin-bizim-icin-en-onemli-ahlaki-pusula-h1586420"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680130-yilmazdan-fon-sorusturmasi-cikisi-hastalikli-yapilar-karantinaya-alindi",
-   "https://spor.haber7.com/besiktas/haber/3680132-italiano-rotasyon-karari-hakkinda-konustu-oynamayi-hak-etti",
    "https://www.haber7.com/guncel/haber/3680133-bakan-gurlek-acikladi-fon-sorusturmasinda-4536-milyar-tl-tahsil-edildi",
    "https://www.haber7.com/dunya/haber/3680134-israilde-tarihi-gelisme-netanyahu-devri-sona-eriyor-muhalefet-partileri-resmen-duyurdu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680135-borsada-yapay-zeka-donemi-basliyor-manipulasyon-aninda-tespit-edilecek",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680579-bebegin-anne-karninda-olumune-iliskin-doktora-ihmal-davasi",
    "https://www.haber7.com/guncel/haber/3680580-erzurumda-garsonlarin-yeni-mesai-arkadasi-yapay-zekali-yerli-robot-is-basinda",
    "https://www.haber7.com/guncel/haber/3680581-sarigulun-fezlekesi-mecliste-yarim-asirlik-ceza-talebi",
-   "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday"
+   "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday",
+   "https://spor.haber7.com/fenerbahce/haber/3680582-fenerbahceden-erzurumspor-fk-maci-oncesi-taraftarlarina-cagri",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680583-merkez-bankasi-acikladi-fon-cikislari-yavasladi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2317,10 +2317,6 @@
   ]
  },
  "recent_titles": [
-  "özcan denizin ifadesi ortaya çıktı 78 tane gayrimenkul ve",
-  "iban mağdurları için önemli karar yargıtay kararı bozdu",
-  "parçalanmış coğrafyanın yeniden inşası",
-  "kokuşmuş zihniyet",
   "herkez emre belezoğlunun dans vaadini konuşuyor",
   "silah ruhsatı harçları 2027 işte bulundurma ve taşıma ücretleri",
   "istanbulda durdurulan araçta kalaşnikof çıktı",
@@ -3816,6 +3812,10 @@
   "avustralyalı güreşçi bronson reed 38 yaşında hayatını kaybetti",
   "elazığda kayıp olarak aranan adam mezarlıkta ölü bulundu",
   "abdulkadir uraloğlu 5 dakikaya düşen boyabat geçişiyle 434 milyon tl tasarruf edeceğiz",
-  "70 yaşındaki adam sadece sesini duyduğu kadına 45 milyon lira gönderdi sosyal medyada gündem oldu"
+  "70 yaşındaki adam sadece sesini duyduğu kadına 45 milyon lira gönderdi sosyal medyada gündem oldu",
+  "merkez bankası açıkladı fon çıkışları yavaşladı",
+  "gökçeada ve bozcaada feribot seferleri iptal edildi",
+  "istanbulun tarihine ışık tutan çalışma antikçağdan xxi yüzyıla büyük istanbul tarihi",
+  "hakan fidan filistin bizim için en önemli ahlaki pusula"
  ]
 }
