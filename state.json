@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/fenerbahcenin-shakhtar-zaferi-avrupa-basininda-h1585795",
    "https://www.ensonhaber.com/namik-tanin-oglu-uyusturucu-ve-fuhus-sorusturmasinda-gozaltinda-h1585796",
    "https://www.ensonhaber.com/murat-kurum-tam-106-bin-914-konutumuzun-yapimina-basladik-h1585794",
    "https://www.ensonhaber.com/trabzon-icin-heyelan-uyarisi-istinat-duvarlarinin-cokmesi-bir-ikaz-h1585797",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/aydinda-funyeyle-patlatilan-cantadan-cocuk-bezi-cikti-h1586286",
    "https://www.ensonhaber.com/kocaelide-138-milyon-liralik-dolandiriciliga-28-gozalti-h1586287",
    "https://www.ensonhaber.com/beklenen-yagislar-13-milyon-gazzeliyi-tehdit-ediyor-h1586288",
-   "https://www.ensonhaber.com/batmanda-supheli-canta-kontrollu-sekilde-patlatildi-h1586289"
+   "https://www.ensonhaber.com/batmanda-supheli-canta-kontrollu-sekilde-patlatildi-h1586289",
+   "https://www.ensonhaber.com/muglada-teknede-gocmen-kacakcisi-ve-2si-cocuk-6-duzensiz-gocmen-yakalandi-h1586290"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680027-italyada-kilise-skandali-cocuk-istismari-resmi-raporla-belgelendi",
    "https://www.haber7.com/adiyaman/3680028-adiyamanda-yurekleri-agza-getiren-hadise-7-yasindaki-ogrenciyi-akrep-soktu",
    "https://www.haber7.com/dunya/haber/3680029-son-dakikaankara-washington-hattinda-onemli-temas-bakan-guler-abdye-gidiyor",
    "https://www.haber7.com/dunya/haber/3680030-papaya-makam-araciyla-kek-gonderdi-almanya-karisti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/siyaset/haber/3680462-ozgur-ozelden-aday-acikalmasi-turkiye-gundemini-sarsacak-iddiasi",
    "https://www.haber7.com/siyaset/haber/3680462-ozgur-ozelden-aday-aciklamasi-turkiye-gundemini-sarsacak-iddiasi",
    "https://www.haber7.com/guncel/haber/3680463-savas-akdenize-sicradi-gerilimin-perde-arkasi-rus-gemilerini-nasil-buldu-buyuk-suphe",
-   "https://www.haber7.com/guncel/haber/3680464-husumetlisini-tabancayla-agir-yaralayip-yasamina-son-verdi"
+   "https://www.haber7.com/guncel/haber/3680464-husumetlisini-tabancayla-agir-yaralayip-yasamina-son-verdi",
+   "https://www.haber7.com/guncel/haber/3680465-camura-saplanan-minibusun-surucusu-gozyaslarini-tutamadi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2287,8 +2287,6 @@
   ]
  },
  "recent_titles": [
-  "ağrıda tiner dökülen soba patladı 3 yaralı",
-  "tüm dünya türk sporcuyu konuşuyor israilli rakibinin elini sıkmadı 1 saniyede yendi",
   "6 şubat depremlerinde 41 kişinin hayatını kaybettiği pınar apartmanına ilişkin davada karar çıktı",
   "iran israil rejimi 7 ülkeye saldırdı 3 ülkenin toprağını işgal etti",
   "vakıfbank asterix avoya set vermedi",
@@ -3786,6 +3784,8 @@
   "savaş akdenize sıçradı gerilimin perde arkası rus gemilerini nasıl buldu büyük şüphe",
   "taşacak bu denizin elenisi ava yamanın son pozlarına yorum yağdı bir başka güzel",
   "husumetlisini tabancayla ağır yaralayıp yaşamına son verdi",
-  "berkay şahin kızı mihrenin yüzünü ilk kez gösterdi maşallah demeden geçmeyin"
+  "berkay şahin kızı mihrenin yüzünü ilk kez gösterdi maşallah demeden geçmeyin",
+  "çamura saplanan minibüsün sürücüsü gözyaşlarını tutamadı",
+  "muğlada teknede göçmen kaçakçısı ve 2si çocuk 6 düzensiz göçmen yakalandı"
  ]
 }
