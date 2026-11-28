@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-canli",
    "https://www.haber7.com/yerel-secim/haber/3680157-esenler-belediyesinin-yapay-zeka-projesine-altin-karinca",
    "https://spor.haber7.com/spor/haber/3680158-bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu",
    "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680606-kurye-adresi-bulamadigi-icin-kadini-yumruklayarak-bayiltti-iddiasi-dehset-anlari-kamera",
    "https://ekonomi.haber7.com/ekonomi/haber/3680607-binancein-kurucusu-zhaodan-guvenlik-ittifaki-onerisi",
    "https://www.haber7.com/guncel/haber/3680608-canakkalede-milyarlik-vurgun-sevgiliye-ask-plakali-arac-yengeye-otel-enisteye",
-   "https://www.haber7.com/guncel/haber/3680606-kurye-adresi-bulamadigi-icin-kadini-yumruklayarak-bayiltti-iddiasi-iste-dehset-anlari"
+   "https://www.haber7.com/guncel/haber/3680606-kurye-adresi-bulamadigi-icin-kadini-yumruklayarak-bayiltti-iddiasi-iste-dehset-anlari",
+   "https://www.haber7.com/guncel/haber/3680609-gurcu-vatandastan-tamazasviliye-sert-tepki-turk-bakana-acikca-yalan-soyledi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2291,7 +2291,8 @@
    "https://anlatilaninotesi.com.tr/20261128/bakan-gurlekten-fon-aciklamasi-kisa-surede-diyerek-duyurdu-1110660656.html",
    "https://anlatilaninotesi.com.tr/20261128/ayin-yuzeyinin-altinda-dev-tuneller-olabilir-bilim-insanlari-4-olasi-yapi-tespit-etti-1110661051.html",
    "https://anlatilaninotesi.com.tr/20261128/istanbul-valiligi-saat-vererek-uyardi-6-ilce-icin-alarm-verdi-1110661269.html",
-   "https://anlatilaninotesi.com.tr/20261128/arnavutlukta-binlerce-kisi-sokakta-bagimsizlik-gununde-tansiyon-yukseldi-1110662297.html"
+   "https://anlatilaninotesi.com.tr/20261128/arnavutlukta-binlerce-kisi-sokakta-bagimsizlik-gununde-tansiyon-yukseldi-1110662297.html",
+   "https://anlatilaninotesi.com.tr/20261128/bosanma-davasinda-istinaf-mahkemesi-ve-yargitaydan-emsal-karar-cocugun-elde-ettigi-deliller-hukuka-1110662461.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2323,8 +2324,6 @@
   ]
  },
  "recent_titles": [
-  "beşiktaş  hapoel beersheva maçı trt 1de mi saat kaçta başlayacak işte canlı yayın bilgileri",
-  "eğitimiş genel sekreteri seher ergin 30 bin öğretmen alımı bizim için müjde değil",
   "acılı babadan kan donduran miras iddiası yangında 2 çocuk hayatını kaybetmişti",
   "son dakika mitten casuslara operasyon",
   "polonya cumhurbaşkanlığı sarayı karşısında korkunç olay kendini yaktı",
@@ -3822,6 +3821,8 @@
   "binancein kurucusu zhaodan güvenlik ittifakı önerisi",
   "çanakkalede milyarlık vurgun sevgiliye ask plakalı araç yengeye otel enişteye",
   "beşiktaşta derbi mesaisi başladı",
-  "adıyamanda yem karma makinesine kapılan çocuk hayatını kaybetti"
+  "adıyamanda yem karma makinesine kapılan çocuk hayatını kaybetti",
+  "gürcü vatandaştan tamazaşviliye sert tepki türk bakana açıkça yalan söyledi",
+  "boşanma davasında istinaf mahkemesi ve yargıtaydan emsal karar çocuğun elde ettiği deliller hukuka uygun bulundu"
  ]
 }
