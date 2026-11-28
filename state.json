@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kassoum-ouattaradan-paylasim-tum-ezilen-insanlar-icin-h1585999",
    "https://www.ensonhaber.com/istanbul-gaziosmanpasada-185-bin-uyusturucu-hap-ele-gecirildi-2-gozalti-h1586000",
    "https://www.ensonhaber.com/temsilcilerimiz-avrupada-bu-hafta-4te-4-yapti-h1586001",
    "https://www.ensonhaber.com/samsunda-bogazina-yiyecek-kacan-ogrenciyi-kantin-gorevlisi-kurtardi-h1586002",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/burhanettin-duran-israil-iletisim-sahasinda-da-hakikat-soykirimi-gerceklestirmeye-calisiyo-h1586494",
    "https://www.ensonhaber.com/amedspor-deplasmanda-gaziantep-fkyi-2-1-maglup-etti-h1586495",
    "https://www.ensonhaber.com/istanbul-2027-avrupa-oyunlarina-dogru-galata-kulesinde-isik-gosterisi-h1586496",
-   "https://www.ensonhaber.com/meteoroloji-39-il-icin-sari-kodlu-uyari-verdi-firtina-saganak-ve-kar-bekleniyor-h1586497"
+   "https://www.ensonhaber.com/meteoroloji-39-il-icin-sari-kodlu-uyari-verdi-firtina-saganak-ve-kar-bekleniyor-h1586497",
+   "https://www.ensonhaber.com/ankarada-sali-gununden-itibaren-kar-yagisi-bekleniyor-h1586498"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680202-oto-elektrik-dukkaninda-yangin-5-arac-alevlere-teslim-oldu",
    "https://www.haber7.com/seyahat/haber/3680204-onceden-gezmek-imkansizdi-sakaryanin-doga-harikasi-ziyarete-acildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680205-ev-ve-arsa-alacaklar-dikkat-guvenli-odeme-sistemi-icin-tarih-belli-oldu",
    "https://www.haber7.com/saglik/haber/3680206-uzman-isim-acikladi-fibromiyaljide-tedavi-sabir-ve-is-birligi-istiyor",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680652-istanbul-2027-avrupa-oyunlarina-200-gun-kaldi-galata-kulesinde-isik-gosterisi-yapildi",
    "https://www.haber7.com/dunya/haber/3680653-secimi-kaybeden-netanyahu-resmen-kabul-etti-eisenkota-bomba-teklif",
    "https://www.haber7.com/guncel/haber/3680654-sehrin-gobeginde-korkunc-olay-tramvay-bekleyen-genc-kadina-kosarak-saldirdi",
-   "https://www.haber7.com/guncel/haber/3680655-uyusturucu-testi-belli-olmustu-burcu-ozberkten-ilk-aciklama"
+   "https://www.haber7.com/guncel/haber/3680655-uyusturucu-testi-belli-olmustu-burcu-ozberkten-ilk-aciklama",
+   "https://www.haber7.com/dunya/haber/3680656-abdnin-california-aciklarinda-50-buyuklugunde-deprem-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2334,9 +2334,6 @@
   ]
  },
  "recent_titles": [
-  "merkez bankası altın alımlarını durdurdu",
-  "aymden imamoğlunun tutukluluğu için hak ihlali yok kararı",
-  "altın karınca ödüllerinde ümraniyenin çifte başarısı",
   "istanbulda görüntüsüyle dikkat çeken temizlik personeli gülüm açıklama yaptı",
   "evli olmadığı ortaya çıkan kişi hakkında verilen boşanma kararını yargıtay bozdu",
   "sarımsakların kökünü yakın bakın ne işe yarıyor",
@@ -3833,6 +3830,9 @@
   "şehrin göbeğinde korkunç olay tramvay bekleyen genç kadına koşarak saldırdı",
   "almanya kievin vergi ve gümrük uygulamaları nedeniyle ukrayna ile iha anlaşması yapmak istemiyor",
   "uyuşturucu testi belli olmuştu burcu özberkten ilk açıklama",
-  "meteoroloji 39 il için sarı kodlu uyarı verdi fırtına sağanak ve kar bekleniyor"
+  "meteoroloji 39 il için sarı kodlu uyarı verdi fırtına sağanak ve kar bekleniyor",
+  "abdnin california açıklarında 50 büyüklüğünde deprem oldu",
+  "üst üste mağlubiyetlerin ardından volkan demirel bu devran dönecek",
+  "ankarada salı gününden itibaren kar yağışı bekleniyor"
  ]
 }
