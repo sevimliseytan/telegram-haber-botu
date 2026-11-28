@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/genclerbirliginin-transfer-yasagi-kalkti-73520-h1585944",
    "https://www.ensonhaber.com/anadolu-efes-fatts-russell-ile-yollarini-ayirdi-h1585945",
    "https://www.ensonhaber.com/ziraat-bankkart-yacine-louatiyi-transfer-etti-h1585946",
    "https://www.ensonhaber.com/qazim-laci-kasimpasa-macindan-umutlu-h1585947",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/batman-petrolspor-taraftarlarinin-gol-sevinci-gundem-oldu-h1586439",
    "https://www.ensonhaber.com/antalyada-olen-inegi-icin-aglayan-kadina-yenisi-hediye-edilecek-h1586440",
    "https://www.ensonhaber.com/yali-hayati-korkunc-demisti-derin-mermerciden-ekmege-muhtac-kalsam-satmam-aciklamasi-h1586441",
-   "https://www.ensonhaber.com/istanbul-valiligi-uyari-yayinladi-saganak-yagisa-dikkat-h1586442"
+   "https://www.ensonhaber.com/istanbul-valiligi-uyari-yayinladi-saganak-yagisa-dikkat-h1586442",
+   "https://www.ensonhaber.com/samsunda-egitim-ucagi-kaza-kirima-ugradi-h1586443"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3680152-cumhurbaskani-erdogandan-besiktas-baskani-adaliya-telefon",
    "https://www.haber7.com/dunya/haber/3680151-besiktas-taraftarlarina-saldiri-turkiyeden-son-dakika-gurcistan-aciklamasi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680153-merkez-bankasindan-tl-icin-iki-yeni-adim",
    "https://www.haber7.com/guncel/haber/3680154-erzurumda-park-halindeki-otomobil-alev-topuna-dondu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/siyaset/haber/3680599-mansur-yavas-duyurdu-aday-olacak-mi",
    "https://www.haber7.com/guncel/haber/3680600-cocuklarin-kurtarilma-anlari-yurekleri-isitti-15-kilometrelik-guzergah-sasirtti",
    "https://spor.haber7.com/super-lig/haber/3680601-super-ligde-gunun-ilk-maci-samsunspor-genclerbirligi-canli",
-   "https://www.haber7.com/otomobil/haber/3668498-835-bin-tlye-otomobil-geliyor-ulasilabilir-fiyatiyla-cok-konusulacak"
+   "https://www.haber7.com/otomobil/haber/3668498-835-bin-tlye-otomobil-geliyor-ulasilabilir-fiyatiyla-cok-konusulacak",
+   "https://www.haber7.com/guncel/haber/3680602-samsunda-egitim-ucagi-kaza-kirima-ugradi-bakanliktan-aciklama-geldi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2322,7 +2322,6 @@
   ]
  },
  "recent_titles": [
-  "ölçümü amerikanlar yaptı rams parkın desibeli ağızları açık bıraktırdı",
   "washingtondan kusursuz silah tüccarlığı f16ların faturası 4 ab ülkesine kesildi",
   "bakanlıktan 34 ilde dev arsa satışı başlangıç fiyatı 650 bin tl",
   "tokatın 39 tarihi iğne oyası coğrafi işaretle koruma altına alındı",
@@ -3821,6 +3820,7 @@
   "istanbul valiliği saat vererek uyardı 6 ilçe için alarm verdi",
   "835 bin tlye otomobil geliyor ulaşılabilir fiyatıyla çok konuşulacak",
   "istanbul valiliği uyarı yayınladı sağanak yağışa dikkat",
-  "samsunda eğitim uçağı kaza kırıma uğradı"
+  "samsunda eğitim uçağı kaza kırıma uğradı",
+  "samsunda eğitim uçağı kaza kırıma uğradı bakanlıktan açıklama geldi"
  ]
 }
