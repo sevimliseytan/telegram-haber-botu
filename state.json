@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680062-yuzbinlerce-saglik-calisanina-mujdeli-haber-yillardir-uygulaniyordu-iptal-edildi",
-   "https://www.haber7.com/3sayfa/haber/3680064-karamanda-kayip-olarak-araniyordu-cesedi-bulundu-arkadasi-tutuklandi-2-gozalti",
-   "https://www.haber7.com/karaman/3680064-karamanda-kayip-olarak-araniyordu-cesedi-bulundu-arkadasi-tutuklandi-2-gozalti",
    "https://www.haber7.com/teknoloji/haber/3680065-bakan-kacir-duyurdu-81-ilde-100-teknoloji-atolyesi-kurulacak",
    "https://www.haber7.com/guncel/haber/3680062-yuz-binlerce-saglik-calisanina-mujdeli-haber-yillardir-uygulaniyordu-iptal-edildi",
    "https://www.haber7.com/dunya/haber/3680068-ocaktaki-duduklu-tencere-bomba-gibi-patladi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/yasam/haber/3680506-evindeki-battaniyesini-91-milyon-tlye-satti-basina-talih-kusu-kondu",
    "https://www.haber7.com/guncel/haber/3680505-usakta-feci-kaza-astsubay-ve-polis-memurundan-aci-haber",
    "https://www.haber7.com/guncel/haber/3680507-bogazina-seker-kacan-calisani-is-yeri-sahibi-kurtardi",
-   "https://spor.haber7.com/fenerbahce/haber/3680509-fenerbahce-erzurumspor-fkyi-konuk-edecek"
+   "https://spor.haber7.com/fenerbahce/haber/3680509-fenerbahce-erzurumspor-fkyi-konuk-edecek",
+   "https://www.haber7.com/dunya/haber/3680508-tel-avivde-koalisyon-cikmazi-netanyahudan-yeni-secim-senaryosu-mu",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680510-akkuyu-ngsde-geri-sayim-basladi-ilk-elektrik-2027de",
+   "https://www.haber7.com/saglik/haber/3680511-obeziteyle-mucadelede-dijital-yol-haritasi-e-nabiz-ve-yapay-zeka-devrede"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1877,7 +1877,8 @@
    "https://www.mynet.com/magazin/berkay-sahin-kizi-mihre-nin-yuzunu-ilk-kez-gosterdi-masallah-demeden-gecmeyin-130100607846",
    "https://www.mynet.com/magazin/biri-isirmaya-calisti-biri-yumruk-atti-canli-yayindaki-o-anlar-gundem-oldu-130100607849",
    "https://www.mynet.com/magazin/mfo-nun-fuat-i-fuat-guner-davete-sevgilisiyle-geldi-yas-farki-dikkat-cekti-130100607855",
-   "https://www.mynet.com/magazin/mahsun-kirmizigul-miras-kararini-acikladi-serveti-merak-ediliyor-130100607858"
+   "https://www.mynet.com/magazin/mahsun-kirmizigul-miras-kararini-acikladi-serveti-merak-ediliyor-130100607858",
+   "https://www.mynet.com/magazin/turkan-soray-ile-cihan-unal-in-kizlari-yagmur-evleniyor-hazirliklar-basladi-130100607861"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2297,10 +2298,6 @@
   ]
  },
  "recent_titles": [
-  "abdnin new jersey eyaletinde yaklaşan fırtına nedeniyle olağanüstü hal ilan edildi",
-  "bursada silahlı kavgada kişi yaralandı",
-  "ankarada sosyal medya tuzağı 7 kişiyi ormanlık alanda gasbettiler",
-  "tarsus belediye bşk",
   "kütahya belediye başkanlığı",
   "beykoz belediyesi iktisadi ve sosyal tesis işletmesi",
   "hayrabolu sulh hukuk mahkemesi satış memurluğu",
@@ -3796,6 +3793,10 @@
   "boğazına şeker kaçan çalışanı iş yeri sahibi kurtardı",
   "fenerbahçe erzurumspor fkyi konuk edecek",
   "tel avivde koalisyon çıkmazı netanyahudan yeni seçim senaryosu mu",
-  "akkuyu ngsde geri sayım başladı ilk elektrik 2027de"
+  "akkuyu ngsde geri sayım başladı ilk elektrik 2027de",
+  "obeziteyle mücadelede dijital yol haritası enabız ve yapay zeka devrede",
+  "son dakika 292 milyon poundu türkiyeye getirmek için savcılığa başvurdu",
+  "istanbulda kundaklamada can kaybı 3 oldu",
+  "türkan şoray ile cihan ünalın kızları yağmur evleniyor hazırlıklar başladı"
  ]
 }
