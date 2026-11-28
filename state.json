@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/lgsye-hazirlanan-ogrenciler-icin-ilk-ornek-sorular-erisime-acildi-h1585876",
-   "https://www.ensonhaber.com/ingilterede-yillik-goc-son-30-yilin-en-dusuk-seviyesine-indi-h1585878",
-   "https://www.ensonhaber.com/ikinci-ev-alacaklara-kredi-firsati-konut-kredisinde-sinirlama-kaldirildi-h1585877",
-   "https://www.ensonhaber.com/sanliurfada-akrabalarin-tasli-sopali-kavgasi-6-yarali-h1585879",
    "https://www.ensonhaber.com/igdirdaki-mustehcenlik-operasyonunda-3-kisi-tutuklandi-h1585880",
    "https://www.ensonhaber.com/is-yeri-satislarinda-dikkat-ceken-ayrisma-ilk-el-artti-ikinci-el-geriledi-h1585881",
    "https://www.ensonhaber.com/turkiye-sehitlerine-veda-ediyor-h1585882",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/akin-gurlek-secilmis-veya-atanmis-olmak-kimseye-imtiyaz-saglamaz-h1586371",
    "https://www.ensonhaber.com/hatayda-trafo-hirsizligi-girisimine-sucustu-h1586372",
    "https://www.ensonhaber.com/kisin-pencere-camina-bunu-yapistiriyorlar-evi-sicacik-yapiyor-h1586373",
-   "https://www.ensonhaber.com/basaksehir-renato-nhaga-ile-ilgileniyor-h1586374"
+   "https://www.ensonhaber.com/basaksehir-renato-nhaga-ile-ilgileniyor-h1586374",
+   "https://www.ensonhaber.com/suphan-dagi-ve-arin-golunun-essiz-manzarasi-goruntulendi-h1586375",
+   "https://www.ensonhaber.com/istanbulda-150-milyon-lira-degerinde-altinin-oldugu-canta-calindi-ahbapla-iliskisi-arastir-h1586376",
+   "https://www.ensonhaber.com/edirnede-saganak-etkili-oldu-29007-h1586377",
+   "https://www.ensonhaber.com/batmanda-supheli-valiz-harekete-gecirdi-h1586378"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2274,7 +2274,8 @@
    "https://anlatilaninotesi.com.tr/20261128/arabalarinin-batakliga-saplandigi-ortaya-cikti-10-cocugun-nasil-kurtuldugunu-bakan-goktas-anlatti-1110657179.html",
    "https://anlatilaninotesi.com.tr/20261128/usakta-feci-kaza-duvara-carpan-aracta-astsubay-ve-polis-esi-de-hayatini-kaybetti-1110657833.html",
    "https://anlatilaninotesi.com.tr/20261128/ankara---istanbul-arasi-80-dakikaya-dusecek-1110657975.html",
-   "https://anlatilaninotesi.com.tr/20261128/turistik-erzurum-kars-bolgesel-treni-sefere-basliyor-biletler-ne-zaman-satisa-cikiyor-1110658482.html"
+   "https://anlatilaninotesi.com.tr/20261128/turistik-erzurum-kars-bolgesel-treni-sefere-basliyor-biletler-ne-zaman-satisa-cikiyor-1110658482.html",
+   "https://anlatilaninotesi.com.tr/20261128/istanbullular-yarina-dikkat-sicakliklar-dusuyor-kar-geliyor-mu-1110658638.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2306,9 +2307,6 @@
   ]
  },
  "recent_titles": [
-  "manisada 35 milyon tllik telefon dolandırıcılığı 1 tutuklama",
-  "nvidia güneydoğu asyaya çip sevkiyatını durdurdu",
-  "artvinde heyelan nedeniyle yola kaya parçaları düştü bir araca isabet etti",
   "ankarada sosyal medyada tanışıp ormanda tuzağa düşürdüler",
   "konya büyükşehir destekliyor üretilen mantarlar türkiyenin dört bir yanına ulaşıyor",
   "mecliste görüşülmeye başlandı 22 milyon kişinin gss prim borcu silinecek",
@@ -3805,6 +3803,9 @@
   "başakşehir renato nhaga ile ilgileniyor",
   "süphan dağı ve arin gölünün eşsiz manzarası görüntülendi",
   "istanbulda 150 milyon lira değerinde altının olduğu çanta çalındı ahbapla ilişkisi araştırılıyor",
-  "edirnede sağanak etkili oldu"
+  "edirnede sağanak etkili oldu",
+  "batmanda şüpheli valiz harekete geçirdi",
+  "abd ordusu ingilteredeki askeri üste 6 ihayı etkisiz hale getirdi",
+  "istanbullular yarına dikkat sıcaklıklar düşüyor kar geliyor mu"
  ]
 }
