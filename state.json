@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sampiyonlar-liginde-gecenin-olayi-actigi-cukura-carpan-top-gol-oldu-h1585861",
-   "https://www.ensonhaber.com/murat-kurumdan-cop31-cikisi-cati-karar-muzakerelerinde-son-dakikaya-kadar-gayret-ettik-h1585862",
    "https://www.ensonhaber.com/26-yil-boyunca-gobek-deliginden-cikanlari-biriktirdi-uc-kavanozu-doldurdu-h1585863",
    "https://www.ensonhaber.com/aydinda-almanya-vatandasi-petra-islami-secti-adi-melek-oldu-h1585864",
    "https://www.ensonhaber.com/derya-ulug-ve-asil-gokun-yas-farki-sasirtti-h1585865",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/boluda-kaybolan-10-cocuk-sag-salim-bulundu-goktas-gozyaslarina-hakim-olamadi-h1586356",
    "https://www.ensonhaber.com/sivasta-forma-giyemedigi-mahallesinin-takimini-namaglup-liderlige-tasiyor-h1586357",
    "https://www.ensonhaber.com/istanbulda-duzenlenen-operasyonda-sahte-196-pasaport-ve-30-kimlik-ele-gecirildi-h1586358",
-   "https://www.ensonhaber.com/dugmeye-basildi-kanalizasyon-suyundan-icme-suyu-uretecekler-h1586359"
+   "https://www.ensonhaber.com/dugmeye-basildi-kanalizasyon-suyundan-icme-suyu-uretecekler-h1586359",
+   "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorusecek-h1586360",
+   "https://www.ensonhaber.com/29-ilde-deas-operasyonu-85-supheli-gozaltinda-h1586361"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680076-son-dakika-kuveytte-kritik-tesise-iha-saldirisi-erken-uyari-sistemi-devreye-girdi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680084-12-dunya-helal-zirvesi-ve-helal-expo-uluslararasi-ticaret-fuarinin-ikinci-gunu-sona-erdi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680085-en-cok-borcu-olan-40-futbol-takimi-belli-oldu-ilk-5te-turk-devi-var",
    "https://www.haber7.com/guncel/haber/3680086-yok-duyurdu-kayit-yaptiramayan-ogrenciler-icin-af-karari",
    "https://www.haber7.com/ulkede-bugun/haber/3680088-konyada-cesmede-su-dolduran-yasli-kadin-defalarca-bicaklandi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680525-linet-besiktas-macindaki-olaylara-iliskin-tarafini-secti-ben-bizden-degilim",
    "https://www.haber7.com/seyahat/haber/3680527-erciyeste-sezon-erken-aciliyor-35-milyon-ziyaretci-hedefi",
    "https://www.haber7.com/guncel/haber/3680526-29-ilde-deas-operasyonu-84-supheli-yakalandi",
-   "https://www.haber7.com/dunya/haber/3680528-irandan-hurmuz-aciklamasi-2-petrol-tankeri-daha-patladi"
+   "https://www.haber7.com/dunya/haber/3680528-irandan-hurmuz-aciklamasi-2-petrol-tankeri-daha-patladi",
+   "https://www.haber7.com/yasam/haber/3680529-ormanda-gezerken-hazine-buldu-bin-yil-once-saklanmis-ilk-kez-sergilenecek",
+   "https://www.haber7.com/guncel/haber/3680530-ici-para-dolu-cantayi-calan-hirsiz-kamerada"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2300,11 +2300,6 @@
   ]
  },
  "recent_titles": [
-  "israilin gazzedeki saldırısında 3 filistinli hayatını kaybetti",
-  "israil meclisinden ezan yasağına ret bengvir salondan atıldı",
-  "manisada 94 yaşındaki yaşlı adam yangından son anda kurtarıldı",
-  "meteorolojiden yeni tahmin sıcaklıklar artıyor sis geliyor",
-  "üç başkentte diplomasi adım adım tek libyaya",
   "burdurda ters yönden giden araç kazaya yol açtı 1 ölü 2si ağır 5 yaralı",
   "yılın son mgk toplantısı bugün masada hangi konular var",
   "altın yeniden 3 bin 600 doları aştı yükselişin önünde üç engel",
@@ -3799,6 +3794,11 @@
   "istanbulda düzenlenen operasyonda sahte 196 pasaport ve 30 kimlik ele geçirildi",
   "irandan hürmüz açıklaması 2 petrol tankeri daha patladı",
   "düğmeye basıldı kanalizasyon suyundan içme suyu üretecekler",
-  "arabalarının bataklığa saplandığı ortaya çıktı 10 çocuğun nasıl kurtulduğunu bakan göktaş anlattı"
+  "arabalarının bataklığa saplandığı ortaya çıktı 10 çocuğun nasıl kurtulduğunu bakan göktaş anlattı",
+  "içi para dolu çantayı çalan hırsız kamerada",
+  "izlediği haberden etkilendi 19 kez kan bağışladı",
+  "pakistanın uzay hamlesine hindistandan tepki türkiyeden yardım alacakları kesin",
+  "abdullah kayapınar avrupa rekoru kırarak dünya şampiyonu oldu",
+  "letonyada dehşet anları kamerada raylarda koşarken trenle burun buruna geldi"
  ]
 }
