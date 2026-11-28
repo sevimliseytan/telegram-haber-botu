@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/ulkede-bugun/haber/3680039-turkiyenin-en-karli-noktalari-belli-oldu",
    "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-bu-koye-tasinana-1-milyon-lira-verilecek",
    "https://www.haber7.com/guncel/haber/3679976-turkiye-sehitlerine-veda-ediyor-4-sehirde-son-yolculuklarina-ugurlaniyorlar",
    "https://www.haber7.com/ulkede-bugun/haber/3680039-turkiyenin-en-karli-noktalari-belli-oldu-ilk-sirada-bu-il-var",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/basketbol/haber/3680477-potada-derbi-gunu-galatasaray-fenerbahce",
    "https://www.haber7.com/guncel/haber/3680478-egitime-adanmis-bir-omur-muallim-mahir-iz",
    "https://www.haber7.com/guncel/haber/3680479-emeklinin-bitmeyen-gecim-mucadelesi-zamlar-care-olur-mu",
-   "https://www.haber7.com/guncel/haber/3680480-islamda-uyaniklik"
+   "https://www.haber7.com/guncel/haber/3680480-islamda-uyaniklik",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680489-borsa-ve-fonlar-geriledi-altin-ibreyi-yukari-cevirdi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2261,7 +2261,8 @@
    "https://anlatilaninotesi.com.tr/20261128/yunus-akgunun-mutlu-gunu-nikahina-futbol-dunyasi-akin-etti-1110654204.html",
    "https://anlatilaninotesi.com.tr/20261128/meteorolojiden-kuvvetli-yagis-ve-firtina-uyarisi-marmarada-ruzgarin-hizi-90-kilometreye-ulasacak-1110654400.html",
    "https://anlatilaninotesi.com.tr/20261128/rusya-ordusunun-ukraynadaki-askeri-hedefleri-vurdugu-bildirildi-1110655312.html",
-   "https://anlatilaninotesi.com.tr/20261128/abdde-sukran-gunu-firtinasinin-bilancosu-agirlasti-elektrik-kesintileri-ve-ulasim-aksakliklari-1110655498.html"
+   "https://anlatilaninotesi.com.tr/20261128/abdde-sukran-gunu-firtinasinin-bilancosu-agirlasti-elektrik-kesintileri-ve-ulasim-aksakliklari-1110655498.html",
+   "https://anlatilaninotesi.com.tr/20261128/iran-hurmuz-bogazi-ve-umman-kiyilari-yakinlarinda-2-petrol-tankeri-deniz-mayinina-carpti-1110655810.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2293,16 +2294,6 @@
   ]
  },
  "recent_titles": [
-  "donald trumptan 14 ticaret ortağına yüzde 20lik yeni gümrük vergisi önerisi",
-  "galatasaray pge budowlani deplasmanında kazandı",
-  "izmirde su tarifesine indirim 1 ocak 2027den itibaren uygulanacak",
-  "emre belözoğlundan guendouzi sorusuna yanıt",
-  "galatasaray kangoeroes basket mecheleni rahat geçti",
-  "bartında polisin parmağını ısıran şahıs tutuklandı",
-  "mısırda akaryakıt tankeri alev aldı 30 ölü 15 yaralı",
-  "fenerbahçe rapid bükreşe şans tanımadı",
-  "putin kazakistan cumhurbaşkanı tokayev ile kremlinde görüştü",
-  "abdden çinli teknoloji devi huaweiye casusluk suçlaması 10 suçtan mahkum edildi",
   "arap koalisyonu duyurdu husilere ait bir iha imha edildi",
   "istanbulda otomotiv servisinde 12 bin liralık dolandırıcılık 3 gözaltı",
   "fon meselesine ilişkin ortak basın toplantısı 3 bakan açıklama yapacak",
@@ -3792,6 +3783,16 @@
   "mahsun kırmızıgül miras kararını açıkladı serveti merak ediliyor",
   "rusya ordusunun ukraynadaki askeri hedefleri vurduğu bildirildi",
   "abdde şükran günü fırtınasının bilançosu ağırlaştı elektrik kesintileri ve ulaşım aksaklıkları sürüyor",
-  "islamda uyanıklık"
+  "islamda uyanıklık",
+  "borsa ve fonlar geriledi altın ibreyi yukarı çevirdi",
+  "thynin apex başarısı bir tesadüf mü",
+  "muş merkezli 5 ilde tefecilik operasyonu 27 tutuklama",
+  "istikrar için güç güç için istikrar",
+  "beşiktaş derbisinde oynayacak mı victor osimhen için karar verildi",
+  "siber saldırı soruşturması türk abdli şirketler ve siyasetçiler hedefte",
+  "topraktan külçe altın çıktı patates gibi görüntüsü herkesi şoke etti",
+  "enerjide acele kamulaştırma kararları",
+  "iran hürmüz boğazı ve umman kıyıları yakınlarında 2 petrol tankeri deniz mayınına çarptı",
+  "ukraynanın limanları devre dışı üç ayda 3 milyar dolar kadar kaybetti"
  ]
 }
