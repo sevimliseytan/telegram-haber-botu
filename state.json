@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sile-belediyesi-davasinda-ara-karar-cikti-h1585917",
    "https://www.ensonhaber.com/boluda-eczanede-heimlich-manevrasi-kamerada-h1585918",
    "https://www.ensonhaber.com/yok-kayit-hakkini-kullanamayan-ogrencileri-af-kapsamina-aldi-h1585919",
    "https://www.ensonhaber.com/tekirdagda-trafikte-birbirlerine-girdiler-3-kisiye-toplam-640-bin-tl-ceza-h1585920",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/boluda-otomobiliyle-patates-yuklu-romorka-carpti-polisleri-gorunce-kacti-h1586412",
    "https://www.ensonhaber.com/konyada-caddeden-karsiya-gecmeye-calisan-kadina-otomobil-carpti-h1586413",
    "https://www.ensonhaber.com/suriyede-732-subay-yemin-ederek-gorevlerine-basladi-h1586414",
-   "https://www.ensonhaber.com/fenerbahceden-erzurumspor-fk-maci-oncesi-taraftara-cagri-h1586415"
+   "https://www.ensonhaber.com/fenerbahceden-erzurumspor-fk-maci-oncesi-taraftara-cagri-h1586415",
+   "https://www.ensonhaber.com/ay-yuzeyinin-altinda-devasa-yeralti-tunelleri-tespit-edildi-h1586416"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680129-bakanlik-tek-tek-tespit-ediyor-en-cok-bu-gidalarda-hile-yapiliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680131-turkiyenin-gunes-enerjisi-kurulu-gucunun-yuzde-10u-konyada",
    "https://www.haber7.com/guncel/haber/3680130-yilmazdan-fon-sorusturmasi-cikisi-hastalikli-yapilar-karantinaya-alindi",
    "https://spor.haber7.com/besiktas/haber/3680132-italiano-rotasyon-karari-hakkinda-konustu-oynamayi-hak-etti",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680577-israilli-taraftar-besiktaslilarin-arasinda-atki-acinca-ortalik-karisti",
    "https://spor.haber7.com/galatasaray/haber/3680578-okan-buruk-besiktas-derbisinde-gunduz-kilici-gecmek-istiyor",
    "https://www.haber7.com/guncel/haber/3680579-bebegin-anne-karninda-olumune-iliskin-doktora-ihmal-davasi",
-   "https://www.haber7.com/guncel/haber/3680580-erzurumda-garsonlarin-yeni-mesai-arkadasi-yapay-zekali-yerli-robot-is-basinda"
+   "https://www.haber7.com/guncel/haber/3680580-erzurumda-garsonlarin-yeni-mesai-arkadasi-yapay-zekali-yerli-robot-is-basinda",
+   "https://www.haber7.com/guncel/haber/3680581-sarigulun-fezlekesi-mecliste-yarim-asirlik-ceza-talebi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1882,7 +1882,8 @@
    "https://www.mynet.com/magazin/yeralti-nin-sultan-i-sumeyye-aydogan-reklam-cekimi-icin-hazirlandi-130100607864",
    "https://www.mynet.com/magazin/halef-biter-bitmez-kararini-verdi-veda-yurtsever-iddiali-diziye-girdi-130100607867",
    "https://www.mynet.com/magazin/lvbel-c5-ten-cengiz-topel-tepkileri-sonrasi-ozur-gecikmedi-sarki-sozlerini-degistirdi-130100607870",
-   "https://www.mynet.com/magazin/mustafa-keser-den-48-yillik-esi-nilufer-keser-e-son-veda-tabuta-bakislari-yurek-burktu-130100607873"
+   "https://www.mynet.com/magazin/mustafa-keser-den-48-yillik-esi-nilufer-keser-e-son-veda-tabuta-bakislari-yurek-burktu-130100607873",
+   "https://www.mynet.com/magazin/cem-yigit-uzumoglu-rolu-icin-19-kilo-verdi-gulusu-icin-ozel-cozum-130100607876"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2314,8 +2315,6 @@
   ]
  },
  "recent_titles": [
-  "özcan denizin ifadesi ortaya çıktı",
-  "ne salyası ne kabuğu yumurtasını toplayan zengin oldu",
   "konyada fuhuş vaadiyle gasp 11 şüpheli tutuklandı",
   "gazzede eğitim çadırlara taşındı ders yolundaki çocuklar görüntülendi",
   "kütahyada jandarmadan kaçakçılık operasyonu",
@@ -3813,6 +3812,8 @@
   "konyada caddeden karşıya geçmeye çalışan kadına otomobil çarptı",
   "suriyede 732 subay yemin ederek görevlerine başladı",
   "fenerbahçeden erzurumspor fk maçı öncesi taraftara çağrı",
-  "ay yüzeyinin altında devasa yeraltı tünelleri tespit edildi"
+  "ay yüzeyinin altında devasa yeraltı tünelleri tespit edildi",
+  "sarıgülün fezlekesi mecliste yarım asırlık ceza talebi",
+  "cem yiğit üzümoğlu rolü için 19 kilo verdi gülüşü için özel çözüm"
  ]
 }
