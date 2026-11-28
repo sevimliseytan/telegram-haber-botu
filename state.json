@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680133-bakan-gurlek-acikladi-fon-sorusturmasinda-4536-milyar-tl-tahsil-edildi",
-   "https://www.haber7.com/dunya/haber/3680134-israilde-tarihi-gelisme-netanyahu-devri-sona-eriyor-muhalefet-partileri-resmen-duyurdu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680135-borsada-yapay-zeka-donemi-basliyor-manipulasyon-aninda-tespit-edilecek",
    "https://spor.haber7.com/diger-branslar/haber/3680136-bursali-sporcular-avrupayi-salladi-9-madalya-ile-donduler",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680137-sampiyonlar-liginde-haftanin-11i-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680138-cumhurbaskani-yardimcisi-yilmazdan-son-dakika-secim-aciklamasi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/guncel/haber/3680581-sarigulun-fezlekesi-mecliste-yarim-asirlik-ceza-talebi",
    "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday",
    "https://spor.haber7.com/fenerbahce/haber/3680582-fenerbahceden-erzurumspor-fk-maci-oncesi-taraftarlarina-cagri",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680583-merkez-bankasi-acikladi-fon-cikislari-yavasladi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680583-merkez-bankasi-acikladi-fon-cikislari-yavasladi",
+   "https://www.haber7.com/guncel/haber/3680585-gokceada-ve-bozcaada-feribot-seferleri-iptal-edildi",
+   "https://www.haber7.com/kitap/haber/3680584-istanbulun-tarihine-isik-tutan-calisma-antikcagdan-xxi-yuzyila-buyuk-istanbul-tarihi",
+   "https://www.haber7.com/medya/haber/3680586-asiyede-gercege-yaklasiyor-duyduklari-karsisinda-ne-yapacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2285,7 +2285,8 @@
    "https://anlatilaninotesi.com.tr/20261128/ev-sahipleri-dikkat-son-gun-pazartesi-1110659600.html",
    "https://anlatilaninotesi.com.tr/20261128/bu-duygulari-yasiyorsaniz-dikkat-tembellik-ya-da-sorumsuzluk-mu-yoksa-anhedoni-mi-1110402021.html",
    "https://anlatilaninotesi.com.tr/20261128/avustralyali-guresci-bronson-reed-38-yasinda-hayatini-kaybetti-1110660008.html",
-   "https://anlatilaninotesi.com.tr/20261128/70-yasindaki-adam-sadece-sesini-duydugu-kadina-45-milyon-lira-gonderdi-sosyal-medyada-gundem-oldu-1110660353.html"
+   "https://anlatilaninotesi.com.tr/20261128/70-yasindaki-adam-sadece-sesini-duydugu-kadina-45-milyon-lira-gonderdi-sosyal-medyada-gundem-oldu-1110660353.html",
+   "https://anlatilaninotesi.com.tr/20261128/bakan-gurlekten-fon-aciklamasi-kisa-surede-diyerek-duyurdu-1110660656.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2317,8 +2318,6 @@
   ]
  },
  "recent_titles": [
-  "herkez emre belezoğlunun dans vaadini konuşuyor",
-  "silah ruhsatı harçları 2027 işte bulundurma ve taşıma ücretleri",
   "istanbulda durdurulan araçta kalaşnikof çıktı",
   "ünlülere yönelik uyuşturucu soruşturmasında dj burak yeter gözaltında",
   "gençliğin en büyük eksikliği sabır",
@@ -3816,6 +3815,8 @@
   "merkez bankası açıkladı fon çıkışları yavaşladı",
   "gökçeada ve bozcaada feribot seferleri iptal edildi",
   "istanbulun tarihine ışık tutan çalışma antikçağdan xxi yüzyıla büyük istanbul tarihi",
-  "hakan fidan filistin bizim için en önemli ahlaki pusula"
+  "hakan fidan filistin bizim için en önemli ahlaki pusula",
+  "asiyede gerçeğe yaklaşıyor duydukları karşısında ne yapacak",
+  "bakan gürlekten fon açıklaması kısa sürede diyerek duyurdu"
  ]
 }
