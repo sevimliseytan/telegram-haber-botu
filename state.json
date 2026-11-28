@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/alina-boz-annesiyle-paylasim-yapti-h1585858",
    "https://www.ensonhaber.com/konyada-cesmeden-su-almak-isteyen-70-yasindaki-kadin-bicaklandi-h1585859",
    "https://www.ensonhaber.com/vanda-havalarin-sogumasiyla-terzilerde-yogunluk-basladi-h1585860",
    "https://www.ensonhaber.com/sampiyonlar-liginde-gecenin-olayi-actigi-cukura-carpan-top-gol-oldu-h1585861",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/antetokounmponun-23-ribauntluk-kariyer-rekoruyla-heat-knicksi-yendi-h1586353",
    "https://www.ensonhaber.com/irandan-abd-israil-aleyhine-241-iddianame-ceza-mahkemelerine-gonderildi-h1586354",
    "https://www.ensonhaber.com/ankarada-uyusturucu-ve-fuhus-sorusturmasinda-22-tutuklama-h1586355",
-   "https://www.ensonhaber.com/boluda-kaybolan-10-cocuk-sag-salim-bulundu-goktas-gozyaslarina-hakim-olamadi-h1586356"
+   "https://www.ensonhaber.com/boluda-kaybolan-10-cocuk-sag-salim-bulundu-goktas-gozyaslarina-hakim-olamadi-h1586356",
+   "https://www.ensonhaber.com/sivasta-forma-giyemedigi-mahallesinin-takimini-namaglup-liderlige-tasiyor-h1586357"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680081-yeni-partili-belediyede-heykel-mesaisi-dedikoducu-kadinlar-yeniden-sokaklarda",
-   "https://www.haber7.com/dunya/haber/3680082-fas-ve-israil-anlasti-ortak-askeri-eylem-plani-yapacaklar",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680083-kpss-adaylarina-mujde-buro-memuru-aliminda-one-cikan-iller-belli-oldu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680087-kuresel-sermayenin-yeni-rotasi-erzurum-palandoken-ekonomi-forumu-basliyor",
    "https://www.haber7.com/guncel/haber/3680053-iddia-suresiz-nafaka-duzenlemesinde-hakime-genis-yetki-taninacak",
    "https://www.haber7.com/guncel/haber/3680080-secimleri-bilen-sirketin-yayimladi-son-anket-sonuclarinda-carpici-taplo",
    "https://www.haber7.com/dunya/haber/3680076-son-dakika-kuveytte-kritik-tesise-iha-saldirisi-erken-uyari-sistemi-devreye-girdi",
@@ -1391,7 +1387,11 @@
    "https://www.haber7.com/guncel/haber/3680520-kucukcekmecede-5-katli-bina-yanginindan-aci-haber-olu-sayisi-3e-yukseldi",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680519-4te-4-ile-rahat-bir-nefes-almisken-ulke-puaninda-buyuk-tehlike-bizi-bekliyor",
    "https://www.haber7.com/medya/haber/3680521-mardinden-renkli-goruntuler-harunla-sen-yollarda",
-   "https://www.haber7.com/guncel/haber/3680523-hayali-vurgun-iddiasi-unlu-spikerler-gozaltina-alinmisti-bakin-nasil-fonlamislar"
+   "https://www.haber7.com/guncel/haber/3680523-hayali-vurgun-iddiasi-unlu-spikerler-gozaltina-alinmisti-bakin-nasil-fonlamislar",
+   "https://www.haber7.com/guncel/haber/3680522-ihhnin-nijerde-yetimler-icin-insa-ettigi-egitim-kompleksi-acildi",
+   "https://www.haber7.com/guncel/haber/3680524-13-kisinin-bulundugu-haberi-bakan-goktasi-gozyaslarina-bogdu",
+   "https://www.haber7.com/guncel/haber/3680525-linet-besiktas-macindaki-olaylara-iliskin-tarafini-secti-ben-bizden-degilim",
+   "https://www.haber7.com/seyahat/haber/3680527-erciyeste-sezon-erken-aciliyor-35-milyon-ziyaretci-hedefi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2299,12 +2299,6 @@
   ]
  },
  "recent_titles": [
-  "çorumda iki iş yerine tüfekli saldırı",
-  "emre belözoğlu kazanarak devam edersek neden olmasın",
-  "arda turan acı verici bir tecrübe oldu",
-  "20 yılda 57 rahip cinsel istismardan hapis cezası aldı",
-  "kayseride trafikte biber gazlı saldırıya 180 bin tl ceza",
-  "bursada evin deposunda çıkan yangın söndürüldü",
   "iraktan askeri hamle tüm birlikler sahaya iniyor",
   "kizilelmaya hayran kaldılar biz ona rakip olamayız",
   "istanbulda e5te elektrikli cip alev alev yandı",
@@ -3798,6 +3792,12 @@
   "hayali vurgun iddiası ünlü spikerler gözaltına alınmıştı bakın nasıl fonlamışlar",
   "ihhnın nijerde yetimler için inşa ettiği eğitim kompleksi açıldı",
   "13 kişinin bulunduğu haberi bakan göktaşı gözyaşlarına boğdu",
-  "linet beşiktaş maçındaki olaylara ilişkin tarafını seçti ben bizden değilim"
+  "linet beşiktaş maçındaki olaylara ilişkin tarafını seçti ben bizden değilim",
+  "erciyeste sezon erken açılıyor 35 milyon ziyaretçi hedefi",
+  "29 ilde deaş operasyonu 84 şüpheli yakalandı",
+  "iran duyurdu 2 petrol tankeri daha patladı",
+  "ormanda gezerken hazine buldu bin yıl önce saklanmış ilk kez sergilenecek",
+  "sivasta forma giyemediği mahallesinin takımını namağlup liderliğe taşıyor",
+  "istanbulda düzenlenen operasyonda sahte 196 pasaport ve 30 kimlik ele geçirildi"
  ]
 }
