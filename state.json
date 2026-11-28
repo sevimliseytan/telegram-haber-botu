@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/teknoloji/haber/3680065-bakan-kacir-duyurdu-81-ilde-100-teknoloji-atolyesi-kurulacak",
    "https://www.haber7.com/guncel/haber/3680062-yuz-binlerce-saglik-calisanina-mujdeli-haber-yillardir-uygulaniyordu-iptal-edildi",
    "https://www.haber7.com/dunya/haber/3680068-ocaktaki-duduklu-tencere-bomba-gibi-patladi",
    "https://www.haber7.com/guncel/haber/3680070-evde-dogum-yapip-bebegini-cope-atan-anneye-muebbet-hapis",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/fenerbahce/haber/3680509-fenerbahce-erzurumspor-fkyi-konuk-edecek",
    "https://www.haber7.com/dunya/haber/3680508-tel-avivde-koalisyon-cikmazi-netanyahudan-yeni-secim-senaryosu-mu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680510-akkuyu-ngsde-geri-sayim-basladi-ilk-elektrik-2027de",
-   "https://www.haber7.com/saglik/haber/3680511-obeziteyle-mucadelede-dijital-yol-haritasi-e-nabiz-ve-yapay-zeka-devrede"
+   "https://www.haber7.com/saglik/haber/3680511-obeziteyle-mucadelede-dijital-yol-haritasi-e-nabiz-ve-yapay-zeka-devrede",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680512-son-dakika-serdar-turhan-yurt-disindaki-parasini-turkiyeye-getirecek"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2298,7 +2298,6 @@
   ]
  },
  "recent_titles": [
-  "kütahya belediye başkanlığı",
   "beykoz belediyesi iktisadi ve sosyal tesis işletmesi",
   "hayrabolu sulh hukuk mahkemesi satış memurluğu",
   "alanya 7 asliye hukuk mahkemesi hakimliği",
@@ -3797,6 +3796,7 @@
   "obeziteyle mücadelede dijital yol haritası enabız ve yapay zeka devrede",
   "son dakika 292 milyon poundu türkiyeye getirmek için savcılığa başvurdu",
   "istanbulda kundaklamada can kaybı 3 oldu",
-  "türkan şoray ile cihan ünalın kızları yağmur evleniyor hazırlıklar başladı"
+  "türkan şoray ile cihan ünalın kızları yağmur evleniyor hazırlıklar başladı",
+  "son dakika serdar turhan yurt dışındaki parasını türkiyeye getirecek"
  ]
 }
