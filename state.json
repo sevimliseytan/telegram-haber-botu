@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/siyaset/haber/3680188-bakan-kurumdan-bela-diyen-vekile-tepki-14-milyon-vatandasimizin-gonlu-kirilmistir",
    "https://ekonomi.haber7.com/ekonomi/haber/3680189-emekliler-icin-kritik-zirve-calismalarda-sona-gelindi-iste-masadaki-rakam",
    "https://www.haber7.com/guncel/haber/3680190-tiktokta-insan-ticareti-skandali",
    "https://www.haber7.com/dunya/haber/3680191-abdden-surpriz-karar-resmen-dogrulandi-hava-birligini-lagvetti",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680644-akarsu-parquetry-markuteri-parke-tasarimlariyla-ahsaba-sanatsal-dokunus-katiyor",
    "https://www.haber7.com/guncel/haber/3680645-turk-f-16lari-romanyada-gorevi-devraldi-724-alarmda-olacaklar",
    "https://spor.haber7.com/super-lig/haber/3680622-gift-orbana-4-dakika-yetti-amed-deplasmanda-kazandi",
-   "https://www.haber7.com/dunya/haber/3680646-trumptan-f-16-pilotuna-en-iyi-savas-ucagi-sorusu-para-verseniz-kabul-etmem"
+   "https://www.haber7.com/dunya/haber/3680646-trumptan-f-16-pilotuna-en-iyi-savas-ucagi-sorusu-para-verseniz-kabul-etmem",
+   "https://www.haber7.com/otomobil/haber/3680647-dunyanin-en-degerli-50-otomotiv-sirketi-aciklandi-turkiyeden-2-marka-listede"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2333,8 +2333,6 @@
   ]
  },
  "recent_titles": [
-  "balıkesirde otoyolda 27 düzensiz göçmen ile 3 göçmen kaçakçılığı organizatörü yakalandı",
-  "istanbulda korkunç kaza kaldırımdaki yayalara çarptı",
   "ysk başkanı serdar muttadan elektronik oy açıklaması",
   "suriyelilerin ülkelerine dönüş yolculuğu devam ediyor",
   "16 yıl önce bir hangarda başladı şimdi dünyaya ev satıyor",
@@ -3832,6 +3830,8 @@
   "burhanettin duran israil iletişim sahasında da hakikat soykırımı gerçekleştirmeye çalışıyor",
   "amedspor deplasmanda gaziantep fkyi 21 mağlup etti",
   "luganskta ukraynanın iha saldırısında 3 kişi hayatını kaybetti",
-  "netanyahudan ortak hükümet için geri adım başbakanlık ısrarından vazgeçti"
+  "netanyahudan ortak hükümet için geri adım başbakanlık ısrarından vazgeçti",
+  "dünyanın en değerli 50 otomotiv şirketi açıklandı türkiyeden 2 marka listede",
+  "manchester sahasında hezimet yaşadı ligin dibine demir attılar"
  ]
 }
