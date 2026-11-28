@@ -253,11 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinda-ortalik-karisti-h1585972",
-   "https://www.ensonhaber.com/israilde-muhalefet-partileri-yashar-ve-demokratlar-koalisyon-konusunda-uzlasti-h1585973",
-   "https://www.ensonhaber.com/trabzonspordan-besiktas-macinda-yasanan-olaylar-sonrasi-uefaya-israil-tepkisi-h1585974",
-   "https://www.ensonhaber.com/gurcu-polisinin-yaraladigi-besiktasli-taraftar-sedyeyle-goturuldu-h1585975",
-   "https://www.ensonhaber.com/besiktasli-taraftarlardan-isgale-isyan-filistine-ozgurluk-pankarti-h1585976",
    "https://www.ensonhaber.com/cska-sofya-trabzonspor-macinin-ilk-11leri-h1585977",
    "https://www.ensonhaber.com/gurcistanda-besiktas-taraftarlarina-mudahaleye-siyasilerden-tepki-h1585978",
    "https://www.ensonhaber.com/hapoel-beer-shevaya-karsi-besiktasli-taraftarlar-ya-allah-bismillah-allahu-ekber-h1585979",
@@ -752,7 +747,12 @@
    "https://www.ensonhaber.com/gebze-belediyespor-alanya-belediyespora-sans-tanimadi-h1586467",
    "https://www.ensonhaber.com/icisleri-bakani-duyurdu-su-an-turkiyede-22-milyon-civarinda-suriyeli-var-h1586468",
    "https://www.ensonhaber.com/trabzonspor-gozunu-sampiyonluk-sezonundaki-seriye-dikti-h1586469",
-   "https://www.ensonhaber.com/corumda-otomobille-carpisti-motosiklettekiler-dereye-dustu-h1586470"
+   "https://www.ensonhaber.com/corumda-otomobille-carpisti-motosiklettekiler-dereye-dustu-h1586470",
+   "https://www.ensonhaber.com/cesme-belediye-baskani-lal-denizli-hakkinda-islem-baslatildi-h1586471",
+   "https://www.ensonhaber.com/boluda-minibusun-uzerinde-kizlarin-camurlu-el-izleri-cabalari-kurtarmaya-yetmemis-h1586472",
+   "https://www.ensonhaber.com/okan-buruk-besiktas-derbisinde-rekor-pesinde-h1586473",
+   "https://www.ensonhaber.com/eskisehirde-iki-grup-arasinda-silahli-kavga-2-yarali-h1586474",
+   "https://www.ensonhaber.com/ege-universitesinde-akademisyeni-bicaklayan-saldirgan-tutuklandi-h1586475"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/saglik/haber/3680164-ebola-salgininda-bilanco-agirlasiyor-12-bin-vaka-5-bin-904-olum",
    "https://ekonomi.haber7.com/ekonomi/haber/3680165-reklam-kurulunun-affi-yok-sahte-yetkili-servis-tuzagina-milyonluk-ceza",
    "https://www.haber7.com/resmi-ilanlar/haber/3679777-sarigazi-vergi-dairesi-mudurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679785-elmadag-sulh-hukuk-mahkemesi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680616-aydinda-sahtecilik-operasyonu-186-milyon-tllik-urun-ele-gecirildi",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680610-hapoel-beer-shevadan-gurcu-polislere-tesekkur-zulum-de-nefret-de-sizin-eseriniz-barkat",
    "https://www.haber7.com/guncel/haber/3680617-istanbul-icin-pes-pese-firtina-ve-saganak-uyarisi-ruzgarin-hizi-90-kilometreyi-bulacak",
-   "https://spor.haber7.com/spor/haber/3680618-bir-grup-taraftar-okan-buruk-ve-futbolcular-icin-pilav-dagitip-dua-okuttular"
+   "https://spor.haber7.com/spor/haber/3680618-bir-grup-taraftar-okan-buruk-ve-futbolcular-icin-pilav-dagitip-dua-okuttular",
+   "https://www.haber7.com/dunya/haber/3680619-cekyadan-abnin-yeni-butce-taslagina-ret"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2327,8 +2327,6 @@
   ]
  },
  "recent_titles": [
-  "abd olmadan da iranı vururuz dedi katil sözcüden canlı kalkan savunması",
-  "elazığda işletme gibi çalışan okul yıllık cirosu dudak uçuklattı",
   "güney korede borsadaki düşüşü yorumlayan sunucu gözyaşlarını tutamadı",
   "endonezyada yasa dışı altın madeninde facia 13 ölü 13 mahsur",
   "israil ordusundan abd çıkışı onlarsız da irana saldırıya hazırız",
@@ -3826,6 +3824,8 @@
   "boluda minibüsün üzerinde kızların çamurlu el izleri çabaları kurtarmaya yetmemiş",
   "okan buruk beşiktaş derbisinde rekor peşinde",
   "eskişehirde iki grup arasında silahlı kavga 2 yaralı",
-  "ukrayna kırım köprüsü saldırısında israil menşeli hisky uydu terminallerini kullandı"
+  "ukrayna kırım köprüsü saldırısında israil menşeli hisky uydu terminallerini kullandı",
+  "çekyadan abnin yeni bütçe taslağına ret",
+  "ege üniversitesinde akademisyeni bıçaklayan saldırgan tutuklandı"
  ]
 }
