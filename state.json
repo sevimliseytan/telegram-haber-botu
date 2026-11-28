@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/icisleri-bakani-mustafa-ciftci-gurcistan-icisleri-bakani-ile-gorustu-h1585985",
    "https://www.ensonhaber.com/karamanda-vincten-dusen-kulubenin-uzerindeki-kisi-agir-yaralandi-h1585986",
    "https://www.ensonhaber.com/besiktastan-paylasim-turkiye-olarak-hep-birlikte-kazandik-h1585987",
    "https://www.ensonhaber.com/kassoum-ouattaradan-uefaya-tepki-filistin-bayragini-koydu-h1585988",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/erzurumda-ozel-halk-otobusu-ile-kamyonetin-carpistigi-kazada-5-kisi-yaralandi-h1586480",
    "https://www.ensonhaber.com/motokurye-siparis-goturdugu-kadini-yumruklayarak-bayiltti-h1586481",
    "https://www.ensonhaber.com/fenerbahce-duyurdu-maltepedeki-stadyum-projesi-icn-resmi-teklif-almadik-h1586482",
-   "https://www.ensonhaber.com/kisisel-bakim-harcamalarinda-kadin-ve-erkek-arasinda-ucurum-var-h1586483"
+   "https://www.ensonhaber.com/kisisel-bakim-harcamalarinda-kadin-ve-erkek-arasinda-ucurum-var-h1586483",
+   "https://www.ensonhaber.com/boluda-10-kiz-cocugu-ve-3-personelin-kayboldugu-olayla-ilgili-teftis-baslatildi-h1586484"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679770-boyabat-sulh-hukuk-mahkemesi-satis-memurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679768-kas-3-asliye-hukuk-mahkemesi-hakimligi",
    "https://spor.haber7.com/besiktas/haber/3680166-besiktasin-yildizindan-uefaya-filistin-cevabi-yaptigi-hareket-gundem-oldu",
    "https://www.haber7.com/guncel/haber/3680167-kubra-yigitbasi-medya-kadin-ve-toplumsal-sorumluluk-panelinde-konustu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdogan-yunan-mevkidasi-tasulas-ile-gorustu",
    "https://www.haber7.com/3sayfa/haber/3680623-10-yasindaki-gazinin-feci-olumu-kolunu-yem-karma-makinesine-kaptirdi",
    "https://www.haber7.com/dunya/haber/3680620-iranda-sunni-din-adamina-suikast",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680624-izmirde-suya-zam-tartismasi-ak-partiden-yeni-partiye-sert-yanit"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680624-izmirde-suya-zam-tartismasi-ak-partiden-yeni-partiye-sert-yanit",
+   "https://www.haber7.com/guncel/haber/3680626-izmirde-korkunc-olay-ege-universitesinde-profesore-bicakli-saldiri"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2330,10 +2330,6 @@
   ]
  },
  "recent_titles": [
-  "kahramanmaraşta şehir büyüdü apartmanlar mağaraya dayandı",
-  "kaymakamın bursuyla öğretmen oldu şimdi yüzlerce öğrenciye ücretsiz eğitim desteği veriyor",
-  "türkiyenin güneş enerjisi kurulu gücünün yüzde 10u konyada",
-  "balıkesirde 9 yaşındaki aryanın piyano başarısı türkiyeyi temsil etti birinci oldu",
   "bakan kurum izmir körfezinde dip çamuru temizliğini başlatıyoruz",
   "izmirde biri 2 yıl 8 aydır aranıyordu 3 firari yakalandı",
   "erzurumda çöp kamyonunun altında can veren kadının eşinden bilirkişi raporuna tepki",
@@ -3829,6 +3825,10 @@
   "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulas ile görüştü",
   "rusya savunma bakanlığı karadenizde askeri kargo taşıyan kuru yük gemisi ve kievdeki enerji tesisleri vuruldu",
   "izmirde suya zam tartışması ak partiden yeni partiye sert yanıt",
-  "kişisel bakım harcamalarında kadın ve erkek arasında uçurum var"
+  "kişisel bakım harcamalarında kadın ve erkek arasında uçurum var",
+  "izmirde korkunç olay ege üniversitesinde profesöre bıçaklı saldırı",
+  "beşiktaş maçı fitili ateşledi filistin desteği tüm statlara yayılıyor",
+  "fenerbahçeden stat maltepeye taşınacak iddialarına cevap",
+  "boluda 10 kız çocuğu ve 3 personelin kaybolduğu olayla ilgili teftiş başlatıldı"
  ]
 }
