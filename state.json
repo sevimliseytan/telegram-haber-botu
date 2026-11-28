@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680185-4-aday-canli-yayinda-tartisti-secime-gunler-kala-dunyanin-gozu-onunde-yerin-dibine-soktu",
    "https://www.haber7.com/guncel/haber/3680186-bagcilarda-sokak-ortasinda-silahli-saldiri-2-cocuk-yarali",
    "https://www.haber7.com/guncel/haber/3680187-afaddan-aciklama-ege-denizinde-deprem",
    "https://www.haber7.com/siyaset/haber/3680188-bakan-kurumdan-bela-diyen-vekile-tepki-14-milyon-vatandasimizin-gonlu-kirilmistir",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680641-dolandiricilara-karsi-yeni-donem-basliyor-18-dakikada-devreye-girecek",
    "https://www.haber7.com/kultur/haber/3680642-prof-dr-neslihan-karakus-ile-koklerden-gelecege-turkce",
    "https://www.haber7.com/dunya/haber/3680643-bahreyn-ile-lubnan-arasinda-gerilim-buyukelci-bakanliga-cagrildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680644-akarsu-parquetry-markuteri-parke-tasarimlariyla-ahsaba-sanatsal-dokunus-katiyor"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680644-akarsu-parquetry-markuteri-parke-tasarimlariyla-ahsaba-sanatsal-dokunus-katiyor",
+   "https://www.haber7.com/guncel/haber/3680645-turk-f-16lari-romanyada-gorevi-devraldi-724-alarmda-olacaklar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2331,8 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "khloe kardashiandan itiraf korede ilk gün yüzümüzün içine ettik",
-  "msb kazaların ardından derhal adli ve idari süreçler başlatıldı",
   "istanbula sibirya soğukları geliyor akom tarih verdi sıcaklık 2 dereceye düşecek",
   "istanbulda oto servisinde dolandırıcılık iddiasına ilişkin yeni görüntüler",
   "demet özdemirin düğün tarzı sırt dekolteli elbisesiyle büyüledi",
@@ -3830,6 +3828,8 @@
   "uşakta duvara çarpan otomobilde 3 kişi yaşamını yitirdi",
   "adıyamanda barajda kaybolan gencin cansız bedenine ulaşıldı",
   "bahreyn ile lübnan arasında gerilim büyükelçi bakanlığa çağrıldı",
-  "akarsu parquetry marküteri parke tasarımlarıyla ahşaba sanatsal dokunuş katıyor"
+  "akarsu parquetry marküteri parke tasarımlarıyla ahşaba sanatsal dokunuş katıyor",
+  "türk f16ları romanyada görevi devraldı 724 alarmda olacaklar",
+  "gift orbana 4 dakika yetti amed deplasmanda kazandı"
  ]
 }
