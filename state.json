@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/turkiye-pakistan-ve-suudi-arabistandan-islamabadda-savunma-ittifaki-zirvesi-h1585800",
-   "https://www.ensonhaber.com/duran-duranin-gitaristi-andy-taylor-65-yasinda-hayatini-kaybetti-h1585801",
    "https://www.ensonhaber.com/ozge-ulusoydan-yeni-tavsiye-her-sabah-yapiyorum-h1585802",
    "https://www.ensonhaber.com/apartman-aidatlari-icin-enerji-maliyeti-uyarisi-h1585803",
    "https://www.ensonhaber.com/whatsapp-mesaj-zamanlama-ozelligini-duyurdu-iste-kullanmanin-yolu-h1585804",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kartal-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-h1586292",
    "https://www.ensonhaber.com/kassoum-ouattaranin-filistine-destegi-gazzede-duvara-tasindi-h1586293",
    "https://www.ensonhaber.com/hatayda-canli-yayinda-sehitlere-kufreden-supheli-tutuklandi-h1586294",
-   "https://www.ensonhaber.com/denizlide-bosanmak-istemeyen-kocasini-eve-cagirdigi-arkadaslarina-oldurttu-h1586295"
+   "https://www.ensonhaber.com/denizlide-bosanmak-istemeyen-kocasini-eve-cagirdigi-arkadaslarina-oldurttu-h1586295",
+   "https://www.ensonhaber.com/tcmb-fintlixin-faaliyet-iznini-iptal-etti-h1586296",
+   "https://www.ensonhaber.com/kocaelide-park-halindeki-arac-6-metre-yukseklikten-uctu-h1586297"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2288,7 +2288,6 @@
   ]
  },
  "recent_titles": [
-  "israilin yeni meclisinden ezan kararı ben gvir salondan atıldı çılgına döndüler",
   "trump destekçilerinin yüzde 78i israile destek azalsın istiyor",
   "anderson taliscadan al jazirada harika gol",
   "arda gülerin kazak muhabirle diyaloğu gündem oldu",
@@ -3787,6 +3786,7 @@
   "hatayda canlı yayında şehitlere küfreden şüpheli tutuklandı",
   "chpdeki anketten ak parti birinci çıktı yeni partide işler tersine döndü",
   "denizlide boşanmak istemeyen kocasını eve çağırdığı arkadaşlarına öldürttü",
-  "tcmb fintlixin faaliyet iznini iptal etti"
+  "tcmb fintlixin faaliyet iznini iptal etti",
+  "kocaelide park halindeki araç 6 metre yükseklikten uçtu"
  ]
 }
