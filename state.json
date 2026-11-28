@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbul-zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-h1585996",
    "https://www.ensonhaber.com/vincenzo-italiano-yasananlardan-dolayi-uzgunum-h1585997",
    "https://www.ensonhaber.com/orkun-kokcu-filistin-icin-kazandik-h1585998",
    "https://www.ensonhaber.com/kassoum-ouattaradan-paylasim-tum-ezilen-insanlar-icin-h1585999",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/alparslan-bayraktar-gabarda-2027de-gunluk-100-bin-varilin-uzerine-cikacagiz-h1586491",
    "https://www.ensonhaber.com/usakta-duvara-carpan-otomobilde-3-kisi-yasamini-yitirdi-h1586492",
    "https://www.ensonhaber.com/adiyamanda-barajda-kaybolan-gencin-cansiz-bedenine-ulasildi-h1586493",
-   "https://www.ensonhaber.com/burhanettin-duran-israil-iletisim-sahasinda-da-hakikat-soykirimi-gerceklestirmeye-calisiyo-h1586494"
+   "https://www.ensonhaber.com/burhanettin-duran-israil-iletisim-sahasinda-da-hakikat-soykirimi-gerceklestirmeye-calisiyo-h1586494",
+   "https://www.ensonhaber.com/amedspor-deplasmanda-gaziantep-fkyi-2-1-maglup-etti-h1586495"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2299,7 +2299,8 @@
    "https://anlatilaninotesi.com.tr/20261128/bakan-goktas-duyurdu-teftis-baslatildi-1110663398.html",
    "https://anlatilaninotesi.com.tr/20261128/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorustu-1110663499.html",
    "https://anlatilaninotesi.com.tr/20261128/rusya-savunma-bakanligi-karadenizde-askeri-kargo-tasiyan-kuru-yuk-gemisi-ve-kievdeki-enerji-1110663685.html",
-   "https://anlatilaninotesi.com.tr/20261128/polyanskiy-rusya-agit-bakanlar-konseyinde-ukrayna-krizinin-temel-nedenlerini-gundeme-getirecek-1110663985.html"
+   "https://anlatilaninotesi.com.tr/20261128/polyanskiy-rusya-agit-bakanlar-konseyinde-ukrayna-krizinin-temel-nedenlerini-gundeme-getirecek-1110663985.html",
+   "https://anlatilaninotesi.com.tr/20261128/luganskta-ukraynanin-iha-saldirisinda-3-kisi-hayatini-kaybetti-1110664293.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2331,9 +2332,6 @@
   ]
  },
  "recent_titles": [
-  "demet özdemirin düğün tarzı sırt dekolteli elbisesiyle büyüledi",
-  "melissa vargas ikonik smaç pozunu mahkemeye taşıdı",
-  "beşiktaşgalatasaray derbisinin hakemi belli oldu",
   "balıkesirde otoyolda 27 düzensiz göçmen ile 3 göçmen kaçakçılığı organizatörü yakalandı",
   "istanbulda korkunç kaza kaldırımdaki yayalara çarptı",
   "ysk başkanı serdar muttadan elektronik oy açıklaması",
@@ -3830,6 +3828,9 @@
   "türk f16ları romanyada görevi devraldı 724 alarmda olacaklar",
   "gift orbana 4 dakika yetti amed deplasmanda kazandı",
   "trumptan f16 pilotuna en iyi savaş uçağı sorusu para verseniz kabul etmem",
-  "burhanettin duran israil iletişim sahasında da hakikat soykırımı gerçekleştirmeye çalışıyor"
+  "burhanettin duran israil iletişim sahasında da hakikat soykırımı gerçekleştirmeye çalışıyor",
+  "amedspor deplasmanda gaziantep fkyi 21 mağlup etti",
+  "luganskta ukraynanın iha saldırısında 3 kişi hayatını kaybetti",
+  "netanyahudan ortak hükümet için geri adım başbakanlık ısrarından vazgeçti"
  ]
 }
