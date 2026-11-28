@@ -892,13 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680043-fon-sorusturmasinda-hareketli-dakikalar",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680045-adi-aciklanmayan-ulkeden-dev-siparis-izmirli-savunma-sanayii-firmasi-kapa-bildirim-yapti",
-   "https://www.haber7.com/guncel/haber/3680044-cumhurbaskani-erdogan-baskanligindaki-kritik-mgk-basladi",
-   "https://www.haber7.com/dunya/haber/3680047-yunan-vekil-turkiyeye-dil-uzatti-tarihi-yok-sabika-kaydi-var",
-   "https://www.haber7.com/dunya/haber/3680046-kim-jong-undan-nukleer-talimati-acil-deyip-duyurdu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680048-174-milyar-dolarlik-ithalat-faturasina-yerli-fren-gebzede-dev-tesis-devreye-girdi",
-   "https://www.haber7.com/ulkede-bugun/haber/3680050-sakaryada-kopek-kumese-dadandi-13-tavuk-telef-oldu",
    "https://www.haber7.com/teknoloji/haber/3680049-en-cok-kotu-soforun-oldugu-iller-aciklandi-ikinci-siradaki-ili-2ye-katladi",
    "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-koye-yerlesene-1-milyon-lira-verilecek",
    "https://www.haber7.com/guncel/haber/3680052-istanbulda-kimsenin-bilmedigi-cadde-ayasofyanin-altindan-cikti-tarihi-yeniden-yazacak",
@@ -1391,7 +1384,14 @@
    "https://www.haber7.com/3sayfa/haber/3680484-mus-merkezli-5-ilde-tefecilik-operasyonu-27-tutuklama",
    "https://www.haber7.com/dunya/haber/3680483-istikrar-icin-guc-guc-icin-istikrar",
    "https://spor.haber7.com/galatasaray/haber/3680486-besiktas-derbisinde-oynayacak-mi-victor-osimhen-icin-karar-verildi",
-   "https://www.haber7.com/guncel/haber/3680488-cok-sayida-hesap-ele-gecirildi-turk-abdli-siyasetciler-ve-sirketler-hedefte"
+   "https://www.haber7.com/guncel/haber/3680488-cok-sayida-hesap-ele-gecirildi-turk-abdli-siyasetciler-ve-sirketler-hedefte",
+   "https://www.haber7.com/yasam/haber/3680490-topraktan-kulce-altin-cikti-patates-gibi-goruntusu-herkesi-soke-etti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680491-enerjide-acele-kamulastirma-kararlari",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680492-riba",
+   "https://www.haber7.com/yasam/haber/3651903-atmde-paranizi-kaptirmayin-yeni-tuzak-aciga-cikti-hedef-olabilirsiniz",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680494-resmi-gazetede-yayimlandi-vergi-yuzde-1-olarak-devam-edecek",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680493-spk-duyurdu-26-fon-yeniden-isleme-aciliyor",
+   "https://www.haber7.com/seyahat/haber/3680495-aralik-ayinda-gezilecek-yerler-turkiyenin-en-guzel-10-rotasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2263,7 +2263,8 @@
    "https://anlatilaninotesi.com.tr/20261128/rusya-ordusunun-ukraynadaki-askeri-hedefleri-vurdugu-bildirildi-1110655312.html",
    "https://anlatilaninotesi.com.tr/20261128/abdde-sukran-gunu-firtinasinin-bilancosu-agirlasti-elektrik-kesintileri-ve-ulasim-aksakliklari-1110655498.html",
    "https://anlatilaninotesi.com.tr/20261128/iran-hurmuz-bogazi-ve-umman-kiyilari-yakinlarinda-2-petrol-tankeri-deniz-mayinina-carpti-1110655810.html",
-   "https://anlatilaninotesi.com.tr/20261128/ukraynanin-limanlari-devre-disi-uc-ayda-3-milyar-dolar-kadar-kaybetti-1110655998.html"
+   "https://anlatilaninotesi.com.tr/20261128/ukraynanin-limanlari-devre-disi-uc-ayda-3-milyar-dolar-kadar-kaybetti-1110655998.html",
+   "https://anlatilaninotesi.com.tr/20261128/abdde-2-ucak-taksi-yaptiklari-esnada-carpisti-1110656326.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2295,8 +2296,6 @@
   ]
  },
  "recent_titles": [
-  "arda turan ile emre belözoğlunun mücadelesi tarihe geçti",
-  "shakhtar donetskfenerbahçe canli",
   "kushner putin siyaset dünyasının büyük ustası",
   "mısırda tanker yangını faciası 30 kişi hayatını kaybetti",
   "önder özenden galatasaray derbisi açıklaması dezavantajımız var",
@@ -3794,6 +3793,8 @@
   "riba",
   "atmde paranızı kaptırmayın yeni tuzak açığa çıktı hedef olabilirsiniz",
   "resmi gazetede yayımlandı vergi yüzde 1 olarak devam edecek",
-  "spk duyurdu 26 fon yeniden işleme açılıyor"
+  "spk duyurdu 26 fon yeniden işleme açılıyor",
+  "aralık ayında gezilecek yerler türkiyenin en güzel 10 rotası",
+  "abdde 2 uçak taksi yaptıkları esnada çarpıştı"
  ]
 }
