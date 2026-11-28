@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-bulgaristanda-firtina-esti-trabzonspor-903te-geri-dondu",
    "https://spor.haber7.com/basketbol/haber/3680179-a-milli-takim-italyaya-kaybetti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680180-bddk-baskanligina-yusuf-kenan-bagir-atandi",
    "https://spor.haber7.com/uefa-konferans-ligi/haber/3680181-thomas-reis-devre-arasinda-cevirebilecegimizi-soyledim",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/yerel-yonetimler/haber/3680635-konyada-106-kilometrelik-dev-hat-acildi-4-mahalle-mavi-tunel-suyuna-kavusuyor",
    "https://www.haber7.com/guncel/haber/3680636-selcuk-bayraktar-avrupanin-bir-yilda-yaptigi-testi-biz-bir-gunde-yapiyoruz",
    "https://www.haber7.com/dunya/haber/3680637-yuzde-70-indirim-icin-saatlerce-beklediler-abdde-magazalar-dolup-tasti",
-   "https://spor.haber7.com/avrupa-ligleri/haber/3680638-super-ligin-3-eski-yildizi-oynadi-deplasmanda-8-yediler"
+   "https://spor.haber7.com/avrupa-ligleri/haber/3680638-super-ligin-3-eski-yildizi-oynadi-deplasmanda-8-yediler",
+   "https://www.haber7.com/guncel/haber/3680639-boluda-tum-turkiyenin-yuregini-agzina-getiren-olayla-ilgili-paylasimlara-sorusturma"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2331,7 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "survivor 2027 ne zaman başlıyor işte yeni konsept ve büyük ödül",
   "gaziosmanpaşadaki yangında iki çocuğunu kaybeden aile komşular bu binayı yakarım dediğini duymuş",
   "stephen hawking yıllar önce uyarmıştı insanlık büyük bir hata mı yaptı",
   "tcmbden döviz karşılığı tl swap hamlesi",
@@ -3830,6 +3829,7 @@
   "yüzde 70 indirim için saatlerce beklediler abdde mağazalar dolup taştı",
   "boluda yaşanan olayla ilgili sosyal medya paylaşımları hakkında soruşturma",
   "süper ligin 3 eski yıldızı oynadı deplasmanda 8 yediler",
-  "abdde indirim gününde mağazalar önünde uzun kuyruklar oluştu"
+  "abdde indirim gününde mağazalar önünde uzun kuyruklar oluştu",
+  "boluda tüm türkiyenin yüreğini ağzına getiren olayla ilgili paylaşımlara soruşturma"
  ]
 }
