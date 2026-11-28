@@ -253,11 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/giorgia-meloni-savasin-akdenize-sicramayacagina-inaniyorum-h1585905",
-   "https://www.ensonhaber.com/merkez-bankasi-rezervleri-1429-milyar-dolar-h1585906",
-   "https://www.ensonhaber.com/turkiyenin-en-karli-noktalari-belli-oldu-zirvede-142-santimle-rize-palovit-yaylasi-var-h1585907",
-   "https://www.ensonhaber.com/burdurdaki-kazada-hayatini-kaybeden-genc-son-yolculuguna-ugurlandi-h1585908",
-   "https://www.ensonhaber.com/avrupada-en-cok-satan-elektrikli-otomobil-degisti-iste-zirvedeki-modeller-h1585909",
    "https://www.ensonhaber.com/arda-guler-107-milyonluk-yeni-arabasiyla-poz-verdi-h1585910",
    "https://www.ensonhaber.com/kayserili-sehit-gozyaslari-icerisinde-son-yolculuguna-ugurlandi-h1585911",
    "https://www.ensonhaber.com/altinin-kilogram-fiyati-6-milyon-liraya-dustu-h1585912",
@@ -752,7 +747,12 @@
    "https://www.ensonhaber.com/istiklal-caddesindeki-goruntuleri-gundem-olmustu-istiklalin-gulu-konustu-h1586400",
    "https://www.ensonhaber.com/deprem-enkazindan-yayilan-tozlarda-agir-metal-mikroplastik-ve-asbest-tespit-edildi-h1586401",
    "https://www.ensonhaber.com/bolu-yedigollerde-mahsur-kaldiktan-sonra-ulasilan-aracin-guzergahi-goruntulendi-h1586402",
-   "https://www.ensonhaber.com/tuncer-bakirhan-86-milyon-insanin-lehine-bir-surec-var-h1586403"
+   "https://www.ensonhaber.com/tuncer-bakirhan-86-milyon-insanin-lehine-bir-surec-var-h1586403",
+   "https://www.ensonhaber.com/ysk-secim-guvenligi-icin-siber-saldiri-senaryolari-olusturuyor-h1586404",
+   "https://www.ensonhaber.com/gazzede-can-kaybi-74-bin-790a-yukseldi-h1586405",
+   "https://www.ensonhaber.com/bahce-duvarina-koymak-icin-tasi-cevirdi-240-milyon-yillik-sir-ortaya-cikti-h1586406",
+   "https://www.ensonhaber.com/kayseride-balik-tutmaya-gittigi-sulama-kanalina-duserek-can-verdi-h1586407",
+   "https://www.ensonhaber.com/izmirin-iklim-avantaji-tekne-ve-yat-ihracatina-rekor-artis-getirdi-h1586408"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680123-baskan-altay-vefa-umresi-ile-kutsal-topraklara-giden-gaziyi-evinde-ziyaret-etti",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-ilk-11ler-belli-oldu",
-   "https://spor.haber7.com/spor/haber/3680124-turkiyenin-istanbulda-olimpiyat-oyunlarina-ev-sahipligi-yapma-vizyonu-iocye-sunuldu",
    "https://www.haber7.com/guncel/haber/3680125-bakanliktan-7-kisilik-aile-icin-aciklama-gecici-olarak-otele-yerlestirildiler",
    "https://www.haber7.com/dunya/haber/3680126-rum-yonetimi-ilan-etti-gkryden-kktc-karari-yogunlastiracagiz-deyip-duyurdular",
    "https://ekonomi.haber7.com/ekonomi/haber/3680127-turkiyenin-otomotiv-sektorundeki-stratejik-rolu-avrupa-basinina-tanitildi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/guncel/haber/3680571-antalyada-kan-donduran-olay-olmeden-once-katilinin-adini-verdi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680572-asgari-ucret-maratonu-icin-geri-sayim-basladi",
    "https://www.haber7.com/guncel/haber/3680573-insan-yasadigi-muddetce-talebedir-ilim-yayma-cemiyetinde-ogrencilerle-sohbetimiz",
-   "https://www.haber7.com/kultur/haber/3680575-milli-sinema-gunleri-rami-kutuphanesinde-sinemaseverleri-bulusturuyor"
+   "https://www.haber7.com/kultur/haber/3680575-milli-sinema-gunleri-rami-kutuphanesinde-sinemaseverleri-bulusturuyor",
+   "https://www.haber7.com/kultur/haber/3680575-4-milli-sinema-gunleri-rami-kutuphanesinde-sinemaseverleri-bulusturuyor",
+   "https://www.haber7.com/guncel/haber/3680574-zeytinburnunda-cinli-is-insanina-bombali-kargo-tuzagi-mahkemeden-karar-cikti",
+   "https://www.haber7.com/3sayfa/haber/3680576-balik-tutmaya-gittigi-sulama-kanalina-dusup-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1881,7 +1881,8 @@
    "https://www.mynet.com/magazin/turkan-soray-ile-cihan-unal-in-kizlari-yagmur-evleniyor-hazirliklar-basladi-130100607861",
    "https://www.mynet.com/magazin/yeralti-nin-sultan-i-sumeyye-aydogan-reklam-cekimi-icin-hazirlandi-130100607864",
    "https://www.mynet.com/magazin/halef-biter-bitmez-kararini-verdi-veda-yurtsever-iddiali-diziye-girdi-130100607867",
-   "https://www.mynet.com/magazin/lvbel-c5-ten-cengiz-topel-tepkileri-sonrasi-ozur-gecikmedi-sarki-sozlerini-degistirdi-130100607870"
+   "https://www.mynet.com/magazin/lvbel-c5-ten-cengiz-topel-tepkileri-sonrasi-ozur-gecikmedi-sarki-sozlerini-degistirdi-130100607870",
+   "https://www.mynet.com/magazin/mustafa-keser-den-48-yillik-esi-nilufer-keser-e-son-veda-tabuta-bakislari-yurek-burktu-130100607873"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2280,7 +2281,8 @@
    "https://anlatilaninotesi.com.tr/20261128/komsuya-birakilan-150-milyonluk-altin-dolu-canta-calindi-sorusturmada-ahbap-detayi-dikkat-cekti-1110658904.html",
    "https://anlatilaninotesi.com.tr/20261128/afganistanda-ortaokul-yakininda-patlama-7-olu-97-yarali-1110659253.html",
    "https://anlatilaninotesi.com.tr/20261128/sarigul-sorusturmasinda-yeni-gelisme-ozgur-ozel-ve-5-vekilin-dosyasi-ankaraya-gonderildi-1110659387.html",
-   "https://anlatilaninotesi.com.tr/20261128/ev-sahipleri-dikkat-son-gun-pazartesi-1110659600.html"
+   "https://anlatilaninotesi.com.tr/20261128/ev-sahipleri-dikkat-son-gun-pazartesi-1110659600.html",
+   "https://anlatilaninotesi.com.tr/20261128/bu-duygulari-yasiyorsaniz-dikkat-tembellik-ya-da-sorumsuzluk-mu-yoksa-anhedoni-mi-1110402021.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2312,11 +2314,6 @@
   ]
  },
  "recent_titles": [
-  "mısırda tanker yangını faciası çok sayıda can kaybı var",
-  "mersinde takım sevdası 26 yıldır böyle",
-  "gümüşte büyük çöküşün ardından nefes molası 90 günlük kayıp yüzde 33ü aştı",
-  "fırtına bulgaristanda cska sofyatrabzonspor muhtemel 11ler",
-  "yetim vakfından kış yardım seferberliği 85 bini aşkın kişiye ulaşılması hedefleniyor",
   "türkiye doğalgaz şebekesinde avrupada ilk 3te",
   "selvi özgür özel kılıçdaroğlu tarifesini ekrem imamoğlu için uygulamaya başladı özel vuruşarak değil severek bitirir",
   "bitcoinde 60 bin dolar aldatmacası mı 2022den bu yana en ağır aylık çöküş kapıda",
@@ -3811,6 +3808,11 @@
   "bahçe duvarına koymak için taşı çevirdi 240 milyon yıllık sır ortaya çıktı",
   "kayseride balık tutmaya gittiği sulama kanalına düşerek can verdi",
   "ev sahipleri dikkat son gün pazartesi",
-  "bu duyguları yaşıyorsanız dikkat tembellik ya da sorumsuzluk mu yoksa anhedoni mi"
+  "bu duyguları yaşıyorsanız dikkat tembellik ya da sorumsuzluk mu yoksa anhedoni mi",
+  "balık tutmaya gittiği sulama kanalına düşüp öldü",
+  "israilli taraftar beşiktaşlıların arasında atkı açınca ortalık karıştı",
+  "izmirin iklim avantajı tekne ve yat ihracatına rekor artış getirdi",
+  "rizede 400 kiloluk çay bardağı salıncak turistlerin ilgi odağı oldu",
+  "mustafa keserden 48 yıllık eşi nilüfer kesere son veda tabuta bakışları yürek burktu"
  ]
 }
