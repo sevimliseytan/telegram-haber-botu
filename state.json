@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/altinin-kilogram-fiyati-6-milyon-liraya-dustu-h1585912",
-   "https://www.ensonhaber.com/zonguldakta-cinsel-istismar-davasinda-saniga-17-yil-5-ay-hapis-cezasi-h1585913",
    "https://www.ensonhaber.com/hikmet-cetinin-cenazesi-ankaraya-ugurlandi-h1585914",
    "https://www.ensonhaber.com/mersinde-hasemali-kadini-havuza-almayan-site-yoneticisi-ve-gorevlisine-hapis-ve-tahliye-h1585915",
    "https://www.ensonhaber.com/betimar-arastirmadan-secim-anketi-ak-parti-fark-atti-24546-h1585916",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kayseride-balik-tutmaya-gittigi-sulama-kanalina-duserek-can-verdi-h1586407",
    "https://www.ensonhaber.com/izmirin-iklim-avantaji-tekne-ve-yat-ihracatina-rekor-artis-getirdi-h1586408",
    "https://www.ensonhaber.com/rizede-400-kiloluk-cay-bardagi-salincak-turistlerin-ilgi-odagi-oldu-h1586409",
-   "https://www.ensonhaber.com/nigdede-sokaklar-guvende-operasyonunda-binlerce-uyusturucu-hap-ele-gecirildi-h1586410"
+   "https://www.ensonhaber.com/nigdede-sokaklar-guvende-operasyonunda-binlerce-uyusturucu-hap-ele-gecirildi-h1586410",
+   "https://www.ensonhaber.com/denizli-merkezli-19-ilde-suc-orgutune-operasyonda-71-tutuklama-h1586411",
+   "https://www.ensonhaber.com/boluda-otomobiliyle-patates-yuklu-romorka-carpti-polisleri-gorunce-kacti-h1586412"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3680127-turkiyenin-otomotiv-sektorundeki-stratejik-rolu-avrupa-basinina-tanitildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680128-ab-liderleri-yeni-butceyi-belirlemek-toplandi",
    "https://www.haber7.com/guncel/haber/3680129-bakanlik-tek-tek-tespit-ediyor-en-cok-bu-gidalarda-hile-yapiliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680131-turkiyenin-gunes-enerjisi-kurulu-gucunun-yuzde-10u-konyada",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680574-zeytinburnunda-cinli-is-insanina-bombali-kargo-tuzagi-mahkemeden-karar-cikti",
    "https://www.haber7.com/3sayfa/haber/3680576-balik-tutmaya-gittigi-sulama-kanalina-dusup-oldu",
    "https://spor.haber7.com/spor/haber/3680577-israilli-taraftar-besiktaslilarin-arasinda-atki-acinca-ortalik-karisti",
-   "https://spor.haber7.com/galatasaray/haber/3680578-okan-buruk-besiktas-derbisinde-gunduz-kilici-gecmek-istiyor"
+   "https://spor.haber7.com/galatasaray/haber/3680578-okan-buruk-besiktas-derbisinde-gunduz-kilici-gecmek-istiyor",
+   "https://www.haber7.com/guncel/haber/3680579-bebegin-anne-karninda-olumune-iliskin-doktora-ihmal-davasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2314,11 +2314,6 @@
   ]
  },
  "recent_titles": [
-  "bitcoinde 60 bin dolar aldatmacası mı 2022den bu yana en ağır aylık çöküş kapıda",
-  "cumhurbaşkanı erdoğanın hafter kabulü yunan basınında gündem oldu",
-  "sakaryada 20 hayvanın öldüğü barınakla ilgili soruşturmada 3 gözaltı",
-  "israilin saldırısında hamas yöneticisi halid ebu neda ile eşi hayatını kaybetti",
-  "libya",
   "yurdun doğusu buz kesti termometreler eksi 12 dereceyi gösterdi",
   "brezilyadaki araba yarışlarını takip eden basın mensupları rüzgarın azizliğine uğradı",
   "özcan denizin ifadesi ortaya çıktı",
@@ -3813,6 +3808,11 @@
   "rizede 400 kiloluk çay bardağı salıncak turistlerin ilgi odağı oldu",
   "mustafa keserden 48 yıllık eşi nilüfer kesere son veda tabuta bakışları yürek burktu",
   "okan buruk beşiktaş derbisinde gündüz kılıçı geçmek istiyor",
-  "niğdede sokaklar güvende operasyonunda binlerce uyuşturucu hap ele geçirildi"
+  "niğdede sokaklar güvende operasyonunda binlerce uyuşturucu hap ele geçirildi",
+  "bebeğin anne karnında ölümüne ilişkin doktora ihmal davası",
+  "erzurumda garsonların yeni mesai arkadaşı yapay zekalı yerli robot iş başında",
+  "boluda otomobiliyle patates yüklü römorka çarptı polisleri görünce kaçtı",
+  "konyada caddeden karşıya geçmeye çalışan kadına otomobil çarptı",
+  "suriyede 732 subay yemin ederek görevlerine başladı"
  ]
 }
