@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/igdirdaki-mustehcenlik-operasyonunda-3-kisi-tutuklandi-h1585880",
    "https://www.ensonhaber.com/is-yeri-satislarinda-dikkat-ceken-ayrisma-ilk-el-artti-ikinci-el-geriledi-h1585881",
    "https://www.ensonhaber.com/turkiye-sehitlerine-veda-ediyor-h1585882",
    "https://www.ensonhaber.com/kara-kartal-israil-ekibine-karsi-batumda-sahne-aliyor-tribunler-tek-yurek-h1585883",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/suphan-dagi-ve-arin-golunun-essiz-manzarasi-goruntulendi-h1586375",
    "https://www.ensonhaber.com/istanbulda-150-milyon-lira-degerinde-altinin-oldugu-canta-calindi-ahbapla-iliskisi-arastir-h1586376",
    "https://www.ensonhaber.com/edirnede-saganak-etkili-oldu-29007-h1586377",
-   "https://www.ensonhaber.com/batmanda-supheli-valiz-harekete-gecirdi-h1586378"
+   "https://www.ensonhaber.com/batmanda-supheli-valiz-harekete-gecirdi-h1586378",
+   "https://www.ensonhaber.com/abd-ordusu-ingilteredeki-askeri-uste-6-ihayi-etkisiz-hale-getirdi-h1586379"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680100-libya-anlasmasi-resmilesti-yunan-basinindan-atina-icin-hezimet-itirafi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679971-turkiyenin-savas-gemilerine-son-savunma-kalkani-ortaya-cikti",
    "https://spor.haber7.com/futbol/haber/3680101-fifa-siber-saldiriya-ugradi-hackerlar-12-gb-veri-caldiklarini-iddia-etti",
    "https://www.haber7.com/dunya/haber/3680102-turkiye-ve-suudi-arabistandan-savunma-imzasi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/saglik/haber/3680546-kan-kanseri-tedavisinde-kisisellestirilmis-tip-ve-hedefe-yonelik-ilac-donemi",
    "https://www.haber7.com/siyaset/haber/3680548-bakan-fidandan-istanbulda-onemli-aciklamalar",
    "https://spor.haber7.com/fenerbahce/haber/3680547-fenerbahcede-emre-belozoglundan-radikal-karar-kimsenin-aklinin-ucundan-bile-gecmezdi",
-   "https://www.haber7.com/siyaset/haber/3680548-bakan-fidandan-musluman-alemine-cagri-birlik-olmaliyiz"
+   "https://www.haber7.com/siyaset/haber/3680548-bakan-fidandan-musluman-alemine-cagri-birlik-olmaliyiz",
+   "https://www.haber7.com/dunya/haber/3680549-turkiyenin-yukselen-savunma-sanayisi-dost-olmayanlari-dusman-etti-hindistan-yerini-aldi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2307,8 +2307,6 @@
   ]
  },
  "recent_titles": [
-  "ankarada sosyal medyada tanışıp ormanda tuzağa düşürdüler",
-  "konya büyükşehir destekliyor üretilen mantarlar türkiyenin dört bir yanına ulaşıyor",
   "mecliste görüşülmeye başlandı 22 milyon kişinin gss prim borcu silinecek",
   "adanada başından vuruşan nurmuhammed 37 gün sonra hayatını kaybetti",
   "avrupada beşiktaş ve trabzonspor gecesi muhtemel 11ler",
@@ -3806,6 +3804,8 @@
   "edirnede sağanak etkili oldu",
   "batmanda şüpheli valiz harekete geçirdi",
   "abd ordusu ingilteredeki askeri üste 6 ihayı etkisiz hale getirdi",
-  "istanbullular yarına dikkat sıcaklıklar düşüyor kar geliyor mu"
+  "istanbullular yarına dikkat sıcaklıklar düşüyor kar geliyor mu",
+  "türkiyenin yükselen savunma sanayisi dost olmayanları düşman etti hindistan yerini aldı",
+  "balığa rakip çıktı omega3ü tavana çıkarıyor kapış kapış gidiyor"
  ]
 }
