@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/vucudun-gizli-ihtiyaci-elektrolitli-su-nasil-yapilir-3-malzemeyle-elektrolit-destegi-h1585925",
-   "https://www.ensonhaber.com/emlak-vergisinde-son-gun-30-kasim-pazartesi-h1585926",
-   "https://www.ensonhaber.com/samsunda-3-cocuk-annesinin-supheli-olumu-kayip-telefonu-araniyor-h1585927",
    "https://www.ensonhaber.com/mgk-toplantisi-sonrasi-9-maddelik-aciklama-63143-h1585928",
    "https://www.ensonhaber.com/kayip-olarak-aranirken-ormanda-cesedi-bulundu-h1585929",
    "https://www.ensonhaber.com/canakkalede-kazada-olen-uzman-cavus-son-yolculuguna-ugurlandi-h1585930",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/hakan-fidan-filistin-bizim-icin-en-onemli-ahlaki-pusula-h1586420",
    "https://www.ensonhaber.com/gelibolu-tarihi-alan-baskanligindaki-kamu-zarari-sorusturmasinda-yeni-detaylar-h1586421",
    "https://www.ensonhaber.com/aksarayda-ayrilmak-isteyen-sevgilisini-oldurup-cesediyle-polis-merkezine-gitti-h1586422",
-   "https://www.ensonhaber.com/rusya-moskovaya-yonelen-462-ihadan-123u-dusuruldu-h1586423"
+   "https://www.ensonhaber.com/rusya-moskovaya-yonelen-462-ihadan-123u-dusuruldu-h1586423",
+   "https://www.ensonhaber.com/sakaryadaki-pazarda-meyve-sebze-degil-ani-satiliyor-h1586424",
+   "https://www.ensonhaber.com/gelibolu-tarihi-alan-baskanligindan-usulsuzluk-iddialarina-iliskin-aciklama-h1586425",
+   "https://www.ensonhaber.com/mansur-yavas-bizim-adaylik-gibi-bir-gundemimiz-yok-h1586426"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/galatasaray/haber/3680140-dursun-ozbek-dugmeye-basti-gsaray-devler-liginin-flas-takimi-ile-is-birligi-yapacak",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-canli",
    "https://spor.haber7.com/besiktas/haber/3680141-besiktasin-yildizlari-geregini-yapti-israilli-futbolcularin-elini-sikmadi",
    "https://www.haber7.com/guncel/haber/3680142-kizilelma-basarisi-turk-dunyasinda-gururla-karsilandi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/otomobil/haber/3673817-arabalarda-bir-devir-kapaniyor-100-yillik-parca-tarihe-karisiyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680587-roketsan-gozunu-samsuna-cevirdi-340-donumluk-yatirim-hazirligi",
    "https://spor.haber7.com/galatasaray/haber/3680588-burak-elmastan-galatasaray-itiraflari-ve-okan-buruk-sozleri-serefsizlik",
-   "https://www.haber7.com/dunya/haber/3680589-turkiye-ile-derin-ittifak-suudi-uzman-munif-amas-el-harbi-yeni-uye-icin-tek-isim-geciyor"
+   "https://www.haber7.com/dunya/haber/3680589-turkiye-ile-derin-ittifak-suudi-uzman-munif-amas-el-harbi-yeni-uye-icin-tek-isim-geciyor",
+   "https://www.haber7.com/guncel/haber/3680590-milyonluk-konutlarin-golgesinde-tarim-yapiyor-tek-bir-amaci-var"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2319,10 +2319,6 @@
   ]
  },
  "recent_titles": [
-  "hatayda konteyner kentten şebeke dağıtım kablosu çaldı tutuklandı",
-  "ankara merkezli yasa dışı bahis operasyonu 25 şüpheli yakalandı",
-  "türkiyenin doğalgaz şebekesi 250 bin kilometreyi aşacak",
-  "dolar ve euro güne yükselişle başladı",
   "burcu özberkin ifadesi ortaya çıktı aylık gelirini açıkladı",
   "zafer partili eryılmazın suizan itham ve iftiraları karşısında gerçekler",
   "uyuşturucu soruşturmasında gözaltına alınmışlardı ünlü isimlerin ifadeleri ortaya çıktı",
@@ -3818,6 +3814,10 @@
   "türkiye ile derin ittifak suudi uzman münif amaş elharbi yeni üye için tek isim geçiyor",
   "rusya moskovaya yönelen 462 ihadan 123ü düşürüldü",
   "sakaryadaki pazarda meyve sebze değil anı satılıyor",
-  "gelibolu tarihi alan başkanlığından usulsüzlük iddialarına ilişkin açıklama"
+  "gelibolu tarihi alan başkanlığından usulsüzlük iddialarına ilişkin açıklama",
+  "milyonluk konutların gölgesinde tarım yapıyor tek bir amacı var",
+  "askeri helikopter yere çakıldı peruda 8 ölü",
+  "mansur yavaş bizim adaylık gibi bir gündemimiz yok",
+  "boluda 13 kişi günübirlik gezide kaybolmuş ve sağ bulunmuştu soru işaretleri gündeme geldi"
  ]
 }
