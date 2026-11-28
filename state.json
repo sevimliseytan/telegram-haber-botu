@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/dursun-ozbekten-sampiyonlar-ligi-sozleri-h1585957",
-   "https://www.ensonhaber.com/besiktas-taraftarlari-sarp-sinir-kapisina-akin-etti-h1585958",
    "https://www.ensonhaber.com/disisleri-bakanligindan-apnin-libya-mutabakat-muhtirasi-hakkindaki-kararina-tepki-h1585959",
    "https://www.ensonhaber.com/cevdet-yilmaz-duyurdu-fonda-olagan-tasfiyeler-tamamlandi-h1585960",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinin-ilk-11leri-h1585961",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kayseri-yahyalida-sulama-kanalinda-erkek-cesedi-bulundu-h1586452",
    "https://www.ensonhaber.com/besiktasta-derbi-mesaisi-basladi-56048-h1586453",
    "https://www.ensonhaber.com/adiyamanda-yem-karma-makinesine-kapilan-cocuk-hayatini-kaybetti-h1586454",
-   "https://www.ensonhaber.com/amasyada-8-aylik-hamileyken-bebegini-kaybetti-doktora-ihmal-davasi-h1586455"
+   "https://www.ensonhaber.com/amasyada-8-aylik-hamileyken-bebegini-kaybetti-doktora-ihmal-davasi-h1586455",
+   "https://www.ensonhaber.com/wwe-gurescisi-bronson-reed-38-yasinda-hayatini-kaybetti-h1586456",
+   "https://www.ensonhaber.com/karamanda-ne-alirsan-125-lira-izdihami-h1586457"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2324,8 +2324,6 @@
   ]
  },
  "recent_titles": [
-  "polonya cumhurbaşkanlığı sarayı karşısında korkunç olay kendini yaktı",
-  "mitten siber casuslara operasyon 2 tutuklama",
   "israilden irana yeni saldırı mesajı abd olmasa da hazırız",
   "mitten nokta operasyonu savunma sanayi ve kamu kurumlarını hedef alan siber casusluk şebekesi çökertildi",
   "son dakika türkiyenin savunma kalkanına sızma girişimi mit casusluk şebekesini çökertti",
@@ -3823,6 +3821,8 @@
   "gürcü vatandaştan tamazaşviliye sert tepki türk bakana açıkça yalan söyledi",
   "boşanma davasında istinaf mahkemesi ve yargıtaydan emsal karar çocuğun elde ettiği deliller hukuka uygun bulundu",
   "hapoel beer shevadan gürcü polislere teşekkür bu zulüm de nefrette sizin eseriniz barkat",
-  "amasyada 8 aylık hamileyken bebeğini kaybetti doktora ihmal davası"
+  "amasyada 8 aylık hamileyken bebeğini kaybetti doktora ihmal davası",
+  "karamanda ne alırsan 125 lira izdihamı",
+  "muşta solunum yetmezliği çeken bebek için ambulans helikopter havalandı"
  ]
 }
