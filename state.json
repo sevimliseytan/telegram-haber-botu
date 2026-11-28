@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/erzurumda-cop-kamyonunun-altinda-can-veren-kadinin-esinden-bilirkisi-raporuna-tepki-h1585793",
    "https://www.ensonhaber.com/fenerbahcenin-shakhtar-zaferi-avrupa-basininda-h1585795",
    "https://www.ensonhaber.com/namik-tanin-oglu-uyusturucu-ve-fuhus-sorusturmasinda-gozaltinda-h1585796",
    "https://www.ensonhaber.com/murat-kurum-tam-106-bin-914-konutumuzun-yapimina-basladik-h1585794",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/boluda-kaybolan-minibusun-surucusu-yasananlari-anlatti-h1586285",
    "https://www.ensonhaber.com/aydinda-funyeyle-patlatilan-cantadan-cocuk-bezi-cikti-h1586286",
    "https://www.ensonhaber.com/kocaelide-138-milyon-liralik-dolandiriciliga-28-gozalti-h1586287",
-   "https://www.ensonhaber.com/beklenen-yagislar-13-milyon-gazzeliyi-tehdit-ediyor-h1586288"
+   "https://www.ensonhaber.com/beklenen-yagislar-13-milyon-gazzeliyi-tehdit-ediyor-h1586288",
+   "https://www.ensonhaber.com/batmanda-supheli-canta-kontrollu-sekilde-patlatildi-h1586289"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680025-vedat-muriqi-fenerbahcenin-kasasini-doldurdu",
    "https://spor.haber7.com/spor/haber/3680026-sampiyonlar-liginde-bruno-fernandesin-attigi-gol-viral-oldu",
    "https://www.haber7.com/guncel/haber/3679930-devlet-bahceli-dem-parti-heyetini-kabul-etti-kilicdaroglu-da-ziyaret-edecek",
    "https://www.haber7.com/dunya/haber/3680027-italyada-kilise-skandali-cocuk-istismari-resmi-raporla-belgelendi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680459-boluda-mahsur-kalan-10-kiz-cocugunun-kurtarilma-anlari-ortaya-cikti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680460-savas-dev-sirketi-iflasa-surukledi-tum-ucuslar-iptal-oldu",
    "https://www.haber7.com/guncel/haber/3680461-akinci-ihalar-yedigollerdeki-arama-faaliyetlerinde-yer-ekiplerine-destek-oldu",
-   "https://www.haber7.com/siyaset/haber/3680462-ozgur-ozelden-aday-acikalmasi-turkiye-gundemini-sarsacak-iddiasi"
+   "https://www.haber7.com/siyaset/haber/3680462-ozgur-ozelden-aday-acikalmasi-turkiye-gundemini-sarsacak-iddiasi",
+   "https://www.haber7.com/siyaset/haber/3680462-ozgur-ozelden-aday-aciklamasi-turkiye-gundemini-sarsacak-iddiasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2285,7 +2285,6 @@
   ]
  },
  "recent_titles": [
-  "trabzonspor cska sofya maçı hazırlıklarını tamamladı",
   "osmanlı arşivinden 120 yıllık petrol sırrı erzurumun bilinmeyen ticaret geçmişi",
   "abde cocacolaya rekabet soruşturması",
   "basın ilan kurumundan basına 67 milyar tl destek başkan çay 1 yıllık tabloyu açıkladı",
@@ -3784,6 +3783,7 @@
   "akıncı ihalar yedigöllerdeki arama faaliyetlerinde yer ekiplerine destek oldu",
   "kocaelide 138 milyon liralık dolandırıcılığa 28 gözaltı",
   "beklenen yağışlar 13 milyon gazzeliyi tehdit ediyor",
-  "özgür özelden aday açıkalması türkiye gündemini sarsacak iddiası"
+  "özgür özelden aday açıkalması türkiye gündemini sarsacak iddiası",
+  "batmanda şüpheli çanta kontrollü şekilde patlatıldı"
  ]
 }
