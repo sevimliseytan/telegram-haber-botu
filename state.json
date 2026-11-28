@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/26-yil-boyunca-gobek-deliginden-cikanlari-biriktirdi-uc-kavanozu-doldurdu-h1585863",
    "https://www.ensonhaber.com/aydinda-almanya-vatandasi-petra-islami-secti-adi-melek-oldu-h1585864",
    "https://www.ensonhaber.com/derya-ulug-ve-asil-gokun-yas-farki-sasirtti-h1585865",
    "https://www.ensonhaber.com/galatasaraya-besiktas-derbisi-oncesi-victor-osimhen-gelismesi-h1585866",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/istanbulda-duzenlenen-operasyonda-sahte-196-pasaport-ve-30-kimlik-ele-gecirildi-h1586358",
    "https://www.ensonhaber.com/dugmeye-basildi-kanalizasyon-suyundan-icme-suyu-uretecekler-h1586359",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorusecek-h1586360",
-   "https://www.ensonhaber.com/29-ilde-deas-operasyonu-85-supheli-gozaltinda-h1586361"
+   "https://www.ensonhaber.com/29-ilde-deas-operasyonu-85-supheli-gozaltinda-h1586361",
+   "https://www.ensonhaber.com/istanbulda-trafikte-cikan-kavgaya-721-bin-246-tl-ceza-h1586362"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3680085-en-cok-borcu-olan-40-futbol-takimi-belli-oldu-ilk-5te-turk-devi-var",
-   "https://www.haber7.com/guncel/haber/3680086-yok-duyurdu-kayit-yaptiramayan-ogrenciler-icin-af-karari",
-   "https://www.haber7.com/ulkede-bugun/haber/3680088-konyada-cesmede-su-dolduran-yasli-kadin-defalarca-bicaklandi",
-   "https://spor.haber7.com/super-lig/haber/3680089-super-lig-ekibi-transfer-yasagini-kaldirdi",
    "https://www.haber7.com/dunya/haber/3680090-akdenizde-rus-gemisi-vuruldu-meloniden-cok-net-savas-mesaji",
    "https://www.haber7.com/guncel/haber/3680091-37-yilla-yargilaniyordu-haluk-leventin-kardesi-icin-tahliye-karari",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-gsaray-ve-fbahceden-sampiyonlar-liginde-buyuk-sicrama-haftayi-ilk-18de-kapattilar",
@@ -1391,7 +1387,11 @@
    "https://www.haber7.com/guncel/haber/3680526-29-ilde-deas-operasyonu-84-supheli-yakalandi",
    "https://www.haber7.com/dunya/haber/3680528-irandan-hurmuz-aciklamasi-2-petrol-tankeri-daha-patladi",
    "https://www.haber7.com/yasam/haber/3680529-ormanda-gezerken-hazine-buldu-bin-yil-once-saklanmis-ilk-kez-sergilenecek",
-   "https://www.haber7.com/guncel/haber/3680530-ici-para-dolu-cantayi-calan-hirsiz-kamerada"
+   "https://www.haber7.com/guncel/haber/3680530-ici-para-dolu-cantayi-calan-hirsiz-kamerada",
+   "https://www.haber7.com/guncel/haber/3680532-izledigi-haberden-etkilendi-19-kez-kan-bagisladi",
+   "https://www.haber7.com/dunya/haber/3680531-pakistanin-uzay-hamlesine-hindistandan-tepki-turkiyeden-yardim-alacaklari-kesin",
+   "https://spor.haber7.com/diger-branslar/haber/3680533-abdullah-kayapinar-avrupa-rekoru-kirarak-dunya-sampiyonu-oldu",
+   "https://www.haber7.com/dunya/haber/3680534-letonyada-dehset-anlari-kamerada-raylarda-kosarken-trenle-burun-buruna-geldi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1878,7 +1878,8 @@
    "https://www.mynet.com/magazin/biri-isirmaya-calisti-biri-yumruk-atti-canli-yayindaki-o-anlar-gundem-oldu-130100607849",
    "https://www.mynet.com/magazin/mfo-nun-fuat-i-fuat-guner-davete-sevgilisiyle-geldi-yas-farki-dikkat-cekti-130100607855",
    "https://www.mynet.com/magazin/mahsun-kirmizigul-miras-kararini-acikladi-serveti-merak-ediliyor-130100607858",
-   "https://www.mynet.com/magazin/turkan-soray-ile-cihan-unal-in-kizlari-yagmur-evleniyor-hazirliklar-basladi-130100607861"
+   "https://www.mynet.com/magazin/turkan-soray-ile-cihan-unal-in-kizlari-yagmur-evleniyor-hazirliklar-basladi-130100607861",
+   "https://www.mynet.com/magazin/yeralti-nin-sultan-i-sumeyye-aydogan-reklam-cekimi-icin-hazirlandi-130100607864"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2300,11 +2301,6 @@
   ]
  },
  "recent_titles": [
-  "burdurda ters yönden giden araç kazaya yol açtı 1 ölü 2si ağır 5 yaralı",
-  "yılın son mgk toplantısı bugün masada hangi konular var",
-  "altın yeniden 3 bin 600 doları aştı yükselişin önünde üç engel",
-  "istanbula sağanak geliyor meteoroloji gün gün açıkladı",
-  "şarkıcı derya uluğ sevgilisi asil gök ile evlendi",
   "derya uluğ ve asil gök evlendi gelinliğin belden aşağısı beğenilmedi",
   "şampiyonlar liginde dört galibiyet uefa ülke puanı değişti türkiye kaçıncı sırada",
   "ters yönden giden otomobil faciaya yol açtı 1 ölü 2si ağır 5 yaralı",
@@ -3799,6 +3795,11 @@
   "izlediği haberden etkilendi 19 kez kan bağışladı",
   "pakistanın uzay hamlesine hindistandan tepki türkiyeden yardım alacakları kesin",
   "abdullah kayapınar avrupa rekoru kırarak dünya şampiyonu oldu",
-  "letonyada dehşet anları kamerada raylarda koşarken trenle burun buruna geldi"
+  "letonyada dehşet anları kamerada raylarda koşarken trenle burun buruna geldi",
+  "istanbulda trafikte çıkan kavgaya 721 bin 246 tl ceza",
+  "30 ilde ailem güvende operasyonu 70 kişi gözaltında",
+  "muhammed salah yanlışlıkla cska sofya otobüsüne bindi",
+  "altan tan erdoğana yarayacaksa barış bile istemiyorlar",
+  "yeraltının sultanı sümeyye aydoğan reklam çekimi için hazırlandı"
  ]
 }
