@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680083-kpss-adaylarina-mujde-buro-memuru-aliminda-one-cikan-iller-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680099-yildiz-holding-ve-halka-acik-sirketleri-yatirimci-ve-analistlerle-bir-araya-geldi",
    "https://www.haber7.com/dunya/haber/3680100-libya-anlasmasi-resmilesti-yunan-basinindan-atina-icin-hezimet-itirafi",
    "https://ekonomi.haber7.com/ekonomi/haber/3679971-turkiyenin-savas-gemilerine-son-savunma-kalkani-ortaya-cikti",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680544-bursada-silah-sesleri-polisi-harekete-gecirdi",
    "https://www.haber7.com/dunya/haber/3680545-tutkusu-basini-yakti-mamdani-ameliyat-masasinda",
    "https://www.haber7.com/saglik/haber/3680546-kan-kanseri-tedavisinde-kisisellestirilmis-tip-ve-hedefe-yonelik-ilac-donemi",
-   "https://www.haber7.com/siyaset/haber/3680548-bakan-fidandan-istanbulda-onemli-aciklamalar"
+   "https://www.haber7.com/siyaset/haber/3680548-bakan-fidandan-istanbulda-onemli-aciklamalar",
+   "https://spor.haber7.com/fenerbahce/haber/3680547-fenerbahcede-emre-belozoglundan-radikal-karar-kimsenin-aklinin-ucundan-bile-gecmezdi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -1880,7 +1880,8 @@
    "https://www.mynet.com/magazin/mahsun-kirmizigul-miras-kararini-acikladi-serveti-merak-ediliyor-130100607858",
    "https://www.mynet.com/magazin/turkan-soray-ile-cihan-unal-in-kizlari-yagmur-evleniyor-hazirliklar-basladi-130100607861",
    "https://www.mynet.com/magazin/yeralti-nin-sultan-i-sumeyye-aydogan-reklam-cekimi-icin-hazirlandi-130100607864",
-   "https://www.mynet.com/magazin/halef-biter-bitmez-kararini-verdi-veda-yurtsever-iddiali-diziye-girdi-130100607867"
+   "https://www.mynet.com/magazin/halef-biter-bitmez-kararini-verdi-veda-yurtsever-iddiali-diziye-girdi-130100607867",
+   "https://www.mynet.com/magazin/lvbel-c5-ten-cengiz-topel-tepkileri-sonrasi-ozur-gecikmedi-sarki-sozlerini-degistirdi-130100607870"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2305,7 +2306,6 @@
   ]
  },
  "recent_titles": [
-  "4 haftalık seri bitti petrol fiyatları 95 doları aştı",
   "zaharova ab için kievi finanse etmek kendi halkından daha önemli",
   "istanbulda kar heyecanı başlıyor soğuk hava dalgası geliyor meteoroloji uzmanı yağış için tarih verdi",
   "erzincan dağlarında kar hava sıcaklığı sıfırın altına düştü",
@@ -3804,6 +3804,7 @@
   "kışın pencere camına bunu yapıştırıyorlar evi sıcacık yapıyor",
   "bakan fidandan istanbulda önemli açıklamalar",
   "fenerbahçede emre belözoğlundan radikal karar kimsenin aklının ucundan bile geçmezdi",
-  "turistik erzurumkars bölgesel treni sefere başlıyor biletler ne zaman satışa çıkıyor"
+  "turistik erzurumkars bölgesel treni sefere başlıyor biletler ne zaman satışa çıkıyor",
+  "lvbel c5ten cengiz topel tepkileri sonrası özür gecikmedi şarkı sözlerini değiştirdi"
  ]
 }
