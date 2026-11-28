@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/arda-guler-107-milyonluk-yeni-arabasiyla-poz-verdi-h1585910",
-   "https://www.ensonhaber.com/kayserili-sehit-gozyaslari-icerisinde-son-yolculuguna-ugurlandi-h1585911",
    "https://www.ensonhaber.com/altinin-kilogram-fiyati-6-milyon-liraya-dustu-h1585912",
    "https://www.ensonhaber.com/zonguldakta-cinsel-istismar-davasinda-saniga-17-yil-5-ay-hapis-cezasi-h1585913",
    "https://www.ensonhaber.com/hikmet-cetinin-cenazesi-ankaraya-ugurlandi-h1585914",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/gazzede-can-kaybi-74-bin-790a-yukseldi-h1586405",
    "https://www.ensonhaber.com/bahce-duvarina-koymak-icin-tasi-cevirdi-240-milyon-yillik-sir-ortaya-cikti-h1586406",
    "https://www.ensonhaber.com/kayseride-balik-tutmaya-gittigi-sulama-kanalina-duserek-can-verdi-h1586407",
-   "https://www.ensonhaber.com/izmirin-iklim-avantaji-tekne-ve-yat-ihracatina-rekor-artis-getirdi-h1586408"
+   "https://www.ensonhaber.com/izmirin-iklim-avantaji-tekne-ve-yat-ihracatina-rekor-artis-getirdi-h1586408",
+   "https://www.ensonhaber.com/rizede-400-kiloluk-cay-bardagi-salincak-turistlerin-ilgi-odagi-oldu-h1586409",
+   "https://www.ensonhaber.com/nigdede-sokaklar-guvende-operasyonunda-binlerce-uyusturucu-hap-ele-gecirildi-h1586410"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680125-bakanliktan-7-kisilik-aile-icin-aciklama-gecici-olarak-otele-yerlestirildiler",
-   "https://www.haber7.com/dunya/haber/3680126-rum-yonetimi-ilan-etti-gkryden-kktc-karari-yogunlastiracagiz-deyip-duyurdular",
    "https://ekonomi.haber7.com/ekonomi/haber/3680127-turkiyenin-otomotiv-sektorundeki-stratejik-rolu-avrupa-basinina-tanitildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680128-ab-liderleri-yeni-butceyi-belirlemek-toplandi",
    "https://www.haber7.com/guncel/haber/3680129-bakanlik-tek-tek-tespit-ediyor-en-cok-bu-gidalarda-hile-yapiliyor",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/kultur/haber/3680575-milli-sinema-gunleri-rami-kutuphanesinde-sinemaseverleri-bulusturuyor",
    "https://www.haber7.com/kultur/haber/3680575-4-milli-sinema-gunleri-rami-kutuphanesinde-sinemaseverleri-bulusturuyor",
    "https://www.haber7.com/guncel/haber/3680574-zeytinburnunda-cinli-is-insanina-bombali-kargo-tuzagi-mahkemeden-karar-cikti",
-   "https://www.haber7.com/3sayfa/haber/3680576-balik-tutmaya-gittigi-sulama-kanalina-dusup-oldu"
+   "https://www.haber7.com/3sayfa/haber/3680576-balik-tutmaya-gittigi-sulama-kanalina-dusup-oldu",
+   "https://spor.haber7.com/spor/haber/3680577-israilli-taraftar-besiktaslilarin-arasinda-atki-acinca-ortalik-karisti",
+   "https://spor.haber7.com/galatasaray/haber/3680578-okan-buruk-besiktas-derbisinde-gunduz-kilici-gecmek-istiyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2314,8 +2314,6 @@
   ]
  },
  "recent_titles": [
-  "türkiye doğalgaz şebekesinde avrupada ilk 3te",
-  "selvi özgür özel kılıçdaroğlu tarifesini ekrem imamoğlu için uygulamaya başladı özel vuruşarak değil severek bitirir",
   "bitcoinde 60 bin dolar aldatmacası mı 2022den bu yana en ağır aylık çöküş kapıda",
   "cumhurbaşkanı erdoğanın hafter kabulü yunan basınında gündem oldu",
   "sakaryada 20 hayvanın öldüğü barınakla ilgili soruşturmada 3 gözaltı",
@@ -3813,6 +3811,8 @@
   "israilli taraftar beşiktaşlıların arasında atkı açınca ortalık karıştı",
   "izmirin iklim avantajı tekne ve yat ihracatına rekor artış getirdi",
   "rizede 400 kiloluk çay bardağı salıncak turistlerin ilgi odağı oldu",
-  "mustafa keserden 48 yıllık eşi nilüfer kesere son veda tabuta bakışları yürek burktu"
+  "mustafa keserden 48 yıllık eşi nilüfer kesere son veda tabuta bakışları yürek burktu",
+  "okan buruk beşiktaş derbisinde gündüz kılıçı geçmek istiyor",
+  "niğdede sokaklar güvende operasyonunda binlerce uyuşturucu hap ele geçirildi"
  ]
 }
