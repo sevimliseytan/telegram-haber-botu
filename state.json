@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/trabzon-icin-heyelan-uyarisi-istinat-duvarlarinin-cokmesi-bir-ikaz-h1585797",
    "https://www.ensonhaber.com/msbden-kaza-kirima-ugrayan-helikopterlere-iliskin-aciklama-her-turlu-olasilik-dikkate-alin-h1585798",
    "https://www.ensonhaber.com/murat-kurum-duyurdu-izmir-korfezinde-dip-camuru-temizligi-basliyor-h1585799",
    "https://www.ensonhaber.com/turkiye-pakistan-ve-suudi-arabistandan-islamabadda-savunma-ittifaki-zirvesi-h1585800",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/batmanda-supheli-canta-kontrollu-sekilde-patlatildi-h1586289",
    "https://www.ensonhaber.com/muglada-teknede-gocmen-kacakcisi-ve-2si-cocuk-6-duzensiz-gocmen-yakalandi-h1586290",
    "https://www.ensonhaber.com/spkdan-55-milyon-liralik-ceza-116-kisi-ve-kurulusa-islem-yasagi-h1586291",
-   "https://www.ensonhaber.com/kartal-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-h1586292"
+   "https://www.ensonhaber.com/kartal-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-h1586292",
+   "https://www.ensonhaber.com/kassoum-ouattaranin-filistine-destegi-gazzede-duvara-tasindi-h1586293"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680030-papaya-makam-araciyla-kek-gonderdi-almanya-karisti",
    "https://spor.haber7.com/ikinci-lig/haber/3680031-1-ligde-haftanin-hakemleri-aciklandi",
    "https://www.haber7.com/3sayfa/haber/3680032-eren-kasikcinin-otopsi-raporu-cikti-olum-nedeni-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680034-ajetten-yurt-disi-ucuslara-yuzde-20-indirim-kampanya-icin-son-tarih-aciklandi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680464-husumetlisini-tabancayla-agir-yaralayip-yasamina-son-verdi",
    "https://www.haber7.com/guncel/haber/3680465-camura-saplanan-minibusun-surucusu-gozyaslarini-tutamadi",
    "https://www.haber7.com/guncel/haber/3680466-meteorolojiden-firtina-uyarisi",
-   "https://www.haber7.com/guncel/haber/3680290-sehitlere-hakaret-eden-supheli-tutuklandi"
+   "https://www.haber7.com/guncel/haber/3680290-sehitlere-hakaret-eden-supheli-tutuklandi",
+   "https://www.haber7.com/seyahat/haber/3680467-duzcede-kis-masali-topuk-yaylasi-beyaza-burundu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2288,8 +2288,6 @@
   ]
  },
  "recent_titles": [
-  "oyun çılgınlığında kalp krizi riski özellikle tansiyonu ve ritim bozukluğu olanlar dikkat",
-  "emlak konut bourges baskete fark attı",
   "rusya dışişleri güvenlik mimarisine ilişkin yaklaşımımızı abd ve ukraynaya ilettik",
   "bu kermes çok farklı eski bağımlılar kurtuluş arayan bağımlılar için gönüllü çalışıyor",
   "mossadın eski başkanı almanyada protesto edildi savaş suçlususun diye bağırdı",
@@ -3787,6 +3785,8 @@
   "spkdan 55 milyon liralık ceza 116 kişi ve kuruluşa işlem yasağı",
   "kartal belediyesine yönelik soruşturmada 10 şüpheli tutuklandı",
   "biri ısırmaya çalıştı biri yumruk attı canlı yayındaki o anlar gündem oldu",
-  "şehitlere hakaret eden şüpheli tutuklandı"
+  "şehitlere hakaret eden şüpheli tutuklandı",
+  "düzcede kış masalı topuk yaylası beyaza büründü",
+  "kassoum ouattaranın filistine desteği gazzede duvara taşındı"
  ]
 }
