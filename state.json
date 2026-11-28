@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/izmirde-biri-2-yil-8-aydir-araniyordu-3-firari-yakalandi-h1585792",
    "https://www.ensonhaber.com/erzurumda-cop-kamyonunun-altinda-can-veren-kadinin-esinden-bilirkisi-raporuna-tepki-h1585793",
    "https://www.ensonhaber.com/fenerbahcenin-shakhtar-zaferi-avrupa-basininda-h1585795",
    "https://www.ensonhaber.com/namik-tanin-oglu-uyusturucu-ve-fuhus-sorusturmasinda-gozaltinda-h1585796",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/aksarayda-3-kattan-dusen-genc-agir-yaralandi-h1586284",
    "https://www.ensonhaber.com/boluda-kaybolan-minibusun-surucusu-yasananlari-anlatti-h1586285",
    "https://www.ensonhaber.com/aydinda-funyeyle-patlatilan-cantadan-cocuk-bezi-cikti-h1586286",
-   "https://www.ensonhaber.com/kocaelide-138-milyon-liralik-dolandiriciliga-28-gozalti-h1586287"
+   "https://www.ensonhaber.com/kocaelide-138-milyon-liralik-dolandiriciliga-28-gozalti-h1586287",
+   "https://www.ensonhaber.com/beklenen-yagislar-13-milyon-gazzeliyi-tehdit-ediyor-h1586288"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2285,7 +2285,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda hafif ticari aracın çarptığı genç kız 16 günlük yaşam savaşını kaybetti",
   "korku dolu anlar beşiktaş rizeye zorunlu iniş yaptı hayatımdaki en kötü uçuştu",
   "trabzonspor cska sofya maçı hazırlıklarını tamamladı",
   "osmanlı arşivinden 120 yıllık petrol sırrı erzurumun bilinmeyen ticaret geçmişi",
@@ -3784,6 +3783,7 @@
   "aydında fünyeyle patlatılan çantadan çocuk bezi çıktı",
   "savaş dev şirketi iflasa sürükledi tüm uçuşlar iptal oldu",
   "akıncı ihalar yedigöllerdeki arama faaliyetlerinde yer ekiplerine destek oldu",
-  "kocaelide 138 milyon liralık dolandırıcılığa 28 gözaltı"
+  "kocaelide 138 milyon liralık dolandırıcılığa 28 gözaltı",
+  "beklenen yağışlar 13 milyon gazzeliyi tehdit ediyor"
  ]
 }
