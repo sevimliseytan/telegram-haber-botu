@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/aymden-saglik-calisanlarinin-nobet-ucretinde-6-saat-sartina-iptal-h1585900",
    "https://www.ensonhaber.com/2027nin-sansli-burcu-belli-uzerine-para-yagacak-h1585901",
    "https://www.ensonhaber.com/topladigi-coplerden-ev-yapti-simdi-turistleri-agirliyor-h1585902",
    "https://www.ensonhaber.com/mhk-baskani-anthony-taylor-hakem-kararlarini-degerlendirdi-galatasaray-ve-besiktas-h1585903",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/izmirde-yasli-ciftin-75-yillik-aski-genclere-ornek-oluyorlar-h1586395",
    "https://www.ensonhaber.com/israilin-saldirilarinda-babasini-ve-kardesini-kaybeden-filistinli-cocuk-vurularak-yaraland-h1586396",
    "https://www.ensonhaber.com/corumda-10-binden-fazla-kitap-okudu-evini-kutuphaneye-cevirdi-h1586397",
-   "https://www.ensonhaber.com/kocaelide-feci-kaza-iki-kamyon-arasinda-kalarak-can-verdi-h1586398"
+   "https://www.ensonhaber.com/kocaelide-feci-kaza-iki-kamyon-arasinda-kalarak-can-verdi-h1586398",
+   "https://www.ensonhaber.com/hapoel-beer-shevali-taraftar-besiktaslilara-atki-gosterince-gerginlik-yasandi-h1586399"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680119-cevdet-yilmaz-ile-bakanlar-simsek-ve-gurlekten-fon-aciklamasi",
    "https://www.haber7.com/guncel/haber/3680119-fon-sorusturmasinda-yeni-donem-cevdet-yilmaz-son-dakika-duyurdu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680120-borsa-gunu-yukselisle-tamamladi-iste-en-cok-kazandiran",
    "https://www.haber7.com/guncel/haber/3680121-dijital-vatandaslik-projesiyle-bagcilar-belediyesine-altin-karinca-odulu",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680566-vergi-ve-sgk-borclari-yapilandiriliyor-72-ay-vade-imkani",
    "https://spor.haber7.com/besiktas/haber/3680567-besiktas-galatasaray-derbisinde-15-futbolcu-ilki-yasayabilir",
    "https://ekonomi.haber7.com/ekonomi/haber/3680568-20-dakikalik-yol-5-dakikaya-dustu-boyabat-cevre-yolu-hizmete-acildi",
-   "https://spor.haber7.com/spor/haber/3680569-muhammed-salah-yanlislikla-rakip-takimin-otobusune-bindi"
+   "https://spor.haber7.com/spor/haber/3680569-muhammed-salah-yanlislikla-rakip-takimin-otobusune-bindi",
+   "https://www.haber7.com/guncel/haber/3680557-para-aklama-sorusturmasinda-ozgur-ozel-ve-4-milletvekili-hakkinda-yeni-karar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2311,10 +2311,6 @@
   ]
  },
  "recent_titles": [
-  "kastamonuda dev dalgaların dövdüğü sahilde tahkimat duvarı ve kaldırım yıkıldı",
-  "abnin hibrit otomobil kotasına osdden tepki türkiyeye 126 bin 320 adet sınır",
-  "devlet bahçeli dem parti imralı heyetiyle görüşecek",
-  "özgü kayadan derya uluğun düğününde iddialı elbisesiyle dikkat çekti",
   "uyuşturucu operasyonunda ceylan kaya tutuklandı işte serbest kalan isimler",
   "2008 krizini bilen burryden dikkat çeken nasdaq hamlesi",
   "shakhtar donetsk galibiyeti fenerbahçenin kasasını doldurdu",
@@ -3810,6 +3806,10 @@
   "muhammed salah yanlışlıkla rakip takımın otobüsüne bindi",
   "israilin saldırılarında babasını ve kardeşini kaybeden filistinli çocuk vurularak yaralandı",
   "çorumda 10 binden fazla kitap okudu evini kütüphaneye çevirdi",
-  "kocaelide feci kaza iki kamyon arasında kalarak can verdi"
+  "kocaelide feci kaza iki kamyon arasında kalarak can verdi",
+  "para aklama soruşturmasında özgür özel ve 4 milletvekili hakkında yeni karar",
+  "antalyada kan donduran olay ölmeden önce katilinin adını verdi",
+  "insan yaşadığı müddetçe talebedir ilim yayma cemiyetinde öğrencilerle sohbetimiz",
+  "gürcistanda gerginlik hapoel beershevalı taraftar beşiktaşlılar arasında atkı açtı"
  ]
 }
