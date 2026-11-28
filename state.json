@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/begum-yucel-milli-takimlara-verdikleri-katkidan-dolayi-gururlu-h1585953",
    "https://www.ensonhaber.com/taha-akgul-ve-riza-kayaalp-futbol-oynadi-h1585954",
    "https://www.ensonhaber.com/iran-duyurdu-katar-ve-pakistanin-arabuluculuk-faaliyetleri-suruyor-h1585955",
    "https://www.ensonhaber.com/siaka-bakayoko-kasimpasa-maci-oncesi-degerlendirmede-bulundu-h1585956",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/emlak-konut-melikgazi-kayseri-basketbolu-yendi-h1586448",
    "https://www.ensonhaber.com/canakkale-saricaya-olu-kopek-baligi-yavrusu-vurdu-h1586449",
    "https://www.ensonhaber.com/trabzonspor-goztepe-macinin-hazirliklarini-surdurdu-h1586450",
-   "https://www.ensonhaber.com/48-yillik-ese-veda-mustafa-keserin-aci-gunu-h1586451"
+   "https://www.ensonhaber.com/48-yillik-ese-veda-mustafa-keserin-aci-gunu-h1586451",
+   "https://www.ensonhaber.com/kayseri-yahyalida-sulama-kanalinda-erkek-cesedi-bulundu-h1586452"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2323,7 +2323,6 @@
   ]
  },
  "recent_titles": [
-  "şehitlerimiz için son görev memleketlerine uğurlanıyorlar",
   "abdde federal yargıç trumpın doğuştan vatandaşlığı kısıtlamaya yönelik yeni kararnamelerini durdurdu",
   "34 ilde 619 arsa satışa çıkıyor istanbulda 650 bin lira isteniyor",
   "halka arzlarda da vurgun yapmışlar tera ceosu birer birer açıkladı",
@@ -3822,6 +3821,7 @@
   "emlak konut melikgazi kayseri basketbolu yendi",
   "çanakkale sarıçaya ölü köpek balığı yavrusu vurdu",
   "trabzonspor göztepe maçının hazırlıklarını sürdürdü",
-  "48 yıllık eşe veda mustafa keserin acı günü"
+  "48 yıllık eşe veda mustafa keserin acı günü",
+  "kayseri yahyalıda sulama kanalında erkek cesedi bulundu"
  ]
 }
