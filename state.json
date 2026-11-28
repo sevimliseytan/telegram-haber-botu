@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ziraat-bankkart-yacine-louatiyi-transfer-etti-h1585946",
-   "https://www.ensonhaber.com/qazim-laci-kasimpasa-macindan-umutlu-h1585947",
-   "https://www.ensonhaber.com/tff-yeni-klasman-temsilci-aday-kursu-duzenlenecegini-duyurdu-h1585948",
    "https://www.ensonhaber.com/ingiltere-londrada-metro-makinistleri-greve-gitti-h1585949",
    "https://www.ensonhaber.com/ousmane-diabate-premier-ligdeki-rekabete-hazir-h1585950",
    "https://www.ensonhaber.com/hidayet-turkoglu-ulkemizi-en-iyi-sekilde-temsil-ettigimizi-dusunuyorum-h1585951",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/yali-hayati-korkunc-demisti-derin-mermerciden-ekmege-muhtac-kalsam-satmam-aciklamasi-h1586441",
    "https://www.ensonhaber.com/istanbul-valiligi-uyari-yayinladi-saganak-yagisa-dikkat-h1586442",
    "https://www.ensonhaber.com/samsunda-egitim-ucagi-kaza-kirima-ugradi-h1586443",
-   "https://www.ensonhaber.com/kahramanmarasta-ozel-gereksinimli-bireye-tekme-tokat-saldiri-kamerada-h1586444"
+   "https://www.ensonhaber.com/kahramanmarasta-ozel-gereksinimli-bireye-tekme-tokat-saldiri-kamerada-h1586444",
+   "https://www.ensonhaber.com/aziz-yildirim-dernek-baskanlariyla-bulusacak-h1586445",
+   "https://www.ensonhaber.com/tahir-elci-olumunun-11inci-yil-donumunde-diyarbakirda-anildi-h1586446",
+   "https://www.ensonhaber.com/yeni-parti-meclise-izleme-komisyonu-yanitini-iletti-h1586447"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680154-erzurumda-park-halindeki-otomobil-alev-topuna-dondu",
    "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-ilk-11ler-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi",
    "https://www.haber7.com/yerel-secim/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/otomobil/haber/3668498-835-bin-tlye-otomobil-geliyor-ulasilabilir-fiyatiyla-cok-konusulacak",
    "https://www.haber7.com/guncel/haber/3680602-samsunda-egitim-ucagi-kaza-kirima-ugradi-bakanliktan-aciklama-geldi",
    "https://www.haber7.com/dunya/haber/3680604-yemin-ederek-gorevlerine-basladilar-suriyedeki-torende-turk-yapimi-kcr556-detayi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680603-bakan-kacir-bilisim-vadisi-ekol-42-yazilim-okulu-egitim-yolculugunu-sirkecide-surdurecek"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680603-bakan-kacir-bilisim-vadisi-ekol-42-yazilim-okulu-egitim-yolculugunu-sirkecide-surdurecek",
+   "https://www.haber7.com/guncel/haber/3680605-istanbulda-elektrik-kesintisi-gece-yarisi-baslayacak-saatler-surecek"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2323,9 +2323,6 @@
   ]
  },
  "recent_titles": [
-  "enerji depolamada 30 milyar dolarlık hesap artık gelir getiren dev bir güce dönüştü",
-  "izmirde uyuşturucu imalathanesine baskın on binlerce hap ele geçirildi",
-  "isviçretürkiye ekonomi forumu 20nci yılında",
   "kremlin rusyanın tek amacı kendi ulusal çıkarlarını güvence altına almak",
   "120 ay vade yüzde 5 peşinat ile ev alma fırsatı emlak konut kampanyayı duyurdu",
   "balıkesirin altın lezzeti bin yıldır aynı yöntemle hazırlanıyor",
@@ -3822,6 +3819,9 @@
   "kahramanmaraşta özel gereksinimli bireye tekme tokat saldırı kamerada",
   "aziz yıldırım dernek başkanlarıyla buluşacak",
   "tahir elçi ölümünün 11inci yıl dönümünde diyarbakırda anıldı",
-  "arnavutlukta binlerce kişi sokakta bağımsızlık gününde tansiyon yükseldi"
+  "arnavutlukta binlerce kişi sokakta bağımsızlık gününde tansiyon yükseldi",
+  "istanbulda elektrik kesintisi gece yarısı başlayacak saatler sürecek",
+  "yeni parti meclise izleme komisyonu yanıtını iletti",
+  "emlak konut melikgazi kayseri basketbolu yendi"
  ]
 }
