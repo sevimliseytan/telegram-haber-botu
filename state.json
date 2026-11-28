@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680181-thomas-reis-devre-arasinda-cevirebilecegimizi-soyledim",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680182-uefa-avrupa-ligi-ve-konferans-liginde-gecenin-sonuclari",
    "https://www.haber7.com/guncel/haber/3680183-atama-kararlari-resmi-gazetede",
    "https://www.haber7.com/dunya/haber/3680184-varsovadan-kritik-mesaj-turkiyenin-tecrubelerinden-yararlanacagiz",
    "https://www.haber7.com/dunya/haber/3680185-4-aday-canli-yayinda-tartisti-secime-gunler-kala-dunyanin-gozu-onunde-yerin-dibine-soktu",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/avrupa-ligleri/haber/3680638-super-ligin-3-eski-yildizi-oynadi-deplasmanda-8-yediler",
    "https://www.haber7.com/guncel/haber/3680639-boluda-tum-turkiyenin-yuregini-agzina-getiren-olayla-ilgili-paylasimlara-sorusturma",
    "https://www.haber7.com/guncel/haber/3680639-boluda-kaybolan-cocuklarla-ilgili-sosyal-medya-paylasimlarina-sorusturma",
-   "https://spor.haber7.com/galatasaray/haber/3680640-okan-buruk-derbi-11ini-belirledi-dikkat-ceken-osimhen-karari"
+   "https://spor.haber7.com/galatasaray/haber/3680640-okan-buruk-derbi-11ini-belirledi-dikkat-ceken-osimhen-karari",
+   "https://www.haber7.com/guncel/haber/3680641-dolandiricilara-karsi-yeni-donem-basliyor-18-dakikada-devreye-girecek",
+   "https://www.haber7.com/kultur/haber/3680642-prof-dr-neslihan-karakus-ile-koklerden-gelecege-turkce"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2331,7 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "esenyurtta önüne kıran otomobile korna çaldı araçtan inip saldırdılar",
   "bangkokta petrol tesisinde patlama",
   "trabzonda nefes kesen kurtarma mahsur kalan köpeğe akut eli uzandı",
   "bursada katlettiği eski sevgilisinin son sözlerini söyledi",
@@ -3830,6 +3829,7 @@
   "chpden asgari ücret için 52 bin tl önerisi temmuz ayında da zam yapılmalı",
   "alparslan bayraktar gabarda 2027de günlük 100 bin varilin üzerine çıkacağız",
   "okan buruk derbi 11ini belirledi dikkat çeken osimhen kararı",
-  "dolandırıcılara karşı yeni dönem başlıyor 18 dakikada devreye girecek"
+  "dolandırıcılara karşı yeni dönem başlıyor 18 dakikada devreye girecek",
+  "prof dr neslihan karakuş ile köklerden geleceğe türkçe"
  ]
 }
