@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/apartman-aidatlari-icin-enerji-maliyeti-uyarisi-h1585803",
-   "https://www.ensonhaber.com/whatsapp-mesaj-zamanlama-ozelligini-duyurdu-iste-kullanmanin-yolu-h1585804",
    "https://www.ensonhaber.com/emlak-konuttan-istanbulda-55-bin-tlden-baslayan-taksitlerle-ev-sahibi-olma-imkani-h1585805",
    "https://www.ensonhaber.com/istanbulda-tamirciyi-darbeden-3-kisi-gozaltina-alindi-h1585806",
    "https://www.ensonhaber.com/survivor-2027-ne-zaman-basliyor-iste-yeni-konsept-ve-buyuk-odul-h1585807",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/denizlide-bosanmak-istemeyen-kocasini-eve-cagirdigi-arkadaslarina-oldurttu-h1586295",
    "https://www.ensonhaber.com/tcmb-fintlixin-faaliyet-iznini-iptal-etti-h1586296",
    "https://www.ensonhaber.com/kocaelide-park-halindeki-arac-6-metre-yukseklikten-uctu-h1586297",
-   "https://www.ensonhaber.com/openaidan-applea-karsi-ticari-sir-ve-rekabet-davasi-h1586298"
+   "https://www.ensonhaber.com/openaidan-applea-karsi-ticari-sir-ve-rekabet-davasi-h1586298",
+   "https://www.ensonhaber.com/boluda-mahsur-kalan-10-cocugu-kurtarilma-anlari-ortaya-cikti-h1586299",
+   "https://www.ensonhaber.com/kanarya-adalarina-ulasmaya-calisan-14-duzensiz-gocmen-hayatini-kaybetti-90i-kurtarildi-h1586300"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -1875,7 +1875,8 @@
    "https://www.mynet.com/magazin/unlulere-yonelik-uyusturucu-sorusturmasi-deniz-cakir-ozcan-deniz-ve-burcu-ozberk-in-uyusturucu-testleri-negatif-cikti-130100607831",
    "https://www.mynet.com/magazin/tasacak-bu-deniz-in-eleni-si-ava-yaman-in-son-pozlarina-yorum-yagdi-bir-baska-guzel-130100607843",
    "https://www.mynet.com/magazin/berkay-sahin-kizi-mihre-nin-yuzunu-ilk-kez-gosterdi-masallah-demeden-gecmeyin-130100607846",
-   "https://www.mynet.com/magazin/biri-isirmaya-calisti-biri-yumruk-atti-canli-yayindaki-o-anlar-gundem-oldu-130100607849"
+   "https://www.mynet.com/magazin/biri-isirmaya-calisti-biri-yumruk-atti-canli-yayindaki-o-anlar-gundem-oldu-130100607849",
+   "https://www.mynet.com/magazin/mfo-nun-fuat-i-fuat-guner-davete-sevgilisiyle-geldi-yas-farki-dikkat-cekti-130100607855"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2288,9 +2289,6 @@
   ]
  },
  "recent_titles": [
-  "anderson taliscadan al jazirada harika gol",
-  "arda gülerin kazak muhabirle diyaloğu gündem oldu",
-  "bakanlar fon meselesine ilişkin ortak basın toplantısı düzenleyecek",
   "shakhtar donetsk  fenerbahçe maçının ilk 11leri",
   "şişlide oto servisinde sahte arıza iddiası 3 gözaltı",
   "yenidoğan çetesi savcısı yavuz enginin yeni adresi belli oldu işte atandığı görev yeri",
@@ -3787,6 +3785,9 @@
   "denizlide boşanmak istemeyen kocasını eve çağırdığı arkadaşlarına öldürttü",
   "tcmb fintlixin faaliyet iznini iptal etti",
   "kocaelide park halindeki araç 6 metre yükseklikten uçtu",
-  "openaidan applea karşı ticari sır ve rekabet davası"
+  "openaidan applea karşı ticari sır ve rekabet davası",
+  "kanarya adalarına ulaşmaya çalışan 14 düzensiz göçmen hayatını kaybetti 90ı kurtarıldı",
+  "hapoel beersheva başkanı ömrümde böyle bir nefret görmedim",
+  "mfönün fuatı fuat güner davete sevgilisiyle geldi yaş farkı dikkat çekti"
  ]
 }
