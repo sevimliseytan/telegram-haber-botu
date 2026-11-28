@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3680060-taha-akgul-ve-riza-kayaalp-sosyal-sorumluluk-projesi-kapsaminda-yesil-sahaya-cikti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680061-zeytin-ureticilerine-590-milyon-tl-mujdesi-odeme-tarihi-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680063-girnedeki-filo-jet-faciasinda-aranan-eski-gemici-yakalandi",
    "https://www.haber7.com/guncel/haber/3680062-yuzbinlerce-saglik-calisanina-mujdeli-haber-yillardir-uygulaniyordu-iptal-edildi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/saglik/haber/3680504-saglikta-yapay-zeka-donemi-86-milyon-kisiye-bireysel-saglik-asistani-geliyor",
    "https://www.haber7.com/seyahat/haber/3680503-7-ay-sonra-yeniden-acildigumushanenin-15-milyon-yillik-hazinesi-ziyaretcilerini-bekliyor",
    "https://www.haber7.com/guncel/haber/3680505-usakta-feci-kaza-3-olu-2-yarali",
-   "https://www.haber7.com/yasam/haber/3680506-evindeki-battaniyesini-91-milyon-tlye-satti-basina-talih-kusu-kondu"
+   "https://www.haber7.com/yasam/haber/3680506-evindeki-battaniyesini-91-milyon-tlye-satti-basina-talih-kusu-kondu",
+   "https://www.haber7.com/guncel/haber/3680505-usakta-feci-kaza-astsubay-ve-polis-memurundan-aci-haber"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2297,8 +2297,6 @@
   ]
  },
  "recent_titles": [
-  "luca banchi türkiye her yönüyle eksiksiz",
-  "iranda hanelere enerji tüketimini yüzde 20 azaltma çağrısı",
   "emre belözoğlu fenerbahçe tarihine geçti",
   "istanbulda sıcaklık 2 dereceye kadar düşecek vali gül sokakta kalanların 112ye bildirilmesi çağrısı yaptı",
   "6sı çocuk 7 kişilik ailenin dramı yürek burktu istanbul valiliği harekete geçti",
@@ -3796,6 +3794,8 @@
   "7 ay sonra yeniden açıldıgümüşhanenin 15 milyon yıllık hazinesi ziyaretçilerini bekliyor",
   "uşakta feci kaza 3 ölü 2 yaralı",
   "evindeki battaniyesini 91 milyon tlye sattı başına talih kuşu kondu",
-  "istanbulda x corpa siber saldırı iddiası 4 şüpheli gözaltına alındı"
+  "istanbulda x corpa siber saldırı iddiası 4 şüpheli gözaltına alındı",
+  "uşakta feci kaza astsubay ve polis memurundan acı haber",
+  "boğazına şeker kaçan çalışanı iş yeri sahibi kurtardı"
  ]
 }
