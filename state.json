@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680044-erdogan-baskanliginda-yilin-son-mgk-toplantisi-9-maddelik-yazili-aciklama",
-   "https://www.haber7.com/guncel/haber/3680053-suresiz-nafaka-duzenlemesinde-hakime-genis-yetki-iddiasi",
    "https://www.haber7.com/guncel/haber/3680083-kpss-adaylarina-mujde-buro-memuru-aliminda-one-cikan-iller-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680099-yildiz-holding-ve-halka-acik-sirketleri-yatirimci-ve-analistlerle-bir-araya-geldi",
    "https://www.haber7.com/dunya/haber/3680100-libya-anlasmasi-resmilesti-yunan-basinindan-atina-icin-hezimet-itirafi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680542-komsuya-birakilan-150-milyonluk-servet-calindi-altindan-ahbap-sorusturmasi-cikti",
    "https://www.haber7.com/guncel/haber/3680543-150-milyon-liralik-altin-hirsizliginda-ahbap-detayi-6-gozalti",
    "https://www.haber7.com/dunya/haber/3680544-bursada-silah-sesleri-polisi-harekete-gecirdi",
-   "https://www.haber7.com/dunya/haber/3680545-tutkusu-basini-yakti-mamdani-ameliyat-masasinda"
+   "https://www.haber7.com/dunya/haber/3680545-tutkusu-basini-yakti-mamdani-ameliyat-masasinda",
+   "https://www.haber7.com/saglik/haber/3680546-kan-kanseri-tedavisinde-kisisellestirilmis-tip-ve-hedefe-yonelik-ilac-donemi",
+   "https://www.haber7.com/siyaset/haber/3680548-bakan-fidandan-istanbulda-onemli-aciklamalar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2272,7 +2272,8 @@
    "https://anlatilaninotesi.com.tr/20261128/iran-abd-ve-israile-karsi-241-iddianame-hazirlandigini-duyurdu-1110656687.html",
    "https://anlatilaninotesi.com.tr/20261128/arabalarinin-batakliga-saplandigi-ortaya-cikti-10-cocugun-nasil-kurtuldugunu-bakan-goktas-anlatti-1110657179.html",
    "https://anlatilaninotesi.com.tr/20261128/usakta-feci-kaza-duvara-carpan-aracta-astsubay-ve-polis-esi-de-hayatini-kaybetti-1110657833.html",
-   "https://anlatilaninotesi.com.tr/20261128/ankara---istanbul-arasi-80-dakikaya-dusecek-1110657975.html"
+   "https://anlatilaninotesi.com.tr/20261128/ankara---istanbul-arasi-80-dakikaya-dusecek-1110657975.html",
+   "https://anlatilaninotesi.com.tr/20261128/turistik-erzurum-kars-bolgesel-treni-sefere-basliyor-biletler-ne-zaman-satisa-cikiyor-1110658482.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2304,9 +2305,6 @@
   ]
  },
  "recent_titles": [
-  "özlem yıldız düğüne oğlu demir ile geldi son hali gündem oldu",
-  "emily ratajkowski megan foxun izinden gitti milyonlar kazanabilir",
-  "binance kurucusu cz uyardı şifreleri değiştirin bilgileriniz ele geçirildi",
   "4 haftalık seri bitti petrol fiyatları 95 doları aştı",
   "zaharova ab için kievi finanse etmek kendi halkından daha önemli",
   "istanbulda kar heyecanı başlıyor soğuk hava dalgası geliyor meteoroloji uzmanı yağış için tarih verdi",
@@ -3803,6 +3801,9 @@
   "halef biter bitmez kararını verdi veda yurtsever iddialı diziye girdi",
   "tutkusu başını yaktı mamdani ameliyat masasında",
   "kan kanseri tedavisinde kişiselleştirilmiş tıp ve hedefe yönelik ilaç dönemi",
-  "kışın pencere camına bunu yapıştırıyorlar evi sıcacık yapıyor"
+  "kışın pencere camına bunu yapıştırıyorlar evi sıcacık yapıyor",
+  "bakan fidandan istanbulda önemli açıklamalar",
+  "fenerbahçede emre belözoğlundan radikal karar kimsenin aklının ucundan bile geçmezdi",
+  "turistik erzurumkars bölgesel treni sefere başlıyor biletler ne zaman satışa çıkıyor"
  ]
 }
