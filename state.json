@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/eskisehirde-sehit-olan-hava-pilot-albay-mehmet-col-son-yolculuguna-ugurlandi-h1585868",
    "https://www.ensonhaber.com/yeni-suzuki-ignis-tanitildi-artik-tamamen-elektrikli-h1585869",
    "https://www.ensonhaber.com/abnin-en-kritik-zirvesi-basladi-butce-ve-ukrayna-konusu-masada-h1585870",
    "https://www.ensonhaber.com/mgk-cumhurbaskani-erdogan-baskanliginda-toplandi-57695-h1585871",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/30-ilde-ailem-guvende-operasyonu-70-kisi-gozaltinda-h1586363",
    "https://www.ensonhaber.com/muhammed-salah-yanlislikla-cska-sofya-otobusune-bindi-h1586364",
    "https://www.ensonhaber.com/altan-tan-erdogana-yarayacaksa-baris-bile-istemiyorlar-h1586365",
-   "https://www.ensonhaber.com/asgari-ucret-maratonu-icin-geri-sayim-basladi-h1586366"
+   "https://www.ensonhaber.com/asgari-ucret-maratonu-icin-geri-sayim-basladi-h1586366",
+   "https://www.ensonhaber.com/istanbul-avcilarda-ayni-noktada-yasanan-kazalara-mahalleliden-tepki-h1586367"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-gsaray-ve-fbahceden-sampiyonlar-liginde-buyuk-sicrama-haftayi-ilk-18de-kapattilar",
    "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-gozler-yazili-aciklamada",
    "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-9-maddelik-yazili-aciklama",
    "https://ekonomi.haber7.com/ekonomi/haber/3680092-altinin-kilogram-fiyati-6-milyon-liraya-dustu",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/diger-branslar/haber/3680533-abdullah-kayapinar-avrupa-rekoru-kirarak-dunya-sampiyonu-oldu",
    "https://www.haber7.com/dunya/haber/3680534-letonyada-dehset-anlari-kamerada-raylarda-kosarken-trenle-burun-buruna-geldi",
    "https://www.haber7.com/siyaset/haber/3680535-yeniden-refah-partili-meclis-uyesi-ve-70-kisi-ak-partiye-katildi",
-   "https://www.haber7.com/siyaset/haber/3680536-adaylik-iddialarina-carpici-cevap-abdullah-gulun-destekledigi-aday-erdogan"
+   "https://www.haber7.com/siyaset/haber/3680536-adaylik-iddialarina-carpici-cevap-abdullah-gulun-destekledigi-aday-erdogan",
+   "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday-erdogan"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2302,8 +2302,6 @@
   ]
  },
  "recent_titles": [
-  "yılın son mgk toplantısı bugün yapılacak",
-  "istanbulda durdurulan otomobilde kalaşnikof çıktı 3 gözaltı",
   "artvinardanuç yolunda heyelan sürücü ölümden döndü",
   "fon soruşturmasında kritik gün üç isim saat 1900da konuşacak",
   "yeraltı dizisinde paşa ve çiğdemin öpüşme sahnesi tepki çekti",
@@ -3801,6 +3799,8 @@
   "adaylık iddialarına çarpıcı cevap abdullah gülün desteklediği aday erdoğan",
   "turistik erzurumkars bölgesel treni için bilet satışları başlıyor",
   "c vitaminini evde hazırlamanın püf noktaları feridun kunakla evlerinize sağlıkta",
-  "irak 12 yıldır kapalı türkiye petrol boru hattını açmaya hazırlanıyor"
+  "irak 12 yıldır kapalı türkiye petrol boru hattını açmaya hazırlanıyor",
+  "abdullah gül ile ilgili iddialara çarpıcı cevap desteklediği aday erdoğan",
+  "istanbul avcılarda aynı noktada yaşanan kazalara mahalleliden tepki"
  ]
 }
