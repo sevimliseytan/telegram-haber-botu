@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/a-milli-erkek-basketbol-takimi-italyaya-yenildi-29334-h1585992",
    "https://www.ensonhaber.com/besiktas-baskani-adali-gurcistan-polisinin-orantisiz-guc-uygulamasi-hos-degildi-h1585993",
    "https://www.ensonhaber.com/salih-ozcan-bu-aksam-oynanan-mac-milli-bir-mesele-oldu-h1585994",
    "https://www.ensonhaber.com/besiktasli-oyunculardan-galibiyet-pozu-h1585995",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/sakarya-merkezli-yasa-disi-bahis-operasyonlari-81-supheli-tutuklandi-h1586487",
    "https://www.ensonhaber.com/boluda-yasanan-olayla-ilgili-sosyal-medya-paylasimlari-hakkinda-sorusturma-h1586488",
    "https://www.ensonhaber.com/abdde-indirim-gununde-magazalar-onunde-uzun-kuyruklar-olustu-h1586489",
-   "https://www.ensonhaber.com/chpden-asgari-ucret-icin-52-bin-tl-onerisi-temmuz-ayinda-da-zam-yapilmali-h1586490"
+   "https://www.ensonhaber.com/chpden-asgari-ucret-icin-52-bin-tl-onerisi-temmuz-ayinda-da-zam-yapilmali-h1586490",
+   "https://www.ensonhaber.com/alparslan-bayraktar-gabarda-2027de-gunluk-100-bin-varilin-uzerine-cikacagiz-h1586491"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2331,7 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "tcmbden döviz karşılığı tl swap hamlesi",
   "türkiyeden schengen vizesi için son 6 adım",
   "aziz yıldırım maliyetinden dert yanmıştı ngolo kanteden hayran bırakan performans",
   "esenyurtta önüne kıran otomobile korna çaldı araçtan inip saldırdılar",
@@ -3830,6 +3829,7 @@
   "abdde indirim gününde mağazalar önünde uzun kuyruklar oluştu",
   "boluda tüm türkiyenin yüreğini ağzına getiren olayla ilgili paylaşımlara soruşturma",
   "boluda kaybolan çocuklarla ilgili sosyal medya paylaşımlarına soruşturma",
-  "chpden asgari ücret için 52 bin tl önerisi temmuz ayında da zam yapılmalı"
+  "chpden asgari ücret için 52 bin tl önerisi temmuz ayında da zam yapılmalı",
+  "alparslan bayraktar gabarda 2027de günlük 100 bin varilin üzerine çıkacağız"
  ]
 }
