@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/kassoum-ouattaradan-uefaya-tepki-filistin-bayragini-koydu-h1585988",
    "https://www.ensonhaber.com/batmanda-silahli-kavga-2-yarali-h1585989",
    "https://www.ensonhaber.com/antalyada-5-kattan-dusen-kadin-can-verdi-2-tutuklama-h1585990",
    "https://www.ensonhaber.com/orkun-kokcunun-sevinc-gozyaslari-h1585991",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/kisisel-bakim-harcamalarinda-kadin-ve-erkek-arasinda-ucurum-var-h1586483",
    "https://www.ensonhaber.com/boluda-10-kiz-cocugu-ve-3-personelin-kayboldugu-olayla-ilgili-teftis-baslatildi-h1586484",
    "https://www.ensonhaber.com/tuncelide-rahatsizlanan-surucuye-trafik-polisleri-yardim-etti-h1586485",
-   "https://www.ensonhaber.com/donald-trump-f-16-pilotuna-sordu-dunyanin-en-iyi-savas-ucagi-hangisi-h1586486"
+   "https://www.ensonhaber.com/donald-trump-f-16-pilotuna-sordu-dunyanin-en-iyi-savas-ucagi-hangisi-h1586486",
+   "https://www.ensonhaber.com/sakarya-merkezli-yasa-disi-bahis-operasyonlari-81-supheli-tutuklandi-h1586487"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3680174-italianodan-zafer-sonrasi-ilk-sozler-hep-boyle-olmaliyiz",
-   "https://spor.haber7.com/spor/haber/3680175-besiktasin-kaptanindan-filistin-aciklamasi-bizim-tarafimiz-belli",
    "https://spor.haber7.com/besiktas/haber/3680149-siyasilerden-besiktasa-buyuk-destek-tum-turkiye-yaninda",
    "https://www.haber7.com/dunya/haber/3680176-fransiz-haber-ajansi-afp-siber-saldiriya-ugradi",
    "https://spor.haber7.com/besiktas/haber/3680177-besiktas-yendi-haciosmanoglu-israili-hedef-aldi-bebek-katili-bu-topraklarda-oynayamaz",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/guncel/haber/3680631-boludaki-kayip-10-cocuk-olayinda-yeni-gelisme-bakanlik-harekete-gecti",
    "https://www.haber7.com/guncel/haber/3680632-aydinda-cinsel-istismar-iddiasiyla-4-cocuk-tutuklandi",
    "https://spor.haber7.com/spor/haber/3680625-batumdaki-olaylar-fitili-atesledi-filistin-destegi-tum-statlara-yayiliyor",
-   "https://spor.haber7.com/super-lig/haber/3680622-gaziantep-fk-amed-canli"
+   "https://spor.haber7.com/super-lig/haber/3680622-gaziantep-fk-amed-canli",
+   "https://www.haber7.com/medya/haber/3680633-siyasetin-nabzi-baskent-kulisinde-atiyor",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680634-gaziantepli-ciftcilere-5-yilda-yuzde-yuz-hibe-215-milyon-litre-mazot-dagitildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2330,7 +2330,6 @@
   ]
  },
  "recent_titles": [
-  "türkiye pakistan ve suudi arabistandan islamabadda savunma ittifakı zirvesi",
   "mhp lideri bahçeli dem parti heyeti ile görüşüyor",
   "mekke ittifakı islamabadda bir araya gelecek",
   "özge ulusoydan yeni tavsiye her sabah yapıyorum",
@@ -3829,6 +3828,7 @@
   "gaziantep fkamed canli",
   "siyasetin nabzı başkent kulisinde atıyor",
   "donald trump f16 pilotuna sordu dünyanın en iyi savaş uçağı hangisi",
-  "sakarya merkezli yasa dışı bahis operasyonları 81 şüpheli tutuklandı"
+  "sakarya merkezli yasa dışı bahis operasyonları 81 şüpheli tutuklandı",
+  "gaziantepli çiftçilere 5 yılda yüzde yüz hibe 215 milyon litre mazot dağıtıldı"
  ]
 }
