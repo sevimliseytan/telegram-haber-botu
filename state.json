@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ingiltere-londrada-metro-makinistleri-greve-gitti-h1585949",
-   "https://www.ensonhaber.com/ousmane-diabate-premier-ligdeki-rekabete-hazir-h1585950",
    "https://www.ensonhaber.com/hidayet-turkoglu-ulkemizi-en-iyi-sekilde-temsil-ettigimizi-dusunuyorum-h1585951",
    "https://www.ensonhaber.com/kuzeyboruda-hedef-vakifbank-galibiyeti-h1585952",
    "https://www.ensonhaber.com/begum-yucel-milli-takimlara-verdikleri-katkidan-dolayi-gururlu-h1585953",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kahramanmarasta-ozel-gereksinimli-bireye-tekme-tokat-saldiri-kamerada-h1586444",
    "https://www.ensonhaber.com/aziz-yildirim-dernek-baskanlariyla-bulusacak-h1586445",
    "https://www.ensonhaber.com/tahir-elci-olumunun-11inci-yil-donumunde-diyarbakirda-anildi-h1586446",
-   "https://www.ensonhaber.com/yeni-parti-meclise-izleme-komisyonu-yanitini-iletti-h1586447"
+   "https://www.ensonhaber.com/yeni-parti-meclise-izleme-komisyonu-yanitini-iletti-h1586447",
+   "https://www.ensonhaber.com/emlak-konut-melikgazi-kayseri-basketbolu-yendi-h1586448",
+   "https://www.ensonhaber.com/canakkale-saricaya-olu-kopek-baligi-yavrusu-vurdu-h1586449"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2323,7 +2323,6 @@
   ]
  },
  "recent_titles": [
-  "kremlin rusyanın tek amacı kendi ulusal çıkarlarını güvence altına almak",
   "120 ay vade yüzde 5 peşinat ile ev alma fırsatı emlak konut kampanyayı duyurdu",
   "balıkesirin altın lezzeti bin yıldır aynı yöntemle hazırlanıyor",
   "şehitlerimiz için son görev memleketlerine uğurlanıyorlar",
@@ -3822,6 +3821,7 @@
   "arnavutlukta binlerce kişi sokakta bağımsızlık gününde tansiyon yükseldi",
   "istanbulda elektrik kesintisi gece yarısı başlayacak saatler sürecek",
   "yeni parti meclise izleme komisyonu yanıtını iletti",
-  "emlak konut melikgazi kayseri basketbolu yendi"
+  "emlak konut melikgazi kayseri basketbolu yendi",
+  "çanakkale sarıçaya ölü köpek balığı yavrusu vurdu"
  ]
 }
