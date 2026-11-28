@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/bursada-sokakta-tartistiklari-kisiyi-tabancayla-vuran-2-supheli-gozaltina-alindi-h1585857",
    "https://www.ensonhaber.com/alina-boz-annesiyle-paylasim-yapti-h1585858",
    "https://www.ensonhaber.com/konyada-cesmeden-su-almak-isteyen-70-yasindaki-kadin-bicaklandi-h1585859",
    "https://www.ensonhaber.com/vanda-havalarin-sogumasiyla-terzilerde-yogunluk-basladi-h1585860",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/bursada-evinden-tufekle-ates-acan-supheli-tutuklandi-h1586352",
    "https://www.ensonhaber.com/antetokounmponun-23-ribauntluk-kariyer-rekoruyla-heat-knicksi-yendi-h1586353",
    "https://www.ensonhaber.com/irandan-abd-israil-aleyhine-241-iddianame-ceza-mahkemelerine-gonderildi-h1586354",
-   "https://www.ensonhaber.com/ankarada-uyusturucu-ve-fuhus-sorusturmasinda-22-tutuklama-h1586355"
+   "https://www.ensonhaber.com/ankarada-uyusturucu-ve-fuhus-sorusturmasinda-22-tutuklama-h1586355",
+   "https://www.ensonhaber.com/boluda-kaybolan-10-cocuk-sag-salim-bulundu-goktas-gozyaslarina-hakim-olamadi-h1586356"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680077-bu-devlet-benim-devletim-diyen-chpli-vekilden-cop31-ovgusu",
-   "https://spor.haber7.com/super-lig/haber/3680078-anthony-taylor-acikladi-galatasarayin-golunde-ofsayt-var-mi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680075-bakan-bolat-mujdeyi-verdi-ihracatta-2027-icin-65-milyar-liralik-destek-hedefi",
-   "https://spor.haber7.com/spor/haber/3680079-rakibine-kafa-attigi-icin-tutuklanmisti-tutuklu-futbolcu-icin-karar-cikti",
    "https://www.haber7.com/guncel/haber/3680080-son-secimleri-bilen-sirketin-yayimladigi-yeni-anket-sonuclari-dikkat-cekti",
    "https://www.haber7.com/guncel/haber/3680081-yeni-partili-belediyede-heykel-mesaisi-dedikoducu-kadinlar-yeniden-sokaklarda",
    "https://www.haber7.com/dunya/haber/3680082-fas-ve-israil-anlasti-ortak-askeri-eylem-plani-yapacaklar",
@@ -1391,7 +1387,11 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680515-tcmb-bir-odeme-kurulusunun-faaliyet-iznini-iptal-etti",
    "https://www.haber7.com/guncel/haber/3680514-11-ildeki-bazi-alanlar-orman-sinirlari-disina-cikarildi",
    "https://www.haber7.com/dunya/haber/3680517-abd-hava-kuvvetlerine-siber-saldiri",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680518-spk-golden-global-yatirim-bankasinin-faaliyetlerini-durdurdu"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680518-spk-golden-global-yatirim-bankasinin-faaliyetlerini-durdurdu",
+   "https://www.haber7.com/yasam/haber/3679359-yumurtayi-tahtindan-etti-protein-sampiyonu-secildi-mutlaka-tuketin",
+   "https://www.haber7.com/guncel/haber/3680520-kucukcekmecede-5-katli-bina-yanginindan-aci-haber-olu-sayisi-3e-yukseldi",
+   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680519-4te-4-ile-rahat-bir-nefes-almisken-ulke-puaninda-buyuk-tehlike-bizi-bekliyor",
+   "https://www.haber7.com/medya/haber/3680521-mardinden-renkli-goruntuler-harunla-sen-yollarda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2299,7 +2299,6 @@
   ]
  },
  "recent_titles": [
-  "aydında uyuşturucu operasyonu 5 tutuklama",
   "israil basınından çelik kubbe itirafı demir kubbeden daha üstün",
   "kayseride uyuşturucu operasyonu yakalanan 20 şüpheliden 19u tutuklandı",
   "ingiltere tüm savaş uçaklarını hangarlara taşıdı sebebi şoke etti",
@@ -3798,6 +3797,7 @@
   "yumurtayı tahtından etti protein şampiyonu seçildi mutlaka tüketin",
   "küçükçekmecede 5 katlı bina yangınından acı haber ölü sayısı 3e yükseldi",
   "4te 4 ile rahat bir nefes almışken ülke puanında büyük tehlike bizi bekliyor",
-  "mardinden renkli görüntüler harun şenle yollarda"
+  "mardinden renkli görüntüler harun şenle yollarda",
+  "boluda kaybolan 10 çocuk sağ salim bulundu göktaş gözyaşlarına hakim olamadı"
  ]
 }
