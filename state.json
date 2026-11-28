@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/turk-taraftarlar-besiktasa-destek-oldu-h1585967",
    "https://www.ensonhaber.com/gurcistan-polisinden-besiktas-taraftarina-olay-mudahale-h1585968",
    "https://www.ensonhaber.com/cumhurbaskani-yardimcisi-yilmaz-secimler-2028-yilinda-yapilacak-h1585969",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-takimi-ile-tokalasmadi-h1585970",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/sakaryada-devrilen-tirin-icinde-sikisan-surucu-o-anlari-anlatti-h1586462",
    "https://www.ensonhaber.com/kulupler-birliginden-yayin-ihalesi-aciklamasi-98463-h1586463",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulasi-kabul-etti-h1586464",
-   "https://www.ensonhaber.com/halkbank-fenerbahce-karsisinda-kazandi-19748-h1586465"
+   "https://www.ensonhaber.com/halkbank-fenerbahce-karsisinda-kazandi-19748-h1586465",
+   "https://www.ensonhaber.com/daltonlar-suc-orgutu-sorusturmasinda-15-kisiye-tutuklama-talebi-h1586466"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/siyaset/haber/3680161-imamoglu-ekibine-mykda-da-nester-vuruldu-ozgur-ozel-agirligini-koydu",
    "https://spor.haber7.com/spor/haber/3680162-mesut-ozilden-besiktasa-destek-paylasimi",
    "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-besiktas-taraftarina-saldirdi-gozaltilar-var",
    "https://spor.haber7.com/spor/haber/3680163-gurcistanda-skandal-mudahale-besiktas-taraftarina-yumruklu-saldiri",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdoganin-yunan-mevkidasi-tasulas-ile-gorusmesi-basladi",
    "https://spor.haber7.com/voleybol/haber/3680611-fenerbahce-de-direnemedi-halkbanktan-8de-8",
    "https://www.haber7.com/guncel/haber/3680613-31-ilde-ailem-guvende-operasyonu-73-gozalti",
-   "https://spor.haber7.com/super-lig/haber/3680615-kulupler-birligi-yayin-ihalesindeki-hedeflerini-acikladi"
+   "https://spor.haber7.com/super-lig/haber/3680615-kulupler-birligi-yayin-ihalesindeki-hedeflerini-acikladi",
+   "https://www.haber7.com/guncel/haber/3680616-aydinda-sahtecilik-operasyonu-186-milyon-tllik-urun-ele-gecirildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2292,7 +2292,8 @@
    "https://anlatilaninotesi.com.tr/20261128/ayin-yuzeyinin-altinda-dev-tuneller-olabilir-bilim-insanlari-4-olasi-yapi-tespit-etti-1110661051.html",
    "https://anlatilaninotesi.com.tr/20261128/istanbul-valiligi-saat-vererek-uyardi-6-ilce-icin-alarm-verdi-1110661269.html",
    "https://anlatilaninotesi.com.tr/20261128/arnavutlukta-binlerce-kisi-sokakta-bagimsizlik-gununde-tansiyon-yukseldi-1110662297.html",
-   "https://anlatilaninotesi.com.tr/20261128/bosanma-davasinda-istinaf-mahkemesi-ve-yargitaydan-emsal-karar-cocugun-elde-ettigi-deliller-hukuka-1110662461.html"
+   "https://anlatilaninotesi.com.tr/20261128/bosanma-davasinda-istinaf-mahkemesi-ve-yargitaydan-emsal-karar-cocugun-elde-ettigi-deliller-hukuka-1110662461.html",
+   "https://anlatilaninotesi.com.tr/20261128/abb-baskani-mansur-yavastan-cumhurbaskani-adayligi-aciklamasi-bizim-boyle-bir-gundemimiz-asla-yok-1110662606.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2324,11 +2325,6 @@
   ]
  },
  "recent_titles": [
-  "neuralinkin beyin çipi teknolojisine klinik deneyler için fda onayı",
-  "doç dr erdem ilker mutlu abd çok kutuplu dünyayı resmen kabul etti",
-  "beşiktaşın 8 saat süren çileli yolculuğu şimdi de batum stadının zemini sorun çıkardı",
-  "alperen şengünün doubledoubleı houston rocketse galibiyeti getirdi",
-  "bakan tekinden son dakika öğretmen ataması açıklaması",
   "oto ekspertizden örnek davranış ücret almadan hayat kurtaran tespiti yaptı",
   "gaziantepte kan donduran olay arkadaşını öldürüp parasıyla borçlarını ödedi iddiası",
   "amerikan futbolu oyuncusu alshaair maçlarda taktığı bantlara filistinli çocukların adlarını yazıyor",
@@ -3823,6 +3819,11 @@
   "fenerbahçe de direnemedi halkbanktan 8de 8",
   "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulasla bir araya geldi",
   "kulüpler birliği yayın ihalesindeki hedeflerini açıkladı",
-  "halkbank fenerbahçe karşısında kazandı"
+  "halkbank fenerbahçe karşısında kazandı",
+  "aydında sahtecilik operasyonu 186 milyon tllik ürün ele geçirildi",
+  "istanbul için peş peşe fırtına ve sağanak uyarısı rüzgarın hızı 90 kilometreyi bulacak",
+  "daltonlar suç örgütü soruşturmasında 15 kişiye tutuklama talebi",
+  "gebze belediyespor alanya belediyespora şans tanımadı",
+  "abb başkanı mansur yavaştan cumhurbaşkanı adaylığı açıklaması bizim böyle bir gündemimiz asla yok"
  ]
 }
