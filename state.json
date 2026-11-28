@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/sevda-turkusev-celal-sengorun-turk-kadini-kompleksi-var-h1585893",
    "https://www.ensonhaber.com/ankarada-kendilerini-polis-olarak-tanitip-yasli-adamin-810-bin-lirasini-almaya-calistilar-h1585894",
    "https://www.ensonhaber.com/bilgisayar-toplarken-asla-ucuza-kacmamaniz-gereken-5-parca-h1585895",
    "https://www.ensonhaber.com/samsunda-bebegini-cope-atan-anneye-muebbet-hapis-h1585896",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/umit-yenisehirli-yazdi-sehirdeki-vahsi-hayvan-h1586388",
    "https://www.ensonhaber.com/hatayda-2-milyon-tllik-vurgun-yapan-maskeli-hirsizlarin-oyununu-polis-bozdu-h1586389",
    "https://www.ensonhaber.com/fenerbahcede-erzurumspor-fk-ilk-11i-sekilleniyor-h1586390",
-   "https://www.ensonhaber.com/aselsanin-antidot-sistemi-10-bin-saatlik-ucus-suresini-geride-birakti-h1586391"
+   "https://www.ensonhaber.com/aselsanin-antidot-sistemi-10-bin-saatlik-ucus-suresini-geride-birakti-h1586391",
+   "https://www.ensonhaber.com/hatay-stadindaki-onarim-calismalarinda-sona-gelindi-h1586392"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/kultur/haber/3680108-antalya-expo-icin-yeni-donem-dev-kongre-ve-fuar-merkezine-donusuyor",
    "https://www.haber7.com/guncel/haber/3680107-otobuste-kalbi-duran-yolcuya-soforden-hayat-kurtaran-mudahale-o-anlar-kamerada",
    "https://spor.haber7.com/spor/haber/3680110-besiktas-taraftari-batumu-inletti-isgale-isyan-filistine-ozgurluk",
    "https://www.haber7.com/guncel/haber/3680109-cumhurbaskani-erdoganin-hocasi-kemal-hut-efendi-hakka-yurudu",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680552-arabanda-yaglik-zeytin-hasadi-basladi",
    "https://www.haber7.com/dunya/haber/3680554-abdden-7-bin-personeline-siginin-talimati-avrupadaki-en-buyuk-ussunde-iha-panigi",
    "https://www.haber7.com/otomobil/haber/3680555-volkswagenden-50-yil-surprizi",
-   "https://www.haber7.com/kultur/haber/3680556-4-milli-sinema-gunleri-icin-geri-sayim-necip-fazil-ve-ahmet-ulucay-bulusmasi"
+   "https://www.haber7.com/kultur/haber/3680556-4-milli-sinema-gunleri-icin-geri-sayim-necip-fazil-ve-ahmet-ulucay-bulusmasi",
+   "https://www.haber7.com/guncel/haber/3680557-sarigul-sorusturmasinda-ozgur-ozel-dahil-5-kisinin-dosyalari-ankaraya-gonderildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2310,9 +2310,6 @@
   ]
  },
  "recent_titles": [
-  "lastiklerdeki 4 rakamı kontrol edin özelliği o kodda gizliymiş",
-  "fsb soçide rus askerine yönelik suikast girişimi engellendi",
-  "mehmet şimşek düğmeye bastı eski bddk başkanı şahap kavcıoğluna soruşturma izni verildi",
   "başkentte ticari gayrimenkul yatırımları yeni bölgelere kayıyor",
   "kara kartal israil ekibine karşı beşiktaşhapoel beer sheva muhtemel 11ler",
   "sahte mehdi ile anne babası ve kız kardeşi tutuklandı",
@@ -3809,6 +3806,9 @@
   "volkswagenden 50 yıl sürprizi",
   "4 millî sinema günleri için geri sayım necip fazıl ve ahmet uluçay buluşması",
   "fenerbahçede erzurumspor fk ilk 11i şekilleniyor",
-  "aselsanın antidot sistemi 10 bin saatlik uçuş süresini geride bıraktı"
+  "aselsanın antidot sistemi 10 bin saatlik uçuş süresini geride bıraktı",
+  "sarıgül soruşturmasında özgür özel dahil 5 kişinin dosyaları ankaraya gönderildi",
+  "hatay stadındaki onarım çalışmalarında sona gelindi",
+  "sarıgül soruşturmasında özgür özel ve 4 isim için fezleke düzenlemesi"
  ]
 }
