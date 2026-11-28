@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/super-lig/haber/3680056-super-lig-ekibinde-deprem-4-futbolcu-kadro-disi-birakildi",
    "https://www.haber7.com/dunya/haber/3680055-ingiltereden-100-bin-eski-askere-savas-mektubu-hazirlikli-olun",
    "https://www.haber7.com/dunya/haber/3680058-ben-gvirin-soykirim-dolu-ifadeleri-tepki-cekti",
    "https://www.haber7.com/seyahat/haber/3680059-94-yildir-trenlerin-uzerinde-yasiyorlar-balikesirdeki-koy-demir-yolu-ile-dikkat-cekiyor",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680500-antalyadan-papaya-554-yillik-zincirimizi-geri-verin-mektubu",
    "https://spor.haber7.com/spor/haber/3680499-polonyada-gundem-olan-goruntu-macin-ortasinda-sahaya-scooterla-girdi",
    "https://www.haber7.com/dunya/haber/3680501-suriye-haritasi-3e-bolundu-israil-televizyonunda-sinsi-plani-paylastilar",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680502-goldman-sachstan-borsalara-100-milyar-dolarlik-uyari"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680502-goldman-sachstan-borsalara-100-milyar-dolarlik-uyari",
+   "https://www.haber7.com/saglik/haber/3680504-saglikta-yapay-zeka-donemi-86-milyon-kisiye-bireysel-saglik-asistani-geliyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2264,7 +2264,8 @@
    "https://anlatilaninotesi.com.tr/20261128/abdde-sukran-gunu-firtinasinin-bilancosu-agirlasti-elektrik-kesintileri-ve-ulasim-aksakliklari-1110655498.html",
    "https://anlatilaninotesi.com.tr/20261128/iran-hurmuz-bogazi-ve-umman-kiyilari-yakinlarinda-2-petrol-tankeri-deniz-mayinina-carpti-1110655810.html",
    "https://anlatilaninotesi.com.tr/20261128/ukraynanin-limanlari-devre-disi-uc-ayda-3-milyar-dolar-kadar-kaybetti-1110655998.html",
-   "https://anlatilaninotesi.com.tr/20261128/abdde-2-ucak-taksi-yaptiklari-esnada-carpisti-1110656326.html"
+   "https://anlatilaninotesi.com.tr/20261128/abdde-2-ucak-taksi-yaptiklari-esnada-carpisti-1110656326.html",
+   "https://anlatilaninotesi.com.tr/20261128/istanbulda-x-corpa-siber-saldiri-iddiasi-4-supheli-gozaltina-alindi-1110656483.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2296,11 +2297,6 @@
   ]
  },
  "recent_titles": [
-  "mısırda petrol ürünleri taşıyan tankerde yangın 30 ölü",
-  "abdden netanyahuya son dakika uyarısı",
-  "fenerbahçenin shakhtar donetsk maçında golü iptal oldu",
-  "abdden netanyahuya son dakika uyarısı planı uygulayın",
-  "önder özen uçakta yaşananları anlattı bir tehlike atlattık",
   "luca banchi türkiye her yönüyle eksiksiz",
   "iranda hanelere enerji tüketimini yüzde 20 azaltma çağrısı",
   "emre belözoğlu fenerbahçe tarihine geçti",
@@ -3795,6 +3791,11 @@
   "antalyadan papaya 554 yıllık zincirimizi geri verin mektubu",
   "polonyada gündem olan görüntü maçın ortasında sahaya scooterla girdi",
   "suriye haritası 3e bölündü israil televizyonunda sinsi planı paylaştılar",
-  "goldman sachstan borsalara 100 milyar dolarlık uyarı"
+  "goldman sachstan borsalara 100 milyar dolarlık uyarı",
+  "sağlıkta yapay zeka dönemi 86 milyon kişiye bireysel sağlık asistanı geliyor",
+  "7 ay sonra yeniden açıldıgümüşhanenin 15 milyon yıllık hazinesi ziyaretçilerini bekliyor",
+  "uşakta feci kaza 3 ölü 2 yaralı",
+  "evindeki battaniyesini 91 milyon tlye sattı başına talih kuşu kondu",
+  "istanbulda x corpa siber saldırı iddiası 4 şüpheli gözaltına alındı"
  ]
 }
