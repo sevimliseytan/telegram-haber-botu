@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679778-istanbul-7-agir-ceza-mahkemesi",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679775-samsun-2-asliye-hukuk-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679772-boyabat-sulh-hukuk-mahkemesi-satis-memurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679771-samsun-3-asliye-hukuk-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679770-boyabat-sulh-hukuk-mahkemesi-satis-memurlugu",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/super-lig/haber/3680601-samsunspor-genclerbirligini-3-golle-yikti-hayati-galibiyet",
    "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdoganin-yunan-mevkidasi-tasulas-ile-gorustu",
    "https://spor.haber7.com/ikinci-lig/haber/3680621-bursaspordan-deplasmanda-kritik-kayip-1-ligde-lider-degisebilir",
-   "https://spor.haber7.com/super-lig/haber/3680622-gaziantep-fk-amed-ilk-11ler-belli-oldu"
+   "https://spor.haber7.com/super-lig/haber/3680622-gaziantep-fk-amed-ilk-11ler-belli-oldu",
+   "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdogan-yunan-mevkidasi-tasulas-ile-gorustu",
+   "https://www.haber7.com/3sayfa/haber/3680623-10-yasindaki-gazinin-feci-olumu-kolunu-yem-karma-makinesine-kaptirdi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2297,7 +2297,8 @@
    "https://anlatilaninotesi.com.tr/20261128/usta-sanatci-mustafa-keser-esini-son-yolculuguna-ugurladi-sirayi-bozdu-benden-once-gitmemeliydi-1110662770.html",
    "https://anlatilaninotesi.com.tr/20261128/ukrayna-kirim-koprusu-saldirisinda-israil-menseli-hisky-uydu-terminallerini-kullandi-1110662894.html",
    "https://anlatilaninotesi.com.tr/20261128/bakan-goktas-duyurdu-teftis-baslatildi-1110663398.html",
-   "https://anlatilaninotesi.com.tr/20261128/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorustu-1110663499.html"
+   "https://anlatilaninotesi.com.tr/20261128/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorustu-1110663499.html",
+   "https://anlatilaninotesi.com.tr/20261128/rusya-savunma-bakanligi-karadenizde-askeri-kargo-tasiyan-kuru-yuk-gemisi-ve-kievdeki-enerji-1110663685.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2329,7 +2330,6 @@
   ]
  },
  "recent_titles": [
-  "emlak konut gyo ilk adım ödeme sistemini hayata geçirdi",
   "ankarada uyuşturucu ve fuhuş operasyonu yeni partili ismin oğlu gözaltına alındı",
   "yabancıların istanbuldan sonraki tercihi antalya",
   "kahramanmaraşta şehir büyüdü apartmanlar mağaraya dayandı",
@@ -3828,6 +3828,7 @@
   "gaziantep fkamed ilk 11ler belli oldu",
   "10 yaşındaki gazinin feci ölümü kolunu yem karma makinesine kaptırdı",
   "fenerbahçe duyurdu maltepedeki stadyum projesi içn resmi teklif almadık",
-  "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulas ile görüştü"
+  "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulas ile görüştü",
+  "rusya savunma bakanlığı karadenizde askeri kargo taşıyan kuru yük gemisi ve kievdeki enerji tesisleri vuruldu"
  ]
 }
