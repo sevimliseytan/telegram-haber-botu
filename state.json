@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/murat-kurum-tam-106-bin-914-konutumuzun-yapimina-basladik-h1585794",
    "https://www.ensonhaber.com/trabzon-icin-heyelan-uyarisi-istinat-duvarlarinin-cokmesi-bir-ikaz-h1585797",
    "https://www.ensonhaber.com/msbden-kaza-kirima-ugrayan-helikopterlere-iliskin-aciklama-her-turlu-olasilik-dikkate-alin-h1585798",
    "https://www.ensonhaber.com/murat-kurum-duyurdu-izmir-korfezinde-dip-camuru-temizligi-basliyor-h1585799",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/beklenen-yagislar-13-milyon-gazzeliyi-tehdit-ediyor-h1586288",
    "https://www.ensonhaber.com/batmanda-supheli-canta-kontrollu-sekilde-patlatildi-h1586289",
    "https://www.ensonhaber.com/muglada-teknede-gocmen-kacakcisi-ve-2si-cocuk-6-duzensiz-gocmen-yakalandi-h1586290",
-   "https://www.ensonhaber.com/spkdan-55-milyon-liralik-ceza-116-kisi-ve-kurulusa-islem-yasagi-h1586291"
+   "https://www.ensonhaber.com/spkdan-55-milyon-liralik-ceza-116-kisi-ve-kurulusa-islem-yasagi-h1586291",
+   "https://www.ensonhaber.com/kartal-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-h1586292"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -1874,7 +1874,8 @@
    "https://www.mynet.com/magazin/unlulere-uyusturucu-sorusturmasi-3-ismin-testi-pozitif-cikti-130100607828",
    "https://www.mynet.com/magazin/unlulere-yonelik-uyusturucu-sorusturmasi-deniz-cakir-ozcan-deniz-ve-burcu-ozberk-in-uyusturucu-testleri-negatif-cikti-130100607831",
    "https://www.mynet.com/magazin/tasacak-bu-deniz-in-eleni-si-ava-yaman-in-son-pozlarina-yorum-yagdi-bir-baska-guzel-130100607843",
-   "https://www.mynet.com/magazin/berkay-sahin-kizi-mihre-nin-yuzunu-ilk-kez-gosterdi-masallah-demeden-gecmeyin-130100607846"
+   "https://www.mynet.com/magazin/berkay-sahin-kizi-mihre-nin-yuzunu-ilk-kez-gosterdi-masallah-demeden-gecmeyin-130100607846",
+   "https://www.mynet.com/magazin/biri-isirmaya-calisti-biri-yumruk-atti-canli-yayindaki-o-anlar-gundem-oldu-130100607849"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2287,8 +2288,6 @@
   ]
  },
  "recent_titles": [
-  "vakıfbank asterix avoya set vermedi",
-  "bmden israile yönelik ağır suç uyarısı filistinlilere yönelik soykırım riski genişliyor",
   "beşiktaşın batum yolculuğunda hava engeli uçak rizeye indi",
   "oyun çılgınlığında kalp krizi riski özellikle tansiyonu ve ritim bozukluğu olanlar dikkat",
   "emlak konut bourges baskete fark attı",
@@ -3786,6 +3785,8 @@
   "çamura saplanan minibüsün sürücüsü gözyaşlarını tutamadı",
   "muğlada teknede göçmen kaçakçısı ve 2si çocuk 6 düzensiz göçmen yakalandı",
   "meteorolojiden fırtına uyarısı",
-  "spkdan 55 milyon liralık ceza 116 kişi ve kuruluşa işlem yasağı"
+  "spkdan 55 milyon liralık ceza 116 kişi ve kuruluşa işlem yasağı",
+  "kartal belediyesine yönelik soruşturmada 10 şüpheli tutuklandı",
+  "biri ısırmaya çalıştı biri yumruk attı canlı yayındaki o anlar gündem oldu"
  ]
 }
