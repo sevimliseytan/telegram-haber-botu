@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/galatasaray/haber/3680112-galatasaraydan-ugochukwu-icin-kritik-hamle-225-milyon-euroluk-sart-degisiyor",
    "https://www.haber7.com/guncel/haber/3680113-ysk-baskani-muttadan-secim-uyarisi-tarihi-bir-zorunluluk",
    "https://www.haber7.com/guncel/haber/3680114-gida-sahtekarliginda-basi-ceken-6-urun-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680115-disislerinden-apye-libya-mutabakati-yaniti-boyle-bir-yetkiniz-yok",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/saglik/haber/3680559-uzun-sure-oturan-erkeklerde-pelvik-taban-sendromu-basliyor",
    "https://www.haber7.com/dunya/haber/3680558-5-ulke-pesindeydi-antidot-2es-goz-doldurdu-aselsandan-10-bin-saatlik-basari",
    "https://spor.haber7.com/diger-branslar/haber/3680560-formula-1-turkiye-grand-prixsi-24-yaris-arasinda-on-kayitla-dunya-takviminde-ilk-sirada",
-   "https://www.haber7.com/3sayfa/haber/3680561-denizli-merkezli-19-ilde-suc-orgutune-operasyonda-71-tutuklama"
+   "https://www.haber7.com/3sayfa/haber/3680561-denizli-merkezli-19-ilde-suc-orgutune-operasyonda-71-tutuklama",
+   "https://www.haber7.com/siyaset/haber/3680563-yskdan-secim-aciklamasi-siber-saldiri-senaryolari-olusturuyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2311,7 +2311,6 @@
   ]
  },
  "recent_titles": [
-  "galatasaray ve fenerbahçe kazandı ülke puanı değişti",
   "kızılcık şerbetinde çimenin ardından bir rol daha el değiştiriyor işte yeni oyuncu",
   "altında 14 ayın dibinden toparlanma",
   "şanlıurfada kontrolden çıkan otomobil elektrik direğini yerinden söktü",
@@ -3810,6 +3809,7 @@
   "formula 1 türkiye grand prıxsi 24 yarış arasında ön kayıtla dünya takviminde ilk sırada",
   "denizli merkezli 19 ilde suç örgütüne operasyonda 71 tutuklama",
   "sarıgül soruşturmasında yeni gelişme özgür özel ve 5 vekilin dosyası ankaraya gönderildi",
-  "aksarayda kaybolan köpeği getirene 100 bin tl ödül"
+  "aksarayda kaybolan köpeği getirene 100 bin tl ödül",
+  "yskdan seçim açıklaması siber saldırı senaryoları oluşturuyor"
  ]
 }
