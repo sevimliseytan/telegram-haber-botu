@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ak-partiye-gecen-izmir-belediyesinde-yollar-birer-birer-yenileniyor-h1585897",
    "https://www.ensonhaber.com/tcmbnin-net-rezervleri-2419-milyar-dolara-geriledi-h1585898",
    "https://www.ensonhaber.com/melis-sandalin-ailesinin-yasadigi-ev-kursunlandi-h1585899",
    "https://www.ensonhaber.com/aymden-saglik-calisanlarinin-nobet-ucretinde-6-saat-sartina-iptal-h1585900",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/hatay-stadindaki-onarim-calismalarinda-sona-gelindi-h1586392",
    "https://www.ensonhaber.com/sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-h1586393",
    "https://www.ensonhaber.com/aksarayda-kaybolan-kopegi-getirene-100-bin-tl-odul-h1586394",
-   "https://www.ensonhaber.com/izmirde-yasli-ciftin-75-yillik-aski-genclere-ornek-oluyorlar-h1586395"
+   "https://www.ensonhaber.com/izmirde-yasli-ciftin-75-yillik-aski-genclere-ornek-oluyorlar-h1586395",
+   "https://www.ensonhaber.com/israilin-saldirilarinda-babasini-ve-kardesini-kaybeden-filistinli-cocuk-vurularak-yaraland-h1586396"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680117-saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama",
-   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-degisim-blogu-harekete-gecti-hepsi-kaldiriliyor",
-   "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-sicak-saatler-yeni-meclis-hepsini-kaldiriyor",
    "https://www.haber7.com/guncel/haber/3680119-cevdet-yilmaz-ile-bakanlar-simsek-ve-gurlekten-fon-aciklamasi",
    "https://www.haber7.com/guncel/haber/3680119-fon-sorusturmasinda-yeni-donem-cevdet-yilmaz-son-dakika-duyurdu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680120-borsa-gunu-yukselisle-tamamladi-iste-en-cok-kazandiran",
@@ -1391,7 +1388,10 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3675910-suruculere-uyari-e-devletten-kontrol-edin-yoksa-muayene-edemezsiniz",
    "https://www.haber7.com/3sayfa/haber/3680564-70-yasindaki-kadini-kulagina-gelen-bicakla-sesi-yuzunden-bicaklamis",
    "https://www.haber7.com/yasam/haber/3680565-manisanin-topraklarinda-sakli-kalan-endemik-tur-kesfedildi",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680566-vergi-ve-sgk-borclari-yapilandiriliyor-72-ay-vade-imkani"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680566-vergi-ve-sgk-borclari-yapilandiriliyor-72-ay-vade-imkani",
+   "https://spor.haber7.com/besiktas/haber/3680567-besiktas-galatasaray-derbisinde-15-futbolcu-ilki-yasayabilir",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680568-20-dakikalik-yol-5-dakikaya-dustu-boyabat-cevre-yolu-hizmete-acildi",
+   "https://spor.haber7.com/spor/haber/3680569-muhammed-salah-yanlislikla-rakip-takimin-otobusune-bindi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2311,9 +2311,6 @@
   ]
  },
  "recent_titles": [
-  "ünlülere yönelik uyuşturucu soruşturmasında ceylan kaya tutuklandı",
-  "ahmet hakan hayati yazıcının yazılı açıklaması neden kötü",
-  "çin ve taylanda geçit yok ticaret bakanlığının 5 yıllık vergi kararı",
   "ünlülere soruşturmada son dakika gelişmesi tutuklama haberi geldi",
   "kastamonuda dev dalgaların dövdüğü sahilde tahkimat duvarı ve kaldırım yıkıldı",
   "abnin hibrit otomobil kotasına osdden tepki türkiyeye 126 bin 320 adet sınır",
@@ -3810,6 +3807,9 @@
   "izmirde yaşlı çiftin 75 yıllık aşkı gençlere örnek oluyorlar",
   "vergi ve sgk borçları yapılandırılıyor 72 ay vade imkanı",
   "beşiktaşgalatasaray derbisinde 15 futbolcu ilki yaşayabilir",
-  "20 dakikalık yol 5 dakikaya düştü boyabat çevre yolu hizmete açıldı"
+  "20 dakikalık yol 5 dakikaya düştü boyabat çevre yolu hizmete açıldı",
+  "muhammed salah yanlışlıkla rakip takımın otobüsüne bindi",
+  "israilin saldırılarında babasını ve kardeşini kaybeden filistinli çocuk vurularak yaralandı",
+  "çorumda 10 binden fazla kitap okudu evini kütüphaneye çevirdi"
  ]
 }
