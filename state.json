@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3680149-siyasilerden-besiktasa-buyuk-destek-tum-turkiye-yaninda",
    "https://www.haber7.com/dunya/haber/3680176-fransiz-haber-ajansi-afp-siber-saldiriya-ugradi",
    "https://spor.haber7.com/besiktas/haber/3680177-besiktas-yendi-haciosmanoglu-israili-hedef-aldi-bebek-katili-bu-topraklarda-oynayamaz",
    "https://www.haber7.com/3sayfa/haber/3680178-sultangazide-beton-mikseri-dehseti-yaya-gecidinde-carptigi-kadin-hayatini-kaybetti",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/spor/haber/3680625-batumdaki-olaylar-fitili-atesledi-filistin-destegi-tum-statlara-yayiliyor",
    "https://spor.haber7.com/super-lig/haber/3680622-gaziantep-fk-amed-canli",
    "https://www.haber7.com/medya/haber/3680633-siyasetin-nabzi-baskent-kulisinde-atiyor",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680634-gaziantepli-ciftcilere-5-yilda-yuzde-yuz-hibe-215-milyon-litre-mazot-dagitildi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680634-gaziantepli-ciftcilere-5-yilda-yuzde-yuz-hibe-215-milyon-litre-mazot-dagitildi",
+   "https://www.haber7.com/yerel-yonetimler/haber/3680635-konyada-106-kilometrelik-dev-hat-acildi-4-mahalle-mavi-tunel-suyuna-kavusuyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2298,7 +2298,8 @@
    "https://anlatilaninotesi.com.tr/20261128/ukrayna-kirim-koprusu-saldirisinda-israil-menseli-hisky-uydu-terminallerini-kullandi-1110662894.html",
    "https://anlatilaninotesi.com.tr/20261128/bakan-goktas-duyurdu-teftis-baslatildi-1110663398.html",
    "https://anlatilaninotesi.com.tr/20261128/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorustu-1110663499.html",
-   "https://anlatilaninotesi.com.tr/20261128/rusya-savunma-bakanligi-karadenizde-askeri-kargo-tasiyan-kuru-yuk-gemisi-ve-kievdeki-enerji-1110663685.html"
+   "https://anlatilaninotesi.com.tr/20261128/rusya-savunma-bakanligi-karadenizde-askeri-kargo-tasiyan-kuru-yuk-gemisi-ve-kievdeki-enerji-1110663685.html",
+   "https://anlatilaninotesi.com.tr/20261128/polyanskiy-rusya-agit-bakanlar-konseyinde-ukrayna-krizinin-temel-nedenlerini-gundeme-getirecek-1110663985.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2330,9 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "mhp lideri bahçeli dem parti heyeti ile görüşüyor",
-  "mekke ittifakı islamabadda bir araya gelecek",
-  "özge ulusoydan yeni tavsiye her sabah yapıyorum",
   "apartman aidatları için enerji maliyeti uyarısı",
   "whatsapp mesaj zamanlama özelliğini duyurdu işte kullanmanın yolu",
   "emlak konuttan istanbulda 55 bin tlden başlayan taksitlerle ev sahibi olma imkânı",
@@ -3829,6 +3827,9 @@
   "siyasetin nabzı başkent kulisinde atıyor",
   "donald trump f16 pilotuna sordu dünyanın en iyi savaş uçağı hangisi",
   "sakarya merkezli yasa dışı bahis operasyonları 81 şüpheli tutuklandı",
-  "gaziantepli çiftçilere 5 yılda yüzde yüz hibe 215 milyon litre mazot dağıtıldı"
+  "gaziantepli çiftçilere 5 yılda yüzde yüz hibe 215 milyon litre mazot dağıtıldı",
+  "konyada 106 kilometrelik dev hat açıldı 4 mahalle mavi tünel suyuna kavuşuyor",
+  "selçuk bayraktar avrupanın bir yılda yaptığı testi biz bir günde yapıyoruz",
+  "polyanskiy rusya agit bakanlar konseyinde ukrayna krizinin temel nedenlerini gündeme getirecek"
  ]
 }
