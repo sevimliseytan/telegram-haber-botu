@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/hikmet-cetinin-cenazesi-ankaraya-ugurlandi-h1585914",
-   "https://www.ensonhaber.com/mersinde-hasemali-kadini-havuza-almayan-site-yoneticisi-ve-gorevlisine-hapis-ve-tahliye-h1585915",
    "https://www.ensonhaber.com/betimar-arastirmadan-secim-anketi-ak-parti-fark-atti-24546-h1585916",
    "https://www.ensonhaber.com/sile-belediyesi-davasinda-ara-karar-cikti-h1585917",
    "https://www.ensonhaber.com/boluda-eczanede-heimlich-manevrasi-kamerada-h1585918",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/rizede-400-kiloluk-cay-bardagi-salincak-turistlerin-ilgi-odagi-oldu-h1586409",
    "https://www.ensonhaber.com/nigdede-sokaklar-guvende-operasyonunda-binlerce-uyusturucu-hap-ele-gecirildi-h1586410",
    "https://www.ensonhaber.com/denizli-merkezli-19-ilde-suc-orgutune-operasyonda-71-tutuklama-h1586411",
-   "https://www.ensonhaber.com/boluda-otomobiliyle-patates-yuklu-romorka-carpti-polisleri-gorunce-kacti-h1586412"
+   "https://www.ensonhaber.com/boluda-otomobiliyle-patates-yuklu-romorka-carpti-polisleri-gorunce-kacti-h1586412",
+   "https://www.ensonhaber.com/konyada-caddeden-karsiya-gecmeye-calisan-kadina-otomobil-carpti-h1586413",
+   "https://www.ensonhaber.com/suriyede-732-subay-yemin-ederek-gorevlerine-basladi-h1586414"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3680128-ab-liderleri-yeni-butceyi-belirlemek-toplandi",
    "https://www.haber7.com/guncel/haber/3680129-bakanlik-tek-tek-tespit-ediyor-en-cok-bu-gidalarda-hile-yapiliyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680131-turkiyenin-gunes-enerjisi-kurulu-gucunun-yuzde-10u-konyada",
    "https://www.haber7.com/guncel/haber/3680130-yilmazdan-fon-sorusturmasi-cikisi-hastalikli-yapilar-karantinaya-alindi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/3sayfa/haber/3680576-balik-tutmaya-gittigi-sulama-kanalina-dusup-oldu",
    "https://spor.haber7.com/spor/haber/3680577-israilli-taraftar-besiktaslilarin-arasinda-atki-acinca-ortalik-karisti",
    "https://spor.haber7.com/galatasaray/haber/3680578-okan-buruk-besiktas-derbisinde-gunduz-kilici-gecmek-istiyor",
-   "https://www.haber7.com/guncel/haber/3680579-bebegin-anne-karninda-olumune-iliskin-doktora-ihmal-davasi"
+   "https://www.haber7.com/guncel/haber/3680579-bebegin-anne-karninda-olumune-iliskin-doktora-ihmal-davasi",
+   "https://www.haber7.com/guncel/haber/3680580-erzurumda-garsonlarin-yeni-mesai-arkadasi-yapay-zekali-yerli-robot-is-basinda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
