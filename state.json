@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/abnin-en-kritik-zirvesi-basladi-butce-ve-ukrayna-konusu-masada-h1585870",
    "https://www.ensonhaber.com/mgk-cumhurbaskani-erdogan-baskanliginda-toplandi-57695-h1585871",
    "https://www.ensonhaber.com/rusyada-abye-uyari-ukraynaya-maddi-destegini-surmesi-baris-sureci-icin-iyi-olmayacak-h1585872",
    "https://www.ensonhaber.com/bayburtta-sicaklik-sifirin-altinda-162-derece-olculdu-h1585873",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/altan-tan-erdogana-yarayacaksa-baris-bile-istemiyorlar-h1586365",
    "https://www.ensonhaber.com/asgari-ucret-maratonu-icin-geri-sayim-basladi-h1586366",
    "https://www.ensonhaber.com/istanbul-avcilarda-ayni-noktada-yasanan-kazalara-mahalleliden-tepki-h1586367",
-   "https://www.ensonhaber.com/istanbulda-trafikte-kavga-eden-iki-surucuye-183-bin-965-lira-ceza-h1586368"
+   "https://www.ensonhaber.com/istanbulda-trafikte-kavga-eden-iki-surucuye-183-bin-965-lira-ceza-h1586368",
+   "https://www.ensonhaber.com/sanliurfada-kacakcilik-operasyonu-h1586369"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680093-kagit-gibi-savrulan-kopruden-gecmek-isteyen-turistin-inadi-pes-dedirtti",
    "https://www.haber7.com/guncel/haber/3680094-pendikte-alkollu-ve-ehliyetsiz-surucu-polis-aracina-carpti-olay-ani-kamerada",
    "https://www.haber7.com/aydin/3680095-aydinda-operasyon-uzerinde-1100-sentetik-hap-ile-yakalandi",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680096-arda-gulerin-yeni-arabasinin-degeri-akillara-durgunluk-verdi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday-erdogan",
    "https://ekonomi.haber7.com/ekonomi/haber/3680538-turistik-erzurum-kars-bolgesel-treni-icin-bilet-satislari-basliyor",
    "https://www.haber7.com/medya/haber/3680537-c-vitaminini-evde-hazirlamanin-puf-noktalari-feridun-kunakla-evlerinize-saglikta",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680539-irak-12-yildir-kapali-turkiye-petrol-boru-hattini-acmaya-hazirlaniyor"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680539-irak-12-yildir-kapali-turkiye-petrol-boru-hattini-acmaya-hazirlaniyor",
+   "https://www.haber7.com/hayat/haber/3680540-nereden-nereye-dedirten-goruntu-yesilcam-emektarlari-borekci-acilisinda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2270,7 +2270,8 @@
    "https://anlatilaninotesi.com.tr/20261128/istanbulda-x-corpa-siber-saldiri-iddiasi-4-supheli-gozaltina-alindi-1110656483.html",
    "https://anlatilaninotesi.com.tr/20261128/iran-abd-ve-israile-karsi-241-iddianame-hazirlandigini-duyurdu-1110656687.html",
    "https://anlatilaninotesi.com.tr/20261128/arabalarinin-batakliga-saplandigi-ortaya-cikti-10-cocugun-nasil-kurtuldugunu-bakan-goktas-anlatti-1110657179.html",
-   "https://anlatilaninotesi.com.tr/20261128/usakta-feci-kaza-duvara-carpan-aracta-astsubay-ve-polis-esi-de-hayatini-kaybetti-1110657833.html"
+   "https://anlatilaninotesi.com.tr/20261128/usakta-feci-kaza-duvara-carpan-aracta-astsubay-ve-polis-esi-de-hayatini-kaybetti-1110657833.html",
+   "https://anlatilaninotesi.com.tr/20261128/ankara---istanbul-arasi-80-dakikaya-dusecek-1110657975.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2302,9 +2303,6 @@
   ]
  },
  "recent_titles": [
-  "fon soruşturmasında kritik gün üç isim saat 1900da konuşacak",
-  "yeraltı dizisinde paşa ve çiğdemin öpüşme sahnesi tepki çekti",
-  "altın fiyatları dip seviyede yatırımcılar dikkat",
   "başkentteki fetö operasyonu 3 firari yakalandı",
   "dolar bir haftanın dibini gördü gözler avrupaya çevrildi",
   "mecliste görüşmeler başladı 22 milyon kişiyi ilgilendiren gss borç affında son durum ne",
@@ -3801,6 +3799,9 @@
   "irak 12 yıldır kapalı türkiye petrol boru hattını açmaya hazırlanıyor",
   "abdullah gül ile ilgili iddialara çarpıcı cevap desteklediği aday erdoğan",
   "istanbul avcılarda aynı noktada yaşanan kazalara mahalleliden tepki",
-  "istanbulda trafikte kavga eden iki sürücüye 183 bin 965 lira ceza"
+  "istanbulda trafikte kavga eden iki sürücüye 183 bin 965 lira ceza",
+  "nereden nereye dedirten görüntü yeşilçam emektarları börekçi açılışında",
+  "şanlıurfada kaçakçılık operasyonu",
+  "ankara  istanbul arası 80 dakikaya düşecek"
  ]
 }
