@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680151-besiktas-taraftarlarina-saldiri-turkiyeden-son-dakika-gurcistan-aciklamasi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680153-merkez-bankasindan-tl-icin-iki-yeni-adim",
    "https://www.haber7.com/guncel/haber/3680154-erzurumda-park-halindeki-otomobil-alev-topuna-dondu",
    "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-ilk-11ler-belli-oldu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680600-cocuklarin-kurtarilma-anlari-yurekleri-isitti-15-kilometrelik-guzergah-sasirtti",
    "https://spor.haber7.com/super-lig/haber/3680601-super-ligde-gunun-ilk-maci-samsunspor-genclerbirligi-canli",
    "https://www.haber7.com/otomobil/haber/3668498-835-bin-tlye-otomobil-geliyor-ulasilabilir-fiyatiyla-cok-konusulacak",
-   "https://www.haber7.com/guncel/haber/3680602-samsunda-egitim-ucagi-kaza-kirima-ugradi-bakanliktan-aciklama-geldi"
+   "https://www.haber7.com/guncel/haber/3680602-samsunda-egitim-ucagi-kaza-kirima-ugradi-bakanliktan-aciklama-geldi",
+   "https://www.haber7.com/dunya/haber/3680604-yemin-ederek-gorevlerine-basladilar-suriyedeki-torende-turk-yapimi-kcr556-detayi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2322,8 +2322,6 @@
   ]
  },
  "recent_titles": [
-  "washingtondan kusursuz silah tüccarlığı f16ların faturası 4 ab ülkesine kesildi",
-  "bakanlıktan 34 ilde dev arsa satışı başlangıç fiyatı 650 bin tl",
   "tokatın 39 tarihi iğne oyası coğrafi işaretle koruma altına alındı",
   "avrupa birliği 2 trilyon euroluk bütçe görüşmelerine başlıyor",
   "suriyeli hakem maça alkollü çıktı iddiası ikinci yarıyı başkası yönetti",
@@ -3821,6 +3819,8 @@
   "835 bin tlye otomobil geliyor ulaşılabilir fiyatıyla çok konuşulacak",
   "istanbul valiliği uyarı yayınladı sağanak yağışa dikkat",
   "samsunda eğitim uçağı kaza kırıma uğradı",
-  "samsunda eğitim uçağı kaza kırıma uğradı bakanlıktan açıklama geldi"
+  "samsunda eğitim uçağı kaza kırıma uğradı bakanlıktan açıklama geldi",
+  "yemin ederek görevlerine başladılar suriyedeki törende türk yapımı kcr556 detayı",
+  "bakan kacır bilişim vadisi ekol 42 yazılım okulu eğitim yolculuğunu sirkecide sürdürecek"
  ]
 }
