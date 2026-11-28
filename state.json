@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/mgk-toplantisi-sonrasi-9-maddelik-aciklama-63143-h1585928",
-   "https://www.ensonhaber.com/kayip-olarak-aranirken-ormanda-cesedi-bulundu-h1585929",
    "https://www.ensonhaber.com/canakkalede-kazada-olen-uzman-cavus-son-yolculuguna-ugurlandi-h1585930",
    "https://www.ensonhaber.com/goz-enfeksiyonu-sandi-gercek-bambaska-cikti-goz-kapaginda-dort-tane-bulundu-h1585931",
    "https://www.ensonhaber.com/aydinda-uzerinde-sentetik-ecza-ile-yakalanan-kadin-tutuklandi-h1585932",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/rusya-moskovaya-yonelen-462-ihadan-123u-dusuruldu-h1586423",
    "https://www.ensonhaber.com/sakaryadaki-pazarda-meyve-sebze-degil-ani-satiliyor-h1586424",
    "https://www.ensonhaber.com/gelibolu-tarihi-alan-baskanligindan-usulsuzluk-iddialarina-iliskin-aciklama-h1586425",
-   "https://www.ensonhaber.com/mansur-yavas-bizim-adaylik-gibi-bir-gundemimiz-yok-h1586426"
+   "https://www.ensonhaber.com/mansur-yavas-bizim-adaylik-gibi-bir-gundemimiz-yok-h1586426",
+   "https://www.ensonhaber.com/boluda-13-kisi-gunubirlik-gezide-kaybolmus-ve-sag-bulunmustu-soru-isaretleri-gundeme-geldi-h1586427",
+   "https://www.ensonhaber.com/erzurumda-korkutan-yangin-alevler-catiya-sicradi-2-saatte-sonduruldu-h1586428"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-canli",
-   "https://spor.haber7.com/besiktas/haber/3680141-besiktasin-yildizlari-geregini-yapti-israilli-futbolcularin-elini-sikmadi",
    "https://www.haber7.com/guncel/haber/3680142-kizilelma-basarisi-turk-dunyasinda-gururla-karsilandi",
    "https://www.haber7.com/egitim/haber/3680143-cocugunuzun-akran-zorbaligina-ugradigini-nasil-anlarsiniz-anne-babalara-ipuclari",
    "https://www.haber7.com/guncel/haber/3680144-fon-sorusturmasinda-liste-aciklamasi-isimler-ne-zaman-ortaya-cikacak",
@@ -1391,7 +1389,9 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680587-roketsan-gozunu-samsuna-cevirdi-340-donumluk-yatirim-hazirligi",
    "https://spor.haber7.com/galatasaray/haber/3680588-burak-elmastan-galatasaray-itiraflari-ve-okan-buruk-sozleri-serefsizlik",
    "https://www.haber7.com/dunya/haber/3680589-turkiye-ile-derin-ittifak-suudi-uzman-munif-amas-el-harbi-yeni-uye-icin-tek-isim-geciyor",
-   "https://www.haber7.com/guncel/haber/3680590-milyonluk-konutlarin-golgesinde-tarim-yapiyor-tek-bir-amaci-var"
+   "https://www.haber7.com/guncel/haber/3680590-milyonluk-konutlarin-golgesinde-tarim-yapiyor-tek-bir-amaci-var",
+   "https://www.haber7.com/dunya/haber/3680591-askeri-helikopter-yere-cakildi-peruda-8-olu",
+   "https://www.haber7.com/siyaset/haber/3680592-numan-kurtulmustan-gurcistana-tepki-amacini-asan-bir-mudahale"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2319,9 +2319,6 @@
   ]
  },
  "recent_titles": [
-  "burcu özberkin ifadesi ortaya çıktı aylık gelirini açıkladı",
-  "zafer partili eryılmazın suizan itham ve iftiraları karşısında gerçekler",
-  "uyuşturucu soruşturmasında gözaltına alınmışlardı ünlü isimlerin ifadeleri ortaya çıktı",
   "serbest piyasada dolar ve euro önceki kapanışın üzerine çıktı",
   "asya şampiyonlar liginde hakem maça alkollü çıktı iddiası",
   "new york belediye başkanı mamdani kira davasını kazandı",
@@ -3818,6 +3815,9 @@
   "milyonluk konutların gölgesinde tarım yapıyor tek bir amacı var",
   "askeri helikopter yere çakıldı peruda 8 ölü",
   "mansur yavaş bizim adaylık gibi bir gündemimiz yok",
-  "boluda 13 kişi günübirlik gezide kaybolmuş ve sağ bulunmuştu soru işaretleri gündeme geldi"
+  "boluda 13 kişi günübirlik gezide kaybolmuş ve sağ bulunmuştu soru işaretleri gündeme geldi",
+  "numan kurtulmuştan gürcistana tepki amacını aşan bir müdahale",
+  "çeşme belediye başkanı lal denizli hakkında işlem başlatıldı",
+  "erzurumda korkutan yangın alevler çatıya sıçradı 2 saatte söndürüldü"
  ]
 }
