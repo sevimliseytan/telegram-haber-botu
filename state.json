@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktas-galatasaray-mac-biletleri-ne-zaman-satisa-cikacak-bjk-gs-derbi-bilet-fiyatlari-h1585856",
    "https://www.ensonhaber.com/bursada-sokakta-tartistiklari-kisiyi-tabancayla-vuran-2-supheli-gozaltina-alindi-h1585857",
    "https://www.ensonhaber.com/alina-boz-annesiyle-paylasim-yapti-h1585858",
    "https://www.ensonhaber.com/konyada-cesmeden-su-almak-isteyen-70-yasindaki-kadin-bicaklandi-h1585859",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/survivor-2027-halk-oylamasi-nasil-yapilacak-secmelerin-yayin-saati-belli-oldu-h1586351",
    "https://www.ensonhaber.com/bursada-evinden-tufekle-ates-acan-supheli-tutuklandi-h1586352",
    "https://www.ensonhaber.com/antetokounmponun-23-ribauntluk-kariyer-rekoruyla-heat-knicksi-yendi-h1586353",
-   "https://www.ensonhaber.com/irandan-abd-israil-aleyhine-241-iddianame-ceza-mahkemelerine-gonderildi-h1586354"
+   "https://www.ensonhaber.com/irandan-abd-israil-aleyhine-241-iddianame-ceza-mahkemelerine-gonderildi-h1586354",
+   "https://www.ensonhaber.com/ankarada-uyusturucu-ve-fuhus-sorusturmasinda-22-tutuklama-h1586355"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680076-son-dakikakuveyt-iranin-duzenledigi-saldirida-kritik-tesis-hedef-alindi",
    "https://www.haber7.com/guncel/haber/3680077-bu-devlet-benim-devletim-diyen-chpli-vekilden-cop31-ovgusu",
    "https://spor.haber7.com/super-lig/haber/3680078-anthony-taylor-acikladi-galatasarayin-golunde-ofsayt-var-mi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680075-bakan-bolat-mujdeyi-verdi-ihracatta-2027-icin-65-milyar-liralik-destek-hedefi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680516-54-yillik-arzuhalci-daktiloyu-dunyaya-degismem",
    "https://ekonomi.haber7.com/ekonomi/haber/3680515-tcmb-bir-odeme-kurulusunun-faaliyet-iznini-iptal-etti",
    "https://www.haber7.com/guncel/haber/3680514-11-ildeki-bazi-alanlar-orman-sinirlari-disina-cikarildi",
-   "https://www.haber7.com/dunya/haber/3680517-abd-hava-kuvvetlerine-siber-saldiri"
+   "https://www.haber7.com/dunya/haber/3680517-abd-hava-kuvvetlerine-siber-saldiri",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680518-spk-golden-global-yatirim-bankasinin-faaliyetlerini-durdurdu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2299,11 +2299,6 @@
   ]
  },
  "recent_titles": [
-  "milan skriniar evimizde gibi hissettik",
-  "emre belözoğlu oyunculara güvenmeliyiz",
-  "istanbulda villaya operasyon 536 kök hint keneviri ele geçirildi",
-  "fenerbahçe devler liginde 22 yıl sonra deplasmanda kazandı",
-  "99 yıllık market kapanıyor ünlü müşterileri bile kurtaramadı",
   "aydında uyuşturucu operasyonu 5 tutuklama",
   "israil basınından çelik kubbe itirafı demir kubbeden daha üstün",
   "kayseride uyuşturucu operasyonu yakalanan 20 şüpheliden 19u tutuklandı",
@@ -3798,6 +3793,11 @@
   "antetokounmponun 23 ribauntluk kariyer rekoruyla heat knicksi yendi",
   "irandan abdisrail aleyhine 241 iddianame ceza mahkemelerine gönderildi",
   "ankarada uyuşturucu ve fuhuş soruşturmasında 22 tutuklama",
-  "iran abd ve israile karşı 241 iddianame hazırlandığını duyurdu"
+  "iran abd ve israile karşı 241 iddianame hazırlandığını duyurdu",
+  "spk golden global yatırım bankasının faaliyetlerini durdurdu",
+  "yumurtayı tahtından etti protein şampiyonu seçildi mutlaka tüketin",
+  "küçükçekmecede 5 katlı bina yangınından acı haber ölü sayısı 3e yükseldi",
+  "4te 4 ile rahat bir nefes almışken ülke puanında büyük tehlike bizi bekliyor",
+  "mardinden renkli görüntüler harun şenle yollarda"
  ]
 }
