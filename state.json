@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktas-taraftarindan-filistine-ozgurluk-pankarti-h1585939",
    "https://www.ensonhaber.com/byd-tai-9-tanitildi-direksiyonu-katlanip-konsola-saklanan-ilk-seri-uretim-otomobil-h1585940",
    "https://www.ensonhaber.com/turkiye-ve-suudi-arabistan-arasinda-savunma-sanayisi-alaninda-is-birligi-mutabakati-h1585941",
    "https://www.ensonhaber.com/oguzhan-cakir-ilk-kez-besiktas-galatasaray-derbisinde-duduk-calacak-h1585942",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/vakifbank-kuzeyboruya-set-vermedi-90181-h1586434",
    "https://www.ensonhaber.com/erzurumda-cikan-yanginda-ahsap-catili-yapi-kule-dondu-h1586435",
    "https://www.ensonhaber.com/bodrum-fk-sivasspora-4-atti-h1586436",
-   "https://www.ensonhaber.com/konyada-ciftlige-giren-kurt-koyunu-telef-etti-o-anlar-kamerada-h1586437"
+   "https://www.ensonhaber.com/konyada-ciftlige-giren-kurt-koyunu-telef-etti-o-anlar-kamerada-h1586437",
+   "https://www.ensonhaber.com/universitelerden-yapay-zeka-saglik-ve-teknoloji-alaninda-yenilikci-projeler-h1586438"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3680146-besiktas-hapoel-beer-sheva-macinda-ortalik-karisti",
-   "https://spor.haber7.com/super-lig/haber/3680147-trabzonspor-ve-erzurumspordan-besiktasa-destek-orantisiz-mudahaleyi-siddetle-kiniyoruz",
-   "https://www.haber7.com/guncel/haber/3680148-mhpli-buyukatamandan-turkiyeyi-hedef-alan-yunan-vekile-ayar-cehaletini-ifsa-etti",
    "https://spor.haber7.com/super-lig/haber/3680147-super-lig-ekiplerinden-besiktasa-destek-paylasimlari-orantisiz-mudahaleyi-kiniyoruz",
    "https://spor.haber7.com/besiktas/haber/3680149-ak-parti-sozcusu-omer-celikten-besiktas-taraftarlarina-yapilan-mudahaleye-sert-tepki",
    "https://ekonomi.haber7.com/ekonomi/haber/3680150-kredi-kisitlamalarinin-esnetilmesi-muteahhitlere-umut-oldu",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/siyaset/haber/3680592-numan-kurtulmustan-yeni-partiye-cagri-emeklerini-inkar-etmis-olurlar",
    "https://ekonomi.haber7.com/ekonomi/haber/3680594-gurcistana-turizm-boykotu-turlar-iptal-edildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680595-bakan-isikhandan-toplu-sozlesme-aciklamasi",
-   "https://www.haber7.com/3sayfa/haber/3680596-2-cocuk-annesi-sevgilisi-tarafindan-katledildi-korkunc-detay"
+   "https://www.haber7.com/3sayfa/haber/3680596-2-cocuk-annesi-sevgilisi-tarafindan-katledildi-korkunc-detay",
+   "https://www.haber7.com/dunya/haber/3680597-lubnandan-kritik-karar-israil-isgali-altindaki-bolgelerde-tasinmaz-satisi-yasaklandi",
+   "https://spor.haber7.com/ikinci-lig/haber/3680598-bodrum-fk-deplasmanda-sivassporu-dagitti",
+   "https://www.haber7.com/siyaset/haber/3680599-mansur-yavas-duyurdu-aday-olacak-mi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2289,7 +2289,8 @@
    "https://anlatilaninotesi.com.tr/20261128/avustralyali-guresci-bronson-reed-38-yasinda-hayatini-kaybetti-1110660008.html",
    "https://anlatilaninotesi.com.tr/20261128/70-yasindaki-adam-sadece-sesini-duydugu-kadina-45-milyon-lira-gonderdi-sosyal-medyada-gundem-oldu-1110660353.html",
    "https://anlatilaninotesi.com.tr/20261128/bakan-gurlekten-fon-aciklamasi-kisa-surede-diyerek-duyurdu-1110660656.html",
-   "https://anlatilaninotesi.com.tr/20261128/ayin-yuzeyinin-altinda-dev-tuneller-olabilir-bilim-insanlari-4-olasi-yapi-tespit-etti-1110661051.html"
+   "https://anlatilaninotesi.com.tr/20261128/ayin-yuzeyinin-altinda-dev-tuneller-olabilir-bilim-insanlari-4-olasi-yapi-tespit-etti-1110661051.html",
+   "https://anlatilaninotesi.com.tr/20261128/istanbul-valiligi-saat-vererek-uyardi-6-ilce-icin-alarm-verdi-1110661269.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2321,14 +2322,6 @@
   ]
  },
  "recent_titles": [
-  "dolar ve euroda son durum işte güncel rakamlar",
-  "istanbulda kadınları taciz ettiği suçlamasıyla gözaltına alındı 5 kadın tarafından teşhis edildi",
-  "burdurda iki otomobil kafa kafaya çarpıştı 1 ölü 2si ağır 6 yaralı",
-  "doğal gaz şebekesinde yeni eşik erişim oranı yüzde 97ye fırlıyor",
-  "gıdada kasım ayının zam şampiyonları belli oldu",
-  "sürgündeki katalan lider puigdemont ülkesine dönüyor",
-  "ingilteredeki 38 milyon sterlinlik dolandırıcılık davasında prens andrew detayı",
-  "fenerbahçe taraftarları ile ingilterede görev yapan türk polis arasında gülümseten diyalog",
   "istanbulda yabancı uyruklu kişilerin bıçaklı kavgası kanlı bitti",
   "7 bin plastik şişeyi bir araya getirip karavan yaptılar içinde yok yok",
   "isviçre ve türkiye iş dünyası 20 ekonomi forumunda buluştu",
@@ -3820,6 +3813,14 @@
   "lübnandan kritik karar israil işgali altındaki bölgelerde taşınmaz satışı yasaklandı",
   "bodrum fk deplasmanda sivassporu dağıttı",
   "konyada çiftliğe giren kurt koyunu telef etti o anlar kamerada",
-  "ayın yüzeyinin altında dev tüneller olabilir bilim insanları 4 olası yapı tespit etti"
+  "ayın yüzeyinin altında dev tüneller olabilir bilim insanları 4 olası yapı tespit etti",
+  "mansur yavaş duyurdu aday olacak mı",
+  "çocukların kurtarılma anları yürekleri ısıttı 15 kilometrelik güzergah şaşırttı",
+  "süper ligde günün ilk maçı samsunsporgençlerbirliği  canli",
+  "üniversitelerden yapay zeka sağlık ve teknoloji alanında yenilikçi projeler",
+  "batman petrolspor taraftarlarının gol sevinci gündem oldu",
+  "antalyada ölen ineği için ağlayan kadına yenisi hediye edilecek",
+  "yalı hayatı korkunç demişti derin mermerciden ekmeğe muhtaç kalsam satmam açıklaması",
+  "istanbul valiliği saat vererek uyardı 6 ilçe için alarm verdi"
  ]
 }
