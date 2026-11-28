@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/milli-savunma-bakani-yasar-guler-abdyi-ziyaret-edecek-h1585853",
-   "https://www.ensonhaber.com/azerbaycan-ve-ermenistan-sivil-toplum-temsilcileri-baris-icin-bir-araya-geliyor-h1585854",
-   "https://www.ensonhaber.com/ulkedeki-altin-yataklari-el-degistiriyor-dev-maden-sahasi-satildi-h1585855",
    "https://www.ensonhaber.com/besiktas-galatasaray-mac-biletleri-ne-zaman-satisa-cikacak-bjk-gs-derbi-bilet-fiyatlari-h1585856",
    "https://www.ensonhaber.com/bursada-sokakta-tartistiklari-kisiyi-tabancayla-vuran-2-supheli-gozaltina-alindi-h1585857",
    "https://www.ensonhaber.com/alina-boz-annesiyle-paylasim-yapti-h1585858",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/bursada-50-adrese-es-zamanli-operasyon-bazanin-altinda-yakalandi-h1586348",
    "https://www.ensonhaber.com/borsa-ve-fonlar-geriledi-altin-ibreyi-yukari-cevirdi-h1586349",
    "https://www.ensonhaber.com/murat-kurum-yol-haritamiz-belirlendi-demisti-izmir-korfezinden-66-bin-kamyon-dip-camuru-ci-h1586350",
-   "https://www.ensonhaber.com/survivor-2027-halk-oylamasi-nasil-yapilacak-secmelerin-yayin-saati-belli-oldu-h1586351"
+   "https://www.ensonhaber.com/survivor-2027-halk-oylamasi-nasil-yapilacak-secmelerin-yayin-saati-belli-oldu-h1586351",
+   "https://www.ensonhaber.com/bursada-evinden-tufekle-ates-acan-supheli-tutuklandi-h1586352",
+   "https://www.ensonhaber.com/antetokounmponun-23-ribauntluk-kariyer-rekoruyla-heat-knicksi-yendi-h1586353",
+   "https://www.ensonhaber.com/irandan-abd-israil-aleyhine-241-iddianame-ceza-mahkemelerine-gonderildi-h1586354"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2266,7 +2266,8 @@
    "https://anlatilaninotesi.com.tr/20261128/iran-hurmuz-bogazi-ve-umman-kiyilari-yakinlarinda-2-petrol-tankeri-deniz-mayinina-carpti-1110655810.html",
    "https://anlatilaninotesi.com.tr/20261128/ukraynanin-limanlari-devre-disi-uc-ayda-3-milyar-dolar-kadar-kaybetti-1110655998.html",
    "https://anlatilaninotesi.com.tr/20261128/abdde-2-ucak-taksi-yaptiklari-esnada-carpisti-1110656326.html",
-   "https://anlatilaninotesi.com.tr/20261128/istanbulda-x-corpa-siber-saldiri-iddiasi-4-supheli-gozaltina-alindi-1110656483.html"
+   "https://anlatilaninotesi.com.tr/20261128/istanbulda-x-corpa-siber-saldiri-iddiasi-4-supheli-gozaltina-alindi-1110656483.html",
+   "https://anlatilaninotesi.com.tr/20261128/iran-abd-ve-israile-karsi-241-iddianame-hazirlandigini-duyurdu-1110656687.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2298,9 +2299,6 @@
   ]
  },
  "recent_titles": [
-  "arda turan fenerbahçeyi tebrik ediyorum",
-  "ismail yüksek galibiyeti taraftarımıza armağan ediyorum",
-  "vedat muriqi maçın oyuncusu ödülünü eşi için aldı",
   "milan skriniar evimizde gibi hissettik",
   "emre belözoğlu oyunculara güvenmeliyiz",
   "istanbulda villaya operasyon 536 kök hint keneviri ele geçirildi",
@@ -3797,6 +3795,9 @@
   "abd hava kuvvetlerine siber saldırı",
   "survivor 2027 halk oylaması nasıl yapılacak seçmelerin yayın saati belli oldu",
   "bursada evinden tüfekle ateş açan şüpheli tutuklandı",
-  "antetokounmponun 23 ribauntluk kariyer rekoruyla heat knicksi yendi"
+  "antetokounmponun 23 ribauntluk kariyer rekoruyla heat knicksi yendi",
+  "irandan abdisrail aleyhine 241 iddianame ceza mahkemelerine gönderildi",
+  "ankarada uyuşturucu ve fuhuş soruşturmasında 22 tutuklama",
+  "iran abd ve israile karşı 241 iddianame hazırlandığını duyurdu"
  ]
 }
