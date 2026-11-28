@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktasli-oyunculardan-galibiyet-pozu-h1585995",
    "https://www.ensonhaber.com/istanbul-zeytinburnunda-toprak-kaymasi-4-katli-bina-bosaltildi-h1585996",
    "https://www.ensonhaber.com/vincenzo-italiano-yasananlardan-dolayi-uzgunum-h1585997",
    "https://www.ensonhaber.com/orkun-kokcu-filistin-icin-kazandik-h1585998",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/chpden-asgari-ucret-icin-52-bin-tl-onerisi-temmuz-ayinda-da-zam-yapilmali-h1586490",
    "https://www.ensonhaber.com/alparslan-bayraktar-gabarda-2027de-gunluk-100-bin-varilin-uzerine-cikacagiz-h1586491",
    "https://www.ensonhaber.com/usakta-duvara-carpan-otomobilde-3-kisi-yasamini-yitirdi-h1586492",
-   "https://www.ensonhaber.com/adiyamanda-barajda-kaybolan-gencin-cansiz-bedenine-ulasildi-h1586493"
+   "https://www.ensonhaber.com/adiyamanda-barajda-kaybolan-gencin-cansiz-bedenine-ulasildi-h1586493",
+   "https://www.ensonhaber.com/burhanettin-duran-israil-iletisim-sahasinda-da-hakikat-soykirimi-gerceklestirmeye-calisiyo-h1586494"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680186-bagcilarda-sokak-ortasinda-silahli-saldiri-2-cocuk-yarali",
-   "https://www.haber7.com/guncel/haber/3680187-afaddan-aciklama-ege-denizinde-deprem",
    "https://www.haber7.com/siyaset/haber/3680188-bakan-kurumdan-bela-diyen-vekile-tepki-14-milyon-vatandasimizin-gonlu-kirilmistir",
    "https://ekonomi.haber7.com/ekonomi/haber/3680189-emekliler-icin-kritik-zirve-calismalarda-sona-gelindi-iste-masadaki-rakam",
    "https://www.haber7.com/guncel/haber/3680190-tiktokta-insan-ticareti-skandali",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/kultur/haber/3680642-prof-dr-neslihan-karakus-ile-koklerden-gelecege-turkce",
    "https://www.haber7.com/dunya/haber/3680643-bahreyn-ile-lubnan-arasinda-gerilim-buyukelci-bakanliga-cagrildi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680644-akarsu-parquetry-markuteri-parke-tasarimlariyla-ahsaba-sanatsal-dokunus-katiyor",
-   "https://www.haber7.com/guncel/haber/3680645-turk-f-16lari-romanyada-gorevi-devraldi-724-alarmda-olacaklar"
+   "https://www.haber7.com/guncel/haber/3680645-turk-f-16lari-romanyada-gorevi-devraldi-724-alarmda-olacaklar",
+   "https://spor.haber7.com/super-lig/haber/3680622-gift-orbana-4-dakika-yetti-amed-deplasmanda-kazandi",
+   "https://www.haber7.com/dunya/haber/3680646-trumptan-f-16-pilotuna-en-iyi-savas-ucagi-sorusu-para-verseniz-kabul-etmem"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2331,8 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "istanbula sibirya soğukları geliyor akom tarih verdi sıcaklık 2 dereceye düşecek",
-  "istanbulda oto servisinde dolandırıcılık iddiasına ilişkin yeni görüntüler",
   "demet özdemirin düğün tarzı sırt dekolteli elbisesiyle büyüledi",
   "melissa vargas ikonik smaç pozunu mahkemeye taşıdı",
   "beşiktaşgalatasaray derbisinin hakemi belli oldu",
@@ -3830,6 +3828,8 @@
   "bahreyn ile lübnan arasında gerilim büyükelçi bakanlığa çağrıldı",
   "akarsu parquetry marküteri parke tasarımlarıyla ahşaba sanatsal dokunuş katıyor",
   "türk f16ları romanyada görevi devraldı 724 alarmda olacaklar",
-  "gift orbana 4 dakika yetti amed deplasmanda kazandı"
+  "gift orbana 4 dakika yetti amed deplasmanda kazandı",
+  "trumptan f16 pilotuna en iyi savaş uçağı sorusu para verseniz kabul etmem",
+  "burhanettin duran israil iletişim sahasında da hakikat soykırımı gerçekleştirmeye çalışıyor"
  ]
 }
