@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680168-iletisim-baskani-durandan-apnin-turkiye-libya-mutabakatina-iliskin-kararina-tepki",
-   "https://spor.haber7.com/besiktas/haber/3680170-serdal-adalidan-olayli-gurcistan-gecesi-sonrasi-taraftar-aciklamasi-2-yarali-var",
-   "https://spor.haber7.com/besiktas/haber/3680149-omer-celik-numan-kurtulmus-bakan-bak-besiktasa-buyuk-destek-tum-turkiye-yaninda",
    "https://spor.haber7.com/besiktas/haber/3680171-besiktasin-yildizlari-zaferin-ardindan-konustu-milli-mesele-oldu",
    "https://spor.haber7.com/spor/haber/3680172-besiktastan-beer-sheva-macina-ozel-galibiyet-pozu-filistin-unutulmadi",
    "https://spor.haber7.com/spor/haber/3680173-gurcu-polisinden-buyuk-ikiyuzluluk-israil-bayragini-gormezden-geldiler",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdogan-yunan-mevkidasi-tasulas-ile-gorustu-tereddudumuz-yok",
    "https://spor.haber7.com/spor/haber/3680625-besiktas-maci-fitili-atesledi-filistin-destegi-tum-statlara-yayiliyor",
    "https://spor.haber7.com/fenerbahce/haber/3680627-fenerbahceden-stat-maltepeye-tasinacak-iddialarina-cevap",
-   "https://www.haber7.com/medya/haber/3680628-dunyayi-geziyorum-ilk-kez-ermenistanda"
+   "https://www.haber7.com/medya/haber/3680628-dunyayi-geziyorum-ilk-kez-ermenistanda",
+   "https://www.haber7.com/guncel/haber/3680629-selcuk-bayraktardan-fon-krizi-yorumu-muhakkak-cokuyor-ve-sikinti-yaratiyor",
+   "https://www.haber7.com/guncel/haber/3680630-konya-buyuksehirin-dev-yatirimi-ile-karatayin-6-mahallesi-daha-memba-suyuna-kavustu",
+   "https://www.haber7.com/guncel/haber/3680631-boludaki-kayip-10-cocuk-olayinda-yeni-gelisme-bakanlik-harekete-gecti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2330,7 +2330,6 @@
   ]
  },
  "recent_titles": [
-  "dönemin kaymakamı şimdinin valisinden gördüğü iyiliği unutmadı",
   "fenerbahçenin shakhtar zaferi avrupa basınında",
   "namık tanın oğlu uyuşturucu ve fuhuş soruşturmasında gözaltında",
   "şükrü özyıldız trt ile anlaştı partneri belli oldu",
@@ -3829,6 +3828,7 @@
   "cumhurbaşkanı erdoğan yunan mevkidaşı tasulas ile görüştü tereddüdümüz yok",
   "dünyayı geziyorum ilk kez ermenistanda",
   "selçuk bayraktardan fon krizi yorumu muhakkak çöküyor ve sıkıntı yaratıyor",
-  "konya büyükşehirin dev yatırımı ile karatayın 6 mahallesi daha memba suyuna kavuştu"
+  "konya büyükşehirin dev yatırımı ile karatayın 6 mahallesi daha memba suyuna kavuştu",
+  "boludaki kayıp 10 çocuk olayında yeni gelişme bakanlık harekete geçti"
  ]
 }
