@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/akin-gurlek-fon-sorusturmasindaki-son-durumu-acikladi-h1585966",
    "https://www.ensonhaber.com/turk-taraftarlar-besiktasa-destek-oldu-h1585967",
    "https://www.ensonhaber.com/gurcistan-polisinden-besiktas-taraftarina-olay-mudahale-h1585968",
    "https://www.ensonhaber.com/cumhurbaskani-yardimcisi-yilmaz-secimler-2028-yilinda-yapilacak-h1585969",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/mugladaki-gocmen-kacakciligi-operasyonunda-2-supheli-tutuklandi-h1586461",
    "https://www.ensonhaber.com/sakaryada-devrilen-tirin-icinde-sikisan-surucu-o-anlari-anlatti-h1586462",
    "https://www.ensonhaber.com/kulupler-birliginden-yayin-ihalesi-aciklamasi-98463-h1586463",
-   "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulasi-kabul-etti-h1586464"
+   "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulasi-kabul-etti-h1586464",
+   "https://www.ensonhaber.com/halkbank-fenerbahce-karsisinda-kazandi-19748-h1586465"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi",
-   "https://www.haber7.com/dunya/haber/3680160-venezuelanin-en-buyuk-petrol-rafinerisinde-yangin-isciler-tahliye-edildi",
    "https://www.haber7.com/siyaset/haber/3680161-imamoglu-ekibine-mykda-da-nester-vuruldu-ozgur-ozel-agirligini-koydu",
    "https://spor.haber7.com/spor/haber/3680162-mesut-ozilden-besiktasa-destek-paylasimi",
    "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-besiktas-taraftarina-saldirdi-gozaltilar-var",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/guncel/haber/3680606-kurye-adresi-bulamadigi-icin-kadini-yumruklayarak-bayiltti-iddiasi-iste-dehset-anlari",
    "https://www.haber7.com/guncel/haber/3680609-gurcu-vatandastan-tamazasviliye-sert-tepki-turk-bakana-acikca-yalan-soyledi",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680610-hapoel-beer-shevadan-gurcu-polislere-tesekkur-bu-zulum-de-nefrette-sizin-eseriniz-barkat",
-   "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdoganin-yunan-mevkidasi-tasulas-ile-gorusmesi-basladi"
+   "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdoganin-yunan-mevkidasi-tasulas-ile-gorusmesi-basladi",
+   "https://spor.haber7.com/voleybol/haber/3680611-fenerbahce-de-direnemedi-halkbanktan-8de-8",
+   "https://www.haber7.com/guncel/haber/3680613-31-ilde-ailem-guvende-operasyonu-73-gozalti",
+   "https://spor.haber7.com/super-lig/haber/3680615-kulupler-birligi-yayin-ihalesindeki-hedeflerini-acikladi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2324,8 +2324,6 @@
   ]
  },
  "recent_titles": [
-  "cezayirde korkunç kaza 12 kişi hayatını kaybetti",
-  "yukarıdan bakan göz sanıyor tokatın doğa harikası adalı göl sonbaharda da ilgi görüyor",
   "neuralinkin beyin çipi teknolojisine klinik deneyler için fda onayı",
   "doç dr erdem ilker mutlu abd çok kutuplu dünyayı resmen kabul etti",
   "beşiktaşın 8 saat süren çileli yolculuğu şimdi de batum stadının zemini sorun çıkardı",
@@ -3823,6 +3821,8 @@
   "kulüpler birliğinden yayın ihalesi açıklaması",
   "cumhurbaşkanı erdoğanın yunan mevkidaşı tasulas ile görüşmesi başladı",
   "fenerbahçe de direnemedi halkbanktan 8de 8",
-  "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulasla bir araya geldi"
+  "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulasla bir araya geldi",
+  "kulüpler birliği yayın ihalesindeki hedeflerini açıkladı",
+  "halkbank fenerbahçe karşısında kazandı"
  ]
 }
