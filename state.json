@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3680024-17-milyar-liralik-dev-hamle-turkiyede-bir-ilk-olan-tesis-kocaelide-uretime-gecti",
    "https://www.haber7.com/guncel/haber/3680010-istanbulda-korkunc-kaza-2-kisi-hayatini-kaybetti",
    "https://www.haber7.com/dunya/haber/3680016-ateskes-katliama-engel-olmadi-son-48-saatte-18-sehit",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680025-vedat-muriqi-fenerbahcenin-kasasini-doldurdu",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680456-spkden-553-milyon-liralik-idari-para-cezasi",
    "https://www.haber7.com/guncel/haber/3680457-rapci-lvbel-c5den-skandal-hareket-kibris-sehidimiz-cengiz-topeli-sarkisina-alet-etti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680458-imfden-turkiye-aciklamasi",
-   "https://www.haber7.com/guncel/haber/3680459-boluda-mahsur-kalan-10-kiz-cocugunun-kurtarilma-anlari-ortaya-cikti"
+   "https://www.haber7.com/guncel/haber/3680459-boluda-mahsur-kalan-10-kiz-cocugunun-kurtarilma-anlari-ortaya-cikti",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680460-savas-dev-sirketi-iflasa-surukledi-tum-ucuslar-iptal-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2285,7 +2285,6 @@
   ]
  },
  "recent_titles": [
-  "tarımda yeni sezon yağış bereketiyle başladı son 16 yılın rekoru kırıldı",
   "thomas reisten konferans ligi açıklaması",
   "avrupa şampiyonu havvanur kethüda trabzona döndü",
   "istanbulda hafif ticari aracın çarptığı genç kız 16 günlük yaşam savaşını kaybetti",
@@ -3784,6 +3783,7 @@
   "aksarayda 3 kattan düşen genç ağır yaralandı",
   "boluda kaybolan minibüsün sürücüsü yaşananları anlattı",
   "boluda mahsur kalan 10 kız çocuğunun kurtarılma anları ortaya çıktı",
-  "aydında fünyeyle patlatılan çantadan çocuk bezi çıktı"
+  "aydında fünyeyle patlatılan çantadan çocuk bezi çıktı",
+  "savaş dev şirketi iflasa sürükledi tüm uçuşlar iptal oldu"
  ]
 }
