@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/orkun-kokcunun-sevinc-gozyaslari-h1585991",
    "https://www.ensonhaber.com/a-milli-erkek-basketbol-takimi-italyaya-yenildi-29334-h1585992",
    "https://www.ensonhaber.com/besiktas-baskani-adali-gurcistan-polisinin-orantisiz-guc-uygulamasi-hos-degildi-h1585993",
    "https://www.ensonhaber.com/salih-ozcan-bu-aksam-oynanan-mac-milli-bir-mesele-oldu-h1585994",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/donald-trump-f-16-pilotuna-sordu-dunyanin-en-iyi-savas-ucagi-hangisi-h1586486",
    "https://www.ensonhaber.com/sakarya-merkezli-yasa-disi-bahis-operasyonlari-81-supheli-tutuklandi-h1586487",
    "https://www.ensonhaber.com/boluda-yasanan-olayla-ilgili-sosyal-medya-paylasimlari-hakkinda-sorusturma-h1586488",
-   "https://www.ensonhaber.com/abdde-indirim-gununde-magazalar-onunde-uzun-kuyruklar-olustu-h1586489"
+   "https://www.ensonhaber.com/abdde-indirim-gununde-magazalar-onunde-uzun-kuyruklar-olustu-h1586489",
+   "https://www.ensonhaber.com/chpden-asgari-ucret-icin-52-bin-tl-onerisi-temmuz-ayinda-da-zam-yapilmali-h1586490"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/basketbol/haber/3680179-a-milli-takim-italyaya-kaybetti",
    "https://ekonomi.haber7.com/ekonomi/haber/3680180-bddk-baskanligina-yusuf-kenan-bagir-atandi",
    "https://spor.haber7.com/uefa-konferans-ligi/haber/3680181-thomas-reis-devre-arasinda-cevirebilecegimizi-soyledim",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680182-uefa-avrupa-ligi-ve-konferans-liginde-gecenin-sonuclari",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680636-selcuk-bayraktar-avrupanin-bir-yilda-yaptigi-testi-biz-bir-gunde-yapiyoruz",
    "https://www.haber7.com/dunya/haber/3680637-yuzde-70-indirim-icin-saatlerce-beklediler-abdde-magazalar-dolup-tasti",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680638-super-ligin-3-eski-yildizi-oynadi-deplasmanda-8-yediler",
-   "https://www.haber7.com/guncel/haber/3680639-boluda-tum-turkiyenin-yuregini-agzina-getiren-olayla-ilgili-paylasimlara-sorusturma"
+   "https://www.haber7.com/guncel/haber/3680639-boluda-tum-turkiyenin-yuregini-agzina-getiren-olayla-ilgili-paylasimlara-sorusturma",
+   "https://www.haber7.com/guncel/haber/3680639-boluda-kaybolan-cocuklarla-ilgili-sosyal-medya-paylasimlarina-sorusturma"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2331,8 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "gaziosmanpaşadaki yangında iki çocuğunu kaybeden aile komşular bu binayı yakarım dediğini duymuş",
-  "stephen hawking yıllar önce uyarmıştı insanlık büyük bir hata mı yaptı",
   "tcmbden döviz karşılığı tl swap hamlesi",
   "türkiyeden schengen vizesi için son 6 adım",
   "aziz yıldırım maliyetinden dert yanmıştı ngolo kanteden hayran bırakan performans",
@@ -3830,6 +3828,8 @@
   "boluda yaşanan olayla ilgili sosyal medya paylaşımları hakkında soruşturma",
   "süper ligin 3 eski yıldızı oynadı deplasmanda 8 yediler",
   "abdde indirim gününde mağazalar önünde uzun kuyruklar oluştu",
-  "boluda tüm türkiyenin yüreğini ağzına getiren olayla ilgili paylaşımlara soruşturma"
+  "boluda tüm türkiyenin yüreğini ağzına getiren olayla ilgili paylaşımlara soruşturma",
+  "boluda kaybolan çocuklarla ilgili sosyal medya paylaşımlarına soruşturma",
+  "chpden asgari ücret için 52 bin tl önerisi temmuz ayında da zam yapılmalı"
  ]
 }
