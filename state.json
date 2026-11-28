@@ -253,9 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/ankarada-bir-ailenin-ev-hayali-temelde-kaldi-50-gunde-teslim-sozuyle-700-bin-lira-dolandir-h1585933",
-   "https://www.ensonhaber.com/olmaz-demeyin-kokusuyla-ikna-ediyor-kofte-harcina-tarcin-ilavesi-h1585934",
-   "https://www.ensonhaber.com/amed-sportif-faaliyetler-mbaye-diagne-ile-yollari-ayirdi-h1585935",
    "https://www.ensonhaber.com/rockets-alperen-sengunun-triple-double-yaptigi-macta-sunsi-yendi-h1585936",
    "https://www.ensonhaber.com/ceyhun-kazanci-a-milli-takim-yeniden-ayaga-kalkabilecek-gucte-h1585937",
    "https://www.ensonhaber.com/igdirda-akrabalar-arasinda-bicakli-kavga-1-olu-h1585938",
@@ -752,7 +749,10 @@
    "https://www.ensonhaber.com/erzurumda-korkutan-yangin-alevler-catiya-sicradi-2-saatte-sonduruldu-h1586428",
    "https://www.ensonhaber.com/bilecikte-kadinlardan-mehmetcike-anlamli-destek-h1586429",
    "https://www.ensonhaber.com/hatayda-10-yil-hapisle-aranan-firari-hukumlunun-yakalanma-ani-kamerada-h1586430",
-   "https://www.ensonhaber.com/burak-elmastan-okan-buruk-aciklamasi-paramparca-ederlerdi-h1586431"
+   "https://www.ensonhaber.com/burak-elmastan-okan-buruk-aciklamasi-paramparca-ederlerdi-h1586431",
+   "https://www.ensonhaber.com/antalyada-gogsunden-bicaklandi-agabeyim-yapti-dedikten-sonra-oldu-h1586432",
+   "https://www.ensonhaber.com/hamsi-azaldi-palamut-izgaraya-cikti-rizede-festivalin-yildizi-degisti-h1586433",
+   "https://www.ensonhaber.com/vakifbank-kuzeyboruya-set-vermedi-90181-h1586434"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -1884,7 +1884,8 @@
    "https://www.mynet.com/magazin/lvbel-c5-ten-cengiz-topel-tepkileri-sonrasi-ozur-gecikmedi-sarki-sozlerini-degistirdi-130100607870",
    "https://www.mynet.com/magazin/mustafa-keser-den-48-yillik-esi-nilufer-keser-e-son-veda-tabuta-bakislari-yurek-burktu-130100607873",
    "https://www.mynet.com/magazin/cem-yigit-uzumoglu-rolu-icin-19-kilo-verdi-gulusu-icin-ozel-cozum-130100607876",
-   "https://www.mynet.com/magazin/muammer-ketenci-nin-ajda-pekkan-in-dekolte-sirrini-verdi-neresi-sarkmissa-130100607879"
+   "https://www.mynet.com/magazin/muammer-ketenci-nin-ajda-pekkan-in-dekolte-sirrini-verdi-neresi-sarkmissa-130100607879",
+   "https://www.mynet.com/magazin/dizisi-ani-final-yapmisti-basak-gumulcinelioglu-nun-yeni-adresi-belli-oldu-130100607882"
   ],
   "https://tr.sputniknews.com/export/rss2/archive/index.xml": [
    "https://anlatilaninotesi.com.tr/20261125/abd-istihbarat-kurumlarinin-acik-kaynak-analiz-sistemine-siber-saldiri-1110567443.html",
@@ -2319,10 +2320,6 @@
   ]
  },
  "recent_titles": [
-  "şampiyonlar liginde tarihi derbi ihtimali galatasaray ile fenerbahçe eşleşebilir",
-  "şehitlerimiz son yolculuklarına uğurlanıyor",
-  "cumhurbaşkanı erdoğandan eskişehirde şehit olan askerler için taziye mesajı",
-  "denizlide ekstrem vaka kalın bağırsağında dev tümör görüldü",
   "samandağda trafik kazasında 2 kişi yaralandı",
   "burcu özberk ve deniz çakırın ifadesi ortaya çıktı",
   "deniz çakırın ifadesi ortaya çıktı aylık gelirini açıkladı",
@@ -3818,6 +3815,10 @@
   "bakan işıkhandan toplu sözleşme açıklaması",
   "burak elmastan okan buruk açıklaması paramparça ederlerdi",
   "antalyada göğsünden bıçaklandı ağabeyim yaptı dedikten sonra öldü",
-  "hamsi azaldı palamut ızgaraya çıktı rizede festivalin yıldızı değişti"
+  "hamsi azaldı palamut ızgaraya çıktı rizede festivalin yıldızı değişti",
+  "vakıfbank kuzeyboruya set vermedi",
+  "erzurumda çıkan yangında ahşap çatılı yapı küle döndü",
+  "bodrum fk sivasspora 4 attı",
+  "dizisi ani final yapmıştı başak gümülcinelioğlunun yeni adresi belli oldu"
  ]
 }
