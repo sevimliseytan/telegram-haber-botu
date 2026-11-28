@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3680205-ev-ve-arsa-alacaklar-dikkat-guvenli-odeme-sistemi-icin-tarih-belli-oldu",
    "https://www.haber7.com/saglik/haber/3680206-uzman-isim-acikladi-fibromiyaljide-tedavi-sabir-ve-is-birligi-istiyor",
    "https://www.haber7.com/guncel/haber/3680208-magarada-bircok-kafatasi-bulundu-inceleme-icin-istanbula-gonderildi",
    "https://www.haber7.com/guncel/haber/3680207-helal-yasamin-ticarilesmesi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680654-sehrin-gobeginde-korkunc-olay-tramvay-bekleyen-genc-kadina-kosarak-saldirdi",
    "https://www.haber7.com/guncel/haber/3680655-uyusturucu-testi-belli-olmustu-burcu-ozberkten-ilk-aciklama",
    "https://www.haber7.com/dunya/haber/3680656-abdnin-california-aciklarinda-50-buyuklugunde-deprem-oldu",
-   "https://spor.haber7.com/super-lig/haber/3680657-ust-uste-maglubiyetlerin-ardindan-volkan-demirel-bu-devran-donecek"
+   "https://spor.haber7.com/super-lig/haber/3680657-ust-uste-maglubiyetlerin-ardindan-volkan-demirel-bu-devran-donecek",
+   "https://www.haber7.com/guncel/haber/3680658-boluda-kaybolan-cocuklar-nasil-bulundu-bakan-ciftci-saat-saat-anlatti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2334,7 +2334,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda görüntüsüyle dikkat çeken temizlik personeli gülüm açıklama yaptı",
   "evli olmadığı ortaya çıkan kişi hakkında verilen boşanma kararını yargıtay bozdu",
   "sarımsakların kökünü yakın bakın ne işe yarıyor",
   "fatih belediyesine altın karıncadan iki ödül",
@@ -3833,6 +3832,7 @@
   "meteoroloji 39 il için sarı kodlu uyarı verdi fırtına sağanak ve kar bekleniyor",
   "abdnin california açıklarında 50 büyüklüğünde deprem oldu",
   "üst üste mağlubiyetlerin ardından volkan demirel bu devran dönecek",
-  "ankarada salı gününden itibaren kar yağışı bekleniyor"
+  "ankarada salı gününden itibaren kar yağışı bekleniyor",
+  "boluda kaybolan çocuklar nasıl bulundu bakan çiftçi saat saat anlattı"
  ]
 }
