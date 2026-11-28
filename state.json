@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/tuncer-bakirhan-onumuzdeki-gunlerde-gazeteciler-imraliya-gidebilir-h1585884",
    "https://www.ensonhaber.com/saglikta-dijital-donusum-995-bin-vatandas-hastaneye-gitmeden-rapor-aldi-h1585885",
    "https://www.ensonhaber.com/tpao-chevron-ile-gine-bissauda-iki-deniz-sahasinda-ortaklik-kurdu-h1585886",
    "https://www.ensonhaber.com/yeni-partili-eskisehir-belediyesinden-heykel-onarim-hizmeti-h1585887",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/abd-ordusu-ingilteredeki-askeri-uste-6-ihayi-etkisiz-hale-getirdi-h1586379",
    "https://www.ensonhaber.com/karamanda-otomobille-carpisan-motosikletli-yola-firladi-h1586380",
    "https://www.ensonhaber.com/batmanda-is-yerine-silahli-saldiriya-3-tutuklama-h1586381",
-   "https://www.ensonhaber.com/afganistanda-okul-yakininda-patlama-7-olu-97-yarali-h1586382"
+   "https://www.ensonhaber.com/afganistanda-okul-yakininda-patlama-7-olu-97-yarali-h1586382",
+   "https://www.ensonhaber.com/abdulkadir-uraloglu-duyurdu-turistik-erzurum-kars-bolgesel-treni-biletleri-erisime-aciliyo-h1586383"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680076-kuveytte-kritik-tesise-iha-saldirisi-romadan-aciklama-2-italyan-hayatini-kaybetti",
    "https://www.haber7.com/guncel/haber/3680103-sanliurfada-silahli-kavga-7-yarali",
    "https://spor.haber7.com/super-lig/haber/3680104-derbi-biletleri-satisa-cikiyor-fiyatlar-aciklandi",
    "https://spor.haber7.com/super-lig/haber/3680105-amedde-diagne-defteri-kapandi-ayrilik-resmen-aciklandi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680549-turkiyenin-yukselen-savunma-sanayisi-dost-olmayanlari-dusman-etti-hindistan-yerini-aldi",
    "https://www.haber7.com/yasam/haber/3679657-baliga-rakip-cikti-omega-3u-tavana-cikariyor-kapis-kapis-gidiyor",
    "https://www.haber7.com/guncel/haber/3680550-fatihteki-kuyumcu-soygunu-kamerada",
-   "https://spor.haber7.com/galatasaray/haber/3680551-besiktas-derbisi-oncesi-galatasaraya-buyuk-mujde"
+   "https://spor.haber7.com/galatasaray/haber/3680551-besiktas-derbisi-oncesi-galatasaraya-buyuk-mujde",
+   "https://www.haber7.com/siyaset/haber/3680553-meclis-baskani-kurtulmustan-orta-dogu-mesaji"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2307,10 +2307,6 @@
   ]
  },
  "recent_titles": [
-  "rusya savunma bakanlığı kievdeki savunma sanayisi tesislerine kapsamlı saldırı düzenlendi",
-  "milyonlarca kişinin borcu siliniyor tbmmdeki görüşmeler başladı",
-  "köprü ve otoyollar konusunda kritik rakam bakan uraloğlu 10 milyar doları işaret etti",
-  "yargıtaydan iban mağdurları için önemli karar",
   "muhammet emin akbaşoğlunun hanım sözlerine mecliste sert tepki",
   "kolombiyada 68 kişinin kurtarıldığı rehine operasyonunun görüntüleri",
   "bankalar devrede starbucks satılıyor",
@@ -3806,6 +3802,10 @@
   "fatihteki kuyumcu soygunu kamerada",
   "karamanda otomobille çarpışan motosikletli yola fırladı",
   "batmanda iş yerine silahlı saldırıya 3 tutuklama",
-  "afganistanda okul yakınında patlama 7 ölü 97 yaralı"
+  "afganistanda okul yakınında patlama 7 ölü 97 yaralı",
+  "meclis başkanı kurtulmuştan orta doğu mesajı",
+  "arabanda yağlık zeytin hasadı başladı",
+  "abdulkadir uraloğlu duyurdu turistik erzurumkars bölgesel treni biletleri erişime açılıyor",
+  "afyon belediye yüntaşın oyuncuları ligde kalacaklarına inanıyor"
  ]
 }
