@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680115-disislerinden-apye-libya-mutabakati-yaniti-boyle-bir-yetkiniz-yok",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva",
    "https://www.haber7.com/guncel/haber/3680117-saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama",
    "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-degisim-blogu-harekete-gecti-hepsi-kaldiriliyor",
    "https://www.haber7.com/dunya/haber/3680118-netanyahuya-buyuk-darbe-israilde-sicak-saatler-yeni-meclis-hepsini-kaldiriyor",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/3sayfa/haber/3680561-denizli-merkezli-19-ilde-suc-orgutune-operasyonda-71-tutuklama",
    "https://www.haber7.com/siyaset/haber/3680563-yskdan-secim-aciklamasi-siber-saldiri-senaryolari-olusturuyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3675910-suruculere-uyari-e-devletten-kontrol-edin-yoksa-muayene-edemezsiniz",
-   "https://www.haber7.com/3sayfa/haber/3680564-70-yasindaki-kadini-kulagina-gelen-bicakla-sesi-yuzunden-bicaklamis"
+   "https://www.haber7.com/3sayfa/haber/3680564-70-yasindaki-kadini-kulagina-gelen-bicakla-sesi-yuzunden-bicaklamis",
+   "https://www.haber7.com/yasam/haber/3680565-manisanin-topraklarinda-sakli-kalan-endemik-tur-kesfedildi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680566-vergi-ve-sgk-borclari-yapilandiriliyor-72-ay-vade-imkani"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2311,9 +2311,6 @@
   ]
  },
  "recent_titles": [
-  "rafet el roman 26 yaş küçük sevgilisine aşkını haykırdı",
-  "erzurumda kış vakti tarihi mekanlar beyaz örtü altında mest etti",
-  "erzincanda ayaz etkisini artırdı",
   "ünlülere yönelik uyuşturucu soruşturmasında ceylan kaya tutuklandı",
   "ahmet hakan hayati yazıcının yazılı açıklaması neden kötü",
   "çin ve taylanda geçit yok ticaret bakanlığının 5 yıllık vergi kararı",
@@ -3810,6 +3807,9 @@
   "sürücülere uyarı edevletten kontrol edin yoksa muayene edemezsiniz",
   "70 yaşındaki kadını kulağına gelen bıçakla sesi yüzünden bıçaklamış",
   "manisanın topraklarında saklı kalan endemik tür keşfedildi",
-  "izmirde yaşlı çiftin 75 yıllık aşkı gençlere örnek oluyorlar"
+  "izmirde yaşlı çiftin 75 yıllık aşkı gençlere örnek oluyorlar",
+  "vergi ve sgk borçları yapılandırılıyor 72 ay vade imkanı",
+  "beşiktaşgalatasaray derbisinde 15 futbolcu ilki yaşayabilir",
+  "20 dakikalık yol 5 dakikaya düştü boyabat çevre yolu hizmete açıldı"
  ]
 }
