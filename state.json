@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/samsunda-bogazina-yiyecek-kacan-ogrenciyi-kantin-gorevlisi-kurtardi-h1586002",
    "https://www.ensonhaber.com/ergin-ataman-basketbol-kalitesinden-memnun-degilim-h1586003",
    "https://www.ensonhaber.com/yazarlar/adem-metan/ahlakimiza-ne-oldu",
    "https://www.ensonhaber.com/ibrahim-haciosmanoglu-bebek-katili-bir-ulkenin-takimi-bu-topraklarda-oynayamaz-h1586004",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/meteoroloji-39-il-icin-sari-kodlu-uyari-verdi-firtina-saganak-ve-kar-bekleniyor-h1586497",
    "https://www.ensonhaber.com/ankarada-sali-gununden-itibaren-kar-yagisi-bekleniyor-h1586498",
    "https://www.ensonhaber.com/california-aciklarinda-5-buyuklugunde-deprem-h1586499",
-   "https://www.ensonhaber.com/bursada-iscilerin-yonelik-soylemler-sonrasi-bakanlik-harekete-gecti-h1586500"
+   "https://www.ensonhaber.com/bursada-iscilerin-yonelik-soylemler-sonrasi-bakanlik-harekete-gecti-h1586500",
+   "https://www.ensonhaber.com/binyamin-netanyahu-basbakanlik-israrindan-vazgecti-h1586501"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/saglik/haber/3680206-uzman-isim-acikladi-fibromiyaljide-tedavi-sabir-ve-is-birligi-istiyor",
    "https://www.haber7.com/guncel/haber/3680208-magarada-bircok-kafatasi-bulundu-inceleme-icin-istanbula-gonderildi",
    "https://www.haber7.com/guncel/haber/3680207-helal-yasamin-ticarilesmesi",
    "https://www.haber7.com/guncel/haber/3680210-meteorolojiden-bircok-kent-icin-uyari-hafta-sonuna-dikkat",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680655-uyusturucu-testi-belli-olmustu-burcu-ozberkten-ilk-aciklama",
    "https://www.haber7.com/dunya/haber/3680656-abdnin-california-aciklarinda-50-buyuklugunde-deprem-oldu",
    "https://spor.haber7.com/super-lig/haber/3680657-ust-uste-maglubiyetlerin-ardindan-volkan-demirel-bu-devran-donecek",
-   "https://www.haber7.com/guncel/haber/3680658-boluda-kaybolan-cocuklar-nasil-bulundu-bakan-ciftci-saat-saat-anlatti"
+   "https://www.haber7.com/guncel/haber/3680658-boluda-kaybolan-cocuklar-nasil-bulundu-bakan-ciftci-saat-saat-anlatti",
+   "https://spor.haber7.com/diger-branslar/haber/3680659-turkiyeden-israile-sporda-bir-tokat-daha"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2303,7 +2303,8 @@
    "https://anlatilaninotesi.com.tr/20261128/luganskta-ukraynanin-iha-saldirisinda-3-kisi-hayatini-kaybetti-1110664293.html",
    "https://anlatilaninotesi.com.tr/20261128/netanyahudan-ortak-hukumet-icin-geri-adim-basbakanlik-israrindan-vazgecti-1110664401.html",
    "https://anlatilaninotesi.com.tr/20261128/almanya-kievin-vergi-ve-gumruk-uygulamalari-nedeniyle-ukrayna-ile-iha-anlasmasi-yapmak-istemiyor-1110664620.html",
-   "https://anlatilaninotesi.com.tr/20261128/iran-abdnin-olasi-kara-harekatina-hazir-oldugunu-acikladi-planlarimiz-hazir-1110664758.html"
+   "https://anlatilaninotesi.com.tr/20261128/iran-abdnin-olasi-kara-harekatina-hazir-oldugunu-acikladi-planlarimiz-hazir-1110664758.html",
+   "https://anlatilaninotesi.com.tr/20261128/rusyanin-ankara-buyukelcisi-versinin-rusya-ve-turkiye-yeni-is-birligi-alanlarina-ilgi-duyuyor-1110664908.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2335,10 +2336,6 @@
   ]
  },
  "recent_titles": [
-  "fatih belediyesine altın karıncadan iki ödül",
-  "bağcılarda otomobil kaldırıma çıktı 2 yaya ağır yaralandı",
-  "trumptan jensen huanga af sinyali abdnin nvidiaya ortak olması gündemde",
-  "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı",
   "beşiktaşlıları üzecek gelişme dusan vlahovice aklını çelecek talip çıktı",
   "son dakika ateşkes katliama engel olmadı son 48 saatte 18 şehit",
   "süper ligde 13 hafta maçlarını yönetecek hakemler açıklandı derbide kim düdük çalacak",
@@ -3834,6 +3831,10 @@
   "ankarada salı gününden itibaren kar yağışı bekleniyor",
   "boluda kaybolan çocuklar nasıl bulundu bakan çiftçi saat saat anlattı",
   "iran abdnin olası kara harekatına hazır olduğunu açıkladı planlarımız hazır",
-  "bursada işçilerin yönelik söylemler sonrası bakanlık harekete geçti"
+  "bursada işçilerin yönelik söylemler sonrası bakanlık harekete geçti",
+  "türkiyeden israile sporda bir tokat daha",
+  "binyamin netanyahu başbakanlık ısrarından vazgeçti",
+  "ibrahim yumaklıdan ümit özlaleye yalan ve iftiralarınıza karşı gerçekler şu şekildedir",
+  "rusyanın ankara büyükelçisi verşinin rusya ve türkiye yeni iş birliği alanlarına ilgi duyuyor"
  ]
 }
