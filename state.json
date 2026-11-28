@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680191-abdden-surpriz-karar-resmen-dogrulandi-hava-birligini-lagvetti",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680192-altin-icin-dikkat-ceken-tahmin-bankacilik-devi-tarih-verdi-fiyatlarda-son-durum",
    "https://www.haber7.com/otomobil/haber/3680193-lpgli-arac-sahipleri-dikkat-sartlar-aciklandi-milyonlarca-kisiyi-ilgilendiren-duzenleme",
    "https://www.haber7.com/guncel/haber/3680194-resmi-gazetede-yayimlandi-18-yillik-anlasma-bitti-turkiye-de-vize-isteyecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3680201-kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/dunya/haber/3680646-trumptan-f-16-pilotuna-en-iyi-savas-ucagi-sorusu-para-verseniz-kabul-etmem",
    "https://www.haber7.com/otomobil/haber/3680647-dunyanin-en-degerli-50-otomotiv-sirketi-aciklandi-turkiyeden-2-marka-listede",
    "https://spor.haber7.com/avrupa-ligleri/haber/3680648-manchester-sahasinda-hezimet-yasadi-ligin-dibine-demir-attilar",
-   "https://spor.haber7.com/basketbol/haber/3680649-pota-derbisinde-galatasaray-fenerbahceyi-devirdi"
+   "https://spor.haber7.com/basketbol/haber/3680649-pota-derbisinde-galatasaray-fenerbahceyi-devirdi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680650-kis-hazirliklari-basladi-komurun-tonu-16-20-bin-lira",
+   "https://www.haber7.com/guncel/haber/3680651-bakan-memisoglu-1-uluslararasi-fizyoterapi-ve-rehabilitasyon-kongresine-katildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2333,7 +2333,6 @@
   ]
  },
  "recent_titles": [
-  "16 yıl önce bir hangarda başladı şimdi dünyaya ev satıyor",
   "banka ve aracı kurumların kasım ayı enflasyon beklentisi",
   "elon musktan abddeki her çocuğa ikişer spacex hissesi sözü",
   "aymden imamoğlunun tutukluluğu için hak ihlali başvurusuna ret",
@@ -3832,6 +3831,7 @@
   "dünyanın en değerli 50 otomotiv şirketi açıklandı türkiyeden 2 marka listede",
   "manchester sahasında hezimet yaşadı ligin dibine demir attılar",
   "pota derbisinde galatasaray fenerbahçeyi devirdi",
-  "kış hazırlıkları başladı kömürün tonu 1620 bin lira"
+  "kış hazırlıkları başladı kömürün tonu 1620 bin lira",
+  "bakan memişoğlu 1 uluslararası fizyoterapi ve rehabilitasyon kongresine katıldı"
  ]
 }
