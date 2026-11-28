@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/vincenzo-italiano-yasananlardan-dolayi-uzgunum-h1585997",
    "https://www.ensonhaber.com/orkun-kokcu-filistin-icin-kazandik-h1585998",
    "https://www.ensonhaber.com/kassoum-ouattaradan-paylasim-tum-ezilen-insanlar-icin-h1585999",
    "https://www.ensonhaber.com/istanbul-gaziosmanpasada-185-bin-uyusturucu-hap-ele-gecirildi-2-gozalti-h1586000",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/usakta-duvara-carpan-otomobilde-3-kisi-yasamini-yitirdi-h1586492",
    "https://www.ensonhaber.com/adiyamanda-barajda-kaybolan-gencin-cansiz-bedenine-ulasildi-h1586493",
    "https://www.ensonhaber.com/burhanettin-duran-israil-iletisim-sahasinda-da-hakikat-soykirimi-gerceklestirmeye-calisiyo-h1586494",
-   "https://www.ensonhaber.com/amedspor-deplasmanda-gaziantep-fkyi-2-1-maglup-etti-h1586495"
+   "https://www.ensonhaber.com/amedspor-deplasmanda-gaziantep-fkyi-2-1-maglup-etti-h1586495",
+   "https://www.ensonhaber.com/istanbul-2027-avrupa-oyunlarina-dogru-galata-kulesinde-isik-gosterisi-h1586496"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/otomobil/haber/3680193-lpgli-arac-sahipleri-dikkat-sartlar-aciklandi-milyonlarca-kisiyi-ilgilendiren-duzenleme",
    "https://www.haber7.com/guncel/haber/3680194-resmi-gazetede-yayimlandi-18-yillik-anlasma-bitti-turkiye-de-vize-isteyecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3680201-kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu",
    "https://www.haber7.com/guncel/haber/3680203-ozgur-ozel-terorsuz-turkiye-meselesinde-neden-surekli-zikzak-ciziyor-sorusunun-cevabi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/avrupa-ligleri/haber/3680648-manchester-sahasinda-hezimet-yasadi-ligin-dibine-demir-attilar",
    "https://spor.haber7.com/basketbol/haber/3680649-pota-derbisinde-galatasaray-fenerbahceyi-devirdi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680650-kis-hazirliklari-basladi-komurun-tonu-16-20-bin-lira",
-   "https://www.haber7.com/guncel/haber/3680651-bakan-memisoglu-1-uluslararasi-fizyoterapi-ve-rehabilitasyon-kongresine-katildi"
+   "https://www.haber7.com/guncel/haber/3680651-bakan-memisoglu-1-uluslararasi-fizyoterapi-ve-rehabilitasyon-kongresine-katildi",
+   "https://spor.haber7.com/spor/haber/3680652-istanbul-2027-avrupa-oyunlarina-200-gun-kaldi-galata-kulesinde-isik-gosterisi-yapildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2333,9 +2333,6 @@
   ]
  },
  "recent_titles": [
-  "banka ve aracı kurumların kasım ayı enflasyon beklentisi",
-  "elon musktan abddeki her çocuğa ikişer spacex hissesi sözü",
-  "aymden imamoğlunun tutukluluğu için hak ihlali başvurusuna ret",
   "renault yeniden yapılanmaya gidiyor 1000 kişi işten çıkarılacak",
   "kongo demokratik cumhuriyetinde ebola salgını büyüyor can kaybı 6 bine yaklaştı",
   "aymden ekrem imamoğlunun başvurusuna ret",
@@ -3832,6 +3829,9 @@
   "manchester sahasında hezimet yaşadı ligin dibine demir attılar",
   "pota derbisinde galatasaray fenerbahçeyi devirdi",
   "kış hazırlıkları başladı kömürün tonu 1620 bin lira",
-  "bakan memişoğlu 1 uluslararası fizyoterapi ve rehabilitasyon kongresine katıldı"
+  "bakan memişoğlu 1 uluslararası fizyoterapi ve rehabilitasyon kongresine katıldı",
+  "istanbul 2027 avrupa oyunlarına 200 gün kaldı galata kulesinde ışık gösterisi yapıldı",
+  "seçimi kaybeden netanyahu resmen kabul etti eisenkota bomba teklif",
+  "istanbul 2027 avrupa oyunlarına doğru galata kulesinde ışık gösterisi"
  ]
 }
