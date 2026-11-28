@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/siaka-bakayoko-kasimpasa-maci-oncesi-degerlendirmede-bulundu-h1585956",
    "https://www.ensonhaber.com/dursun-ozbekten-sampiyonlar-ligi-sozleri-h1585957",
    "https://www.ensonhaber.com/besiktas-taraftarlari-sarp-sinir-kapisina-akin-etti-h1585958",
    "https://www.ensonhaber.com/disisleri-bakanligindan-apnin-libya-mutabakat-muhtirasi-hakkindaki-kararina-tepki-h1585959",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/48-yillik-ese-veda-mustafa-keserin-aci-gunu-h1586451",
    "https://www.ensonhaber.com/kayseri-yahyalida-sulama-kanalinda-erkek-cesedi-bulundu-h1586452",
    "https://www.ensonhaber.com/besiktasta-derbi-mesaisi-basladi-56048-h1586453",
-   "https://www.ensonhaber.com/adiyamanda-yem-karma-makinesine-kapilan-cocuk-hayatini-kaybetti-h1586454"
+   "https://www.ensonhaber.com/adiyamanda-yem-karma-makinesine-kapilan-cocuk-hayatini-kaybetti-h1586454",
+   "https://www.ensonhaber.com/amasyada-8-aylik-hamileyken-bebegini-kaybetti-doktora-ihmal-davasi-h1586455"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/yerel-secim/haber/3680157-esenler-belediyesinin-yapay-zeka-projesine-altin-karinca",
    "https://spor.haber7.com/spor/haber/3680158-bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu",
    "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680607-binancein-kurucusu-zhaodan-guvenlik-ittifaki-onerisi",
    "https://www.haber7.com/guncel/haber/3680608-canakkalede-milyarlik-vurgun-sevgiliye-ask-plakali-arac-yengeye-otel-enisteye",
    "https://www.haber7.com/guncel/haber/3680606-kurye-adresi-bulamadigi-icin-kadini-yumruklayarak-bayiltti-iddiasi-iste-dehset-anlari",
-   "https://www.haber7.com/guncel/haber/3680609-gurcu-vatandastan-tamazasviliye-sert-tepki-turk-bakana-acikca-yalan-soyledi"
+   "https://www.haber7.com/guncel/haber/3680609-gurcu-vatandastan-tamazasviliye-sert-tepki-turk-bakana-acikca-yalan-soyledi",
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680610-hapoel-beer-shevadan-gurcu-polislere-tesekkur-bu-zulum-de-nefrette-sizin-eseriniz-barkat"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2324,8 +2324,6 @@
   ]
  },
  "recent_titles": [
-  "acılı babadan kan donduran miras iddiası yangında 2 çocuk hayatını kaybetmişti",
-  "son dakika mitten casuslara operasyon",
   "polonya cumhurbaşkanlığı sarayı karşısında korkunç olay kendini yaktı",
   "mitten siber casuslara operasyon 2 tutuklama",
   "israilden irana yeni saldırı mesajı abd olmasa da hazırız",
@@ -3823,6 +3821,8 @@
   "beşiktaşta derbi mesaisi başladı",
   "adıyamanda yem karma makinesine kapılan çocuk hayatını kaybetti",
   "gürcü vatandaştan tamazaşviliye sert tepki türk bakana açıkça yalan söyledi",
-  "boşanma davasında istinaf mahkemesi ve yargıtaydan emsal karar çocuğun elde ettiği deliller hukuka uygun bulundu"
+  "boşanma davasında istinaf mahkemesi ve yargıtaydan emsal karar çocuğun elde ettiği deliller hukuka uygun bulundu",
+  "hapoel beer shevadan gürcü polislere teşekkür bu zulüm de nefrette sizin eseriniz barkat",
+  "amasyada 8 aylık hamileyken bebeğini kaybetti doktora ihmal davası"
  ]
 }
