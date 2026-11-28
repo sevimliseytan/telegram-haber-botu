@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/taha-akgul-ve-riza-kayaalp-futbol-oynadi-h1585954",
    "https://www.ensonhaber.com/iran-duyurdu-katar-ve-pakistanin-arabuluculuk-faaliyetleri-suruyor-h1585955",
    "https://www.ensonhaber.com/siaka-bakayoko-kasimpasa-maci-oncesi-degerlendirmede-bulundu-h1585956",
    "https://www.ensonhaber.com/dursun-ozbekten-sampiyonlar-ligi-sozleri-h1585957",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/canakkale-saricaya-olu-kopek-baligi-yavrusu-vurdu-h1586449",
    "https://www.ensonhaber.com/trabzonspor-goztepe-macinin-hazirliklarini-surdurdu-h1586450",
    "https://www.ensonhaber.com/48-yillik-ese-veda-mustafa-keserin-aci-gunu-h1586451",
-   "https://www.ensonhaber.com/kayseri-yahyalida-sulama-kanalinda-erkek-cesedi-bulundu-h1586452"
+   "https://www.ensonhaber.com/kayseri-yahyalida-sulama-kanalinda-erkek-cesedi-bulundu-h1586452",
+   "https://www.ensonhaber.com/besiktasta-derbi-mesaisi-basladi-56048-h1586453"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-cska-sofya-trabzonspor-ilk-11ler-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi",
    "https://www.haber7.com/yerel-secim/haber/3680156-gaziantep-buyuksehir-belediyesinden-eczacilara-ve-memurlara-konut-mujdesi",
    "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-besiktas-taraftarina-saldirdi-yuzlerce-gozalti-var-iddiasi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680602-samsunda-egitim-ucagi-kaza-kirima-ugradi-bakanliktan-aciklama-geldi",
    "https://www.haber7.com/dunya/haber/3680604-yemin-ederek-gorevlerine-basladilar-suriyedeki-torende-turk-yapimi-kcr556-detayi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680603-bakan-kacir-bilisim-vadisi-ekol-42-yazilim-okulu-egitim-yolculugunu-sirkecide-surdurecek",
-   "https://www.haber7.com/guncel/haber/3680605-istanbulda-elektrik-kesintisi-gece-yarisi-baslayacak-saatler-surecek"
+   "https://www.haber7.com/guncel/haber/3680605-istanbulda-elektrik-kesintisi-gece-yarisi-baslayacak-saatler-surecek",
+   "https://www.haber7.com/guncel/haber/3680606-kurye-adresi-bulamadigi-icin-kadini-yumruklayarak-bayiltti-iddiasi-dehset-anlari-kamera"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2323,10 +2323,6 @@
   ]
  },
  "recent_titles": [
-  "abdde federal yargıç trumpın doğuştan vatandaşlığı kısıtlamaya yönelik yeni kararnamelerini durdurdu",
-  "34 ilde 619 arsa satışa çıkıyor istanbulda 650 bin lira isteniyor",
-  "halka arzlarda da vurgun yapmışlar tera ceosu birer birer açıkladı",
-  "istanbulda aracını önüne kırdı tepki gösteren şoföre saldırdı",
   "yeni katlanabilir telefon huawei mate x8 tanıtıldı işte fiyatı ve özellikleri",
   "beşiktaş  hapoel beersheva maçı trt 1de mi saat kaçta başlayacak işte canlı yayın bilgileri",
   "eğitimiş genel sekreteri seher ergin 30 bin öğretmen alımı bizim için müjde değil",
@@ -3822,6 +3818,10 @@
   "çanakkale sarıçaya ölü köpek balığı yavrusu vurdu",
   "trabzonspor göztepe maçının hazırlıklarını sürdürdü",
   "48 yıllık eşe veda mustafa keserin acı günü",
-  "kayseri yahyalıda sulama kanalında erkek cesedi bulundu"
+  "kayseri yahyalıda sulama kanalında erkek cesedi bulundu",
+  "kurye adresi bulamadığı için kadını yumruklayarak bayılttı iddiası dehşet anları kamera",
+  "binancein kurucusu zhaodan güvenlik ittifakı önerisi",
+  "çanakkalede milyarlık vurgun sevgiliye ask plakalı araç yengeye otel enişteye",
+  "beşiktaşta derbi mesaisi başladı"
  ]
 }
