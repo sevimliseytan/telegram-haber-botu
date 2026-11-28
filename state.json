@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982",
-   "https://www.ensonhaber.com/besiktasa-kotu-haber-emirhan-topcu-sakatlandi-h1585983",
    "https://www.ensonhaber.com/istanbul-pendikte-alkollu-surucu-polis-aracina-carpti-2-yarali-h1585984",
    "https://www.ensonhaber.com/icisleri-bakani-mustafa-ciftci-gurcistan-icisleri-bakani-ile-gorustu-h1585985",
    "https://www.ensonhaber.com/karamanda-vincten-dusen-kulubenin-uzerindeki-kisi-agir-yaralandi-h1585986",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/konya-seydisehirde-is-yerine-pompali-tufekle-saldiri-2-tutuklama-h1586477",
    "https://www.ensonhaber.com/samsunspor-genclerbirligine-3-atti-h1586478",
    "https://www.ensonhaber.com/mfonun-kurucu-uyesi-fuat-guner-35-yas-kucuk-sevgilisiyle-el-ele-goruntulendi-h1586479",
-   "https://www.ensonhaber.com/erzurumda-ozel-halk-otobusu-ile-kamyonetin-carpistigi-kazada-5-kisi-yaralandi-h1586480"
+   "https://www.ensonhaber.com/erzurumda-ozel-halk-otobusu-ile-kamyonetin-carpistigi-kazada-5-kisi-yaralandi-h1586480",
+   "https://www.ensonhaber.com/motokurye-siparis-goturdugu-kadini-yumruklayarak-bayiltti-h1586481",
+   "https://www.ensonhaber.com/fenerbahce-duyurdu-maltepedeki-stadyum-projesi-icn-resmi-teklif-almadik-h1586482"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679782-gungoren-vergi-dairesi-mudurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679778-istanbul-7-agir-ceza-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679775-samsun-2-asliye-hukuk-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679772-boyabat-sulh-hukuk-mahkemesi-satis-memurlugu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680620-iranda-sunni-din-adami-suikast",
    "https://spor.haber7.com/super-lig/haber/3680601-samsunspor-genclerbirligini-3-golle-yikti-hayati-galibiyet",
    "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdoganin-yunan-mevkidasi-tasulas-ile-gorustu",
-   "https://spor.haber7.com/ikinci-lig/haber/3680621-bursaspordan-deplasmanda-kritik-kayip-1-ligde-lider-degisebilir"
+   "https://spor.haber7.com/ikinci-lig/haber/3680621-bursaspordan-deplasmanda-kritik-kayip-1-ligde-lider-degisebilir",
+   "https://spor.haber7.com/super-lig/haber/3680622-gaziantep-fk-amed-ilk-11ler-belli-oldu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2296,7 +2296,8 @@
    "https://anlatilaninotesi.com.tr/20261128/abb-baskani-mansur-yavastan-cumhurbaskani-adayligi-aciklamasi-bizim-boyle-bir-gundemimiz-asla-yok-1110662606.html",
    "https://anlatilaninotesi.com.tr/20261128/usta-sanatci-mustafa-keser-esini-son-yolculuguna-ugurladi-sirayi-bozdu-benden-once-gitmemeliydi-1110662770.html",
    "https://anlatilaninotesi.com.tr/20261128/ukrayna-kirim-koprusu-saldirisinda-israil-menseli-hisky-uydu-terminallerini-kullandi-1110662894.html",
-   "https://anlatilaninotesi.com.tr/20261128/bakan-goktas-duyurdu-teftis-baslatildi-1110663398.html"
+   "https://anlatilaninotesi.com.tr/20261128/bakan-goktas-duyurdu-teftis-baslatildi-1110663398.html",
+   "https://anlatilaninotesi.com.tr/20261128/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorustu-1110663499.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2328,10 +2329,6 @@
   ]
  },
  "recent_titles": [
-  "ev hayali kuranlara bakan kurumdan açıklama 6 bin 750 lira taksit 240 ay vade",
-  "istanbulda otomobilin içinde silahla vurulmuş halde ölü bulundu elinde uzun namlulu silah vardı",
-  "ali sami yenin 101 yıllık tarihi cep saati müzayedeye çıkıyor",
-  "gaziantepte öldürdüğü arkadaşının banka hesabına girerek borçlarını ödedi",
   "emlak konut gyo ilk adım ödeme sistemini hayata geçirdi",
   "ankarada uyuşturucu ve fuhuş operasyonu yeni partili ismin oğlu gözaltına alındı",
   "yabancıların istanbuldan sonraki tercihi antalya",
@@ -3827,6 +3824,10 @@
   "mfönün kurucu üyesi fuat güner 35 yaş küçük sevgilisiyle el ele görüntülendi",
   "bakan göktaş duyurdu teftiş başlatıldı",
   "erzurumda özel halk otobüsü ile kamyonetin çarpıştığı kazada 5 kişi yaralandı",
-  "motokurye sipariş götürdüğü kadını yumruklayarak bayılttı"
+  "motokurye sipariş götürdüğü kadını yumruklayarak bayılttı",
+  "gaziantep fkamed ilk 11ler belli oldu",
+  "10 yaşındaki gazinin feci ölümü kolunu yem karma makinesine kaptırdı",
+  "fenerbahçe duyurdu maltepedeki stadyum projesi içn resmi teklif almadık",
+  "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulas ile görüştü"
  ]
 }
