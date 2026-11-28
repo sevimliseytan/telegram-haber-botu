@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/aydinda-almanya-vatandasi-petra-islami-secti-adi-melek-oldu-h1585864",
-   "https://www.ensonhaber.com/derya-ulug-ve-asil-gokun-yas-farki-sasirtti-h1585865",
-   "https://www.ensonhaber.com/galatasaraya-besiktas-derbisi-oncesi-victor-osimhen-gelismesi-h1585866",
-   "https://www.ensonhaber.com/izlanda-aciklarinda-balikci-gemisi-batti-17-denizciden-3u-oldu-h1585867",
    "https://www.ensonhaber.com/eskisehirde-sehit-olan-hava-pilot-albay-mehmet-col-son-yolculuguna-ugurlandi-h1585868",
    "https://www.ensonhaber.com/yeni-suzuki-ignis-tanitildi-artik-tamamen-elektrikli-h1585869",
    "https://www.ensonhaber.com/abnin-en-kritik-zirvesi-basladi-butce-ve-ukrayna-konusu-masada-h1585870",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/dugmeye-basildi-kanalizasyon-suyundan-icme-suyu-uretecekler-h1586359",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorusecek-h1586360",
    "https://www.ensonhaber.com/29-ilde-deas-operasyonu-85-supheli-gozaltinda-h1586361",
-   "https://www.ensonhaber.com/istanbulda-trafikte-cikan-kavgaya-721-bin-246-tl-ceza-h1586362"
+   "https://www.ensonhaber.com/istanbulda-trafikte-cikan-kavgaya-721-bin-246-tl-ceza-h1586362",
+   "https://www.ensonhaber.com/30-ilde-ailem-guvende-operasyonu-70-kisi-gozaltinda-h1586363",
+   "https://www.ensonhaber.com/muhammed-salah-yanlislikla-cska-sofya-otobusune-bindi-h1586364",
+   "https://www.ensonhaber.com/altan-tan-erdogana-yarayacaksa-baris-bile-istemiyorlar-h1586365",
+   "https://www.ensonhaber.com/asgari-ucret-maratonu-icin-geri-sayim-basladi-h1586366"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680090-akdenizde-rus-gemisi-vuruldu-meloniden-cok-net-savas-mesaji",
    "https://www.haber7.com/guncel/haber/3680091-37-yilla-yargilaniyordu-haluk-leventin-kardesi-icin-tahliye-karari",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-gsaray-ve-fbahceden-sampiyonlar-liginde-buyuk-sicrama-haftayi-ilk-18de-kapattilar",
    "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-gozler-yazili-aciklamada",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680532-izledigi-haberden-etkilendi-19-kez-kan-bagisladi",
    "https://www.haber7.com/dunya/haber/3680531-pakistanin-uzay-hamlesine-hindistandan-tepki-turkiyeden-yardim-alacaklari-kesin",
    "https://spor.haber7.com/diger-branslar/haber/3680533-abdullah-kayapinar-avrupa-rekoru-kirarak-dunya-sampiyonu-oldu",
-   "https://www.haber7.com/dunya/haber/3680534-letonyada-dehset-anlari-kamerada-raylarda-kosarken-trenle-burun-buruna-geldi"
+   "https://www.haber7.com/dunya/haber/3680534-letonyada-dehset-anlari-kamerada-raylarda-kosarken-trenle-burun-buruna-geldi",
+   "https://www.haber7.com/siyaset/haber/3680535-yeniden-refah-partili-meclis-uyesi-ve-70-kisi-ak-partiye-katildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2269,7 +2269,8 @@
    "https://anlatilaninotesi.com.tr/20261128/abdde-2-ucak-taksi-yaptiklari-esnada-carpisti-1110656326.html",
    "https://anlatilaninotesi.com.tr/20261128/istanbulda-x-corpa-siber-saldiri-iddiasi-4-supheli-gozaltina-alindi-1110656483.html",
    "https://anlatilaninotesi.com.tr/20261128/iran-abd-ve-israile-karsi-241-iddianame-hazirlandigini-duyurdu-1110656687.html",
-   "https://anlatilaninotesi.com.tr/20261128/arabalarinin-batakliga-saplandigi-ortaya-cikti-10-cocugun-nasil-kurtuldugunu-bakan-goktas-anlatti-1110657179.html"
+   "https://anlatilaninotesi.com.tr/20261128/arabalarinin-batakliga-saplandigi-ortaya-cikti-10-cocugun-nasil-kurtuldugunu-bakan-goktas-anlatti-1110657179.html",
+   "https://anlatilaninotesi.com.tr/20261128/usakta-feci-kaza-duvara-carpan-aracta-astsubay-ve-polis-esi-de-hayatini-kaybetti-1110657833.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2301,10 +2302,6 @@
   ]
  },
  "recent_titles": [
-  "derya uluğ ve asil gök evlendi gelinliğin belden aşağısı beğenilmedi",
-  "şampiyonlar liginde dört galibiyet uefa ülke puanı değişti türkiye kaçıncı sırada",
-  "ters yönden giden otomobil faciaya yol açtı 1 ölü 2si ağır 5 yaralı",
-  "spacexin uzayda veri merkezi kurmasına onay verildi 1 milyon yapay zekalı uydu yörüngeye gönderilecek",
   "fransada lise eylemlerinde yaklaşık 500 öğrenci yaralandı",
   "kayseride zehir tacirlerine operasyon 19 kişi tutuklandı",
   "özgü kayadan derya uluğun düğünü için iddialı seçim",
@@ -3800,6 +3797,10 @@
   "30 ilde ailem güvende operasyonu 70 kişi gözaltında",
   "muhammed salah yanlışlıkla cska sofya otobüsüne bindi",
   "altan tan erdoğana yarayacaksa barış bile istemiyorlar",
-  "yeraltının sultanı sümeyye aydoğan reklam çekimi için hazırlandı"
+  "yeraltının sultanı sümeyye aydoğan reklam çekimi için hazırlandı",
+  "yeniden refah partili meclis üyesi ve 70 kişi ak partiye katıldı",
+  "sürpriz çıkış abdullah gülün desteklediği aday erdoğan",
+  "asgari ücret maratonu için geri sayım başladı",
+  "uşakta feci kaza duvara çarpan araçta astsubay ve polis eşi de hayatını kaybetti"
  ]
 }
