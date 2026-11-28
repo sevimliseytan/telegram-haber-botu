@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/dunya/haber/3680176-fransiz-haber-ajansi-afp-siber-saldiriya-ugradi",
-   "https://spor.haber7.com/besiktas/haber/3680177-besiktas-yendi-haciosmanoglu-israili-hedef-aldi-bebek-katili-bu-topraklarda-oynayamaz",
    "https://www.haber7.com/3sayfa/haber/3680178-sultangazide-beton-mikseri-dehseti-yaya-gecidinde-carptigi-kadin-hayatini-kaybetti",
    "https://spor.haber7.com/uefa-konferans-ligi/haber/3680155-bulgaristanda-firtina-esti-trabzonspor-903te-geri-dondu",
    "https://spor.haber7.com/basketbol/haber/3680179-a-milli-takim-italyaya-kaybetti",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/super-lig/haber/3680622-gaziantep-fk-amed-canli",
    "https://www.haber7.com/medya/haber/3680633-siyasetin-nabzi-baskent-kulisinde-atiyor",
    "https://ekonomi.haber7.com/ekonomi/haber/3680634-gaziantepli-ciftcilere-5-yilda-yuzde-yuz-hibe-215-milyon-litre-mazot-dagitildi",
-   "https://www.haber7.com/yerel-yonetimler/haber/3680635-konyada-106-kilometrelik-dev-hat-acildi-4-mahalle-mavi-tunel-suyuna-kavusuyor"
+   "https://www.haber7.com/yerel-yonetimler/haber/3680635-konyada-106-kilometrelik-dev-hat-acildi-4-mahalle-mavi-tunel-suyuna-kavusuyor",
+   "https://www.haber7.com/guncel/haber/3680636-selcuk-bayraktar-avrupanin-bir-yilda-yaptigi-testi-biz-bir-gunde-yapiyoruz",
+   "https://www.haber7.com/dunya/haber/3680637-yuzde-70-indirim-icin-saatlerce-beklediler-abdde-magazalar-dolup-tasti"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2331,7 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "apartman aidatları için enerji maliyeti uyarısı",
   "whatsapp mesaj zamanlama özelliğini duyurdu işte kullanmanın yolu",
   "emlak konuttan istanbulda 55 bin tlden başlayan taksitlerle ev sahibi olma imkânı",
   "istanbulda tamirciyi darbeden 2 kişi gözaltına alındı",
@@ -3830,6 +3829,7 @@
   "gaziantepli çiftçilere 5 yılda yüzde yüz hibe 215 milyon litre mazot dağıtıldı",
   "konyada 106 kilometrelik dev hat açıldı 4 mahalle mavi tünel suyuna kavuşuyor",
   "selçuk bayraktar avrupanın bir yılda yaptığı testi biz bir günde yapıyoruz",
-  "polyanskiy rusya agit bakanlar konseyinde ukrayna krizinin temel nedenlerini gündeme getirecek"
+  "polyanskiy rusya agit bakanlar konseyinde ukrayna krizinin temel nedenlerini gündeme getirecek",
+  "yüzde 70 indirim için saatlerce beklediler abdde mağazalar dolup taştı"
  ]
 }
