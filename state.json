@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/besiktas/haber/3680166-besiktasin-yildizindan-uefaya-filistin-cevabi-yaptigi-hareket-gundem-oldu",
-   "https://www.haber7.com/guncel/haber/3680167-kubra-yigitbasi-medya-kadin-ve-toplumsal-sorumluluk-panelinde-konustu",
-   "https://www.haber7.com/guncel/haber/3680169-icisleri-bakani-ciftci-ogrencilik-yillarindaki-sozlu-sinav-anilarini-paylasti",
    "https://www.haber7.com/guncel/haber/3680168-iletisim-baskani-durandan-apnin-turkiye-libya-mutabakatina-iliskin-kararina-tepki",
    "https://spor.haber7.com/besiktas/haber/3680170-serdal-adalidan-olayli-gurcistan-gecesi-sonrasi-taraftar-aciklamasi-2-yarali-var",
    "https://spor.haber7.com/besiktas/haber/3680149-omer-celik-numan-kurtulmus-bakan-bak-besiktasa-buyuk-destek-tum-turkiye-yaninda",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/dunya/haber/3680620-iranda-sunni-din-adamina-suikast",
    "https://ekonomi.haber7.com/ekonomi/haber/3680624-izmirde-suya-zam-tartismasi-ak-partiden-yeni-partiye-sert-yanit",
    "https://www.haber7.com/guncel/haber/3680626-izmirde-korkunc-olay-ege-universitesinde-profesore-bicakli-saldiri",
-   "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdogan-yunan-mevkidasi-tasulas-ile-gorustu-tereddudumuz-yok"
+   "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdogan-yunan-mevkidasi-tasulas-ile-gorustu-tereddudumuz-yok",
+   "https://spor.haber7.com/spor/haber/3680625-besiktas-maci-fitili-atesledi-filistin-destegi-tum-statlara-yayiliyor",
+   "https://spor.haber7.com/fenerbahce/haber/3680627-fenerbahceden-stat-maltepeye-tasinacak-iddialarina-cevap",
+   "https://www.haber7.com/medya/haber/3680628-dunyayi-geziyorum-ilk-kez-ermenistanda"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2330,9 +2330,6 @@
   ]
  },
  "recent_titles": [
-  "izmirde biri 2 yıl 8 aydır aranıyordu 3 firari yakalandı",
-  "erzurumda çöp kamyonunun altında can veren kadının eşinden bilirkişi raporuna tepki",
-  "murat kurum tam 106 bin 914 konutumuzun yapımına başladık",
   "dönemin kaymakamı şimdinin valisinden gördüğü iyiliği unutmadı",
   "fenerbahçenin shakhtar zaferi avrupa basınında",
   "namık tanın oğlu uyuşturucu ve fuhuş soruşturmasında gözaltında",
@@ -3829,6 +3826,9 @@
   "beşiktaş maçı fitili ateşledi filistin desteği tüm statlara yayılıyor",
   "fenerbahçeden stat maltepeye taşınacak iddialarına cevap",
   "boluda 10 kız çocuğu ve 3 personelin kaybolduğu olayla ilgili teftiş başlatıldı",
-  "cumhurbaşkanı erdoğan yunan mevkidaşı tasulas ile görüştü tereddüdümüz yok"
+  "cumhurbaşkanı erdoğan yunan mevkidaşı tasulas ile görüştü tereddüdümüz yok",
+  "dünyayı geziyorum ilk kez ermenistanda",
+  "selçuk bayraktardan fon krizi yorumu muhakkak çöküyor ve sıkıntı yaratıyor",
+  "konya büyükşehirin dev yatırımı ile karatayın 6 mahallesi daha memba suyuna kavuştu"
  ]
 }
