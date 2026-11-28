@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/boluda-eczanede-heimlich-manevrasi-kamerada-h1585918",
    "https://www.ensonhaber.com/yok-kayit-hakkini-kullanamayan-ogrencileri-af-kapsamina-aldi-h1585919",
    "https://www.ensonhaber.com/tekirdagda-trafikte-birbirlerine-girdiler-3-kisiye-toplam-640-bin-tl-ceza-h1585920",
    "https://www.ensonhaber.com/sanliurfada-otobus-soforunden-kalbi-duran-yolcuya-kalp-masajiyla-mudahale-h1585921",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/konyada-caddeden-karsiya-gecmeye-calisan-kadina-otomobil-carpti-h1586413",
    "https://www.ensonhaber.com/suriyede-732-subay-yemin-ederek-gorevlerine-basladi-h1586414",
    "https://www.ensonhaber.com/fenerbahceden-erzurumspor-fk-maci-oncesi-taraftara-cagri-h1586415",
-   "https://www.ensonhaber.com/ay-yuzeyinin-altinda-devasa-yeralti-tunelleri-tespit-edildi-h1586416"
+   "https://www.ensonhaber.com/ay-yuzeyinin-altinda-devasa-yeralti-tunelleri-tespit-edildi-h1586416",
+   "https://www.ensonhaber.com/gokceada-ve-bozcaada-hattinda-yarin-yapilacak-feribot-seferleri-iptal-edildi-h1586417"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3680131-turkiyenin-gunes-enerjisi-kurulu-gucunun-yuzde-10u-konyada",
    "https://www.haber7.com/guncel/haber/3680130-yilmazdan-fon-sorusturmasi-cikisi-hastalikli-yapilar-karantinaya-alindi",
    "https://spor.haber7.com/besiktas/haber/3680132-italiano-rotasyon-karari-hakkinda-konustu-oynamayi-hak-etti",
    "https://www.haber7.com/guncel/haber/3680133-bakan-gurlek-acikladi-fon-sorusturmasinda-4536-milyar-tl-tahsil-edildi",
@@ -1391,7 +1390,8 @@
    "https://spor.haber7.com/galatasaray/haber/3680578-okan-buruk-besiktas-derbisinde-gunduz-kilici-gecmek-istiyor",
    "https://www.haber7.com/guncel/haber/3680579-bebegin-anne-karninda-olumune-iliskin-doktora-ihmal-davasi",
    "https://www.haber7.com/guncel/haber/3680580-erzurumda-garsonlarin-yeni-mesai-arkadasi-yapay-zekali-yerli-robot-is-basinda",
-   "https://www.haber7.com/guncel/haber/3680581-sarigulun-fezlekesi-mecliste-yarim-asirlik-ceza-talebi"
+   "https://www.haber7.com/guncel/haber/3680581-sarigulun-fezlekesi-mecliste-yarim-asirlik-ceza-talebi",
+   "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2283,7 +2283,8 @@
    "https://anlatilaninotesi.com.tr/20261128/afganistanda-ortaokul-yakininda-patlama-7-olu-97-yarali-1110659253.html",
    "https://anlatilaninotesi.com.tr/20261128/sarigul-sorusturmasinda-yeni-gelisme-ozgur-ozel-ve-5-vekilin-dosyasi-ankaraya-gonderildi-1110659387.html",
    "https://anlatilaninotesi.com.tr/20261128/ev-sahipleri-dikkat-son-gun-pazartesi-1110659600.html",
-   "https://anlatilaninotesi.com.tr/20261128/bu-duygulari-yasiyorsaniz-dikkat-tembellik-ya-da-sorumsuzluk-mu-yoksa-anhedoni-mi-1110402021.html"
+   "https://anlatilaninotesi.com.tr/20261128/bu-duygulari-yasiyorsaniz-dikkat-tembellik-ya-da-sorumsuzluk-mu-yoksa-anhedoni-mi-1110402021.html",
+   "https://anlatilaninotesi.com.tr/20261128/avustralyali-guresci-bronson-reed-38-yasinda-hayatini-kaybetti-1110660008.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2315,8 +2316,6 @@
   ]
  },
  "recent_titles": [
-  "konyada fuhuş vaadiyle gasp 11 şüpheli tutuklandı",
-  "gazzede eğitim çadırlara taşındı ders yolundaki çocuklar görüntülendi",
   "kütahyada jandarmadan kaçakçılık operasyonu",
   "katlanabilir motorola razr 2027 ortaya çıktı işte özellikleri ve tanıtım tarihi",
   "brent petrolün varili 9506 dolardan işlem görüyor",
@@ -3814,6 +3813,8 @@
   "fenerbahçeden erzurumspor fk maçı öncesi taraftara çağrı",
   "ay yüzeyinin altında devasa yeraltı tünelleri tespit edildi",
   "sarıgülün fezlekesi mecliste yarım asırlık ceza talebi",
-  "cem yiğit üzümoğlu rolü için 19 kilo verdi gülüşü için özel çözüm"
+  "cem yiğit üzümoğlu rolü için 19 kilo verdi gülüşü için özel çözüm",
+  "gökçeada ve bozcaada hattında yarın yapılacak feribot seferleri iptal edildi",
+  "avustralyalı güreşçi bronson reed 38 yaşında hayatını kaybetti"
  ]
 }
