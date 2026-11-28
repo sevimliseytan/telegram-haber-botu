@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680183-atama-kararlari-resmi-gazetede",
    "https://www.haber7.com/dunya/haber/3680184-varsovadan-kritik-mesaj-turkiyenin-tecrubelerinden-yararlanacagiz",
    "https://www.haber7.com/dunya/haber/3680185-4-aday-canli-yayinda-tartisti-secime-gunler-kala-dunyanin-gozu-onunde-yerin-dibine-soktu",
    "https://www.haber7.com/guncel/haber/3680186-bagcilarda-sokak-ortasinda-silahli-saldiri-2-cocuk-yarali",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680639-boluda-kaybolan-cocuklarla-ilgili-sosyal-medya-paylasimlarina-sorusturma",
    "https://spor.haber7.com/galatasaray/haber/3680640-okan-buruk-derbi-11ini-belirledi-dikkat-ceken-osimhen-karari",
    "https://www.haber7.com/guncel/haber/3680641-dolandiricilara-karsi-yeni-donem-basliyor-18-dakikada-devreye-girecek",
-   "https://www.haber7.com/kultur/haber/3680642-prof-dr-neslihan-karakus-ile-koklerden-gelecege-turkce"
+   "https://www.haber7.com/kultur/haber/3680642-prof-dr-neslihan-karakus-ile-koklerden-gelecege-turkce",
+   "https://www.haber7.com/dunya/haber/3680643-bahreyn-ile-lubnan-arasinda-gerilim-buyukelci-bakanliga-cagrildi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2331,7 +2331,6 @@
   ]
  },
  "recent_titles": [
-  "bursada katlettiği eski sevgilisinin son sözlerini söyledi",
   "bir anda parlıyorlar işte en çabuk sinirlenen burçlar",
   "khloe kardashiandan itiraf korede ilk gün yüzümüzün içine ettik",
   "msb kazaların ardından derhal adli ve idari süreçler başlatıldı",
@@ -3830,6 +3829,7 @@
   "dolandırıcılara karşı yeni dönem başlıyor 18 dakikada devreye girecek",
   "prof dr neslihan karakuş ile köklerden geleceğe türkçe",
   "uşakta duvara çarpan otomobilde 3 kişi yaşamını yitirdi",
-  "adıyamanda barajda kaybolan gencin cansız bedenine ulaşıldı"
+  "adıyamanda barajda kaybolan gencin cansız bedenine ulaşıldı",
+  "bahreyn ile lübnan arasında gerilim büyükelçi bakanlığa çağrıldı"
  ]
 }
