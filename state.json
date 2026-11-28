@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/gurcistan-polisinden-besiktas-taraftarina-olay-mudahale-h1585968",
-   "https://www.ensonhaber.com/cumhurbaskani-yardimcisi-yilmaz-secimler-2028-yilinda-yapilacak-h1585969",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-takimi-ile-tokalasmadi-h1585970",
    "https://www.ensonhaber.com/cumhurbaskani-erdogandan-kurra-hafiz-ali-kemal-hut-icin-taziye-mesaji-h1585971",
    "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinda-ortalik-karisti-h1585972",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/kulupler-birliginden-yayin-ihalesi-aciklamasi-98463-h1586463",
    "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulasi-kabul-etti-h1586464",
    "https://www.ensonhaber.com/halkbank-fenerbahce-karsisinda-kazandi-19748-h1586465",
-   "https://www.ensonhaber.com/daltonlar-suc-orgutu-sorusturmasinda-15-kisiye-tutuklama-talebi-h1586466"
+   "https://www.ensonhaber.com/daltonlar-suc-orgutu-sorusturmasinda-15-kisiye-tutuklama-talebi-h1586466",
+   "https://www.ensonhaber.com/gebze-belediyespor-alanya-belediyespora-sans-tanimadi-h1586467",
+   "https://www.ensonhaber.com/icisleri-bakani-duyurdu-su-an-turkiyede-22-milyon-civarinda-suriyeli-var-h1586468"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3680162-mesut-ozilden-besiktasa-destek-paylasimi",
-   "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-besiktas-taraftarina-saldirdi-gozaltilar-var",
    "https://spor.haber7.com/spor/haber/3680163-gurcistanda-skandal-mudahale-besiktas-taraftarina-yumruklu-saldiri",
    "https://www.haber7.com/saglik/haber/3680164-ebola-salgininda-bilanco-agirlasiyor-12-bin-vaka-5-bin-904-olum",
    "https://ekonomi.haber7.com/ekonomi/haber/3680165-reklam-kurulunun-affi-yok-sahte-yetkili-servis-tuzagina-milyonluk-ceza",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/voleybol/haber/3680611-fenerbahce-de-direnemedi-halkbanktan-8de-8",
    "https://www.haber7.com/guncel/haber/3680613-31-ilde-ailem-guvende-operasyonu-73-gozalti",
    "https://spor.haber7.com/super-lig/haber/3680615-kulupler-birligi-yayin-ihalesindeki-hedeflerini-acikladi",
-   "https://www.haber7.com/guncel/haber/3680616-aydinda-sahtecilik-operasyonu-186-milyon-tllik-urun-ele-gecirildi"
+   "https://www.haber7.com/guncel/haber/3680616-aydinda-sahtecilik-operasyonu-186-milyon-tllik-urun-ele-gecirildi",
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680610-hapoel-beer-shevadan-gurcu-polislere-tesekkur-zulum-de-nefret-de-sizin-eseriniz-barkat",
+   "https://www.haber7.com/guncel/haber/3680617-istanbul-icin-pes-pese-firtina-ve-saganak-uyarisi-ruzgarin-hizi-90-kilometreyi-bulacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2293,7 +2293,8 @@
    "https://anlatilaninotesi.com.tr/20261128/istanbul-valiligi-saat-vererek-uyardi-6-ilce-icin-alarm-verdi-1110661269.html",
    "https://anlatilaninotesi.com.tr/20261128/arnavutlukta-binlerce-kisi-sokakta-bagimsizlik-gununde-tansiyon-yukseldi-1110662297.html",
    "https://anlatilaninotesi.com.tr/20261128/bosanma-davasinda-istinaf-mahkemesi-ve-yargitaydan-emsal-karar-cocugun-elde-ettigi-deliller-hukuka-1110662461.html",
-   "https://anlatilaninotesi.com.tr/20261128/abb-baskani-mansur-yavastan-cumhurbaskani-adayligi-aciklamasi-bizim-boyle-bir-gundemimiz-asla-yok-1110662606.html"
+   "https://anlatilaninotesi.com.tr/20261128/abb-baskani-mansur-yavastan-cumhurbaskani-adayligi-aciklamasi-bizim-boyle-bir-gundemimiz-asla-yok-1110662606.html",
+   "https://anlatilaninotesi.com.tr/20261128/usta-sanatci-mustafa-keser-esini-son-yolculuguna-ugurladi-sirayi-bozdu-benden-once-gitmemeliydi-1110662770.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2325,9 +2326,6 @@
   ]
  },
  "recent_titles": [
-  "oto ekspertizden örnek davranış ücret almadan hayat kurtaran tespiti yaptı",
-  "gaziantepte kan donduran olay arkadaşını öldürüp parasıyla borçlarını ödedi iddiası",
-  "amerikan futbolu oyuncusu alshaair maçlarda taktığı bantlara filistinli çocukların adlarını yazıyor",
   "playstation plus aralık 2026 oyunları belli oldu 3 bin tl değerindeki oyunlar ücretsiz",
   "yusuf tekinden öğretmen ataması açıklaması",
   "mehmet nuri ersoy antalyada turizmi yılın 12 ayına yayıyoruz",
@@ -3824,6 +3822,9 @@
   "istanbul için peş peşe fırtına ve sağanak uyarısı rüzgarın hızı 90 kilometreyi bulacak",
   "daltonlar suç örgütü soruşturmasında 15 kişiye tutuklama talebi",
   "gebze belediyespor alanya belediyespora şans tanımadı",
-  "abb başkanı mansur yavaştan cumhurbaşkanı adaylığı açıklaması bizim böyle bir gündemimiz asla yok"
+  "abb başkanı mansur yavaştan cumhurbaşkanı adaylığı açıklaması bizim böyle bir gündemimiz asla yok",
+  "içişleri bakanı duyurdu şu an türkiyede 22 milyon civarında suriyeli var",
+  "trabzonspor gözünü şampiyonluk sezonundaki seriye dikti",
+  "usta sanatçı mustafa keser eşini son yolculuğuna uğurladı sırayı bozdu benden önce gitmemeliydi"
  ]
 }
