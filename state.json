@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/supurgelikleri-surekli-silmekten-kurtaran-yontem-bir-kez-surun-farki-gorun-h1585924",
    "https://www.ensonhaber.com/vucudun-gizli-ihtiyaci-elektrolitli-su-nasil-yapilir-3-malzemeyle-elektrolit-destegi-h1585925",
    "https://www.ensonhaber.com/emlak-vergisinde-son-gun-30-kasim-pazartesi-h1585926",
    "https://www.ensonhaber.com/samsunda-3-cocuk-annesinin-supheli-olumu-kayip-telefonu-araniyor-h1585927",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/abdulkadir-uraloglu-5-dakikaya-dusen-boyabat-gecisiyle-434-milyon-tl-tasarruf-edecegiz-h1586419",
    "https://www.ensonhaber.com/hakan-fidan-filistin-bizim-icin-en-onemli-ahlaki-pusula-h1586420",
    "https://www.ensonhaber.com/gelibolu-tarihi-alan-baskanligindaki-kamu-zarari-sorusturmasinda-yeni-detaylar-h1586421",
-   "https://www.ensonhaber.com/aksarayda-ayrilmak-isteyen-sevgilisini-oldurup-cesediyle-polis-merkezine-gitti-h1586422"
+   "https://www.ensonhaber.com/aksarayda-ayrilmak-isteyen-sevgilisini-oldurup-cesediyle-polis-merkezine-gitti-h1586422",
+   "https://www.ensonhaber.com/rusya-moskovaya-yonelen-462-ihadan-123u-dusuruldu-h1586423"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680138-cumhurbaskani-yardimcisi-yilmazdan-son-dakika-secim-aciklamasi",
-   "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-haddini-asti-filistin-bayragi-acan-taraftara-mudahale",
    "https://spor.haber7.com/galatasaray/haber/3680140-dursun-ozbek-dugmeye-basti-gsaray-devler-liginin-flas-takimi-ile-is-birligi-yapacak",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-canli",
    "https://spor.haber7.com/besiktas/haber/3680141-besiktasin-yildizlari-geregini-yapti-israilli-futbolcularin-elini-sikmadi",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/kitap/haber/3680584-istanbulun-tarihine-isik-tutan-calisma-antikcagdan-xxi-yuzyila-buyuk-istanbul-tarihi",
    "https://www.haber7.com/medya/haber/3680586-asiyede-gercege-yaklasiyor-duyduklari-karsisinda-ne-yapacak",
    "https://www.haber7.com/otomobil/haber/3673817-arabalarda-bir-devir-kapaniyor-100-yillik-parca-tarihe-karisiyor",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680587-roketsan-gozunu-samsuna-cevirdi-340-donumluk-yatirim-hazirligi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680587-roketsan-gozunu-samsuna-cevirdi-340-donumluk-yatirim-hazirligi",
+   "https://spor.haber7.com/galatasaray/haber/3680588-burak-elmastan-galatasaray-itiraflari-ve-okan-buruk-sozleri-serefsizlik",
+   "https://www.haber7.com/dunya/haber/3680589-turkiye-ile-derin-ittifak-suudi-uzman-munif-amas-el-harbi-yeni-uye-icin-tek-isim-geciyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2319,10 +2319,6 @@
   ]
  },
  "recent_titles": [
-  "aynı noktada ikinci kaza fedex uçağı pistten çıktı",
-  "22 milyar tllik operasyon 25 kişi yakalandı",
-  "trump ve rutteden önemli toplantı",
-  "emre belözoğlu tarihe geçti",
   "hatayda konteyner kentten şebeke dağıtım kablosu çaldı tutuklandı",
   "ankara merkezli yasa dışı bahis operasyonu 25 şüpheli yakalandı",
   "türkiyenin doğalgaz şebekesi 250 bin kilometreyi aşacak",
@@ -3818,6 +3814,10 @@
   "roketsan gözünü samsuna çevirdi 340 dönümlük yatırım hazırlığı",
   "burak elmastan galatasaray itirafları ve okan buruk sözleri şerefsizlik",
   "aksarayda ayrılmak isteyen sevgilisini öldürüp cesediyle polis merkezine gitti",
-  "muammer ketencinin ajda pekkanın dekolte sırrını verdi neresi sarkmışsa"
+  "muammer ketencinin ajda pekkanın dekolte sırrını verdi neresi sarkmışsa",
+  "türkiye ile derin ittifak suudi uzman münif amaş elharbi yeni üye için tek isim geçiyor",
+  "rusya moskovaya yönelen 462 ihadan 123ü düşürüldü",
+  "sakaryadaki pazarda meyve sebze değil anı satılıyor",
+  "gelibolu tarihi alan başkanlığından usulsüzlük iddialarına ilişkin açıklama"
  ]
 }
