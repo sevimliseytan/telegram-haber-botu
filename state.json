@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680091-37-yilla-yargilaniyordu-haluk-leventin-kardesi-icin-tahliye-karari",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3679800-gsaray-ve-fbahceden-sampiyonlar-liginde-buyuk-sicrama-haftayi-ilk-18de-kapattilar",
    "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-gozler-yazili-aciklamada",
    "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-9-maddelik-yazili-aciklama",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/dunya/haber/3680531-pakistanin-uzay-hamlesine-hindistandan-tepki-turkiyeden-yardim-alacaklari-kesin",
    "https://spor.haber7.com/diger-branslar/haber/3680533-abdullah-kayapinar-avrupa-rekoru-kirarak-dunya-sampiyonu-oldu",
    "https://www.haber7.com/dunya/haber/3680534-letonyada-dehset-anlari-kamerada-raylarda-kosarken-trenle-burun-buruna-geldi",
-   "https://www.haber7.com/siyaset/haber/3680535-yeniden-refah-partili-meclis-uyesi-ve-70-kisi-ak-partiye-katildi"
+   "https://www.haber7.com/siyaset/haber/3680535-yeniden-refah-partili-meclis-uyesi-ve-70-kisi-ak-partiye-katildi",
+   "https://www.haber7.com/siyaset/haber/3680536-adaylik-iddialarina-carpici-cevap-abdullah-gulun-destekledigi-aday-erdogan"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2302,10 +2302,6 @@
   ]
  },
  "recent_titles": [
-  "fransada lise eylemlerinde yaklaşık 500 öğrenci yaralandı",
-  "kayseride zehir tacirlerine operasyon 19 kişi tutuklandı",
-  "özgü kayadan derya uluğun düğünü için iddialı seçim",
-  "mısırda tanker yangını faciasında can kaybı 31e yükseldi",
   "yılın son mgk toplantısı bugün yapılacak",
   "istanbulda durdurulan otomobilde kalaşnikof çıktı 3 gözaltı",
   "artvinardanuç yolunda heyelan sürücü ölümden döndü",
@@ -3801,6 +3797,10 @@
   "yeniden refah partili meclis üyesi ve 70 kişi ak partiye katıldı",
   "sürpriz çıkış abdullah gülün desteklediği aday erdoğan",
   "asgari ücret maratonu için geri sayım başladı",
-  "uşakta feci kaza duvara çarpan araçta astsubay ve polis eşi de hayatını kaybetti"
+  "uşakta feci kaza duvara çarpan araçta astsubay ve polis eşi de hayatını kaybetti",
+  "adaylık iddialarına çarpıcı cevap abdullah gülün desteklediği aday erdoğan",
+  "turistik erzurumkars bölgesel treni için bilet satışları başlıyor",
+  "c vitaminini evde hazırlamanın püf noktaları feridun kunakla evlerinize sağlıkta",
+  "irak 12 yıldır kapalı türkiye petrol boru hattını açmaya hazırlanıyor"
  ]
 }
