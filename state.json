@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/disisleri-bakani-hakan-fidan-gurcistan-disisleri-bakani-ile-gorustu-h1585980",
    "https://www.ensonhaber.com/besiktastan-olaylar-sonrasi-ilk-aciklama-cumhurbaskanimiza-sukranlarimizi-sunariz-h1585981",
    "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982",
    "https://www.ensonhaber.com/besiktasa-kotu-haber-emirhan-topcu-sakatlandi-h1585983",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/ege-universitesinde-akademisyeni-bicaklayan-saldirgan-tutuklandi-h1586475",
    "https://www.ensonhaber.com/abdulkadir-uraloglu-duyurdu-10-dakika-suren-turkeli-sehir-gecisini-15-dakikaya-dusurduk-h1586476",
    "https://www.ensonhaber.com/konya-seydisehirde-is-yerine-pompali-tufekle-saldiri-2-tutuklama-h1586477",
-   "https://www.ensonhaber.com/samsunspor-genclerbirligine-3-atti-h1586478"
+   "https://www.ensonhaber.com/samsunspor-genclerbirligine-3-atti-h1586478",
+   "https://www.ensonhaber.com/mfonun-kurucu-uyesi-fuat-guner-35-yas-kucuk-sevgilisiyle-el-ele-goruntulendi-h1586479"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679785-elmadag-sulh-hukuk-mahkemesi",
-   "https://www.haber7.com/resmi-ilanlar/haber/3679784-istanbul-12-sulh-hukuk-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679782-gungoren-vergi-dairesi-mudurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679778-istanbul-7-agir-ceza-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679775-samsun-2-asliye-hukuk-mahkemesi",
@@ -1391,7 +1389,9 @@
    "https://spor.haber7.com/spor/haber/3680618-bir-grup-taraftar-okan-buruk-ve-futbolcular-icin-pilav-dagitip-dua-okuttular",
    "https://www.haber7.com/dunya/haber/3680619-cekyadan-abnin-yeni-butce-taslagina-ret",
    "https://www.haber7.com/dunya/haber/3680620-iranda-sunni-din-adami-suikast",
-   "https://spor.haber7.com/super-lig/haber/3680601-samsunspor-genclerbirligini-3-golle-yikti-hayati-galibiyet"
+   "https://spor.haber7.com/super-lig/haber/3680601-samsunspor-genclerbirligini-3-golle-yikti-hayati-galibiyet",
+   "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdoganin-yunan-mevkidasi-tasulas-ile-gorustu",
+   "https://spor.haber7.com/ikinci-lig/haber/3680621-bursaspordan-deplasmanda-kritik-kayip-1-ligde-lider-degisebilir"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2295,7 +2295,8 @@
    "https://anlatilaninotesi.com.tr/20261128/bosanma-davasinda-istinaf-mahkemesi-ve-yargitaydan-emsal-karar-cocugun-elde-ettigi-deliller-hukuka-1110662461.html",
    "https://anlatilaninotesi.com.tr/20261128/abb-baskani-mansur-yavastan-cumhurbaskani-adayligi-aciklamasi-bizim-boyle-bir-gundemimiz-asla-yok-1110662606.html",
    "https://anlatilaninotesi.com.tr/20261128/usta-sanatci-mustafa-keser-esini-son-yolculuguna-ugurladi-sirayi-bozdu-benden-once-gitmemeliydi-1110662770.html",
-   "https://anlatilaninotesi.com.tr/20261128/ukrayna-kirim-koprusu-saldirisinda-israil-menseli-hisky-uydu-terminallerini-kullandi-1110662894.html"
+   "https://anlatilaninotesi.com.tr/20261128/ukrayna-kirim-koprusu-saldirisinda-israil-menseli-hisky-uydu-terminallerini-kullandi-1110662894.html",
+   "https://anlatilaninotesi.com.tr/20261128/bakan-goktas-duyurdu-teftis-baslatildi-1110663398.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2327,9 +2328,6 @@
   ]
  },
  "recent_titles": [
-  "altın ve dolarda dengeleri değiştirecek gelişme kritik tahmin",
-  "tbmm başkanı kurtulmuş sidney uidyi ziyaret etti atatürk anıtına çelenk bıraktı",
-  "arzum onan ülkeyi terk etmek istemedi orkan özkan ile ayrıldı",
   "elazığda işletme gibi çalışan okul bir yıllık cirosu duyanları şaşırttı",
   "rezervlerdeki hareketlilik borsanın seyrini değiştirebilir",
   "ev hayali kuranlara bakan kurumdan açıklama 6 bin 750 lira taksit 240 ay vade",
@@ -3826,6 +3824,9 @@
   "abdulkadir uraloğlu duyurdu 10 dakika süren türkeli şehir geçişini 15 dakikaya düşürdük",
   "konya seydişehirde iş yerine pompalı tüfekle saldırı 2 tutuklama",
   "samsunspor gençlerbirliğini 3 golle yıktı hayati galibiyet",
-  "samsunspor gençlerbirliğine 3 attı"
+  "samsunspor gençlerbirliğine 3 attı",
+  "bursaspordan deplasmanda kritik kayıp 1 ligde lider değişebilir",
+  "mfönün kurucu üyesi fuat güner 35 yaş küçük sevgilisiyle el ele görüntülendi",
+  "bakan göktaş duyurdu teftiş başlatıldı"
  ]
 }
