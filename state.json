@@ -253,10 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/byd-tai-9-tanitildi-direksiyonu-katlanip-konsola-saklanan-ilk-seri-uretim-otomobil-h1585940",
-   "https://www.ensonhaber.com/turkiye-ve-suudi-arabistan-arasinda-savunma-sanayisi-alaninda-is-birligi-mutabakati-h1585941",
-   "https://www.ensonhaber.com/oguzhan-cakir-ilk-kez-besiktas-galatasaray-derbisinde-duduk-calacak-h1585942",
-   "https://www.ensonhaber.com/mersinde-otomobille-carpisan-motosikletin-surucusu-yasamini-yitirdi-h1585943",
    "https://www.ensonhaber.com/genclerbirliginin-transfer-yasagi-kalkti-73520-h1585944",
    "https://www.ensonhaber.com/anadolu-efes-fatts-russell-ile-yollarini-ayirdi-h1585945",
    "https://www.ensonhaber.com/ziraat-bankkart-yacine-louatiyi-transfer-etti-h1585946",
@@ -752,7 +748,11 @@
    "https://www.ensonhaber.com/erzurumda-cikan-yanginda-ahsap-catili-yapi-kule-dondu-h1586435",
    "https://www.ensonhaber.com/bodrum-fk-sivasspora-4-atti-h1586436",
    "https://www.ensonhaber.com/konyada-ciftlige-giren-kurt-koyunu-telef-etti-o-anlar-kamerada-h1586437",
-   "https://www.ensonhaber.com/universitelerden-yapay-zeka-saglik-ve-teknoloji-alaninda-yenilikci-projeler-h1586438"
+   "https://www.ensonhaber.com/universitelerden-yapay-zeka-saglik-ve-teknoloji-alaninda-yenilikci-projeler-h1586438",
+   "https://www.ensonhaber.com/batman-petrolspor-taraftarlarinin-gol-sevinci-gundem-oldu-h1586439",
+   "https://www.ensonhaber.com/antalyada-olen-inegi-icin-aglayan-kadina-yenisi-hediye-edilecek-h1586440",
+   "https://www.ensonhaber.com/yali-hayati-korkunc-demisti-derin-mermerciden-ekmege-muhtac-kalsam-satmam-aciklamasi-h1586441",
+   "https://www.ensonhaber.com/istanbul-valiligi-uyari-yayinladi-saganak-yagisa-dikkat-h1586442"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/super-lig/haber/3680147-super-lig-ekiplerinden-besiktasa-destek-paylasimlari-orantisiz-mudahaleyi-kiniyoruz",
-   "https://spor.haber7.com/besiktas/haber/3680149-ak-parti-sozcusu-omer-celikten-besiktas-taraftarlarina-yapilan-mudahaleye-sert-tepki",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680150-kredi-kisitlamalarinin-esnetilmesi-muteahhitlere-umut-oldu",
    "https://spor.haber7.com/besiktas/haber/3680152-cumhurbaskani-erdogandan-besiktas-baskani-adaliya-telefon",
    "https://www.haber7.com/dunya/haber/3680151-besiktas-taraftarlarina-saldiri-turkiyeden-son-dakika-gurcistan-aciklamasi",
    "https://ekonomi.haber7.com/ekonomi/haber/3680153-merkez-bankasindan-tl-icin-iki-yeni-adim",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/3sayfa/haber/3680596-2-cocuk-annesi-sevgilisi-tarafindan-katledildi-korkunc-detay",
    "https://www.haber7.com/dunya/haber/3680597-lubnandan-kritik-karar-israil-isgali-altindaki-bolgelerde-tasinmaz-satisi-yasaklandi",
    "https://spor.haber7.com/ikinci-lig/haber/3680598-bodrum-fk-deplasmanda-sivassporu-dagitti",
-   "https://www.haber7.com/siyaset/haber/3680599-mansur-yavas-duyurdu-aday-olacak-mi"
+   "https://www.haber7.com/siyaset/haber/3680599-mansur-yavas-duyurdu-aday-olacak-mi",
+   "https://www.haber7.com/guncel/haber/3680600-cocuklarin-kurtarilma-anlari-yurekleri-isitti-15-kilometrelik-guzergah-sasirtti",
+   "https://spor.haber7.com/super-lig/haber/3680601-super-ligde-gunun-ilk-maci-samsunspor-genclerbirligi-canli",
+   "https://www.haber7.com/otomobil/haber/3668498-835-bin-tlye-otomobil-geliyor-ulasilabilir-fiyatiyla-cok-konusulacak"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2322,9 +2322,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda yabancı uyruklu kişilerin bıçaklı kavgası kanlı bitti",
-  "7 bin plastik şişeyi bir araya getirip karavan yaptılar içinde yok yok",
-  "isviçre ve türkiye iş dünyası 20 ekonomi forumunda buluştu",
   "ölçümü amerikanlar yaptı rams parkın desibeli ağızları açık bıraktırdı",
   "washingtondan kusursuz silah tüccarlığı f16ların faturası 4 ab ülkesine kesildi",
   "bakanlıktan 34 ilde dev arsa satışı başlangıç fiyatı 650 bin tl",
@@ -3821,6 +3818,9 @@
   "batman petrolspor taraftarlarının gol sevinci gündem oldu",
   "antalyada ölen ineği için ağlayan kadına yenisi hediye edilecek",
   "yalı hayatı korkunç demişti derin mermerciden ekmeğe muhtaç kalsam satmam açıklaması",
-  "istanbul valiliği saat vererek uyardı 6 ilçe için alarm verdi"
+  "istanbul valiliği saat vererek uyardı 6 ilçe için alarm verdi",
+  "835 bin tlye otomobil geliyor ulaşılabilir fiyatıyla çok konuşulacak",
+  "istanbul valiliği uyarı yayınladı sağanak yağışa dikkat",
+  "samsunda eğitim uçağı kaza kırıma uğradı"
  ]
 }
