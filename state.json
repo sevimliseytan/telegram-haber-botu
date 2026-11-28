@@ -253,11 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktas-hapoel-beer-sheva-macinin-ilk-11leri-h1585961",
-   "https://www.ensonhaber.com/cevdet-yilmaz-fon-odemelerinde-hazineden-tek-kurus-harcanmadi-h1585962",
-   "https://www.ensonhaber.com/akin-gurlekten-fon-sorusturmasi-aciklamasi-sureci-cerrahi-bir-titizlikle-ele-aliyoruz-h1585963",
-   "https://www.ensonhaber.com/turkiye-olimpiyat-ev-sahipligi-vizyonunu-iocye-sundu-h1585964",
-   "https://www.ensonhaber.com/mehmet-simsek-fon-sorusturmasinda-alinan-tedbirleri-siraladi-h1585965",
    "https://www.ensonhaber.com/akin-gurlek-fon-sorusturmasindaki-son-durumu-acikladi-h1585966",
    "https://www.ensonhaber.com/turk-taraftarlar-besiktasa-destek-oldu-h1585967",
    "https://www.ensonhaber.com/gurcistan-polisinden-besiktas-taraftarina-olay-mudahale-h1585968",
@@ -752,7 +747,12 @@
    "https://www.ensonhaber.com/wwe-gurescisi-bronson-reed-38-yasinda-hayatini-kaybetti-h1586456",
    "https://www.ensonhaber.com/karamanda-ne-alirsan-125-lira-izdihami-h1586457",
    "https://www.ensonhaber.com/musta-solunum-yetmezligi-ceken-bebek-icin-ambulans-helikopter-havalandi-h1586458",
-   "https://www.ensonhaber.com/konyada-elektrikli-bisiklet-beton-mikseri-ile-carpisti-1-yarali-h1586459"
+   "https://www.ensonhaber.com/konyada-elektrikli-bisiklet-beton-mikseri-ile-carpisti-1-yarali-h1586459",
+   "https://www.ensonhaber.com/sultanbeyli-belediyespor-sungurlu-belediyesporu-maglup-etti-h1586460",
+   "https://www.ensonhaber.com/mugladaki-gocmen-kacakciligi-operasyonunda-2-supheli-tutuklandi-h1586461",
+   "https://www.ensonhaber.com/sakaryada-devrilen-tirin-icinde-sikisan-surucu-o-anlari-anlatti-h1586462",
+   "https://www.ensonhaber.com/kulupler-birliginden-yayin-ihalesi-aciklamasi-98463-h1586463",
+   "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulasi-kabul-etti-h1586464"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/spor/haber/3680158-bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu",
    "https://www.haber7.com/guncel/haber/3680159-turk-sanat-muzigi-bestecisi-husnu-ustun-hayatini-kaybetti",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-hapoele-gurcistanda-besiktas-tokadi-kartal-uefayi-da-yendi",
    "https://www.haber7.com/dunya/haber/3680160-venezuelanin-en-buyuk-petrol-rafinerisinde-yangin-isciler-tahliye-edildi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680608-canakkalede-milyarlik-vurgun-sevgiliye-ask-plakali-arac-yengeye-otel-enisteye",
    "https://www.haber7.com/guncel/haber/3680606-kurye-adresi-bulamadigi-icin-kadini-yumruklayarak-bayiltti-iddiasi-iste-dehset-anlari",
    "https://www.haber7.com/guncel/haber/3680609-gurcu-vatandastan-tamazasviliye-sert-tepki-turk-bakana-acikca-yalan-soyledi",
-   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680610-hapoel-beer-shevadan-gurcu-polislere-tesekkur-bu-zulum-de-nefrette-sizin-eseriniz-barkat"
+   "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680610-hapoel-beer-shevadan-gurcu-polislere-tesekkur-bu-zulum-de-nefrette-sizin-eseriniz-barkat",
+   "https://www.haber7.com/siyaset/haber/3680612-cumhurbaskani-erdoganin-yunan-mevkidasi-tasulas-ile-gorusmesi-basladi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2324,9 +2324,6 @@
   ]
  },
  "recent_titles": [
-  "rusyadan kieve saldırı iha üretim tesisleri vuruldu",
-  "dolabında sakladığı battaniye servet değerinde çıktı 90 milyon tlye satıldı",
-  "trumpın vatandaşlık kısıtlaması yine yargıdan döndü",
   "cezayirde korkunç kaza 12 kişi hayatını kaybetti",
   "yukarıdan bakan göz sanıyor tokatın doğa harikası adalı göl sonbaharda da ilgi görüyor",
   "neuralinkin beyin çipi teknolojisine klinik deneyler için fda onayı",
@@ -3823,6 +3820,9 @@
   "sultanbeyli belediyespor sungurlu belediyesporu mağlup etti",
   "muğladaki göçmen kaçakçılığı operasyonunda 2 şüpheli tutuklandı",
   "sakaryada devrilen tırın içinde sıkışan sürücü o anları anlattı",
-  "kulüpler birliğinden yayın ihalesi açıklaması"
+  "kulüpler birliğinden yayın ihalesi açıklaması",
+  "cumhurbaşkanı erdoğanın yunan mevkidaşı tasulas ile görüşmesi başladı",
+  "fenerbahçe de direnemedi halkbanktan 8de 8",
+  "cumhurbaşkanı erdoğan yunanistan cumhurbaşkanı tasulasla bir araya geldi"
  ]
 }
