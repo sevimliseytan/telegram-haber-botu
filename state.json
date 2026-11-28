@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/besiktastan-olaylar-sonrasi-ilk-aciklama-cumhurbaskanimiza-sukranlarimizi-sunariz-h1585981",
    "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982",
    "https://www.ensonhaber.com/besiktasa-kotu-haber-emirhan-topcu-sakatlandi-h1585983",
    "https://www.ensonhaber.com/istanbul-pendikte-alkollu-surucu-polis-aracina-carpti-2-yarali-h1585984",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/abdulkadir-uraloglu-duyurdu-10-dakika-suren-turkeli-sehir-gecisini-15-dakikaya-dusurduk-h1586476",
    "https://www.ensonhaber.com/konya-seydisehirde-is-yerine-pompali-tufekle-saldiri-2-tutuklama-h1586477",
    "https://www.ensonhaber.com/samsunspor-genclerbirligine-3-atti-h1586478",
-   "https://www.ensonhaber.com/mfonun-kurucu-uyesi-fuat-guner-35-yas-kucuk-sevgilisiyle-el-ele-goruntulendi-h1586479"
+   "https://www.ensonhaber.com/mfonun-kurucu-uyesi-fuat-guner-35-yas-kucuk-sevgilisiyle-el-ele-goruntulendi-h1586479",
+   "https://www.ensonhaber.com/erzurumda-ozel-halk-otobusu-ile-kamyonetin-carpistigi-kazada-5-kisi-yaralandi-h1586480"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -2328,8 +2328,6 @@
   ]
  },
  "recent_titles": [
-  "elazığda işletme gibi çalışan okul bir yıllık cirosu duyanları şaşırttı",
-  "rezervlerdeki hareketlilik borsanın seyrini değiştirebilir",
   "ev hayali kuranlara bakan kurumdan açıklama 6 bin 750 lira taksit 240 ay vade",
   "istanbulda otomobilin içinde silahla vurulmuş halde ölü bulundu elinde uzun namlulu silah vardı",
   "ali sami yenin 101 yıllık tarihi cep saati müzayedeye çıkıyor",
@@ -3827,6 +3825,8 @@
   "samsunspor gençlerbirliğine 3 attı",
   "bursaspordan deplasmanda kritik kayıp 1 ligde lider değişebilir",
   "mfönün kurucu üyesi fuat güner 35 yaş küçük sevgilisiyle el ele görüntülendi",
-  "bakan göktaş duyurdu teftiş başlatıldı"
+  "bakan göktaş duyurdu teftiş başlatıldı",
+  "erzurumda özel halk otobüsü ile kamyonetin çarpıştığı kazada 5 kişi yaralandı",
+  "motokurye sipariş götürdüğü kadını yumruklayarak bayılttı"
  ]
 }
