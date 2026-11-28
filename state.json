@@ -253,8 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/gurcistanda-besiktas-taraftarlarina-mudahaleye-siyasilerden-tepki-h1585978",
-   "https://www.ensonhaber.com/hapoel-beer-shevaya-karsi-besiktasli-taraftarlar-ya-allah-bismillah-allahu-ekber-h1585979",
    "https://www.ensonhaber.com/disisleri-bakani-hakan-fidan-gurcistan-disisleri-bakani-ile-gorustu-h1585980",
    "https://www.ensonhaber.com/besiktastan-olaylar-sonrasi-ilk-aciklama-cumhurbaskanimiza-sukranlarimizi-sunariz-h1585981",
    "https://www.ensonhaber.com/cbk-mersin-baxi-ferrola-fark-atti-h1585982",
@@ -752,7 +750,9 @@
    "https://www.ensonhaber.com/okan-buruk-besiktas-derbisinde-rekor-pesinde-h1586473",
    "https://www.ensonhaber.com/eskisehirde-iki-grup-arasinda-silahli-kavga-2-yarali-h1586474",
    "https://www.ensonhaber.com/ege-universitesinde-akademisyeni-bicaklayan-saldirgan-tutuklandi-h1586475",
-   "https://www.ensonhaber.com/abdulkadir-uraloglu-duyurdu-10-dakika-suren-turkeli-sehir-gecisini-15-dakikaya-dusurduk-h1586476"
+   "https://www.ensonhaber.com/abdulkadir-uraloglu-duyurdu-10-dakika-suren-turkeli-sehir-gecisini-15-dakikaya-dusurduk-h1586476",
+   "https://www.ensonhaber.com/konya-seydisehirde-is-yerine-pompali-tufekle-saldiri-2-tutuklama-h1586477",
+   "https://www.ensonhaber.com/samsunspor-genclerbirligine-3-atti-h1586478"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/resmi-ilanlar/haber/3679777-sarigazi-vergi-dairesi-mudurlugu",
    "https://www.haber7.com/resmi-ilanlar/haber/3679785-elmadag-sulh-hukuk-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679784-istanbul-12-sulh-hukuk-mahkemesi",
    "https://www.haber7.com/resmi-ilanlar/haber/3679782-gungoren-vergi-dairesi-mudurlugu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680617-istanbul-icin-pes-pese-firtina-ve-saganak-uyarisi-ruzgarin-hizi-90-kilometreyi-bulacak",
    "https://spor.haber7.com/spor/haber/3680618-bir-grup-taraftar-okan-buruk-ve-futbolcular-icin-pilav-dagitip-dua-okuttular",
    "https://www.haber7.com/dunya/haber/3680619-cekyadan-abnin-yeni-butce-taslagina-ret",
-   "https://www.haber7.com/dunya/haber/3680620-iranda-sunni-din-adami-suikast"
+   "https://www.haber7.com/dunya/haber/3680620-iranda-sunni-din-adami-suikast",
+   "https://spor.haber7.com/super-lig/haber/3680601-samsunspor-genclerbirligini-3-golle-yikti-hayati-galibiyet"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2327,8 +2327,6 @@
   ]
  },
  "recent_titles": [
-  "nihat doğan ile ümit özat birbirine girdi tiktokta 3 kuruş için",
-  "2021den sonra yapılan binalara kritik uyarı 2027de denetimler başlayacak",
   "altın ve dolarda dengeleri değiştirecek gelişme kritik tahmin",
   "tbmm başkanı kurtulmuş sidney uidyi ziyaret etti atatürk anıtına çelenk bıraktı",
   "arzum onan ülkeyi terk etmek istemedi orkan özkan ile ayrıldı",
@@ -3826,6 +3824,8 @@
   "ege üniversitesinde akademisyeni bıçaklayan saldırgan tutuklandı",
   "iranda sünni din adamı suikast",
   "abdulkadir uraloğlu duyurdu 10 dakika süren türkeli şehir geçişini 15 dakikaya düşürdük",
-  "konya seydişehirde iş yerine pompalı tüfekle saldırı 2 tutuklama"
+  "konya seydişehirde iş yerine pompalı tüfekle saldırı 2 tutuklama",
+  "samsunspor gençlerbirliğini 3 golle yıktı hayati galibiyet",
+  "samsunspor gençlerbirliğine 3 attı"
  ]
 }
