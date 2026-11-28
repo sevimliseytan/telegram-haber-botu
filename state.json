@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://ekonomi.haber7.com/ekonomi/haber/3680034-ajetten-yurt-disi-ucuslara-yuzde-20-indirim-kampanya-icin-son-tarih-aciklandi",
    "https://www.haber7.com/otomobil/haber/3680036-aman-dikkat-arabasini-2-gunde-bir-calistirmayana-18-bin-lira-masraf-cikacak",
    "https://www.haber7.com/guncel/haber/3680032-eren-kasikcinin-otopsi-raporu-cikti-olum-nedeni-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680038-995-bin-kisinin-saglik-raporu-hastaneye-gitmeden-yenilendi",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680290-sehitlere-hakaret-eden-supheli-tutuklandi",
    "https://www.haber7.com/seyahat/haber/3680467-duzcede-kis-masali-topuk-yaylasi-beyaza-burundu",
    "https://www.haber7.com/siyaset/haber/3680468-chpdeki-anketten-ak-parti-birinci-cikti-yeni-partide-isler-tersine-dondu",
-   "https://www.haber7.com/dunya/haber/3680473-abdden-son-dakika-aciklamasi-artik-bir-donanmalari-yok-uydurulmus-bir-yalan"
+   "https://www.haber7.com/dunya/haber/3680473-abdden-son-dakika-aciklamasi-artik-bir-donanmalari-yok-uydurulmus-bir-yalan",
+   "https://spor.haber7.com/basketbol/haber/3680477-potada-derbi-gunu-galatasaray-fenerbahce"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2290,8 +2290,6 @@
   ]
  },
  "recent_titles": [
-  "yenidoğan çetesi savcısı yavuz enginin yeni adresi belli oldu işte atandığı görev yeri",
-  "ab konseyi ukraynaya 45 milyar avroluk mali yardımı onayladı",
   "üreticilere hasada ara verin çağrısı",
   "mardin 1969 spor nafican yardımcının sakatlığına ilişkin açıklama yaptı",
   "thomas reis konferans ligindeki hedeflerini açıkladı",
@@ -3789,6 +3787,8 @@
   "hapoel beersheva başkanı ömrümde böyle bir nefret görmedim",
   "mfönün fuatı fuat güner davete sevgilisiyle geldi yaş farkı dikkat çekti",
   "abdden son dakika açıklaması artık bir donanmaları yok uydurulmuş bir yalan",
-  "meteorolojiden kuvvetli yağış ve fırtına uyarısı marmarada rüzgarın hızı 90 kilometreye ulaşacak"
+  "meteorolojiden kuvvetli yağış ve fırtına uyarısı marmarada rüzgarın hızı 90 kilometreye ulaşacak",
+  "potada derbi günü galatasarayfenerbahçe",
+  "eğitime adanmış bir ömür muallim mahir iz"
  ]
 }
