@@ -892,11 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-bu-koye-tasinana-1-milyon-lira-verilecek",
-   "https://www.haber7.com/guncel/haber/3679976-turkiye-sehitlerine-veda-ediyor-4-sehirde-son-yolculuklarina-ugurlaniyorlar",
-   "https://www.haber7.com/ulkede-bugun/haber/3680039-turkiyenin-en-karli-noktalari-belli-oldu-ilk-sirada-bu-il-var",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680041-visadan-a-ticaret-donemine-isik-tutan-rapor-tuketicilerin-yuzde-84u-destek-almaya-hazir",
-   "https://spor.haber7.com/sampiyonlar-ligi/haber/3680042-fenerbahce-ve-galatasaray-yuzumuzu-guldurduler-iste-uefa-ulke-puaninda-son-durum",
    "https://www.haber7.com/guncel/haber/3680043-fon-sorusturmasinda-hareketli-dakikalar",
    "https://ekonomi.haber7.com/ekonomi/haber/3680045-adi-aciklanmayan-ulkeden-dev-siparis-izmirli-savunma-sanayii-firmasi-kapa-bildirim-yapti",
    "https://www.haber7.com/guncel/haber/3680044-cumhurbaskani-erdogan-baskanligindaki-kritik-mgk-basladi",
@@ -1391,7 +1386,12 @@
    "https://www.haber7.com/guncel/haber/3680478-egitime-adanmis-bir-omur-muallim-mahir-iz",
    "https://www.haber7.com/guncel/haber/3680479-emeklinin-bitmeyen-gecim-mucadelesi-zamlar-care-olur-mu",
    "https://www.haber7.com/guncel/haber/3680480-islamda-uyaniklik",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680489-borsa-ve-fonlar-geriledi-altin-ibreyi-yukari-cevirdi"
+   "https://ekonomi.haber7.com/ekonomi/haber/3680489-borsa-ve-fonlar-geriledi-altin-ibreyi-yukari-cevirdi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680485-thynin-apex-basarisi-bir-tesaduf-mu",
+   "https://www.haber7.com/3sayfa/haber/3680484-mus-merkezli-5-ilde-tefecilik-operasyonu-27-tutuklama",
+   "https://www.haber7.com/dunya/haber/3680483-istikrar-icin-guc-guc-icin-istikrar",
+   "https://spor.haber7.com/galatasaray/haber/3680486-besiktas-derbisinde-oynayacak-mi-victor-osimhen-icin-karar-verildi",
+   "https://www.haber7.com/guncel/haber/3680488-cok-sayida-hesap-ele-gecirildi-turk-abdli-siyasetciler-ve-sirketler-hedefte"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2262,7 +2262,8 @@
    "https://anlatilaninotesi.com.tr/20261128/meteorolojiden-kuvvetli-yagis-ve-firtina-uyarisi-marmarada-ruzgarin-hizi-90-kilometreye-ulasacak-1110654400.html",
    "https://anlatilaninotesi.com.tr/20261128/rusya-ordusunun-ukraynadaki-askeri-hedefleri-vurdugu-bildirildi-1110655312.html",
    "https://anlatilaninotesi.com.tr/20261128/abdde-sukran-gunu-firtinasinin-bilancosu-agirlasti-elektrik-kesintileri-ve-ulasim-aksakliklari-1110655498.html",
-   "https://anlatilaninotesi.com.tr/20261128/iran-hurmuz-bogazi-ve-umman-kiyilari-yakinlarinda-2-petrol-tankeri-deniz-mayinina-carpti-1110655810.html"
+   "https://anlatilaninotesi.com.tr/20261128/iran-hurmuz-bogazi-ve-umman-kiyilari-yakinlarinda-2-petrol-tankeri-deniz-mayinina-carpti-1110655810.html",
+   "https://anlatilaninotesi.com.tr/20261128/ukraynanin-limanlari-devre-disi-uc-ayda-3-milyar-dolar-kadar-kaybetti-1110655998.html"
   ],
   "http://www.turkiyehaberajansi.com/rss.xml": [
    "https://www.turkiyehaberajansi.com/sehit-polisin-esine-okulda-ogretmenler-gunu-ziyareti/131942/",
@@ -2294,11 +2295,6 @@
   ]
  },
  "recent_titles": [
-  "arap koalisyonu duyurdu husilere ait bir iha imha edildi",
-  "istanbulda otomotiv servisinde 12 bin liralık dolandırıcılık 3 gözaltı",
-  "fon meselesine ilişkin ortak basın toplantısı 3 bakan açıklama yapacak",
-  "abddeki askeri tesiste alarm 45 ton patlayıcı kontrollü şekilde imha edildi",
-  "tel avivde ejderha korkusu israilin müşterileri ayaklandı",
   "arda turan ile emre belözoğlunun mücadelesi tarihe geçti",
   "shakhtar donetskfenerbahçe canli",
   "kushner putin siyaset dünyasının büyük ustası",
@@ -3793,6 +3789,11 @@
   "topraktan külçe altın çıktı patates gibi görüntüsü herkesi şoke etti",
   "enerjide acele kamulaştırma kararları",
   "iran hürmüz boğazı ve umman kıyıları yakınlarında 2 petrol tankeri deniz mayınına çarptı",
-  "ukraynanın limanları devre dışı üç ayda 3 milyar dolar kadar kaybetti"
+  "ukraynanın limanları devre dışı üç ayda 3 milyar dolar kadar kaybetti",
+  "çok sayıda hesap ele geçirildi türk abdli siyasetçiler ve şirketler hedefte",
+  "riba",
+  "atmde paranızı kaptırmayın yeni tuzak açığa çıktı hedef olabilirsiniz",
+  "resmi gazetede yayımlandı vergi yüzde 1 olarak devam edecek",
+  "spk duyurdu 26 fon yeniden işleme açılıyor"
  ]
 }
