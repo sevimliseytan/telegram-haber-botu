@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/aydinda-uzerinde-sentetik-ecza-ile-yakalanan-kadin-tutuklandi-h1585932",
    "https://www.ensonhaber.com/ankarada-bir-ailenin-ev-hayali-temelde-kaldi-50-gunde-teslim-sozuyle-700-bin-lira-dolandir-h1585933",
    "https://www.ensonhaber.com/olmaz-demeyin-kokusuyla-ikna-ediyor-kofte-harcina-tarcin-ilavesi-h1585934",
    "https://www.ensonhaber.com/amed-sportif-faaliyetler-mbaye-diagne-ile-yollari-ayirdi-h1585935",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/boluda-13-kisi-gunubirlik-gezide-kaybolmus-ve-sag-bulunmustu-soru-isaretleri-gundeme-geldi-h1586427",
    "https://www.ensonhaber.com/erzurumda-korkutan-yangin-alevler-catiya-sicradi-2-saatte-sonduruldu-h1586428",
    "https://www.ensonhaber.com/bilecikte-kadinlardan-mehmetcike-anlamli-destek-h1586429",
-   "https://www.ensonhaber.com/hatayda-10-yil-hapisle-aranan-firari-hukumlunun-yakalanma-ani-kamerada-h1586430"
+   "https://www.ensonhaber.com/hatayda-10-yil-hapisle-aranan-firari-hukumlunun-yakalanma-ani-kamerada-h1586430",
+   "https://www.ensonhaber.com/burak-elmastan-okan-buruk-aciklamasi-paramparca-ederlerdi-h1586431"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,8 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680144-fon-sorusturmasinda-liste-aciklamasi-isimler-ne-zaman-ortaya-cikacak",
-   "https://www.haber7.com/guncel/haber/3680080-secimleri-bilen-sirket-yayimladi-son-anket-sonuclarinda-carpici-tablo",
    "https://www.haber7.com/guncel/haber/3680145-bakan-gurlekten-fatma-betul-sayan-kaya-sorusuna-cevap",
    "https://spor.haber7.com/besiktas/haber/3680146-besiktas-hapoel-beer-sheva-macinda-ortalik-karisti",
    "https://spor.haber7.com/super-lig/haber/3680147-trabzonspor-ve-erzurumspordan-besiktasa-destek-orantisiz-mudahaleyi-siddetle-kiniyoruz",
@@ -1391,7 +1389,9 @@
    "https://www.haber7.com/dunya/haber/3680591-askeri-helikopter-yere-cakildi-peruda-8-olu",
    "https://www.haber7.com/siyaset/haber/3680592-numan-kurtulmustan-gurcistana-tepki-amacini-asan-bir-mudahale",
    "https://www.haber7.com/guncel/haber/3680593-cesme-belediye-baskani-lal-denizli-hakkinda-islem-baslatildi",
-   "https://www.haber7.com/siyaset/haber/3680592-numan-kurtulmustan-yeni-partiye-cagri-emeklerini-inkar-etmis-olurlar"
+   "https://www.haber7.com/siyaset/haber/3680592-numan-kurtulmustan-yeni-partiye-cagri-emeklerini-inkar-etmis-olurlar",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680594-gurcistana-turizm-boykotu-turlar-iptal-edildi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680595-bakan-isikhandan-toplu-sozlesme-aciklamasi"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2319,10 +2319,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda feminist yürüyüşünde kahrolsun şeriat yaşasın laiklik sloganı atıldı",
-  "uefanın çifte standardı beşiktaş kafilesine kabusu yaşattı",
-  "nişanlılıkta uyum beklentiler ve gelenekler ülkede hayatta ele alınacak",
-  "ünlü dj burak yeter gözaltına alındı",
   "şampiyonlar liginde tarihi derbi ihtimali galatasaray ile fenerbahçe eşleşebilir",
   "şehitlerimiz son yolculuklarına uğurlanıyor",
   "cumhurbaşkanı erdoğandan eskişehirde şehit olan askerler için taziye mesajı",
@@ -3818,6 +3814,10 @@
   "bilecikte kadınlardan mehmetçike anlamlı destek",
   "numan kurtulmuştan yeni partiye çağrı emeklerini inkar etmiş olurlar",
   "gürcistana turizm boykotu turlar iptal edildi",
-  "hatayda 10 yıl hapisle aranan firari hükümlünün yakalanma anı kamerada"
+  "hatayda 10 yıl hapisle aranan firari hükümlünün yakalanma anı kamerada",
+  "bakan işıkhandan toplu sözleşme açıklaması",
+  "burak elmastan okan buruk açıklaması paramparça ederlerdi",
+  "antalyada göğsünden bıçaklandı ağabeyim yaptı dedikten sonra öldü",
+  "hamsi azaldı palamut ızgaraya çıktı rizede festivalin yıldızı değişti"
  ]
 }
