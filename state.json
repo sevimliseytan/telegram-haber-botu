@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680080-son-secimleri-bilen-sirketin-yayimladigi-yeni-anket-sonuclari-dikkat-cekti",
    "https://www.haber7.com/guncel/haber/3680081-yeni-partili-belediyede-heykel-mesaisi-dedikoducu-kadinlar-yeniden-sokaklarda",
    "https://www.haber7.com/dunya/haber/3680082-fas-ve-israil-anlasti-ortak-askeri-eylem-plani-yapacaklar",
    "https://ekonomi.haber7.com/ekonomi/haber/3680083-kpss-adaylarina-mujde-buro-memuru-aliminda-one-cikan-iller-belli-oldu",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/yasam/haber/3679359-yumurtayi-tahtindan-etti-protein-sampiyonu-secildi-mutlaka-tuketin",
    "https://www.haber7.com/guncel/haber/3680520-kucukcekmecede-5-katli-bina-yanginindan-aci-haber-olu-sayisi-3e-yukseldi",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680519-4te-4-ile-rahat-bir-nefes-almisken-ulke-puaninda-buyuk-tehlike-bizi-bekliyor",
-   "https://www.haber7.com/medya/haber/3680521-mardinden-renkli-goruntuler-harunla-sen-yollarda"
+   "https://www.haber7.com/medya/haber/3680521-mardinden-renkli-goruntuler-harunla-sen-yollarda",
+   "https://www.haber7.com/guncel/haber/3680523-hayali-vurgun-iddiasi-unlu-spikerler-gozaltina-alinmisti-bakin-nasil-fonlamislar"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2299,10 +2299,6 @@
   ]
  },
  "recent_titles": [
-  "israil basınından çelik kubbe itirafı demir kubbeden daha üstün",
-  "kayseride uyuşturucu operasyonu yakalanan 20 şüpheliden 19u tutuklandı",
-  "ingiltere tüm savaş uçaklarını hangarlara taşıdı sebebi şoke etti",
-  "bayern münihten şok mağlubiyet işte gecenin sonuçları",
   "çorumda iki iş yerine tüfekli saldırı",
   "emre belözoğlu kazanarak devam edersek neden olmasın",
   "arda turan acı verici bir tecrübe oldu",
@@ -3798,6 +3794,10 @@
   "küçükçekmecede 5 katlı bina yangınından acı haber ölü sayısı 3e yükseldi",
   "4te 4 ile rahat bir nefes almışken ülke puanında büyük tehlike bizi bekliyor",
   "mardinden renkli görüntüler harun şenle yollarda",
-  "boluda kaybolan 10 çocuk sağ salim bulundu göktaş gözyaşlarına hakim olamadı"
+  "boluda kaybolan 10 çocuk sağ salim bulundu göktaş gözyaşlarına hakim olamadı",
+  "hayali vurgun iddiası ünlü spikerler gözaltına alınmıştı bakın nasıl fonlamışlar",
+  "ihhnın nijerde yetimler için inşa ettiği eğitim kompleksi açıldı",
+  "13 kişinin bulunduğu haberi bakan göktaşı gözyaşlarına boğdu",
+  "linet beşiktaş maçındaki olaylara ilişkin tarafını seçti ben bizden değilim"
  ]
 }
