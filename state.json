@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/istanbulda-feci-olum-yasli-kadin-beton-mikserin-altinda-kaldi-h1585922",
    "https://www.ensonhaber.com/eski-formula-1-sampiyonu-mika-hakkinen-istanbulda-hayranlariyla-bulustu-h1585923",
    "https://www.ensonhaber.com/supurgelikleri-surekli-silmekten-kurtaran-yontem-bir-kez-surun-farki-gorun-h1585924",
    "https://www.ensonhaber.com/vucudun-gizli-ihtiyaci-elektrolitli-su-nasil-yapilir-3-malzemeyle-elektrolit-destegi-h1585925",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/gokceada-ve-bozcaada-hattinda-yarin-yapilacak-feribot-seferleri-iptal-edildi-h1586417",
    "https://www.ensonhaber.com/elazigda-kayip-olarak-aranan-adam-mezarlikta-olu-bulundu-h1586418",
    "https://www.ensonhaber.com/abdulkadir-uraloglu-5-dakikaya-dusen-boyabat-gecisiyle-434-milyon-tl-tasarruf-edecegiz-h1586419",
-   "https://www.ensonhaber.com/hakan-fidan-filistin-bizim-icin-en-onemli-ahlaki-pusula-h1586420"
+   "https://www.ensonhaber.com/hakan-fidan-filistin-bizim-icin-en-onemli-ahlaki-pusula-h1586420",
+   "https://www.ensonhaber.com/gelibolu-tarihi-alan-baskanligindaki-kamu-zarari-sorusturmasinda-yeni-detaylar-h1586421"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/diger-branslar/haber/3680136-bursali-sporcular-avrupayi-salladi-9-madalya-ile-donduler",
    "https://spor.haber7.com/sampiyonlar-ligi/haber/3680137-sampiyonlar-liginde-haftanin-11i-belli-oldu",
    "https://www.haber7.com/guncel/haber/3680138-cumhurbaskani-yardimcisi-yilmazdan-son-dakika-secim-aciklamasi",
    "https://spor.haber7.com/spor/haber/3680139-gurcistan-polisi-haddini-asti-filistin-bayragi-acan-taraftara-mudahale",
@@ -1391,7 +1390,8 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680583-merkez-bankasi-acikladi-fon-cikislari-yavasladi",
    "https://www.haber7.com/guncel/haber/3680585-gokceada-ve-bozcaada-feribot-seferleri-iptal-edildi",
    "https://www.haber7.com/kitap/haber/3680584-istanbulun-tarihine-isik-tutan-calisma-antikcagdan-xxi-yuzyila-buyuk-istanbul-tarihi",
-   "https://www.haber7.com/medya/haber/3680586-asiyede-gercege-yaklasiyor-duyduklari-karsisinda-ne-yapacak"
+   "https://www.haber7.com/medya/haber/3680586-asiyede-gercege-yaklasiyor-duyduklari-karsisinda-ne-yapacak",
+   "https://www.haber7.com/otomobil/haber/3673817-arabalarda-bir-devir-kapaniyor-100-yillik-parca-tarihe-karisiyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2318,8 +2318,6 @@
   ]
  },
  "recent_titles": [
-  "istanbulda durdurulan araçta kalaşnikof çıktı",
-  "ünlülere yönelik uyuşturucu soruşturmasında dj burak yeter gözaltında",
   "gençliğin en büyük eksikliği sabır",
   "borsa güne yükselişle başladı",
   "duran duranın gitaristi andy taylor hayatını kaybetti",
@@ -3817,6 +3815,8 @@
   "istanbulun tarihine ışık tutan çalışma antikçağdan xxi yüzyıla büyük istanbul tarihi",
   "hakan fidan filistin bizim için en önemli ahlaki pusula",
   "asiyede gerçeğe yaklaşıyor duydukları karşısında ne yapacak",
-  "bakan gürlekten fon açıklaması kısa sürede diyerek duyurdu"
+  "bakan gürlekten fon açıklaması kısa sürede diyerek duyurdu",
+  "arabalarda bir devir kapanıyor 100 yıllık parça tarihe karışıyor",
+  "gelibolu tarihi alan başkanlığındaki kamu zararı soruşturmasında yeni detaylar"
  ]
 }
