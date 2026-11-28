@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/yasam/haber/3680040-istanbulun-burnunun-dibinde-koye-yerlesene-1-milyon-lira-verilecek",
-   "https://www.haber7.com/guncel/haber/3680052-istanbulda-kimsenin-bilmedigi-cadde-ayasofyanin-altindan-cikti-tarihi-yeniden-yazacak",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680051-rusya-turkiye-ile-ortakligi-gelistirmeye-haziriz",
    "https://www.haber7.com/guncel/haber/3680053-suresiz-nafaka-duzenlemesinde-yeni-formul-hakime-genis-yetki-taninacak",
    "https://www.haber7.com/3sayfa/haber/3680054-tekirdagda-trafik-kavgasinin-faturasi-agir-oldu-640-bin-lira-ceza-kesildi",
    "https://spor.haber7.com/spor/haber/3680057-sampiyonlar-liginde-fenerbahce-galatasaray-derbisi-ihtimali-tarihte-bir-ilk-yasanabilir",
@@ -1391,7 +1388,10 @@
    "https://ekonomi.haber7.com/ekonomi/haber/3680494-resmi-gazetede-yayimlandi-vergi-yuzde-1-olarak-devam-edecek",
    "https://ekonomi.haber7.com/ekonomi/haber/3680493-spk-duyurdu-26-fon-yeniden-isleme-aciliyor",
    "https://www.haber7.com/seyahat/haber/3680495-aralik-ayinda-gezilecek-yerler-turkiyenin-en-guzel-10-rotasi",
-   "https://www.haber7.com/guncel/haber/3680496-kartalin-pencesi-vicdanin-ve-gazzenin-zaferi"
+   "https://www.haber7.com/guncel/haber/3680496-kartalin-pencesi-vicdanin-ve-gazzenin-zaferi",
+   "https://www.haber7.com/dunya/haber/3680497-suudi-arabistanin-harec-bolgesinde-kritik-hamle",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680498-altin-icin-carpici-tahmin-resmen-tarih-verdiler",
+   "https://www.haber7.com/guncel/haber/3680500-antalyadan-papaya-554-yillik-zincirimizi-geri-verin-mektubu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2296,9 +2296,6 @@
   ]
  },
  "recent_titles": [
-  "rapor için gittikleri doktoru dövdüler",
-  "batı avrupada grev fransa ve ingiltere arasında hızlı tren seferleri iptal edildi",
-  "iyi partide istifa depremi belediye başkanı sait korgan bağımsız devam edecek",
   "adanada tartıştığı kişiyi sokak ortasında vurdu",
   "mısırda petrol ürünleri taşıyan tankerde yangın 30 ölü",
   "abdden netanyahuya son dakika uyarısı",
@@ -3795,6 +3792,9 @@
   "abdde 2 uçak taksi yaptıkları esnada çarpıştı",
   "kartalın pençesi vicdanın ve gazzenin zaferi",
   "suudi arabistanın harec bölgesinde kritik hamle",
-  "altın için çarpıcı tahmin resmen tarih verdiler"
+  "altın için çarpıcı tahmin resmen tarih verdiler",
+  "antalyadan papaya 554 yıllık zincirimizi geri verin mektubu",
+  "polonyada gündem olan görüntü maçın ortasında sahaya scooterla girdi",
+  "suriye haritası 3e bölündü israil televizyonunda sinsi planı paylaştılar"
  ]
 }
