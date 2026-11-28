@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/murat-kurum-duyurdu-izmir-korfezinde-dip-camuru-temizligi-basliyor-h1585799",
    "https://www.ensonhaber.com/turkiye-pakistan-ve-suudi-arabistandan-islamabadda-savunma-ittifaki-zirvesi-h1585800",
    "https://www.ensonhaber.com/duran-duranin-gitaristi-andy-taylor-65-yasinda-hayatini-kaybetti-h1585801",
    "https://www.ensonhaber.com/ozge-ulusoydan-yeni-tavsiye-her-sabah-yapiyorum-h1585802",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/spkdan-55-milyon-liralik-ceza-116-kisi-ve-kurulusa-islem-yasagi-h1586291",
    "https://www.ensonhaber.com/kartal-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-h1586292",
    "https://www.ensonhaber.com/kassoum-ouattaranin-filistine-destegi-gazzede-duvara-tasindi-h1586293",
-   "https://www.ensonhaber.com/hatayda-canli-yayinda-sehitlere-kufreden-supheli-tutuklandi-h1586294"
+   "https://www.ensonhaber.com/hatayda-canli-yayinda-sehitlere-kufreden-supheli-tutuklandi-h1586294",
+   "https://www.ensonhaber.com/denizlide-bosanmak-istemeyen-kocasini-eve-cagirdigi-arkadaslarina-oldurttu-h1586295"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,7 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://spor.haber7.com/ikinci-lig/haber/3680031-1-ligde-haftanin-hakemleri-aciklandi",
    "https://www.haber7.com/3sayfa/haber/3680032-eren-kasikcinin-otopsi-raporu-cikti-olum-nedeni-belli-oldu",
    "https://ekonomi.haber7.com/ekonomi/haber/3680034-ajetten-yurt-disi-ucuslara-yuzde-20-indirim-kampanya-icin-son-tarih-aciklandi",
    "https://www.haber7.com/otomobil/haber/3680036-aman-dikkat-arabasini-2-gunde-bir-calistirmayana-18-bin-lira-masraf-cikacak",
@@ -1391,7 +1390,8 @@
    "https://www.haber7.com/guncel/haber/3680465-camura-saplanan-minibusun-surucusu-gozyaslarini-tutamadi",
    "https://www.haber7.com/guncel/haber/3680466-meteorolojiden-firtina-uyarisi",
    "https://www.haber7.com/guncel/haber/3680290-sehitlere-hakaret-eden-supheli-tutuklandi",
-   "https://www.haber7.com/seyahat/haber/3680467-duzcede-kis-masali-topuk-yaylasi-beyaza-burundu"
+   "https://www.haber7.com/seyahat/haber/3680467-duzcede-kis-masali-topuk-yaylasi-beyaza-burundu",
+   "https://www.haber7.com/siyaset/haber/3680468-chpdeki-anketten-ak-parti-birinci-cikti-yeni-partide-isler-tersine-dondu"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2288,9 +2288,6 @@
   ]
  },
  "recent_titles": [
-  "bu kermes çok farklı eski bağımlılar kurtuluş arayan bağımlılar için gönüllü çalışıyor",
-  "mossadın eski başkanı almanyada protesto edildi savaş suçlususun diye bağırdı",
-  "beşiktaş sakatlığı bulunan oyunculara ilişkin açıklama yaptı",
   "israilin yeni meclisinden ezan kararı ben gvir salondan atıldı çılgına döndüler",
   "trump destekçilerinin yüzde 78i israile destek azalsın istiyor",
   "anderson taliscadan al jazirada harika gol",
@@ -3787,6 +3784,9 @@
   "şehitlere hakaret eden şüpheli tutuklandı",
   "düzcede kış masalı topuk yaylası beyaza büründü",
   "kassoum ouattaranın filistine desteği gazzede duvara taşındı",
-  "hatayda canlı yayında şehitlere küfreden şüpheli tutuklandı"
+  "hatayda canlı yayında şehitlere küfreden şüpheli tutuklandı",
+  "chpdeki anketten ak parti birinci çıktı yeni partide işler tersine döndü",
+  "denizlide boşanmak istemeyen kocasını eve çağırdığı arkadaşlarına öldürttü",
+  "tcmb fintlixin faaliyet iznini iptal etti"
  ]
 }
