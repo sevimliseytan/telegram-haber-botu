@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/yeni-suzuki-ignis-tanitildi-artik-tamamen-elektrikli-h1585869",
    "https://www.ensonhaber.com/abnin-en-kritik-zirvesi-basladi-butce-ve-ukrayna-konusu-masada-h1585870",
    "https://www.ensonhaber.com/mgk-cumhurbaskani-erdogan-baskanliginda-toplandi-57695-h1585871",
    "https://www.ensonhaber.com/rusyada-abye-uyari-ukraynaya-maddi-destegini-surmesi-baris-sureci-icin-iyi-olmayacak-h1585872",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/muhammed-salah-yanlislikla-cska-sofya-otobusune-bindi-h1586364",
    "https://www.ensonhaber.com/altan-tan-erdogana-yarayacaksa-baris-bile-istemiyorlar-h1586365",
    "https://www.ensonhaber.com/asgari-ucret-maratonu-icin-geri-sayim-basladi-h1586366",
-   "https://www.ensonhaber.com/istanbul-avcilarda-ayni-noktada-yasanan-kazalara-mahalleliden-tepki-h1586367"
+   "https://www.ensonhaber.com/istanbul-avcilarda-ayni-noktada-yasanan-kazalara-mahalleliden-tepki-h1586367",
+   "https://www.ensonhaber.com/istanbulda-trafikte-kavga-eden-iki-surucuye-183-bin-965-lira-ceza-h1586368"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,9 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-gozler-yazili-aciklamada",
-   "https://www.haber7.com/guncel/haber/3680044-yilin-son-mgk-toplantisi-sona-erdi-9-maddelik-yazili-aciklama",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680092-altinin-kilogram-fiyati-6-milyon-liraya-dustu",
    "https://www.haber7.com/dunya/haber/3680093-kagit-gibi-savrulan-kopruden-gecmek-isteyen-turistin-inadi-pes-dedirtti",
    "https://www.haber7.com/guncel/haber/3680094-pendikte-alkollu-ve-ehliyetsiz-surucu-polis-aracina-carpti-olay-ani-kamerada",
    "https://www.haber7.com/aydin/3680095-aydinda-operasyon-uzerinde-1100-sentetik-hap-ile-yakalandi",
@@ -1391,7 +1388,10 @@
    "https://www.haber7.com/dunya/haber/3680534-letonyada-dehset-anlari-kamerada-raylarda-kosarken-trenle-burun-buruna-geldi",
    "https://www.haber7.com/siyaset/haber/3680535-yeniden-refah-partili-meclis-uyesi-ve-70-kisi-ak-partiye-katildi",
    "https://www.haber7.com/siyaset/haber/3680536-adaylik-iddialarina-carpici-cevap-abdullah-gulun-destekledigi-aday-erdogan",
-   "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday-erdogan"
+   "https://www.haber7.com/siyaset/haber/3680536-abdullah-gul-ile-ilgili-iddialara-carpici-cevap-destekledigi-aday-erdogan",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680538-turistik-erzurum-kars-bolgesel-treni-icin-bilet-satislari-basliyor",
+   "https://www.haber7.com/medya/haber/3680537-c-vitaminini-evde-hazirlamanin-puf-noktalari-feridun-kunakla-evlerinize-saglikta",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680539-irak-12-yildir-kapali-turkiye-petrol-boru-hattini-acmaya-hazirlaniyor"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2302,7 +2302,6 @@
   ]
  },
  "recent_titles": [
-  "artvinardanuç yolunda heyelan sürücü ölümden döndü",
   "fon soruşturmasında kritik gün üç isim saat 1900da konuşacak",
   "yeraltı dizisinde paşa ve çiğdemin öpüşme sahnesi tepki çekti",
   "altın fiyatları dip seviyede yatırımcılar dikkat",
@@ -3801,6 +3800,7 @@
   "c vitaminini evde hazırlamanın püf noktaları feridun kunakla evlerinize sağlıkta",
   "irak 12 yıldır kapalı türkiye petrol boru hattını açmaya hazırlanıyor",
   "abdullah gül ile ilgili iddialara çarpıcı cevap desteklediği aday erdoğan",
-  "istanbul avcılarda aynı noktada yaşanan kazalara mahalleliden tepki"
+  "istanbul avcılarda aynı noktada yaşanan kazalara mahalleliden tepki",
+  "istanbulda trafikte kavga eden iki sürücüye 183 bin 965 lira ceza"
  ]
 }
