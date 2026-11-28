@@ -253,7 +253,6 @@
    "https://www.haberturk.com/spor/unai-emery-den-hakem-tepkisi-3929889"
   ],
   "https://www.ensonhaber.com/rss/ensonhaber.xml": [
-   "https://www.ensonhaber.com/2027nin-sansli-burcu-belli-uzerine-para-yagacak-h1585901",
    "https://www.ensonhaber.com/topladigi-coplerden-ev-yapti-simdi-turistleri-agirliyor-h1585902",
    "https://www.ensonhaber.com/mhk-baskani-anthony-taylor-hakem-kararlarini-degerlendirdi-galatasaray-ve-besiktas-h1585903",
    "https://www.ensonhaber.com/derya-ulugun-gelinligi-gundem-oldu-680-bin-tl-h1585904",
@@ -752,7 +751,8 @@
    "https://www.ensonhaber.com/israilin-saldirilarinda-babasini-ve-kardesini-kaybeden-filistinli-cocuk-vurularak-yaraland-h1586396",
    "https://www.ensonhaber.com/corumda-10-binden-fazla-kitap-okudu-evini-kutuphaneye-cevirdi-h1586397",
    "https://www.ensonhaber.com/kocaelide-feci-kaza-iki-kamyon-arasinda-kalarak-can-verdi-h1586398",
-   "https://www.ensonhaber.com/hapoel-beer-shevali-taraftar-besiktaslilara-atki-gosterince-gerginlik-yasandi-h1586399"
+   "https://www.ensonhaber.com/hapoel-beer-shevali-taraftar-besiktaslilara-atki-gosterince-gerginlik-yasandi-h1586399",
+   "https://www.ensonhaber.com/istiklal-caddesindeki-goruntuleri-gundem-olmustu-istiklalin-gulu-konustu-h1586400"
   ],
   "https://www.sozcu.com.tr/feeds-son-dakika": [
    "384133",
@@ -892,10 +892,6 @@
    "https://www.haber7.com/haber.php?haber_id=3679507"
   ],
   "http://sondakika.haber7.com/sondakika.rss": [
-   "https://www.haber7.com/guncel/haber/3680119-fon-sorusturmasinda-yeni-donem-cevdet-yilmaz-son-dakika-duyurdu",
-   "https://ekonomi.haber7.com/ekonomi/haber/3680120-borsa-gunu-yukselisle-tamamladi-iste-en-cok-kazandiran",
-   "https://www.haber7.com/guncel/haber/3680121-dijital-vatandaslik-projesiyle-bagcilar-belediyesine-altin-karinca-odulu",
-   "https://www.haber7.com/guncel/haber/3680122-5-uluslararasi-stk-fuari-istanbul-fuar-merkezinde-kapilarini-acti",
    "https://www.haber7.com/guncel/haber/3680119-fon-sorusturmasinda-yeni-donem-cevdet-yilmaz-son-dakika-duyurdu-yarin-odenecek",
    "https://www.haber7.com/guncel/haber/3680123-baskan-altay-vefa-umresi-ile-kutsal-topraklara-giden-gaziyi-evinde-ziyaret-etti",
    "https://spor.haber7.com/uefa-avrupa-ligi/haber/3680116-besiktas-hapoel-beer-sheva-ilk-11ler-belli-oldu",
@@ -1391,7 +1387,11 @@
    "https://spor.haber7.com/besiktas/haber/3680567-besiktas-galatasaray-derbisinde-15-futbolcu-ilki-yasayabilir",
    "https://ekonomi.haber7.com/ekonomi/haber/3680568-20-dakikalik-yol-5-dakikaya-dustu-boyabat-cevre-yolu-hizmete-acildi",
    "https://spor.haber7.com/spor/haber/3680569-muhammed-salah-yanlislikla-rakip-takimin-otobusune-bindi",
-   "https://www.haber7.com/guncel/haber/3680557-para-aklama-sorusturmasinda-ozgur-ozel-ve-4-milletvekili-hakkinda-yeni-karar"
+   "https://www.haber7.com/guncel/haber/3680557-para-aklama-sorusturmasinda-ozgur-ozel-ve-4-milletvekili-hakkinda-yeni-karar",
+   "https://www.haber7.com/dunya/haber/3680570-afganistanda-korkunc-patlama-7-olu-97-yarali",
+   "https://www.haber7.com/guncel/haber/3680571-antalyada-kan-donduran-olay-olmeden-once-katilinin-adini-verdi",
+   "https://ekonomi.haber7.com/ekonomi/haber/3680572-asgari-ucret-maratonu-icin-geri-sayim-basladi",
+   "https://www.haber7.com/guncel/haber/3680573-insan-yasadigi-muddetce-talebedir-ilim-yayma-cemiyetinde-ogrencilerle-sohbetimiz"
   ],
   "https://www.ensonhaber.com/rss/gundem.xml": [
    "https://www.ensonhaber.com/donald-trumpin-paylasimlarini-ilk-goruntulemek-isteyenler-para-odeyecek-h1550453",
@@ -2311,9 +2311,6 @@
   ]
  },
  "recent_titles": [
-  "uyuşturucu operasyonunda ceylan kaya tutuklandı işte serbest kalan isimler",
-  "2008 krizini bilen burryden dikkat çeken nasdaq hamlesi",
-  "shakhtar donetsk galibiyeti fenerbahçenin kasasını doldurdu",
   "batı medyası ukraynaya asker gönderilmesi fransada krize yol açtı",
   "prens williamın evine hırsız girdi çalınan eşyalar ortaya çıktı",
   "ankarada fetö firarisi 3 hükümlü yakalandı",
@@ -3810,6 +3807,9 @@
   "para aklama soruşturmasında özgür özel ve 4 milletvekili hakkında yeni karar",
   "antalyada kan donduran olay ölmeden önce katilinin adını verdi",
   "insan yaşadığı müddetçe talebedir ilim yayma cemiyetinde öğrencilerle sohbetimiz",
-  "gürcistanda gerginlik hapoel beershevalı taraftar beşiktaşlılar arasında atkı açtı"
+  "gürcistanda gerginlik hapoel beershevalı taraftar beşiktaşlılar arasında atkı açtı",
+  "istiklal caddesindeki görüntüleri gündem olmuştu istiklalin gülü konuştu",
+  "deprem enkazından yayılan tozlarda ağır metal mikroplastik ve asbest tespit edildi",
+  "bolu yedigöllerde mahsur kaldıktan sonra ulaşılan aracın güzergahı görüntülendi"
  ]
 }
